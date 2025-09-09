@@ -6,3 +6,4 @@ polars
 sqlite-utils
 feedgen
 pyyaml
+requests
