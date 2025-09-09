@@ -28,7 +28,7 @@ feeds:
     tags: [research, arxiv]
 
 # 任意: Nitter / RSSHub などのRSSをここに足す（不安定な場合あり）
-extra_rss:
+extra_rss: []
   # - name: OpenAI (Nitter)
   #   url: https://nitter.net/openai/rss
   #   tags: [social, x]
