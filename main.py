@@ -79,34 +79,37 @@ def upsert(rows):
     return new
 
 def tidy_and_export():
+    import json, csv
     con = sqlite3.connect(DB)
-    df = pl.read_database("SELECT * FROM items ORDER BY published DESC", con)
+    cur = con.cursor()
+    cur.execute("SELECT source, title, url, published, summary FROM items ORDER BY published DESC")
+    rows = cur.fetchall()
     con.close()
 
-    # 最新 1000 件だけを対象に（古いものは残しつつ、出力を軽量化）
-    df_recent = df.head(1000)
+    # 最新 1000 件だけを対象
+    rows_recent = rows[:1000]
 
     # index.md（最新200件）
     lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
-    for r in df_recent.head(200).iter_rows(named=True):
-        date = r["published"][:16].replace("T"," ")
-        title = r["title"]
-        url = r["url"] or ""
-        source = r["source"]
-        summary = r["summary"] or ""
-        lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_\n  - {summary[:160]}")
-    (BASE/"index.md").write_text("\n".join(lines), encoding="utf-8")
+    for source, title, url, published, summary in rows_recent[:200]:
+        date = (published or "")[:16].replace("T"," ")
+        lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_\n  - { (summary or '')[:160] }")
+    (BASE / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
     # JSON / CSV スナップショット
-today = dt.datetime.now().strftime("%Y%m%d")
-# polarsの古い版でも確実に動く：辞書配列にして保存
-import json as _json
-(DATA / f"snapshot_{today}.json").write_text(
-    _json.dumps(df_recent.to_dicts(), ensure_ascii=False, indent=2),
-    encoding="utf-8"
-)
-df_recent.write_csv(DATA / f"snapshot_{today}.csv")
+    today = dt.datetime.now().strftime("%Y%m%d")
+    dicts = [
+        {"source": s, "title": t, "url": u, "published": p, "summary": (sn or "")}
+        for (s, t, u, p, sn) in rows_recent
+    ]
+    (DATA / f"snapshot_{today}.json").write_text(
+        json.dumps(dicts, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
+    with open(DATA / f"snapshot_{today}.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["source","title","url","published","summary"])
+        w.writeheader()
+        w.writerows(dicts)
 
     # RSS 出力（最新150件）
     fg = FeedGenerator()
@@ -114,16 +117,18 @@ df_recent.write_csv(DATA / f"snapshot_{today}.csv")
     fg.link(href="https://example", rel="alternate")
     fg.description("Multiple sources → daily curated feed")
     fg.language("ja")
-    for r in df_recent.head(CFG["output"].get("rss_max_items",150)).iter_rows(named=True):
+    max_items = CFG["output"].get("rss_max_items", 150)
+    for item in dicts[:max_items]:
         fe = fg.add_entry()
-        fe.title(r["title"] or "(no title)")
-        fe.link(href=r["url"] or "")
-        fe.description(r["summary"] or "")
+        fe.title(item["title"] or "(no title)")
+        fe.link(href=item["url"] or "")
+        fe.description(item["summary"] or "")
         try:
-            fe.pubDate(dp.parse(r["published"]))
+            fe.pubDate(dp.parse(item["published"]))
         except Exception:
             pass
-    fg.rss_file(DATA/"feed.xml")
+    fg.rss_file(DATA / "feed.xml")
+
 
 def main():
     init_db()
