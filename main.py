@@ -98,9 +98,15 @@ def tidy_and_export():
     (BASE/"index.md").write_text("\n".join(lines), encoding="utf-8")
 
     # JSON / CSV スナップショット
-    today = dt.datetime.now().strftime("%Y%m%d")
-    (DATA/f"snapshot_{today}.json").write_text(df_recent.write_json(row_oriented=True), encoding="utf-8")
-    df_recent.write_csv(DATA/f"snapshot_{today}.csv")
+today = dt.datetime.now().strftime("%Y%m%d")
+# polarsの古い版でも確実に動く：辞書配列にして保存
+import json as _json
+(DATA / f"snapshot_{today}.json").write_text(
+    _json.dumps(df_recent.to_dicts(), ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)
+df_recent.write_csv(DATA / f"snapshot_{today}.csv")
+
 
     # RSS 出力（最新150件）
     fg = FeedGenerator()
