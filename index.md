@@ -1,5 +1,15 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-09 15:00** · **[Adapting to new threats with proactive risk management](https://www.technologyreview.com/2025/09/09/1123083/adapting-to-new-threats-with-proactive-risk-management/)** — _MIT Technology Review (All)_
+  - In July 2024, a botched update to the software defenses managed by cybersecurity firm CrowdStrike caused more than 8 million Windows systems to fail. From hospi
+- **2025-09-09 12:10** · **[The Download: meet our AI innovators, and what happens when therapists use AI covertly](https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/)** — _MIT Technology Review (All)_
+  - This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the AI honorees o
+- **2025-09-09 09:00** · **[Help! My therapist is secretly using ChatGPT](https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/)** — _MIT Technology Review (All)_
+  - In Silicon Valley’s imagined future, AI models are so empathetic that we’ll use them as therapists. They’ll provide mental-health care for millions, unimpeded b
+- **2025-09-09 09:00** · **[AI is changing the grid. Could it help more than it harms?](https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/)** — _MIT Technology Review (All)_
+  - The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data cen
+- **2025-09-09 09:00** · **[Three big things we still don’t know about AI’s energy burden](https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/)** — _MIT Technology Review (All)_
+  - Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in partic
 - **2025-09-09 04:00** · **[An Empirical Analysis of Discrete Unit Representations in Speech Language Modeling Pre-training](https://arxiv.org/abs/2509.05359)** — _arXiv cs.CL_
   - arXiv:2509.05359v1 Announce Type: new 
 Abstract: This paper investigates discrete unit representations in Speech Language Models (SLMs), focusing on optimizing 
@@ -585,13 +595,3 @@ Abstract: While inference-time scaling enables LLMs to carry out increasingly lo
 - **2025-09-09 04:00** · **[Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework](https://arxiv.org/abs/2509.05007)** — _arXiv cs.CL_
   - arXiv:2509.05007v2 Announce Type: replace-cross 
 Abstract: Large reasoning models (LRMs) have exhibited strong performance on complex reasoning tasks, with furt
-- **2025-09-08 12:10** · **[The Download: introducing our 35 Innovators Under 35 list for 2025](https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/)** — _MIT Technology Review (All)_
-  - This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: our 35 In
-- **2025-09-08 10:45** · **[Why basic science deserves our boldest investment](https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/)** — _MIT Technology Review (All)_
-  - In December 1947, three physicists at Bell Telephone Laboratories—John Bardeen, William Shockley, and Walter Brattain—built a compact electronic device using th
-- **2025-09-08 10:30** · **[How Yichao “Peak” Ji became a global AI app hitmaker](https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/)** — _MIT Technology Review (All)_
-  - Yichao “Peak” Ji is one of MIT Technology Review’s 2025 Innovators Under 35. Meet the rest of this year’s honorees.  When Yichao Ji—also known as “Peak”—appeare
-- **2025-09-05 12:10** · **[The Download: longevity myths, and sewer-cleaning robots](https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/)** — _MIT Technology Review (All)_
-  - This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Putin says organ trans
-- **2025-09-04 16:21** · **[Imagining the future of banking with agentic AI](https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/)** — _MIT Technology Review (All)_
-  - Agentic AI is coming of age. And with it comes new opportunities in the financial services sector. Banks are increasingly employing agentic AI to optimize proce
