@@ -1,0 +1,7 @@
+
+feedparser
+python-dateutil
+beautifulsoup4
+polars
+sqlite-utils
+feedgen

@@ -1,0 +1,42 @@
+
+timezone: "Asia/Tokyo"
+
+# ここに収集したいRSSをどんどん追加してOK
+feeds:
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss
+    tags: [company, genai]
+
+  - name: Google AI Blog
+    url: https://ai.googleblog.com/atom.xml
+    tags: [company, research]
+
+  - name: MIT Technology Review (All)
+    url: https://www.technologyreview.com/feed/
+    tags: [media]
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    tags: [media]
+
+  - name: TechCrunch AI
+    url: https://techcrunch.com/tag/artificial-intelligence/feed/
+    tags: [media]
+
+  - name: arXiv cs.CL
+    url: https://export.arxiv.org/rss/cs.CL
+    tags: [research, arxiv]
+
+# 任意: Nitter / RSSHub などのRSSをここに足す（不安定な場合あり）
+extra_rss:
+  # - name: OpenAI (Nitter)
+  #   url: https://nitter.net/openai/rss
+  #   tags: [social, x]
+
+keywords:
+  include: ["AI","人工知能","生成AI","GenAI","LLM","大規模言語モデル","RAG","fine-tuning","画像生成","音声生成","規制","benchmark","推論コスト"]
+  exclude: ["求人","クーポン","セール","advertisement"]
+
+output:
+  rss_max_items: 150
+  snapshot_keep_days: 30
