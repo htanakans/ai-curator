@@ -40,3 +40,41 @@ keywords:
 output:
   rss_max_items: 150
   snapshot_keep_days: 30
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/rss.xml
+    tags: [company, ml, huggingface]
+
+  - name: NVIDIA Technical Blog
+    url: https://developer.nvidia.com/blog/feed/
+    tags: [hardware, inference, nvidia]
+
+  - name: Adobe Firefly Blog
+    url: https://blog.adobe.com/en/publish/rss.xml?topic=firefly
+    tags: [creative, genai, adobe]
+
+  - name: Apple ML Research
+    url: https://machinelearning.apple.com/rss.xml
+    tags: [ml, research, apple]
+
+site_feeds:
+  - name: Mistral AI News
+    url: https://mistral.ai/news/
+    include: ["AI", "生成", "自動化", "エージェント", "LLM", "open weight"]
+    exclude: ["採用", "募集", "求人"]
+
+  - name: Cohere Blog
+    url: https://cohere.com/blog
+    include: ["AI", "生成", "RAG", "LLM", "エージェント", "NLP", "モデル"]
+    exclude: ["募集", "IR"]
+
+  - name: Autodesk News
+    url: https://www.autodesk.com/news/
+    include: ["AI", "自動化", "設計支援", "BIM", "CAD", "生成", "オートメーション"]
+    exclude: ["採用", "IR", "価格", "セール"]
+
+  - name: ダイテック（T-fas）ニュース
+    url: https://www.daitk.co.jp/news/
+    include: ["T-fas", "AI", "自動化", "BIM", "設計支援", "建築", "設備", "施工"]
+    exclude: ["採用", "求人", "セミナー", "IR"]
+
