@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-10 06:14** · **[安心安全な社会インフラ](https://www.mirait-one.com/solution/top-category/infrastructure/)** — _ミライト（Mirait One）ニュース_
+  - 
+- **2025-09-10 06:14** · **[老朽インフラ・BCP・災害対策](https://www.mirait-one.com/solution/issue/disaster/)** — _ミライト（Mirait One）ニュース_
+  - 
+- **2025-09-10 06:09** · **[September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI’s Contributions at MLCAD 2025](https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI’s-Contributions-at-MLCAD-2025/)** — _Sony AI News_
+  - 
+- **2025-09-10 06:09** · **[August 26, 2025 | Game AI Gaming Life at Sony AI Robotics Sony AI Sony AI’s Deep RL Team on Why the Hardest Problems Still Matter](https://ai.sony/blog/Sony-AI’s-Deep-RL-Team-on-Why-the-Hardest-Problems-Still-Matter/)** — _Sony AI News_
+  - 
 - **2025-09-10 05:49** · **[Announcements Anthropic Economic Index: Insights from Claude 3.7 Sonnet Mar 27, 2025](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)** — _Anthropic News_
   - 
 - **2025-09-10 05:49** · **[Education Introducing Claude for Education Apr 02, 2025](https://www.anthropic.com/news/introducing-claude-for-education)** — _Anthropic News_
@@ -505,15 +513,3 @@ Abstract: Multi-lingual ability transfer has become increasingly important for t
 - **2025-09-09 04:00** · **[Conversational Code Generation: a Case Study of Designing a Dialogue System for Generating Driving Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2410.09829)** — _arXiv cs.CL_
   - arXiv:2410.09829v3 Announce Type: replace 
 Abstract: Cyber-physical systems like autonomous vehicles are tested in simulation before deployment, using domain-sp
-- **2025-09-09 04:00** · **[GASE: Generatively Augmented Sentence Encoding](https://arxiv.org/abs/2411.04914)** — _arXiv cs.CL_
-  - arXiv:2411.04914v2 Announce Type: replace 
-Abstract: We propose a training-free approach to improve sentence embeddings leveraging test-time compute by applying
-- **2025-09-09 04:00** · **[Exploring the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal](https://arxiv.org/abs/2411.05665)** — _arXiv cs.CL_
-  - arXiv:2411.05665v2 Announce Type: replace 
-Abstract: This paper sheds light on the limitations of Large Language Models (LLMs) by rigorously evaluating their ab
-- **2025-09-09 04:00** · **[HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals](https://arxiv.org/abs/2411.07152)** — _arXiv cs.CL_
-  - arXiv:2411.07152v2 Announce Type: replace 
-Abstract: Task-Oriented Dialogue (TOD) systems assist users in completing tasks through natural language interactions
-- **2025-09-09 04:00** · **[Lessons from Studying Two-Hop Latent Reasoning](https://arxiv.org/abs/2411.16353)** — _arXiv cs.CL_
-  - arXiv:2411.16353v3 Announce Type: replace 
-Abstract: Large language models can use chain-of-thought (CoT) to externalize reasoning, potentially enabling oversig
