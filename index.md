@@ -1,7 +1,189 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-10 05:29** · **[æ°´éDX](https://www.mirait-one.com/solution/issue/water-dx/)** — _ミライト（Mirait One）ニュース_
+  - 
+- **2025-09-10 05:29** · **[DXæ¨é²](https://www.mirait-one.com/solution/issue/dx-implementation/)** — _ミライト（Mirait One）ニュース_
+  - 
+- **2025-09-10 05:29** · **[èªæ²»ä½DXæ¨é²](https://www.mirait-one.com/solution/issue/government-dx/)** — _ミライト（Mirait One）ニュース_
+  - 
+- **2025-09-10 05:29** · **[ãã¸ã¿ã«ãã©ã³ã¹ ãã©ã¼ã¡ã¼ã·ã§ã³ï¼DXï¼](https://www.mirait-one.com/solution/top-category/dx/)** — _ミライト（Mirait One）ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.07.14 AIと一緒に作る！農薬散布ドローン自律航行システムの開発体験記 エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。AIの力を借りた、農薬散布ドローンの自律航行システムの開発体験を紹介します。](https://renue.co.jp/posts/drone)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.06.20 Python×AI×交通ナビで社会貢献！SmoothNav開発ストーリー 〜未経験から始めるAIエンジニアへの道〜 エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。社会に役立つ交通ナビの開発体験を、未経験からAIエンジニアを目指す方に向けてご紹介します。](https://renue.co.jp/posts/AI-engineer)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.06.17 AIと創る鉄道の未来：東海道新幹線運行シミュレーション開発の全貌とAIとのペアプログラミング道 エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。AI搭載開発ツールCursorとペアプログラミングを行う上での対話術についてご紹介します。](https://renue.co.jp/posts/Cursor)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.06.09 【第5回】デジタル化・DX推進展に図面AI・積算AI等を出展いたしました 2025年6月に東京ビッグサイトで開催された「【第5回】デジタル化・DX推進展」に出展いたしました。](https://renue.co.jp/posts/DX)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.05.27 【製造・建設業界向け】図面読み取り〜活用を一気通貫「renue 図面管理・活用AIソリューション」提供開始 ｜株式会社renue（リノイ） この記事はPRTimesにて配信されました](https://renue.co.jp/posts/cZCbiLbd)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.05.26 Forbes JAPAN様に取材頂きました。 ｜株式会社renue 弊社代表の山本より、「若き起業家が提供するCAD生成AIが日本のものづくりに風穴をあける」としてお話をさせて頂いております。](https://renue.co.jp/posts/Z_Kwijti)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[2025.04.30 「Japan IT Week 春 2025」に図面AI・積算AIを出展いたしました 2025年4月に東京ビッグサイトで開催された「Japan IT Week 春 2025」に出展いたしました。](https://renue.co.jp/posts/japan-it-week)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[新規事業・AI開発](https://renue.co.jp/services/new-business-ai)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[図面AI/積算AI](https://renue.co.jp/services/drawing-ai)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[AI人材育成・常駐派遣](https://renue.co.jp/services/ai-training)** — _renue ニュース_
+  - 
+- **2025-09-10 05:29** · **[自動化施工システム「A 4 CSEL」　4機種連携により盛土の一連作業を自動化](202506/20c1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[道路橋の床版更新における設計業務時間を10分の1に　3Dモデル自動生成システムを開発](202502/27c1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[自動化施工システム「A 4 CSEL ® 」の普及展開を見据え、建設会社との連携を試行](202502/6c1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[羽田イノベーションシティにて到達範囲の広い電波規格「Wi-SUN FAN」によるロボット遠隔誘導の実証実験に成功](202501/22a1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[車や人との衝突を未然に防ぐ　道路横断におけるロボットの自動制御に成功](202501/10a1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[自動化施工システム「A 4 CSEL」　造成工事への本格適用を開始](202412/24c1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[CSGの締固め品質管理手法「Geo-DX Compaction TM 」を成瀬ダムに導入し、試験要員を7割削減](202412/19c1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[資機材自動搬送ロボットを開発](202412/pdf/17a1-j.pdf)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[柱一本を全自動で溶接　新型のマニピュレータ型現場溶接ロボットを実導入](202411/11a1-j.htm)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[大規模複合施設「HANEDA INNOVATION CITY ® 」グランドオープン1 周年記念イベント「あわい-awai 2024-」詳細決定](202410/pdf/18a1-j.pdf)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:29** · **[大規模複合施設「HANEDA INNOVATION CITY ® 」グランドオープン1 周年記念イベント「あわい-awai 2024-」開催決定](202409/pdf/27a1-j.pdf)** — _鹿島建設 プレス_
+  - 
+- **2025-09-10 05:28** · **[North NEW An enterprise-ready AI platform that powers modern workplace productivity](https://cohere.com/north)** — _Cohere Blog_
+  - 
+- **2025-09-10 05:28** · **[Security Best-in-class AI security and data protection](https://cohere.com/security)** — _Cohere Blog_
+  - 
+- **2025-09-10 05:28** · **[LLM University](https://cohere.com/llmu)** — _Cohere Blog_
+  - 
+- **2025-09-10 05:28** · **[Borderless AI](https://cohere.com/customer-stories/borderless-ai)** — _Cohere Blog_
+  - 
+- **2025-09-10 05:28** · **[September  9, 2025 | Sony AI Advancing Analog Design with AI: Sony AIâs Contributions at MLCAD 2025](https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AIâs-Contributions-at-MLCAD-2025/)** — _Sony AI News_
+  - 
+- **2025-09-10 05:28** · **[September  5, 2025 | Sony AI Advancing AI: Highlights from August](https://ai.sony/blog/Advancing-AI-Highlights-from-August/)** — _Sony AI News_
+  - 
+- **2025-09-10 05:28** · **[August 26, 2025 | Game AI Gaming Life at Sony AI Robotics Sony AI Sony AIâs Deep RL Team on Why the Hardest Problems Still Matter](https://ai.sony/blog/Sony-AIâs-Deep-RL-Team-on-Why-the-Hardest-Problems-Still-Matter/)** — _Sony AI News_
+  - 
+- **2025-09-10 05:28** · **[The Team Behind GT Sophy - Part3 All of the training and preparation comes to a head in the third and final installment of Sony AIâs new video series,
+                âThe Team Behind GT Sophy.â In this episode, the AI racing agent GT Sophy gets a rematch against the worldâs best
+                esports champions in a rematch after falling short in its initial face off.](https://www.youtube.com/watch?v=zdMz-lDh-QE)** — _Sony AI News_
+  - 
+- **2025-09-10 05:28** · **[The Team Behind GT Sophy - Part2 Sony AI is proud to share the second installment of our new video series, âThe Team Behind GT Sophy.â
+                  In this episode
+                  the team at Sony AI take the racing agent they have trained to play âGran Turismoâ and put it the
+                  ultimate test. At the
+                  April 2021 Race Together event, GT Sophy would face off against some of the finest human âGran
+                  Turismoâ players in the
+                  world. Had the team taught their AI racer to master the skills required to hold their own against the
+                  champions of
+                  esports?](https://www.youtube.com/watch?v=hsp7v5FC_6s)** — _Sony AI News_
+  - 
+- **2025-09-10 05:28** · **[People Learn more about Sony AI and the type of people we are looking for to join our team](https://www.youtube.com/watch?v=NhaDzRmyTHg)** — _Sony AI News_
+  - 
+- **2025-09-10 05:28** · **[Skip to main content](#main-content)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Try Claude](https://claude.ai/)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Claude Opus 4.1 Our most powerful model for handling complex agent and coding tasks Aug 05, 2025](https://www.anthropic.com/news/claude-opus-4-1)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Anthropic raises $13B Series F at $183B post-money valuation Sep 02, 2025](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Policy Thoughts on America’s AI Action Plan Jul 23, 2025](https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude for Financial Services Helping finance professionals analyze markets, conduct research, and make investment decisions. Jul 15, 2025](https://www.anthropic.com/news/claude-for-financial-services)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude can now create and edit files Sep 09, 2025](https://www.anthropic.com/news/create-files)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Anthropic Signs White House Pledge to America's Youth: Investing in AI Education Sep 04, 2025](https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Detecting and countering misuse of AI: August 2025 Aug 27, 2025](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Societal Impacts Anthropic Education Report: How educators use Claude Aug 27, 2025](https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Piloting Claude for Chrome Aug 26, 2025](https://www.anthropic.com/news/claude-for-chrome)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Anthropic launches higher education advisory board and AI Fluency courses Aug 21, 2025](https://www.anthropic.com/news/anthropic-higher-education-initiatives)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Developing nuclear safeguards for AI through public-private partnership Aug 21, 2025](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude Code and new admin controls for business plans Aug 20, 2025](https://www.anthropic.com/news/claude-code-on-team-and-enterprise)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude Sonnet 4 now supports 1M tokens of context Aug 12, 2025](https://www.anthropic.com/news/1m-context)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Building safeguards for Claude Aug 12, 2025](https://www.anthropic.com/news/building-safeguards-for-claude)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Offering expanded Claude access across all three branches of the U.S. government Aug 12, 2025](https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Automate security reviews with Claude Code Aug 6, 2025](https://www.anthropic.com/news/automate-security-reviews-with-claude-code)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Federal government departments and agencies can now purchase Claude through the GSA schedule Aug 05, 2025](https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Case Study How Anthropic teams use Claude Code Jul 24, 2025](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research Jul 23, 2025](https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Policy Build AI in America Jul 21, 2025](https://www.anthropic.com/news/build-ai-in-america)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Alignment Investing in energy to secure America's AI future Jul 15, 2025](https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Discover tools that work with Claude Jul 14, 2025](https://www.anthropic.com/news/connectors-directory)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Anthropic and the Department of Defense to advance responsible AI in defense operations Jul 14, 2025](https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Advancing Claude for Education Jul 09, 2025](https://www.anthropic.com/news/advancing-claude-for-education)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers Jul 09, 2025](https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Policy The need for transparency in Frontier AI Jul 07, 2025](https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[How people use Claude for support, advice, and companionship Jun 27, 2025](https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Build and share AI-powered apps with Claude Jun 25, 2025](https://www.anthropic.com/news/claude-powered-artifacts)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Turn ideas into interactive AI-powered apps Jun 25, 2025](https://www.anthropic.com/news/build-artifacts)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Remote MCP support in Claude Code Jun 18, 2025](https://www.anthropic.com/news/claude-code-remote-mcp)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads Jun 11, 2025](https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust Jun 7, 2025](https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Claude Gov models for U.S. national security customers Jun 06, 2025](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Policy Activating AI Safety Level 3 protections May 22, 2025](https://www.anthropic.com/news/activating-asl3-protections)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Introducing Claude 4 May 22, 2025](https://www.anthropic.com/news/claude-4)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Introducing Anthropic's AI for Science Program May 05, 2025](https://www.anthropic.com/news/ai-for-science-program)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude can now connect to your world May 01, 2025](https://www.anthropic.com/news/integrations)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Societal Impacts Anthropic Economic Index: AI’s impact on software development Apr 28, 2025](https://www.anthropic.com/research/impact-software-development)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Societal Impacts Detecting and countering malicious uses of Claude: March 2025 Apr 23, 2025](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Policy Our approach to understanding and addressing AI harms Apr 21, 2025](https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude takes research to new places Apr 15, 2025](https://www.anthropic.com/news/research)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Announcements Anthropic Education Report: How university students use Claude Apr 08, 2025](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Event Introducing Anthropic's first developer conference: Code with Claude Apr 3, 2025](https://www.anthropic.com/news/Introducing-code-with-claude)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Product Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized Apr 02, 2025](https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high)** — _Anthropic News_
+  - 
+- **2025-09-10 05:28** · **[Le Chat. Custom MCP connectors. Memories. Product September 2, 2025 Mistral AI Le Chat now integrates with 20+ enterprise platforms—powered by MCP—and remembers what matters with Memories.](https://mistral.ai/news/le-chat-mcp-connectors-memories)** — _Mistral AI News_
+  - 
+- **2025-09-10 05:28** · **[AI solutions](https://mistral.ai/solutions)** — _Mistral AI News_
+  - 
+- **2025-09-09 17:00** · **[How to Connect Distributed Data Centers Into Large AI Factories with Scale-Across Networking](https://developer.nvidia.com/blog/how-to-connect-distributed-data-centers-into-large-ai-factories-with-scale-across-networking/)** — _NVIDIA Technical Blog_
+  - AI scaling is incredibly complex, and new techniques in training and inference are continually demanding more out of the data center. While data center...
 - **2025-09-09 15:00** · **[Adapting to new threats with proactive risk management](https://www.technologyreview.com/2025/09/09/1123083/adapting-to-new-threats-with-proactive-risk-management/)** — _MIT Technology Review (All)_
   - In July 2024, a botched update to the software defenses managed by cybersecurity firm CrowdStrike caused more than 8 million Windows systems to fail. From hospi
+- **2025-09-09 15:00** · **[NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut](https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/)** — _NVIDIA Technical Blog_
+  - As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the
+- **2025-09-09 15:00** · **[NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads](https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/)** — _NVIDIA Technical Blog_
+  - Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent...
 - **2025-09-09 12:10** · **[The Download: meet our AI innovators, and what happens when therapists use AI covertly](https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/)** — _MIT Technology Review (All)_
   - This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the AI honorees o
 - **2025-09-09 09:00** · **[Help! My therapist is secretly using ChatGPT](https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/)** — _MIT Technology Review (All)_
@@ -337,261 +519,3 @@ Abstract: The exponential growth of online textual content across diverse domain
 - **2025-09-09 04:00** · **[Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Hop Arithmetic Reasoning](https://arxiv.org/abs/2412.01113)** — _arXiv cs.CL_
   - arXiv:2412.01113v3 Announce Type: replace 
 Abstract: This study investigates the incremental, internal problem-solving process of language models (LMs) with ari
-- **2025-09-09 04:00** · **[Concept Bottleneck Large Language Models](https://arxiv.org/abs/2412.07992)** — _arXiv cs.CL_
-  - arXiv:2412.07992v4 Announce Type: replace 
-Abstract: We introduce Concept Bottleneck Large Language Models (CB-LLMs), a novel framework for building inherently 
-- **2025-09-09 04:00** · **[Process-Supervised Reward Models for Verifying Clinical Note Generation: A Scalable Approach Guided by Domain Expertise](https://arxiv.org/abs/2412.12583)** — _arXiv cs.CL_
-  - arXiv:2412.12583v3 Announce Type: replace 
-Abstract: Process-supervised reward models (PRMs) excel at providing step-by-step verification for large language mod
-- **2025-09-09 04:00** · **[Revealing the impact of synthetic native samples and multi-tasking strategies in Hindi-English code-mixed humour and sarcasm detection](https://arxiv.org/abs/2412.12761)** — _arXiv cs.CL_
-  - arXiv:2412.12761v2 Announce Type: replace 
-Abstract: In this paper, we reported our experiments with various strategies to improve code-mixed humour and sarcasm
-- **2025-09-09 04:00** · **[Knowledge Editing through Chain-of-Thought](https://arxiv.org/abs/2412.17727)** — _arXiv cs.CL_
-  - arXiv:2412.17727v2 Announce Type: replace 
-Abstract: Knowledge Editing is a technique that updates large language models (LLMs) with new information to maintain
-- **2025-09-09 04:00** · **[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](https://arxiv.org/abs/2501.01872)** — _arXiv cs.CL_
-  - arXiv:2501.01872v4 Announce Type: replace 
-Abstract: Large language models, despite extensive alignment with human values and ethical principles, remain vulnera
-- **2025-09-09 04:00** · **[OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking](https://arxiv.org/abs/2501.09751)** — _arXiv cs.CL_
-  - arXiv:2501.09751v3 Announce Type: replace 
-Abstract: Machine writing with large language models often relies on retrieval-augmented generation. However, these a
-- **2025-09-09 04:00** · **[Error Classification of Large Language Models on Math Word Problems: A Dynamically Adaptive Framework](https://arxiv.org/abs/2501.15581)** — _arXiv cs.CL_
-  - arXiv:2501.15581v2 Announce Type: replace 
-Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various domains. Math Word Pr
-- **2025-09-09 04:00** · **[Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions](https://arxiv.org/abs/2501.16748)** — _arXiv cs.CL_
-  - arXiv:2501.16748v3 Announce Type: replace 
-Abstract: Large Language Models (LLMs) have shown remarkable advancements but also raise concerns about cultural bias
-- **2025-09-09 04:00** · **[Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs](https://arxiv.org/abs/2502.02362)** — _arXiv cs.CL_
-  - arXiv:2502.02362v5 Announce Type: replace 
-Abstract: Chain-of-Thought (CoT) prompting enhances mathematical reasoning in large language models (LLMs) by enablin
-- **2025-09-09 04:00** · **[Position: LLMs Can be Good Tutors in English Education](https://arxiv.org/abs/2502.05467)** — _arXiv cs.CL_
-  - arXiv:2502.05467v2 Announce Type: replace 
-Abstract: While recent efforts have begun integrating large language models (LLMs) into English education, they often
-- **2025-09-09 04:00** · **[Reinforced Lifelong Editing for Language Models](https://arxiv.org/abs/2502.05759)** — _arXiv cs.CL_
-  - arXiv:2502.05759v4 Announce Type: replace 
-Abstract: Large language models (LLMs) acquire information from pre-training corpora, but their stored knowledge can 
-- **2025-09-09 04:00** · **[Improve LLM-as-a-Judge Ability as a General Ability](https://arxiv.org/abs/2502.11689)** — _arXiv cs.CL_
-  - arXiv:2502.11689v2 Announce Type: replace 
-Abstract: LLM-as-a-Judge leverages the generative and reasoning capabilities of large language models (LLMs) to evalu
-- **2025-09-09 04:00** · **[Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models](https://arxiv.org/abs/2502.15836)** — _arXiv cs.CL_
-  - arXiv:2502.15836v2 Announce Type: replace 
-Abstract: Large language models (LLMs) are trained using massive datasets, which often contain undesirable content su
-- **2025-09-09 04:00** · **[Evaluating the Robustness and Accuracy of Text Watermarking Under Real-World Cross-Lingual Manipulations](https://arxiv.org/abs/2502.16699)** — _arXiv cs.CL_
-  - arXiv:2502.16699v2 Announce Type: replace 
-Abstract: We present a study to benchmark representative watermarking methods in cross-lingual settings. The current 
-- **2025-09-09 04:00** · **[Low-Confidence Gold: Refining Low-Confidence Samples for Efficient Instruction Tuning](https://arxiv.org/abs/2502.18978)** — _arXiv cs.CL_
-  - arXiv:2502.18978v5 Announce Type: replace 
-Abstract: The effectiveness of instruction fine-tuning for Large Language Models is fundamentally constrained by the 
-- **2025-09-09 04:00** · **[PlainQAFact: Retrieval-augmented Factual Consistency Evaluation Metric for Biomedical Plain Language Summarization](https://arxiv.org/abs/2503.08890)** — _arXiv cs.CL_
-  - arXiv:2503.08890v2 Announce Type: replace 
-Abstract: Hallucinated outputs from large language models (LLMs) pose risks in the medical domain, especially for lay
-- **2025-09-09 04:00** · **[X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression](https://arxiv.org/abs/2503.11132)** — _arXiv cs.CL_
-  - arXiv:2503.11132v4 Announce Type: replace 
-Abstract: Multi-head latent attention (MLA) is designed to optimize KV cache memory through low-rank key-value joint 
-- **2025-09-09 04:00** · **[LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL](https://arxiv.org/abs/2503.18596)** — _arXiv cs.CL_
-  - arXiv:2503.18596v4 Announce Type: replace 
-Abstract: Schema linking is a critical bottleneck in applying existing Text-to-SQL models to real-world, large-scale,
-- **2025-09-09 04:00** · **[Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828)** — _arXiv cs.CL_
-  - arXiv:2503.22828v2 Announce Type: replace 
-Abstract: Generating high-quality stories spanning thousands of tokens requires competency across a variety of skills
-- **2025-09-09 04:00** · **[Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation](https://arxiv.org/abs/2504.03165)** — _arXiv cs.CL_
-  - arXiv:2504.03165v3 Announce Type: replace 
-Abstract: Retrieval-Augmented Generation (RAG) has emerged as a widely adopted approach for knowledge injection durin
-- **2025-09-09 04:00** · **[Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models](https://arxiv.org/abs/2504.03624)** — _arXiv cs.CL_
-  - arXiv:2504.03624v4 Announce Type: replace 
-Abstract: As inference-time scaling becomes critical for enhanced reasoning capabilities, it is increasingly becoming
-- **2025-09-09 04:00** · **[Advancing Scientific Text Classification: Fine-Tuned Models with Dataset Expansion and Hard-Voting](https://arxiv.org/abs/2504.19021)** — _arXiv cs.CL_
-  - arXiv:2504.19021v2 Announce Type: replace 
-Abstract: Efficient text classification is essential for handling the increasing volume of academic publications. Thi
-- **2025-09-09 04:00** · **[Assessing and Mitigating Medical Knowledge Drift and Conflicts in Large Language Models](https://arxiv.org/abs/2505.07968)** — _arXiv cs.CL_
-  - arXiv:2505.07968v3 Announce Type: replace 
-Abstract: Large Language Models (LLMs) have great potential in the field of health care, yet they face great challeng
-- **2025-09-09 04:00** · **[Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis](https://arxiv.org/abs/2505.14406)** — _arXiv cs.CL_
-  - arXiv:2505.14406v3 Announce Type: replace 
-Abstract: Large Language Models (LLMs), despite their remarkable capabilities, are hampered by hallucinations. A part
-- **2025-09-09 04:00** · **[Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes](https://arxiv.org/abs/2505.14815)** — _arXiv cs.CL_
-  - arXiv:2505.14815v2 Announce Type: replace 
-Abstract: Reasoning language models (RLMs) excel at complex tasks by leveraging a chain-of-thought process to generat
-- **2025-09-09 04:00** · **[VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models](https://arxiv.org/abs/2505.15727)** — _arXiv cs.CL_
-  - arXiv:2505.15727v2 Announce Type: replace 
-Abstract: The rapid advancement of large language models (LLMs) has accelerated the development of multimodal models 
-- **2025-09-09 04:00** · **[Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs](https://arxiv.org/abs/2505.17656)** — _arXiv cs.CL_
-  - arXiv:2505.17656v3 Announce Type: replace 
-Abstract: As large language models (LLMs) often generate plausible but incorrect content, error detection has become 
-- **2025-09-09 04:00** · **[Fast Quiet-STaR: Thinking Without Thought Tokens](https://arxiv.org/abs/2505.17746)** — _arXiv cs.CL_
-  - arXiv:2505.17746v2 Announce Type: replace 
-Abstract: Large Language Models (LLMs) have achieved impressive performance across a range of natural language proces
-- **2025-09-09 04:00** · **[Rhapsody: A Dataset for Highlight Detection in Podcasts](https://arxiv.org/abs/2505.19429)** — _arXiv cs.CL_
-  - arXiv:2505.19429v2 Announce Type: replace 
-Abstract: Podcasts have become daily companions for half a billion users. Given the enormous amount of podcast conten
-- **2025-09-09 04:00** · **[Self-Critique and Refinement for Faithful Natural Language Explanations](https://arxiv.org/abs/2505.22823)** — _arXiv cs.CL_
-  - arXiv:2505.22823v2 Announce Type: replace 
-Abstract: With the rapid development of Large Language Models (LLMs), Natural Language Explanations (NLEs) have becom
-- **2025-09-09 04:00** · **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Domain-Specific Structured Reasoning](https://arxiv.org/abs/2506.02019)** — _arXiv cs.CL_
-  - arXiv:2506.02019v2 Announce Type: replace 
-Abstract: Computational Fluid Dynamics (CFD) is essential for advancing scientific and engineering fields but is hind
-- **2025-09-09 04:00** · **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](https://arxiv.org/abs/2506.07642)** — _arXiv cs.CL_
-  - arXiv:2506.07642v2 Announce Type: replace 
-Abstract: While Large Language Models (LLMs) have shown significant potential in assisting peer review, current metho
-- **2025-09-09 04:00** · **[Persona-driven Simulation of Voting Behavior in the European Parliament with Large Language Models](https://arxiv.org/abs/2506.11798)** — _arXiv cs.CL_
-  - arXiv:2506.11798v2 Announce Type: replace 
-Abstract: Large Language Models (LLMs) display remarkable capabilities to understand or even produce political discou
-- **2025-09-09 04:00** · **[A Structured Dataset of Disease-Symptom Associations to Improve Diagnostic Accuracy](https://arxiv.org/abs/2506.13610)** — _arXiv cs.CL_
-  - arXiv:2506.13610v5 Announce Type: replace 
-Abstract: Disease-symptom datasets are significant and in demand for medical research, disease diagnosis, clinical de
-- **2025-09-09 04:00** · **[RADIANT: Retrieval AugmenteD entIty-context AligNmenT -- Introducing RAG-ability and Entity-Context Divergence](https://arxiv.org/abs/2507.02949)** — _arXiv cs.CL_
-  - arXiv:2507.02949v2 Announce Type: replace 
-Abstract: As Large Language Models (LLMs) continue to advance, Retrieval-Augmented Generation (RAG) has emerged as a 
-- **2025-09-09 04:00** · **[Dynamic Injection of Entity Knowledge into Dense Retrievers](https://arxiv.org/abs/2507.03922)** — _arXiv cs.CL_
-  - arXiv:2507.03922v2 Announce Type: replace 
-Abstract: Dense retrievers often struggle with queries involving less-frequent entities due to their limited entity k
-- **2025-09-09 04:00** · **[Step-level Verifier-guided Hybrid Test-Time Scaling for Large Language Models](https://arxiv.org/abs/2507.15512)** — _arXiv cs.CL_
-  - arXiv:2507.15512v2 Announce Type: replace 
-Abstract: Test-Time Scaling (TTS) is a promising approach to progressively elicit the model's intelligence during inf
-- **2025-09-09 04:00** · **[Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models](https://arxiv.org/abs/2507.18504)** — _arXiv cs.CL_
-  - arXiv:2507.18504v2 Announce Type: replace 
-Abstract: Large Language Models (LLMs) have shown strong potential for tabular data generation by modeling textualize
-- **2025-09-09 04:00** · **[CodeMixBench: Evaluating Code-Mixing Capabilities of LLMs Across 18 Languages](https://arxiv.org/abs/2507.18791)** — _arXiv cs.CL_
-  - arXiv:2507.18791v2 Announce Type: replace 
-Abstract: Code-mixing, the practice of switching between languages within a conversation, poses unique challenges for
-- **2025-09-09 04:00** · **[Dynamically Adaptive Reasoning via LLM-Guided MCTS for Efficient and Context-Aware KGQA](https://arxiv.org/abs/2508.00719)** — _arXiv cs.CL_
-  - arXiv:2508.00719v3 Announce Type: replace 
-Abstract: Knowledge Graph Question Answering (KGQA) aims to interpret natural language queries and perform structured
-- **2025-09-09 04:00** · **[Out of the Box, into the Clinic? Evaluating State-of-the-Art ASR for Clinical Applications for Older Adults](https://arxiv.org/abs/2508.08684)** — _arXiv cs.CL_
-  - arXiv:2508.08684v2 Announce Type: replace 
-Abstract: Voice-controlled interfaces can support older adults in clinical contexts, with chatbots being a prime exam
-- **2025-09-09 04:00** · **[A Survey on Training-free Alignment of Large Language Models](https://arxiv.org/abs/2508.09016)** — _arXiv cs.CL_
-  - arXiv:2508.09016v3 Announce Type: replace 
-Abstract: The alignment of large language models (LLMs) aims to ensure their outputs adhere to human values, ethical 
-- **2025-09-09 04:00** · **[EMNLP: Educator-role Moral and Normative Large Language Models Profiling](https://arxiv.org/abs/2508.15250)** — _arXiv cs.CL_
-  - arXiv:2508.15250v2 Announce Type: replace 
-Abstract: Simulating Professions (SP) enables Large Language Models (LLMs) to emulate professional roles. However, co
-- **2025-09-09 04:00** · **[CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated Chain-of-Thought-based Reinforced Fine-Tuning](https://arxiv.org/abs/2508.15868)** — _arXiv cs.CL_
-  - arXiv:2508.15868v2 Announce Type: replace 
-Abstract: Reasoning capability plays a significantly critical role in the the broad applications of Large Language Mo
-- **2025-09-09 04:00** · **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/abs/2508.15884)** — _arXiv cs.CL_
-  - arXiv:2508.15884v2 Announce Type: replace 
-Abstract: We present Jet-Nemotron, a new family of hybrid-architecture language models, which matches or exceeds the 
-- **2025-09-09 04:00** · **[Leveraging Large Language Models for Accurate Sign Language Translation in Low-Resource Scenarios](https://arxiv.org/abs/2508.18183)** — _arXiv cs.CL_
-  - arXiv:2508.18183v2 Announce Type: replace 
-Abstract: Translating natural languages into sign languages is a highly complex and underexplored task. Despite growi
-- **2025-09-09 04:00** · **[Empathy Omni: Enabling Empathetic Speech Response Generation through Large Language Models](https://arxiv.org/abs/2508.18655)** — _arXiv cs.CL_
-  - arXiv:2508.18655v2 Announce Type: replace 
-Abstract: With the development of speech large language models (speech LLMs), users can now interact directly with as
-- **2025-09-09 04:00** · **[Automatic Prompt Optimization with Prompt Distillation](https://arxiv.org/abs/2508.18992)** — _arXiv cs.CL_
-  - arXiv:2508.18992v2 Announce Type: replace 
-Abstract: Autoprompting is the process of automatically selecting optimized prompts for language models, which is gai
-- **2025-09-09 04:00** · **[MovieCORE: COgnitive REasoning in Movies](https://arxiv.org/abs/2508.19026)** — _arXiv cs.CL_
-  - arXiv:2508.19026v2 Announce Type: replace 
-Abstract: This paper introduces MovieCORE, a novel video question answering (VQA) dataset designed to probe deeper co
-- **2025-09-09 04:00** · **[MultiPL-MoE: Multi-Programming-Lingual Extension of Large Language Models through Hybrid Mixture-of-Experts](https://arxiv.org/abs/2508.19268)** — _arXiv cs.CL_
-  - arXiv:2508.19268v2 Announce Type: replace 
-Abstract: Despite LLMs' excellent code creation capabilities, multilingual code generation remains extremely challeng
-- **2025-09-09 04:00** · **[KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval](https://arxiv.org/abs/2508.20417)** — _arXiv cs.CL_
-  - arXiv:2508.20417v3 Announce Type: replace 
-Abstract: The integration of knowledge graphs (KGs) with large language models (LLMs) offers significant potential to
-- **2025-09-09 04:00** · **[CVPD at QIAS 2025 Shared Task: An Efficient Encoder-Based Approach for Islamic Inheritance Reasoning](https://arxiv.org/abs/2509.00457)** — _arXiv cs.CL_
-  - arXiv:2509.00457v2 Announce Type: replace 
-Abstract: Islamic inheritance law (Ilm al-Mawarith) requires precise identification of heirs and calculation of share
-- **2025-09-09 04:00** · **[Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation Awareness](https://arxiv.org/abs/2509.00591)** — _arXiv cs.CL_
-  - arXiv:2509.00591v3 Announce Type: replace 
-Abstract: Large Language Models (LLMs) often exhibit significant behavioral shifts when they perceive a change from a
-- **2025-09-09 04:00** · **[Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA](https://arxiv.org/abs/2509.01158)** — _arXiv cs.CL_
-  - arXiv:2509.01158v2 Announce Type: replace 
-Abstract: Chinese information extraction (IE) involves multiple tasks across diverse temporal domains, including Clas
-- **2025-09-09 04:00** · **[Efficient Large Language Models with Zero-Shot Adjustable Acceleration](https://arxiv.org/abs/2509.01190)** — _arXiv cs.CL_
-  - arXiv:2509.01190v2 Announce Type: replace 
-Abstract: Using Large Language Models (LLMs) in real-world applications presents significant challenges, particularly
-- **2025-09-09 04:00** · **[DCPO: Dynamic Clipping Policy Optimization](https://arxiv.org/abs/2509.02333)** — _arXiv cs.CL_
-  - arXiv:2509.02333v2 Announce Type: replace 
-Abstract: Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as a promising framework for enhancing th
-- **2025-09-09 04:00** · **[MoSEs: Uncertainty-Aware AI-Generated Text Detection via Mixture of Stylistics Experts with Conditional Thresholds](https://arxiv.org/abs/2509.02499)** — _arXiv cs.CL_
-  - arXiv:2509.02499v3 Announce Type: replace 
-Abstract: The rapid advancement of large language models has intensified public concerns about the potential misuse. 
-- **2025-09-09 04:00** · **[Energy Landscapes Enable Reliable Abstention in Retrieval-Augmented Large Language Models for Healthcare](https://arxiv.org/abs/2509.04482)** — _arXiv cs.CL_
-  - arXiv:2509.04482v2 Announce Type: replace 
-Abstract: Reliable abstention is critical for retrieval-augmented generation (RAG) systems, particularly in safety-cr
-- **2025-09-09 04:00** · **[The Good, the Bad and the Constructive: Automatically Measuring Peer Review's Utility for Authors](https://arxiv.org/abs/2509.04484)** — _arXiv cs.CL_
-  - arXiv:2509.04484v2 Announce Type: replace 
-Abstract: Providing constructive feedback to paper authors is a core component of peer review. With reviewers increas
-- **2025-09-09 04:00** · **[Comparative Analysis of Transformer Models in Disaster Tweet Classification for Public Safety](https://arxiv.org/abs/2509.04650)** — _arXiv cs.CL_
-  - arXiv:2509.04650v2 Announce Type: replace 
-Abstract: Twitter and other social media platforms have become vital sources of real time information during disaster
-- **2025-09-09 04:00** · **[HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models](https://arxiv.org/abs/2509.05218)** — _arXiv cs.CL_
-  - arXiv:2509.05218v2 Announce Type: replace 
-Abstract: Positional encoding mechanisms enable Transformers to model sequential structure and long-range dependencie
-- **2025-09-09 04:00** · **[Transforming Wearable Data into Personal Health Insights using Large Language Model Agents](https://arxiv.org/abs/2406.06464)** — _arXiv cs.CL_
-  - arXiv:2406.06464v4 Announce Type: replace-cross 
-Abstract: Deriving personalized insights from popular wearable trackers requires complex numerical reasoning th
-- **2025-09-09 04:00** · **[MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning](https://arxiv.org/abs/2406.06620)** — _arXiv cs.CL_
-  - arXiv:2406.06620v4 Announce Type: replace-cross 
-Abstract: The recent rapid advancements in language models (LMs) have garnered attention in medical time series
-- **2025-09-09 04:00** · **[ResearchArena: Benchmarking Large Language Models' Ability to Collect and Organize Information as Research Agents](https://arxiv.org/abs/2406.10291)** — _arXiv cs.CL_
-  - arXiv:2406.10291v3 Announce Type: replace-cross 
-Abstract: Large language models (LLMs) excel across many natural language processing tasks but face challenges 
-- **2025-09-09 04:00** · **[BeSimulator: A Large Language Model Powered Text-based Behavior Simulator](https://arxiv.org/abs/2409.15865)** — _arXiv cs.CL_
-  - arXiv:2409.15865v2 Announce Type: replace-cross 
-Abstract: Traditional robot simulators focus on physical process modeling and realistic rendering, often suffer
-- **2025-09-09 04:00** · **[Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903)** — _arXiv cs.CL_
-  - arXiv:2410.00903v4 Announce Type: replace-cross 
-Abstract: In this paper, we demonstrate how to enhance the validity of causal inference with unstructured high-
-- **2025-09-09 04:00** · **[ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries](https://arxiv.org/abs/2410.14748)** — _arXiv cs.CL_
-  - arXiv:2410.14748v4 Announce Type: replace-cross 
-Abstract: Recent advancements in large language models (LLMs) have significantly enhanced their ability to unde
-- **2025-09-09 04:00** · **[ElectroVizQA: How well do Multi-modal LLMs perform in Electronics Visual Question Answering?](https://arxiv.org/abs/2412.00102)** — _arXiv cs.CL_
-  - arXiv:2412.00102v2 Announce Type: replace-cross 
-Abstract: Multi-modal Large Language Models (MLLMs) are gaining significant attention for their ability to proc
-- **2025-09-09 04:00** · **[ChinaTravel: An Open-Ended Benchmark for Language Agents in Chinese Travel Planning](https://arxiv.org/abs/2412.13682)** — _arXiv cs.CL_
-  - arXiv:2412.13682v4 Announce Type: replace-cross 
-Abstract: Recent advances in LLMs, particularly in language reasoning and tool integration, have rapidly sparke
-- **2025-09-09 04:00** · **[AI Sees Your Location, But With A Bias Toward The Wealthy World](https://arxiv.org/abs/2502.11163)** — _arXiv cs.CL_
-  - arXiv:2502.11163v3 Announce Type: replace-cross 
-Abstract: Visual-Language Models (VLMs) have shown remarkable performance across various tasks, particularly in
-- **2025-09-09 04:00** · **[VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models](https://arxiv.org/abs/2503.07575)** — _arXiv cs.CL_
-  - arXiv:2503.07575v3 Announce Type: replace-cross 
-Abstract: This research investigates both explicit and implicit social biases exhibited by Vision-Language Mode
-- **2025-09-09 04:00** · **[MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs](https://arxiv.org/abs/2503.13111)** — _arXiv cs.CL_
-  - arXiv:2503.13111v2 Announce Type: replace-cross 
-Abstract: Multimodal large language models (MLLMs) excel at 2D visual understanding but remain limited in their
-- **2025-09-09 04:00** · **[Antidistillation Sampling](https://arxiv.org/abs/2504.13146)** — _arXiv cs.CL_
-  - arXiv:2504.13146v4 Announce Type: replace-cross 
-Abstract: Frontier models that generate extended reasoning traces inadvertently produce rich token sequences th
-- **2025-09-09 04:00** · **[OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation](https://arxiv.org/abs/2504.13707)** — _arXiv cs.CL_
-  - arXiv:2504.13707v2 Announce Type: replace-cross 
-Abstract: As the general capabilities of large language models (LLMs) improve and agent applications become mor
-- **2025-09-09 04:00** · **[A Minimum Description Length Approach to Regularization in Neural Networks](https://arxiv.org/abs/2505.13398)** — _arXiv cs.CL_
-  - arXiv:2505.13398v2 Announce Type: replace-cross 
-Abstract: State-of-the-art neural networks can be trained to become remarkable solutions to many problems. But 
-- **2025-09-09 04:00** · **[Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting](https://arxiv.org/abs/2505.20521)** — _arXiv cs.CL_
-  - arXiv:2505.20521v2 Announce Type: replace-cross 
-Abstract: This paper presents Project Riley, a novel multimodal and multi-model conversational AI architecture 
-- **2025-09-09 04:00** · **[SUDER: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-Rewards](https://arxiv.org/abs/2506.07963)** — _arXiv cs.CL_
-  - arXiv:2506.07963v3 Announce Type: replace-cross 
-Abstract: Building upon large language models (LLMs), recent large multimodal models (LMMs) unify cross-model u
-- **2025-09-09 04:00** · **[An LLM + ASP Workflow for Joint Entity-Relation Extraction](https://arxiv.org/abs/2508.12611)** — _arXiv cs.CL_
-  - arXiv:2508.12611v2 Announce Type: replace-cross 
-Abstract: Joint entity-relation extraction (JERE) identifies both entities and their relationships simultaneous
-- **2025-09-09 04:00** · **[FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](https://arxiv.org/abs/2508.14052)** — _arXiv cs.CL_
-  - arXiv:2508.14052v3 Announce Type: replace-cross 
-Abstract: Accurate information retrieval (IR) is critical in the financial domain, where investors must identif
-- **2025-09-09 04:00** · **[Membership Inference Attacks on LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665)** — _arXiv cs.CL_
-  - arXiv:2508.18665v2 Announce Type: replace-cross 
-Abstract: Large language models (LLMs) based Recommender Systems (RecSys) can flexibly adapt recommendation sys
-- **2025-09-09 04:00** · **[Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark](https://arxiv.org/abs/2508.19005)** — _arXiv cs.CL_
-  - arXiv:2508.19005v3 Announce Type: replace-cross 
-Abstract: As AI advances toward general intelligence, the focus is shifting from systems optimized for static t
-- **2025-09-09 04:00** · **[Oyster-I: Beyond Refusal -- Constructive Safety Alignment for Responsible Language Models](https://arxiv.org/abs/2509.01909)** — _arXiv cs.CL_
-  - arXiv:2509.01909v3 Announce Type: replace-cross 
-Abstract: Large language models (LLMs) typically deploy safety mechanisms to prevent harmful content generation
-- **2025-09-09 04:00** · **[E-THER: A Multimodal Dataset for Empathic AI - Towards Emotional Mismatch Awareness](https://arxiv.org/abs/2509.02100)** — _arXiv cs.CL_
-  - arXiv:2509.02100v2 Announce Type: replace-cross 
-Abstract: A prevalent shortfall among current empathic AI systems is their inability to recognize when verbal e
-- **2025-09-09 04:00** · **[Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning](https://arxiv.org/abs/2509.03646)** — _arXiv cs.CL_
-  - arXiv:2509.03646v2 Announce Type: replace-cross 
-Abstract: Reinforcement Learning (RL) has proven highly effective at enhancing the complex reasoning abilities 
-- **2025-09-09 04:00** · **[ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory](https://arxiv.org/abs/2509.04439)** — _arXiv cs.CL_
-  - arXiv:2509.04439v2 Announce Type: replace-cross 
-Abstract: While inference-time scaling enables LLMs to carry out increasingly long and capable reasoning traces
-- **2025-09-09 04:00** · **[Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework](https://arxiv.org/abs/2509.05007)** — _arXiv cs.CL_
-  - arXiv:2509.05007v2 Announce Type: replace-cross 
-Abstract: Large reasoning models (LRMs) have exhibited strong performance on complex reasoning tasks, with furt
