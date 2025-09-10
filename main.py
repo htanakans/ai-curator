@@ -2,6 +2,20 @@
 import os, re, hashlib, json, sqlite3, datetime as dt, time
 import feedparser
 import requests
+# --- 追加: リンク生存チェック ---
+def is_alive(url: str, timeout=7) -> bool:
+    if not url or not url.startswith(("http://", "https://")):
+        return False
+    headers = {"User-Agent": "ai-curator/1.0 (+github actions)"}
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
+        if r.status_code < 400:
+            return True
+        # HEADを拒否するサイト用にフォールバック
+        r = requests.get(url, allow_redirects=True, timeout=timeout, headers=headers, stream=True)
+        return (r.status_code < 400)
+    except Exception:
+        return False
 from dateutil import parser as dp
 from bs4 import BeautifulSoup
 import polars as pl
@@ -46,6 +60,9 @@ def fetch_rss(name, url, tags):
     for e in d.entries:
         title = (e.get("title") or "").strip()
         link = (e.get("link") or "").strip()
+        # 追加: リンク切れはスキップ
+        if link and not is_alive(link):
+            continue
         summary_html = e.get("summary") or e.get("description") or ""
         summary = BeautifulSoup(summary_html, "html.parser").get_text(" ", strip=True)
         if not title and not link: 
@@ -166,6 +183,10 @@ def fetch_site_list(feed_cfg):
         elif href.startswith("/"):
             from urllib.parse import urljoin
             href = urljoin(url, href)
+                # 絶対URL化（相対パス対応）...（既存の処理の下）
+        if not is_alive(href):
+            continue
+    
 
         # タイトルに対してキーワードフィルタ
         if not passes_local_filters(t, "", feed_cfg):
