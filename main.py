@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 import polars as pl
 from pathlib import Path
 from feedgen.feed import FeedGenerator
+from urllib.parse import urlparse, urljoin
 import yaml
 
 BASE = Path(__file__).parent
@@ -187,7 +188,7 @@ def _decode_best(content: bytes, candidates: list[str]) -> str:
         except Exception:
             continue
     return best_text or content.decode("utf-8", errors="replace")
-from urllib.parse import urlparse  # ← まだ無ければ先頭のimportに追加
+#from urllib.parse import urlparse  # ← まだ無ければ先頭のimportに追加
 
 def fetch_site_list(feed_cfg):
     url = feed_cfg["url"]
