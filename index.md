@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-10 05:49** · **[Announcements Anthropic Economic Index: Insights from Claude 3.7 Sonnet Mar 27, 2025](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)** — _Anthropic News_
+  - 
+- **2025-09-10 05:49** · **[Education Introducing Claude for Education Apr 02, 2025](https://www.anthropic.com/news/introducing-claude-for-education)** — _Anthropic News_
+  - 
 - **2025-09-10 05:29** · **[æ°´éDX](https://www.mirait-one.com/solution/issue/water-dx/)** — _ミライト（Mirait One）ニュース_
   - 
 - **2025-09-10 05:29** · **[DXæ¨é²](https://www.mirait-one.com/solution/issue/dx-implementation/)** — _ミライト（Mirait One）ニュース_
@@ -513,9 +517,3 @@ Abstract: Task-Oriented Dialogue (TOD) systems assist users in completing tasks 
 - **2025-09-09 04:00** · **[Lessons from Studying Two-Hop Latent Reasoning](https://arxiv.org/abs/2411.16353)** — _arXiv cs.CL_
   - arXiv:2411.16353v3 Announce Type: replace 
 Abstract: Large language models can use chain-of-thought (CoT) to externalize reasoning, potentially enabling oversig
-- **2025-09-09 04:00** · **[Fine-Tuning Large Language Models for Scientific Text Classification: A Comparative Study](https://arxiv.org/abs/2412.00098)** — _arXiv cs.CL_
-  - arXiv:2412.00098v2 Announce Type: replace 
-Abstract: The exponential growth of online textual content across diverse domains has necessitated advanced methods f
-- **2025-09-09 04:00** · **[Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Hop Arithmetic Reasoning](https://arxiv.org/abs/2412.01113)** — _arXiv cs.CL_
-  - arXiv:2412.01113v3 Announce Type: replace 
-Abstract: This study investigates the incremental, internal problem-solving process of language models (LMs) with ari
