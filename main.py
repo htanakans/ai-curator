@@ -100,7 +100,13 @@ def tidy_and_export():
     import json, csv
     con = sqlite3.connect(DB)
     cur = con.cursor()
-    cur.execute("SELECT source, title, url, published, summary FROM items ORDER BY published DESC")
+    cur.execute("""
+    SELECT i.source, i.title, i.url, MAX(i.published) as published, i.summary
+    FROM items i
+    GROUP BY i.url
+    ORDER BY published DESC
+""")
+
     rows = cur.fetchall()
     con.close()
 
@@ -158,8 +164,27 @@ def passes_local_filters(title, summary, feed_cfg):
         return False
     return True
 
+import unicodedata
+
+def _decode_best(content: bytes, candidates: list[str]) -> str:
+    """複数エンコードでデコードし、日本語スコアが最良のものを返す"""
+    best_text, best_score = "", -1
+    jp_re = re.compile(r"[ぁ-んァ-ヶ一-龥々〆ヵヶ]")
+    for enc in candidates:
+        try:
+            text = content.decode(enc, errors="replace")
+            # 日本語文字の量と文字化け数（�）からスコア算出
+            jp = len(jp_re.findall(text))
+            bad = text.count("�")
+            score = jp - bad * 5
+            if score > best_score:
+                best_score, best_text = score, text
+        except Exception:
+            continue
+    return best_text or content.decode("utf-8", errors="replace")
+
+
 def fetch_site_list(feed_cfg):
-    """ニュース一覧ページを1枚だけ取得して、aタグの見出しをキーワードで拾う軽量クロール"""
     url = feed_cfg["url"]
     name = feed_cfg["name"]
     try:
@@ -169,45 +194,59 @@ def fetch_site_list(feed_cfg):
         print(f"[WARN] fetch_site_list fail {name}: {e}")
         return []
 
-        # --- ここから置き換え ---
-    # 正しいエンコーディングでパース（Shift_JIS等にも対応）
-    enc = r.encoding or ""
-    if not enc or enc.lower() in ("iso-8859-1", "ascii"):
-        enc = r.apparent_encoding or "utf-8"
-        # 💡 Mirait One 対応：SJISに強制変換（明示指定）
-    if "mirait-one.com" in url:
-        enc = "cp932"
-    soup = BeautifulSoup(r.content, "html.parser", from_encoding=enc)
+    # --- エンコーディング補正付きでHTMLデコード ---
+    hinted = (r.encoding or "").lower()
+    cand = []
+    if hinted and hinted not in ("iso-8859-1", "ascii"):
+        cand.append(hinted)
+    cand += ["utf-8", "cp932", "shift_jis", (r.apparent_encoding or "utf-8")]
+    cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
+
+    html = _decode_best(r.content, cand)
+    soup = BeautifulSoup(html, "html.parser")
 
     def _norm_text(s: str) -> str:
-        s = s or ""
-        # 全角・半角スペースや改行のだぶりを1つに
-        return re.sub(r"\s+", " ", s).strip()
+        s = re.sub(r"\s+", " ", s or "").strip()
+        return unicodedata.normalize("NFKC", s)
 
     rows = []
+    page_seen_hrefs = set()  # 同一ページ内のリンク重複除去
+
     for a in soup.find_all("a")[:200]:
         t = _norm_text(a.get_text(" ", strip=True))
         href = a.get("href") or ""
-
         if not t or not href:
             continue
-        # 絶対URL化（相対パス対応）
+        if len(t) < 6 or href.startswith(("javascript:", "#")):
+            continue
+
+        # 絶対URL化
         if href.startswith("//"):
             href = "https:" + href
         elif href.startswith("/"):
             from urllib.parse import urljoin
             href = urljoin(url, href)
-                # 絶対URL化（相対パス対応）...（既存の処理の下）
+
+        # ページ内での重複除去
+        if href in page_seen_hrefs:
+            continue
+        page_seen_hrefs.add(href)
+
+        # 対象ドメイン外は除外（外部リンク排除）
+        from urllib.parse import urlparse
+        if urlparse(href).netloc and urlparse(href).netloc != urlparse(url).netloc:
+            continue
+
+        # 生存チェック
         if not is_alive(href):
             continue
-    
 
-        # タイトルに対してキーワードフィルタ
+        # キーワードフィルタ
         if not passes_local_filters(t, "", feed_cfg):
             continue
 
         rows.append(dict(
-            id=sha(href or t),
+            id=sha(href),
             source=name,
             title=t,
             url=href,
@@ -216,10 +255,10 @@ def fetch_site_list(feed_cfg):
             tags="company,site",
             raw=""
         ))
-        # 取りすぎ防止（多くても50本）
         if len(rows) >= 50:
             break
     return rows
+
 
 
 def main():
