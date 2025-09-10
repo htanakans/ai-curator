@@ -1,7 +1,6 @@
-
 timezone: "Asia/Tokyo"
 
-# ここに収集したいRSSをどんどん追加してOK
+# ====== 1) RSSありの公式ブログ ======
 feeds:
   - name: OpenAI Blog
     url: https://openai.com/blog/rss
@@ -11,35 +10,17 @@ feeds:
     url: https://ai.googleblog.com/atom.xml
     tags: [company, research]
 
-  - name: MIT Technology Review (All)
-    url: https://www.technologyreview.com/feed/
-    tags: [media]
+  - name: Meta AI Blog
+    url: https://ai.facebook.com/blog/feed/
+    tags: [company, research]
 
-  - name: VentureBeat AI
-    url: https://venturebeat.com/category/ai/feed/
-    tags: [media]
+  - name: Microsoft Research Blog
+    url: https://www.microsoft.com/en-us/research/feed/
+    tags: [company, research]
 
-  - name: TechCrunch AI
-    url: https://techcrunch.com/tag/artificial-intelligence/feed/
-    tags: [media]
-
-  - name: arXiv cs.CL
-    url: https://export.arxiv.org/rss/cs.CL
-    tags: [research, arxiv]
-
-# 任意: Nitter / RSSHub などのRSSをここに足す（不安定な場合あり）
-extra_rss: []
-  # - name: OpenAI (Nitter)
-  #   url: https://nitter.net/openai/rss
-  #   tags: [social, x]
-
-keywords:
-  include: ["AI","人工知能","生成AI","GenAI","LLM","大規模言語モデル","RAG","fine-tuning","画像生成","音声生成","規制","benchmark","推論コスト"]
-  exclude: ["求人","クーポン","セール","advertisement"]
-
-output:
-  rss_max_items: 150
-  snapshot_keep_days: 30
+  - name: Stability AI Blog
+    url: https://stability.ai/blog/rss.xml
+    tags: [company, genai]
 
   - name: Hugging Face Blog
     url: https://huggingface.co/blog/rss.xml
@@ -57,24 +38,35 @@ output:
     url: https://machinelearning.apple.com/rss.xml
     tags: [ml, research, apple]
 
+# ====== 2) RSSなし/不明：ニュース一覧から見出しキーワード抽出 ======
 site_feeds:
+  # --- AI企業 ---
+  - name: Anthropic News
+    url: https://www.anthropic.com/news
+    include: ["AI","生成","Claude","自動化","エージェント","RAG","モデル","LLM"]
+    exclude: ["採用","求人","法務","イベントのみ"]
+
   - name: Mistral AI News
     url: https://mistral.ai/news/
-    include: ["AI", "生成", "自動化", "エージェント", "LLM", "open weight"]
-    exclude: ["採用", "募集", "求人"]
+    include: ["AI","生成","自動化","エージェント","LLM","open weight"]
+    exclude: ["採用","募集","求人"]
 
   - name: Cohere Blog
     url: https://cohere.com/blog
-    include: ["AI", "生成", "RAG", "LLM", "エージェント", "NLP", "モデル"]
-    exclude: ["募集", "IR"]
+    include: ["AI","生成","RAG","LLM","エージェント","NLP","モデル"]
+    exclude: ["募集","IR"]
 
-  - name: Autodesk News
-    url: https://www.autodesk.com/news/
-    include: ["AI", "自動化", "設計支援", "BIM", "CAD", "生成", "オートメーション"]
-    exclude: ["採用", "IR", "価格", "セール"]
+  - name: Sakana AI News
+    url: https://sakana.ai/
+    include: ["AI","生成","自動化","研究","モデル","LLM"]
+    exclude: ["採用","求人"]
 
-  - name: ダイテック（T-fas）ニュース
-    url: https://www.daitk.co.jp/news/
-    include: ["T-fas", "AI", "自動化", "BIM", "設計支援", "建築", "設備", "施工"]
-    exclude: ["採用", "求人", "セミナー", "IR"]
+  - name: Sony AI News
+    url: https://ai.sony/
+    include: ["AI","生成","自動化","研究","ロボット","モデル"]
+    exclude: ["採用","求人"]
 
+  # --- 建設・設備設計 ---
+  - name: 清水建設 ニュース
+    url: https://www.shimz.co.jp/company/about/news/
+    include: ["AI","生成","自動化","BIM","DX]()
