@@ -174,6 +174,9 @@ def fetch_site_list(feed_cfg):
     enc = r.encoding or ""
     if not enc or enc.lower() in ("iso-8859-1", "ascii"):
         enc = r.apparent_encoding or "utf-8"
+        # 💡 Mirait One 対応：SJISに強制変換（明示指定）
+    if "mirait-one.com" in url:
+        enc = "cp932"
     soup = BeautifulSoup(r.content, "html.parser", from_encoding=enc)
 
     def _norm_text(s: str) -> str:
