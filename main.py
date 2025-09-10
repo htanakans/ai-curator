@@ -182,7 +182,7 @@ def _decode_best(content: bytes, candidates: list[str]) -> str:
         except Exception:
             continue
     return best_text or content.decode("utf-8", errors="replace")
-
+from urllib.parse import urlparse  # ← まだ無ければ先頭のimportに追加
 
 def fetch_site_list(feed_cfg):
     url = feed_cfg["url"]
@@ -202,8 +202,15 @@ def fetch_site_list(feed_cfg):
     cand += ["utf-8", "cp932", "shift_jis", (r.apparent_encoding or "utf-8")]
     cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
 
-    html = _decode_best(r.content, cand)
+    # ★ ここを差し替え（この4行を入れる）
+    domain = urlparse(url).netloc
+    if "mirait-one.com" in domain:
+        html = r.content.decode("utf-8", errors="replace")
+    else:
+        html = _decode_best(r.content, cand)
+
     soup = BeautifulSoup(html, "html.parser")
+
 
     def _norm_text(s: str) -> str:
         s = re.sub(r"\s+", " ", s or "").strip()
