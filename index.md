@@ -1,5 +1,23 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-10 06:49** · **[Announcements Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku Oct 22, 2024](https://www.anthropic.com/news/3-5-models-and-computer-use)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Announcements Powering the next generation of AI development with AWS Nov 22, 2024](https://www.anthropic.com/news/anthropic-amazon-trainium)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Announcements Claude 3.5 Sonnet on GitHub Copilot Oct 29, 2024](https://www.anthropic.com/news/github-copilot)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Announcements Lyft to bring Claude to more than 40 million riders and over 1 million drivers Feb 6, 2025](https://www.anthropic.com/news/lyft-announcement)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Announcements Anthropic achieves ISO 42001 certification for responsible AI Jan 13, 2025](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Product Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock Dec 3, 2024](https://www.anthropic.com/news/trainium2-and-distillation)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Product Tailor Claude’s responses to your personal style Nov 26, 2024](https://www.anthropic.com/news/styles)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Announcements Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam Feb 28, 2025](https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam)** — _Anthropic News_
+  - 
+- **2025-09-10 06:49** · **[Product Claude can now search the web Mar 20, 2025](https://www.anthropic.com/news/web-search)** — _Anthropic News_
+  - 
 - **2025-09-10 06:14** · **[安心安全な社会インフラ](https://www.mirait-one.com/solution/top-category/infrastructure/)** — _ミライト（Mirait One）ニュース_
   - 
 - **2025-09-10 06:14** · **[老朽インフラ・BCP・災害対策](https://www.mirait-one.com/solution/issue/disaster/)** — _ミライト（Mirait One）ニュース_
@@ -486,30 +504,3 @@ Abstract: Mis- and disinformation online have become a major societal problem as
 - **2025-09-09 04:00** · **[AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226)** — _arXiv cs.CL_
   - arXiv:2402.12226v5 Announce Type: replace 
 Abstract: We introduce AnyGPT, an any-to-any multimodal language model that utilizes discrete representations for the
-- **2025-09-09 04:00** · **[Repetition Improves Language Model Embeddings](https://arxiv.org/abs/2402.15449)** — _arXiv cs.CL_
-  - arXiv:2402.15449v2 Announce Type: replace 
-Abstract: Bidirectional models are considered essential for strong text embeddings. Recent approaches to adapt autore
-- **2025-09-09 04:00** · **[Linearly Controlled Language Generation with Performative Guarantees](https://arxiv.org/abs/2405.15454)** — _arXiv cs.CL_
-  - arXiv:2405.15454v2 Announce Type: replace 
-Abstract: The increasing prevalence of Large Language Models (LMs) in critical applications highlights the need for c
-- **2025-09-09 04:00** · **[Synth-SBDH: A Synthetic Dataset of Social and Behavioral Determinants of Health for Clinical Text](https://arxiv.org/abs/2406.06056)** — _arXiv cs.CL_
-  - arXiv:2406.06056v3 Announce Type: replace 
-Abstract: Social and behavioral determinants of health (SBDH) play a crucial role in health outcomes and are frequent
-- **2025-09-09 04:00** · **[A Principled Framework for Evaluating on Typologically Diverse Languages](https://arxiv.org/abs/2407.05022)** — _arXiv cs.CL_
-  - arXiv:2407.05022v3 Announce Type: replace 
-Abstract: Beyond individual languages, multilingual natural language processing (NLP) research increasingly aims to d
-- **2025-09-09 04:00** · **[Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective](https://arxiv.org/abs/2408.04638)** — _arXiv cs.CL_
-  - arXiv:2408.04638v2 Announce Type: replace 
-Abstract: Affective Computing (AC) integrates computer science, psychology, and cognitive science to enable machines 
-- **2025-09-09 04:00** · **[Self-Alignment: Improving Alignment of Cultural Values in LLMs via In-Context Learning](https://arxiv.org/abs/2408.16482)** — _arXiv cs.CL_
-  - arXiv:2408.16482v2 Announce Type: replace 
-Abstract: Improving the alignment of Large Language Models (LLMs) with respect to the cultural values that they encod
-- **2025-09-09 04:00** · **[Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming](https://arxiv.org/abs/2409.11041)** — _arXiv cs.CL_
-  - arXiv:2409.11041v4 Announce Type: replace 
-Abstract: While there has been a lot of research recently on robots in household environments, at the present time, m
-- **2025-09-09 04:00** · **[Extracting and Combining Abilities For Building Multi-lingual Ability-enhanced Large Language Models](https://arxiv.org/abs/2410.07825)** — _arXiv cs.CL_
-  - arXiv:2410.07825v3 Announce Type: replace 
-Abstract: Multi-lingual ability transfer has become increasingly important for the broad application of large languag
-- **2025-09-09 04:00** · **[Conversational Code Generation: a Case Study of Designing a Dialogue System for Generating Driving Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2410.09829)** — _arXiv cs.CL_
-  - arXiv:2410.09829v3 Announce Type: replace 
-Abstract: Cyber-physical systems like autonomous vehicles are tested in simulation before deployment, using domain-sp
