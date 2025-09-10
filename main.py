@@ -169,12 +169,23 @@ def fetch_site_list(feed_cfg):
         print(f"[WARN] fetch_site_list fail {name}: {e}")
         return []
 
-    soup = BeautifulSoup(r.text, "html.parser")
+        # --- ここから置き換え ---
+    # 正しいエンコーディングでパース（Shift_JIS等にも対応）
+    enc = r.encoding or ""
+    if not enc or enc.lower() in ("iso-8859-1", "ascii"):
+        enc = r.apparent_encoding or "utf-8"
+    soup = BeautifulSoup(r.content, "html.parser", from_encoding=enc)
+
+    def _norm_text(s: str) -> str:
+        s = s or ""
+        # 全角・半角スペースや改行のだぶりを1つに
+        return re.sub(r"\s+", " ", s).strip()
+
     rows = []
-    # 一覧ページの a タグを片っ端から見る（過剰取得しないよう top 200 件に制限）
     for a in soup.find_all("a")[:200]:
-        t = (a.get_text(" ", strip=True) or "").strip()
+        t = _norm_text(a.get_text(" ", strip=True))
         href = a.get("href") or ""
+
         if not t or not href:
             continue
         # 絶対URL化（相対パス対応）
