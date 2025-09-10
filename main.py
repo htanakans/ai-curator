@@ -114,11 +114,15 @@ def tidy_and_export():
     rows_recent = rows[:1000]
 
     # index.md（最新200件）
-    lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
-    for source, title, url, published, summary in rows_recent[:200]:
-        date = (published or "")[:16].replace("T"," ")
-        lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_\n  - { (summary or '')[:160] }")
-    (BASE / "index.md").write_text("\n".join(lines), encoding="utf-8")
+lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
+for source, title, url, published, summary in rows_recent[:200]:
+    date = (published or "")[:16].replace("T"," ")
+    lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_")
+    s = (summary or "").strip()
+    if s:
+        lines.append(f"  - {s[:160]}")
+(BASE / "index.md").write_text("\n".join(lines), encoding="utf-8")
+
 
     # JSON / CSV スナップショット
     today = dt.datetime.now().strftime("%Y%m%d")
