@@ -100,31 +100,32 @@ def tidy_and_export():
     import json, csv
     con = sqlite3.connect(DB)
     cur = con.cursor()
-    cur.execute("""
-    SELECT i.source, i.title, i.url, MAX(i.published) as published, i.summary
-    FROM items i
-    GROUP BY i.url
-    ORDER BY published DESC
-""")
 
+    # ✅ 同一URLは最新publishedのみ採用（重複排除）
+    cur.execute("""
+        SELECT i.source, i.title, i.url, MAX(i.published) AS published, i.summary
+        FROM items i
+        GROUP BY i.url
+        ORDER BY published DESC
+    """)
     rows = cur.fetchall()
     con.close()
 
-    # 最新 1000 件だけを対象
+    # 最新1000件をスナップショット対象、ページは最新200件
     rows_recent = rows[:1000]
+    rows_page = rows[:200]
 
-    # index.md（最新200件）
-lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
-for source, title, url, published, summary in rows_recent[:200]:
-    date = (published or "")[:16].replace("T"," ")
-    lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_")
-    s = (summary or "").strip()
-    if s:
-        lines.append(f"  - {s[:160]}")
-(BASE / "index.md").write_text("\n".join(lines), encoding="utf-8")
+    # ✅ index.md（空サマリー行は出さない）
+    lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
+    for source, title, url, published, summary in rows_page:
+        date = (published or "")[:16].replace("T", " ")
+        lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_")
+        s = (summary or "").strip()
+        if s:
+            lines.append(f"  - {s[:160]}")
+    (BASE / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
-
-    # JSON / CSV スナップショット
+    # ✅ JSON / CSV スナップショット
     today = dt.datetime.now().strftime("%Y%m%d")
     dicts = [
         {"source": s, "title": t, "url": u, "published": p, "summary": (sn or "")}
@@ -133,13 +134,12 @@ for source, title, url, published, summary in rows_recent[:200]:
     (DATA / f"snapshot_{today}.json").write_text(
         json.dumps(dicts, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-
     with open(DATA / f"snapshot_{today}.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["source","title","url","published","summary"])
+        w = csv.DictWriter(f, fieldnames=["source", "title", "url", "published", "summary"])
         w.writeheader()
         w.writerows(dicts)
 
-    # RSS 出力（最新150件）
+    # ✅ RSS 出力（最新150件）
     fg = FeedGenerator()
     fg.title("AI/生成AI クリッピング（Free Stack）")
     fg.link(href="https://example", rel="alternate")
@@ -156,6 +156,7 @@ for source, title, url, published, summary in rows_recent[:200]:
         except Exception:
             pass
     fg.rss_file(DATA / "feed.xml")
+
 
 def passes_local_filters(title, summary, feed_cfg):
     """サイト個別の include/exclude を優先。無ければ全体のkeywordsを使う。"""
