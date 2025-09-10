@@ -1,6 +1,6 @@
 timezone: "Asia/Tokyo"
 
-# ====== 1) RSSありの公式ブログ ======
+# ========== 1) RSSありの公式ブログ ==========
 feeds:
   - name: OpenAI Blog
     url: https://openai.com/blog/rss
@@ -38,35 +38,223 @@ feeds:
     url: https://machinelearning.apple.com/rss.xml
     tags: [ml, research, apple]
 
-# ====== 2) RSSなし/不明：ニュース一覧から見出しキーワード抽出 ======
+# ========== 2) RSSなしのサイト記事クロール ==========
 site_feeds:
-  # --- AI企業 ---
+  # --- 海外/国内 AI企業 ---
   - name: Anthropic News
     url: https://www.anthropic.com/news
-    include: ["AI","生成","Claude","自動化","エージェント","RAG","モデル","LLM"]
-    exclude: ["採用","求人","法務","イベントのみ"]
+    include:
+      - AI
+      - 生成
+      - Claude
+      - 自動化
+      - エージェント
+      - RAG
+      - モデル
+      - LLM
+    exclude:
+      - 採用
+      - 求人
+      - 法務
+      - イベントのみ
 
   - name: Mistral AI News
     url: https://mistral.ai/news/
-    include: ["AI","生成","自動化","エージェント","LLM","open weight"]
-    exclude: ["採用","募集","求人"]
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - エージェント
+      - LLM
+      - open weight
+    exclude:
+      - 採用
+      - 募集
+      - 求人
 
   - name: Cohere Blog
     url: https://cohere.com/blog
-    include: ["AI","生成","RAG","LLM","エージェント","NLP","モデル"]
-    exclude: ["募集","IR"]
+    include:
+      - AI
+      - 生成
+      - RAG
+      - LLM
+      - エージェント
+      - NLP
+      - モデル
+    exclude:
+      - 募集
+      - IR
 
   - name: Sakana AI News
     url: https://sakana.ai/
-    include: ["AI","生成","自動化","研究","モデル","LLM"]
-    exclude: ["採用","求人"]
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - 研究
+      - モデル
+      - LLM
+    exclude:
+      - 採用
+      - 求人
 
   - name: Sony AI News
     url: https://ai.sony/
-    include: ["AI","生成","自動化","研究","ロボット","モデル"]
-    exclude: ["採用","求人"]
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - 研究
+      - ロボット
+      - モデル
+    exclude:
+      - 採用
+      - 求人
 
-  # --- 建設・設備設計 ---
+  # --- 建設・設備設計系企業 ---
   - name: 清水建設 ニュース
     url: https://www.shimz.co.jp/company/about/news/
-    include: ["AI","生成","自動化","BIM","DX]()
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - BIM
+      - DX
+      - ロボット
+      - 最適化
+    exclude:
+      - 採用
+      - 人事
+      - 決算
+      - 株主
+      - 入札
+      - 安全週間
+
+  - name: 鹿島建設 プレス
+    url: https://www.kajima.co.jp/news/press/
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - BIM
+      - DX
+      - ロボット
+      - デジタルツイン
+    exclude:
+      - 採用
+      - 人事
+      - 決算
+      - 株主
+      - 受注
+      - 入札
+      - 安全週間
+
+  - name: 安藤ハザマ ニュース
+    url: https://www.ad-hzm.co.jp/news/
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - BIM
+      - DX
+      - ロボット
+    exclude:
+      - 採用
+      - 人事
+      - 決算
+      - 株主
+      - 入札
+
+  - name: renue ニュース
+    url: https://renue.co.jp/news/
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - 省エネ
+      - BEMS
+      - 最適化
+    exclude:
+      - 採用
+      - 求人
+
+  - name: ミライト（Mirait One）ニュース
+    url: https://www.mirait-one.com/news/
+    include:
+      - AI
+      - 生成
+      - 自動化
+      - インフラ
+      - DX
+    exclude:
+      - 採用
+      - 求人
+      - IR
+      - 決算
+
+  # --- 建設・設計ソフト（CAD / BIM） ---
+  - name: Autodesk News
+    url: https://www.autodesk.com/news/
+    include:
+      - AI
+      - 自動化
+      - 設計支援
+      - BIM
+      - CAD
+      - 生成
+      - オートメーション
+    exclude:
+      - 採用
+      - IR
+      - 価格
+      - セール
+
+  - name: ダイテック（T-fas）ニュース
+    url: https://www.daitk.co.jp/news/
+    include:
+      - T-fas
+      - AI
+      - 自動化
+      - BIM
+      - 設計支援
+      - 建築
+      - 設備
+      - 施工
+    exclude:
+      - 採用
+      - 求人
+      - セミナー
+      - IR
+
+# ========== 3) SNS型情報源（X/Nitterなど） ==========
+extra_rss: []
+
+# ========== 全体の共通フィルター（上書きされない限りsite_feedsにも適用） ==========
+keywords:
+  include:
+    - AI
+    - 人工知能
+    - 生成AI
+    - GenAI
+    - LLM
+    - 大規模言語モデル
+    - RAG
+    - fine-tuning
+    - 画像生成
+    - 音声生成
+    - 自動化
+    - エージェント
+  exclude:
+    - 求人
+    - 採用
+    - クーポン
+    - セール
+    - advertisement
+    - IR
+    - 決算
+
+# ========== 出力ファイル設定 ==========
+output:
+  rss_max_items: 150
+  snapshot_keep_days: 30
