@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-11 22:36** · **[Product Bringing memory to teams at work Sep 11, 2025](https://www.anthropic.com/news/memory)** — _Anthropic News_
+- **2025-09-11 16:00** · **[Modeling Attacks on AI-Powered Apps with the AI Kill Chain Framework](https://developer.nvidia.com/blog/modeling-attacks-on-ai-powered-apps-with-the-ai-kill-chain-framework/)** — _NVIDIA Technical Blog_
+  - AI-powered applications are introducing new attack surfaces that traditional security models don’t fully capture, especially as these agentic systems gain...
+- **2025-09-11 15:00** · **[How Quantization Aware Training Enables Low-Precision Accuracy Recovery](https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery/)** — _NVIDIA Technical Blog_
+  - After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),.
 - **2025-09-11 12:46** · **[サイトマップから探す](sitemap/index.html)** — _ミライト（Mirait One）ニュース_
 - **2025-09-11 12:46** · **[トップページから探す](index.html)** — _ミライト（Mirait One）ニュース_
 - **2025-09-11 12:46** · **[グループ事業紹介スペシャルコンテンツ](https://www.mirait-one.com/special/group-business/)** — _ミライト（Mirait One）ニュース_
@@ -197,6 +202,3 @@
 - **2025-09-11 12:46** · **[Events](https://cohere.com/events)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Embed A leading multimodal search and retrieval tool](https://cohere.com/embed)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Developers](https://cohere.com/developers)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Deployment Options](https://cohere.com/deployment-options)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Customization](https://cohere.com/customization)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Oracle](https://cohere.com/customer-stories/oracle)** — _Cohere Blog_

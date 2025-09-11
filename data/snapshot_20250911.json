@@ -1,5 +1,26 @@
 [
   {
+    "source": "Anthropic News",
+    "title": "Product Bringing memory to teams at work Sep 11, 2025",
+    "url": "https://www.anthropic.com/news/memory",
+    "published": "2025-09-11 22:36:32",
+    "summary": ""
+  },
+  {
+    "source": "NVIDIA Technical Blog",
+    "title": "Modeling Attacks on AI-Powered Apps with the AI Kill Chain Framework",
+    "url": "https://developer.nvidia.com/blog/modeling-attacks-on-ai-powered-apps-with-the-ai-kill-chain-framework/",
+    "published": "2025-09-11 16:00:00+0000",
+    "summary": "AI-powered applications are introducing new attack surfaces that traditional security models don’t fully capture, especially as these agentic systems gain..."
+  },
+  {
+    "source": "NVIDIA Technical Blog",
+    "title": "How Quantization Aware Training Enables Low-Precision Accuracy Recovery",
+    "url": "https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery/",
+    "published": "2025-09-11 15:00:00+0000",
+    "summary": "After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),..."
+  },
+  {
     "source": "ミライト（Mirait One）ニュース",
     "title": "サイトマップから探す",
     "url": "sitemap/index.html",
