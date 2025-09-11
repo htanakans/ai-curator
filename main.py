@@ -1,19 +1,37 @@
 import os, re, hashlib, json, sqlite3, datetime as dt, time
 import feedparser
 import requests
-from urllib.parse import urlparse as up
+import urllib.parse as up  # ← モジュールとして up を使う（up.urlparse / up.urljoin）
 from dateutil import parser as dp
 from bs4 import BeautifulSoup
-import polars as pl
+import polars as pl  # 使わないなら消してOK
 from pathlib import Path
 from feedgen.feed import FeedGenerator
 import yaml
+import unicodedata
 
 
 BASE = Path(__file__).parent
 DATA = BASE / "data"; DATA.mkdir(exist_ok=True)
 DB = DATA / "archive.sqlite3"
 CFG = yaml.safe_load((BASE/"config.yml").read_text(encoding="utf-8"))
+
+
+# --- 追加: リンク生存チェック（RSSのリンク切れを除外） ---
+def is_alive(url: str, timeout=7) -> bool:
+    if not url or not url.startswith(("http://", "https://")):
+        return False
+    headers = {"User-Agent": "ai-curator/1.0 (+github actions)"}
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
+        if r.status_code < 400:
+            return True
+        # HEAD を拒否するサイト向けフォールバック
+        r = requests.get(url, allow_redirects=True, timeout=timeout, headers=headers, stream=True)
+        return (r.status_code < 400)
+    except Exception:
+        return False
+
 
 def init_db():
     con = sqlite3.connect(DB); cur = con.cursor()
@@ -24,6 +42,7 @@ def init_db():
     )""")
     con.commit(); con.close()
 
+
 def norm_date(s):
     # 失敗しても現在時刻に
     try:
@@ -31,15 +50,21 @@ def norm_date(s):
     except Exception:
         return dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S%z")
 
-def sha(s): return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
+
+def sha(s): 
+    return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
+
 
 def passes_filters(title, summary):
     text = f"{title} {summary}".lower()
     inc = [k.lower() for k in CFG.get("keywords",{}).get("include",[])]
     exc = [k.lower() for k in CFG.get("keywords",{}).get("exclude",[])]
-    if inc and not any(k in text for k in inc): return False
-    if any(k in text for k in exc): return False
+    if inc and not any(k in text for k in inc): 
+        return False
+    if any(k in text for k in exc): 
+        return False
     return True
+
 
 def fetch_rss(name, url, tags):
     d = feedparser.parse(url)
@@ -47,7 +72,7 @@ def fetch_rss(name, url, tags):
     for e in d.entries:
         title = (e.get("title") or "").strip()
         link = (e.get("link") or "").strip()
-        # 追加: リンク切れはスキップ
+        # リンク切れはスキップ
         if link and not is_alive(link):
             continue
         summary_html = e.get("summary") or e.get("description") or ""
@@ -70,6 +95,7 @@ def fetch_rss(name, url, tags):
         ))
     return rows
 
+
 def upsert(rows):
     con = sqlite3.connect(DB); cur = con.cursor()
     new=0
@@ -83,12 +109,13 @@ def upsert(rows):
     con.commit(); con.close(); 
     return new
 
+
 def tidy_and_export():
     import json, csv
     con = sqlite3.connect(DB)
     cur = con.cursor()
 
-    # ✅ 同一URLは最新publishedのみ採用（重複排除）
+    # 同一URLは最新publishedのみ（重複排除）
     cur.execute("""
         SELECT i.source, i.title, i.url, MAX(i.published) AS published, i.summary
         FROM items i
@@ -102,7 +129,7 @@ def tidy_and_export():
     rows_recent = rows[:1000]
     rows_page = rows[:200]
 
-    # ✅ index.md（空サマリー行は出さない）
+    # index.md（空サマリーは出さない）
     lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
     for source, title, url, published, summary in rows_page:
         date = (published or "")[:16].replace("T", " ")
@@ -112,7 +139,7 @@ def tidy_and_export():
             lines.append(f"  - {s[:160]}")
     (BASE / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # ✅ JSON / CSV スナップショット
+    # JSON / CSV スナップショット
     today = dt.datetime.now().strftime("%Y%m%d")
     dicts = [
         {"source": s, "title": t, "url": u, "published": p, "summary": (sn or "")}
@@ -126,7 +153,7 @@ def tidy_and_export():
         w.writeheader()
         w.writerows(dicts)
 
-    # ✅ RSS 出力（最新150件）
+    # RSS 出力（最新150件）
     fg = FeedGenerator()
     fg.title("AI/生成AI クリッピング（Free Stack）")
     fg.link(href="https://example", rel="alternate")
@@ -156,7 +183,6 @@ def passes_local_filters(title, summary, feed_cfg):
         return False
     return True
 
-import unicodedata
 
 def _decode_best(content: bytes, candidates: list[str]) -> str:
     """複数エンコードでデコードし、日本語スコアが最良のものを返す"""
@@ -175,7 +201,9 @@ def _decode_best(content: bytes, candidates: list[str]) -> str:
             continue
     return best_text or content.decode("utf-8", errors="replace")
 
+
 def fetch_site_list(feed_cfg):
+    """ニュース一覧ページを1枚だけ取得して、aタグの見出しをキーワードで拾う軽量クロール"""
     url = feed_cfg["url"]
     name = feed_cfg["name"]
     try:
@@ -186,21 +214,21 @@ def fetch_site_list(feed_cfg):
         return []
 
     # --- エンコーディング補正付きでHTMLデコード ---
-hinted = (r.encoding or "").lower()
-cand = []
-if hinted and hinted not in ("iso-8859-1", "ascii"):
-    cand.append(hinted)
-cand += ["utf-8", "cp932", "shift_jis", (r.apparent_encoding or "utf-8")]
-cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
+    hinted = (r.encoding or "").lower()
+    cand = []
+    if hinted and hinted not in ("iso-8859-1", "ascii"):
+        cand.append(hinted)
+    cand += ["utf-8", "cp932", "shift_jis", (r.apparent_encoding or "utf-8")]
+    cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
 
-# ★ この4行に差し替え（全角を混ぜないで完全コピペ）
-domain = up.urlparse(url).netloc
-if "mirait-one.com" in domain:
-    html = r.content.decode("utf-8", errors="replace")
-else:
-    html = _decode_best(r.content, cand)
+    domain = up.urlparse(url).netloc
+    if "mirait-one.com" in domain:
+        # このサイトは実際はUTF-8。念のため明示デコード
+        html = r.content.decode("utf-8", errors="replace")
+    else:
+        html = _decode_best(r.content, cand)
 
-soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(html, "html.parser")
 
     def _norm_text(s: str) -> str:
         s = re.sub(r"\s+", " ", s or "").strip()
@@ -218,20 +246,25 @@ soup = BeautifulSoup(html, "html.parser")
             continue
 
         # 絶対URL化
-if href.startswith("//"):
-    href = "https:" + href
-elif href.startswith("/"):
-    href = up.up.urljoin(url, href)
+        if href.startswith("//"):
+            href = "https:" + href
+        elif href.startswith("/"):
+            href = up.urljoin(url, href)
 
-# ページ内での重複除去
-if href in page_seen_hrefs:
-    continue
-page_seen_hrefs.add(href)
+        # ページ内での重複除去
+        if href in page_seen_hrefs:
+            continue
+        page_seen_hrefs.add(href)
 
-# 対象ドメイン外は除外（外部リンク排除）
-if up.up.urlparse((href).netloc and up.up.urlparse((href).netloc != up.up.urlparse((url).netloc:
-    continue
+        # 対象ドメイン外は除外（外部リンク排除）
+        base_netloc = up.urlparse(url).netloc
+        link_netloc = up.urlparse(href).netloc
+        if link_netloc and link_netloc != base_netloc:
+            continue
 
+        # （必要なら）生存チェック。サイト一覧は負荷軽くしたいならコメントアウト可
+        # if not is_alive(href):
+        #     continue
 
         rows.append(dict(
             id=sha(href),
@@ -245,8 +278,8 @@ if up.up.urlparse((href).netloc and up.up.urlparse((href).netloc != up.up.urlpar
         ))
         if len(rows) >= 50:
             break
-    return rows
 
+    return rows
 
 
 def main():
@@ -264,8 +297,7 @@ def main():
         time.sleep(1)
 
     # 追加 RSS（Nitter / RSSHub など）
-    extra = CFG.get("extra_rss") or []
-    for feed in extra:
+    for feed in (CFG.get("extra_rss") or []):
         name, url, tags = feed.get("name"), feed.get("url"), feed.get("tags",[])
         if not url: 
             continue
@@ -274,14 +306,15 @@ def main():
         total_new += upsert(rows)
         time.sleep(1)
 
-        # 会社サイトの一覧ページからキーワード拾い上げ
-    for s in CFG.get("site_feeds", []) or []:
+    # 会社サイトの一覧ページからキーワード拾い上げ
+    for s in (CFG.get("site_feeds", []) or []):
         print("[INFO] site", s.get("name"), s.get("url"))
         rows = fetch_site_list(s)
         total_new += upsert(rows)
 
     tidy_and_export()
     print("new items:", total_new)
+
 
 if __name__ == "__main__":
     main()
