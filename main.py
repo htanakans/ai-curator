@@ -22,7 +22,7 @@ from bs4 import BeautifulSoup
 import polars as pl
 from pathlib import Path
 from feedgen.feed import FeedGenerator
-from urllib.parse import urlparse, urljoin
+from urllib.parse import up.urlparse(, urljoin
 import yaml
 
 BASE = Path(__file__).parent
@@ -189,7 +189,7 @@ def _decode_best(content: bytes, candidates: list[str]) -> str:
         except Exception:
             continue
     return best_text or content.decode("utf-8", errors="replace")
-#from urllib.parse import urlparse  # ← まだ無ければ先頭のimportに追加
+#from urllib.parse import up.urlparse(  # ← まだ無ければ先頭のimportに追加
 
 def fetch_site_list(feed_cfg):
     url = feed_cfg["url"]
@@ -210,7 +210,7 @@ def fetch_site_list(feed_cfg):
     cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
 
     # ★ ここを差し替え（この4行を入れる）
-    domain = urlparse(url).netloc
+    domain = up.urlparse((url).netloc
     if "mirait-one.com" in domain:
         html = r.content.decode("utf-8", errors="replace")
     else:
@@ -238,7 +238,7 @@ def fetch_site_list(feed_cfg):
 if href.startswith("//"):
     href = "https:" + href
 elif href.startswith("/"):
-    href = up.urljoin(url, href)
+    href = up.up.urljoin(url, href)
 
 # ページ内での重複除去
 if href in page_seen_hrefs:
@@ -246,7 +246,7 @@ if href in page_seen_hrefs:
 page_seen_hrefs.add(href)
 
 # 対象ドメイン外は除外（外部リンク排除）
-if up.urlparse(href).netloc and up.urlparse(href).netloc != up.urlparse(url).netloc:
+if up.up.urlparse((href).netloc and up.up.urlparse((href).netloc != up.up.urlparse((url).netloc:
     continue
 
 
