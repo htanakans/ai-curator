@@ -1,29 +1,14 @@
-
 import os, re, hashlib, json, sqlite3, datetime as dt, time
 import feedparser
 import requests
-import urllib.parse as up
-# --- 追加: リンク生存チェック ---
-def is_alive(url: str, timeout=7) -> bool:
-    if not url or not url.startswith(("http://", "https://")):
-        return False
-    headers = {"User-Agent": "ai-curator/1.0 (+github actions)"}
-    try:
-        r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
-        if r.status_code < 400:
-            return True
-        # HEADを拒否するサイト用にフォールバック
-        r = requests.get(url, allow_redirects=True, timeout=timeout, headers=headers, stream=True)
-        return (r.status_code < 400)
-    except Exception:
-        return False
+import urllib.parse as up  # ← これだけでOK
 from dateutil import parser as dp
 from bs4 import BeautifulSoup
 import polars as pl
 from pathlib import Path
 from feedgen.feed import FeedGenerator
-from urllib.parse import up.urlparse(, urljoin
 import yaml
+
 
 BASE = Path(__file__).parent
 DATA = BASE / "data"; DATA.mkdir(exist_ok=True)
@@ -189,7 +174,6 @@ def _decode_best(content: bytes, candidates: list[str]) -> str:
         except Exception:
             continue
     return best_text or content.decode("utf-8", errors="replace")
-#from urllib.parse import up.urlparse(  # ← まだ無ければ先頭のimportに追加
 
 def fetch_site_list(feed_cfg):
     url = feed_cfg["url"]
