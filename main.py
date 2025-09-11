@@ -2,6 +2,7 @@
 import os, re, hashlib, json, sqlite3, datetime as dt, time
 import feedparser
 import requests
+import urllib.parse as up
 # --- 追加: リンク生存チェック ---
 def is_alive(url: str, timeout=7) -> bool:
     if not url or not url.startswith(("http://", "https://")):
@@ -234,29 +235,20 @@ def fetch_site_list(feed_cfg):
             continue
 
         # 絶対URL化
-        if href.startswith("//"):
-            href = "https:" + href
-        elif href.startswith("/"):
-            from urllib.parse import urljoin
-            href = urljoin(url, href)
+if href.startswith("//"):
+    href = "https:" + href
+elif href.startswith("/"):
+    href = up.urljoin(url, href)
 
-        # ページ内での重複除去
-        if href in page_seen_hrefs:
-            continue
-        page_seen_hrefs.add(href)
+# ページ内での重複除去
+if href in page_seen_hrefs:
+    continue
+page_seen_hrefs.add(href)
 
-        # 対象ドメイン外は除外（外部リンク排除）
-        from urllib.parse import urlparse
-        if urlparse(href).netloc and urlparse(href).netloc != urlparse(url).netloc:
-            continue
+# 対象ドメイン外は除外（外部リンク排除）
+if up.urlparse(href).netloc and up.urlparse(href).netloc != up.urlparse(url).netloc:
+    continue
 
-        # 生存チェック
-        if not is_alive(href):
-            continue
-
-        # キーワードフィルタ
-        if not passes_local_filters(t, "", feed_cfg):
-            continue
 
         rows.append(dict(
             id=sha(href),
