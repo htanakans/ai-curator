@@ -1,7 +1,7 @@
 import os, re, hashlib, json, sqlite3, datetime as dt, time
 import feedparser
 import requests
-import urllib.parse as up  # ← これだけでOK
+from urllib.parse import urlparse as up
 from dateutil import parser as dp
 from bs4 import BeautifulSoup
 import polars as pl
