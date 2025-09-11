@@ -186,22 +186,21 @@ def fetch_site_list(feed_cfg):
         return []
 
     # --- エンコーディング補正付きでHTMLデコード ---
-    hinted = (r.encoding or "").lower()
-    cand = []
-    if hinted and hinted not in ("iso-8859-1", "ascii"):
-        cand.append(hinted)
-    cand += ["utf-8", "cp932", "shift_jis", (r.apparent_encoding or "utf-8")]
-    cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
+hinted = (r.encoding or "").lower()
+cand = []
+if hinted and hinted not in ("iso-8859-1", "ascii"):
+    cand.append(hinted)
+cand += ["utf-8", "cp932", "shift_jis", (r.apparent_encoding or "utf-8")]
+cand = [c for i, c in enumerate(cand) if c and c not in cand[:i]]  # 重複除去
 
-    # ★ ここを差し替え（この4行を入れる）
-    domain = up.urlparse((url).netloc
-    if "mirait-one.com" in domain:
-        html = r.content.decode("utf-8", errors="replace")
-    else:
-        html = _decode_best(r.content, cand)
+# ★ この4行に差し替え（全角を混ぜないで完全コピペ）
+domain = up.urlparse(url).netloc
+if "mirait-one.com" in domain:
+    html = r.content.decode("utf-8", errors="replace")
+else:
+    html = _decode_best(r.content, cand)
 
-    soup = BeautifulSoup(html, "html.parser")
-
+soup = BeautifulSoup(html, "html.parser")
 
     def _norm_text(s: str) -> str:
         s = re.sub(r"\s+", " ", s or "").strip()
