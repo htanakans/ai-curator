@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-12 22:36** · **[Announcements Strengthening our safeguards through collaboration with US CAISI and UK AISI Sep 12, 2025](https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi)** — _Anthropic News_
 - **2025-09-11 22:36** · **[Product Bringing memory to teams at work Sep 11, 2025](https://www.anthropic.com/news/memory)** — _Anthropic News_
 - **2025-09-11 16:00** · **[Modeling Attacks on AI-Powered Apps with the AI Kill Chain Framework](https://developer.nvidia.com/blog/modeling-attacks-on-ai-powered-apps-with-the-ai-kill-chain-framework/)** — _NVIDIA Technical Blog_
   - AI-powered applications are introducing new attack surfaces that traditional security models don’t fully capture, especially as these agentic systems gain...
@@ -201,4 +202,3 @@
 - **2025-09-11 12:46** · **[Events](https://cohere.com/events?eventTypes=research)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Events](https://cohere.com/events)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Embed A leading multimodal search and retrieval tool](https://cohere.com/embed)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Developers](https://cohere.com/developers)** — _Cohere Blog_
