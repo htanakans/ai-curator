@@ -1,9 +1,18 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-15 22:38** · **[Societal Impacts Anthropic Economic Index: Tracking AI's role in the US and global economy Sep 15, 2025](https://www.anthropic.com/research/economic-index-geography)** — _Anthropic News_
+- **2025-09-15 22:38** · **[Societal Impacts Anthropic Economic Index report: Uneven geographic and enterprise AI adoption Sep 15, 2025](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report)** — _Anthropic News_
+- **2025-09-15 22:38** · **[Product Claude is now generally available in Xcode Sep 15, 2025](https://www.anthropic.com/news/claude-in-xcode)** — _Anthropic News_
+- **2025-09-15 19:31** · **[Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter](https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/)** — _NVIDIA Technical Blog_
+  - Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to...
+- **2025-09-15 13:00** · **[New Open Source Qwen3-Next Models Preview Hybrid MoE Architecture Delivering Improved Accuracy and Accelerated Parallel Processing across NVIDIA Platform](https://developer.nvidia.com/blog/new-open-source-qwen3-next-models-preview-hybrid-moe-architecture-delivering-improved-accuracy-and-accelerated-parallel-processing-across-nvidia-platform/)** — _NVIDIA Technical Blog_
+  - As AI models grow larger and process longer sequences of text, efficiency becomes just as important as scale.   To showcase what’s next, Alibaba released...
 - **2025-09-12 22:36** · **[Announcements Strengthening our safeguards through collaboration with US CAISI and UK AISI Sep 12, 2025](https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi)** — _Anthropic News_
 - **2025-09-11 22:36** · **[Product Bringing memory to teams at work Sep 11, 2025](https://www.anthropic.com/news/memory)** — _Anthropic News_
 - **2025-09-11 16:00** · **[Modeling Attacks on AI-Powered Apps with the AI Kill Chain Framework](https://developer.nvidia.com/blog/modeling-attacks-on-ai-powered-apps-with-the-ai-kill-chain-framework/)** — _NVIDIA Technical Blog_
   - AI-powered applications are introducing new attack surfaces that traditional security models don’t fully capture, especially as these agentic systems gain...
+- **2025-09-11 16:00** · **[Build High-Performance Vision AI Pipelines with NVIDIA CUDA-Accelerated VC-6](https://developer.nvidia.com/blog/build-high-performance-vision-ai-pipelines-with-nvidia-cuda-accelerated-vc-6/)** — _NVIDIA Technical Blog_
+  - The constantly increasing compute throughput of NVIDIA GPUs presents a new opportunity for optimizing vision AI workloads: keeping the hardware fed with data...
 - **2025-09-11 15:00** · **[How Quantization Aware Training Enables Low-Precision Accuracy Recovery](https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery/)** — _NVIDIA Technical Blog_
   - After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),.
 - **2025-09-11 12:46** · **[サイトマップから探す](sitemap/index.html)** — _ミライト（Mirait One）ニュース_
@@ -196,9 +205,3 @@
 - **2025-09-11 12:46** · **[Products](https://cohere.com/products)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Private Deployments](https://cohere.com/private-deployments)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[privacy policy](https://cohere.com/privacy)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Pricing](https://cohere.com/pricing)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Partners](https://cohere.com/partners)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Newsroom](https://cohere.com/newsroom)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Events](https://cohere.com/events?eventTypes=research)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Events](https://cohere.com/events)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Embed A leading multimodal search and retrieval tool](https://cohere.com/embed)** — _Cohere Blog_
