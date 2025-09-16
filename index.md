@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-16 17:35** · **[Reducing Cold Start Latency for LLM Inference with NVIDIA Run:ai Model Streamer](https://developer.nvidia.com/blog/reducing-cold-start-latency-for-llm-inference-with-nvidia-runai-model-streamer/)** — _NVIDIA Technical Blog_
+  - Deploying large language models (LLMs) poses a challenge in optimizing inference efficiency. In particular, cold start delays—where models take significant...
 - **2025-09-15 22:38** · **[Societal Impacts Anthropic Economic Index: Tracking AI's role in the US and global economy Sep 15, 2025](https://www.anthropic.com/research/economic-index-geography)** — _Anthropic News_
 - **2025-09-15 22:38** · **[Societal Impacts Anthropic Economic Index report: Uneven geographic and enterprise AI adoption Sep 15, 2025](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report)** — _Anthropic News_
 - **2025-09-15 22:38** · **[Product Claude is now generally available in Xcode Sep 15, 2025](https://www.anthropic.com/news/claude-in-xcode)** — _Anthropic News_
@@ -204,4 +206,3 @@
 - **2025-09-11 12:46** · **[Rerank A powerful model that provides a semantic boost to search quality](https://cohere.com/rerank)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Products](https://cohere.com/products)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Private Deployments](https://cohere.com/private-deployments)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[privacy policy](https://cohere.com/privacy)** — _Cohere Blog_
