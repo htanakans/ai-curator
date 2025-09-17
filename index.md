@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-17 18:09** · **[An Introduction to Speculative Decoding for Reducing Latency in AI Inference](https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/)** — _NVIDIA Technical Blog_
+  - Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits.
 - **2025-09-16 17:35** · **[Reducing Cold Start Latency for LLM Inference with NVIDIA Run:ai Model Streamer](https://developer.nvidia.com/blog/reducing-cold-start-latency-for-llm-inference-with-nvidia-runai-model-streamer/)** — _NVIDIA Technical Blog_
   - Deploying large language models (LLMs) poses a challenge in optimizing inference efficiency. In particular, cold start delays—where models take significant...
 - **2025-09-15 22:38** · **[Societal Impacts Anthropic Economic Index: Tracking AI's role in the US and global economy Sep 15, 2025](https://www.anthropic.com/research/economic-index-geography)** — _Anthropic News_
@@ -205,4 +207,3 @@
 - **2025-09-11 12:46** · **[Cohere Labs Cohere's research lab that seeks to solve complex ML problems](https://cohere.com/research)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Rerank A powerful model that provides a semantic boost to search quality](https://cohere.com/rerank)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Products](https://cohere.com/products)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Private Deployments](https://cohere.com/private-deployments)** — _Cohere Blog_
