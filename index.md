@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-18 16:30** · **[How to Reduce KV Cache Bottlenecks with NVIDIA Dynamo](https://developer.nvidia.com/blog/how-to-reduce-kv-cache-bottlenecks-with-nvidia-dynamo/)** — _NVIDIA Technical Blog_
+  - As AI models grow larger and more sophisticated, inference, the process by which a model generates responses, is becoming a major challenge. Large language...
 - **2025-09-17 18:09** · **[An Introduction to Speculative Decoding for Reducing Latency in AI Inference](https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/)** — _NVIDIA Technical Blog_
   - Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits.
 - **2025-09-16 17:35** · **[Reducing Cold Start Latency for LLM Inference with NVIDIA Run:ai Model Streamer](https://developer.nvidia.com/blog/reducing-cold-start-latency-for-llm-inference-with-nvidia-runai-model-streamer/)** — _NVIDIA Technical Blog_
@@ -206,4 +208,3 @@
 - **2025-09-11 12:46** · **[Aya Expanse Leading multilingual models that excel across 23 different languages](https://cohere.com/research/aya)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Cohere Labs Cohere's research lab that seeks to solve complex ML problems](https://cohere.com/research)** — _Cohere Blog_
 - **2025-09-11 12:46** · **[Rerank A powerful model that provides a semantic boost to search quality](https://cohere.com/rerank)** — _Cohere Blog_
-- **2025-09-11 12:46** · **[Products](https://cohere.com/products)** — _Cohere Blog_
