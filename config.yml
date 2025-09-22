@@ -179,19 +179,19 @@ site_feeds:
       - 採用
       - 求人
 
-  - name: ミライト（Mirait One）ニュース
-    url: https://www.mirait-one.com/news/
-    include:
-      - AI
-      - 生成
-      - 自動化
-      - インフラ
-      - DX
-    exclude:
-      - 採用
-      - 求人
-      - IR
-      - 決算
+  #- name: ミライト（Mirait One）ニュース
+  #  url: https://www.mirait-one.com/news/
+  #  include:
+  #    - AI
+  #    - 生成
+  #    - 自動化
+  #    - インフラ
+  #    - DX
+  #  exclude:
+  #    - 採用
+  #    - 求人
+  #    - IR
+  #    - 決算
 
   # --- 建設・設計ソフト（CAD / BIM） ---
   - name: Autodesk News
