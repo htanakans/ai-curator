@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-22 22:39** · <a href="https://www.anthropic.com/economic-futures" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/zeb" target="_blank"><strong>ZEB・ZEH 快適な省エネ建築物の設計・提案、技術開発に取り組んでいます。当社のZEB・ZEH取組方針や実績を紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/overseas" target="_blank"><strong>海外進出サポート</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/laboratory" target="_blank"><strong>技術研究所 本館と幅広い分野の実験施設を備えた技術研究所では「人間と自然環境を結ぶ技術の創出」をコンセプトに掲げ、現在そして将来に向けた研究開発に取り組んでいます。</strong></a> — <em>安藤ハザマ ニュース</em>
@@ -215,4 +216,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/network/group/index-j.html" target="_blank"><strong>国内グループ会社</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/network/global.html" target="_blank"><strong>グローバルネットワーク</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/network/base/index-j.html" target="_blank"><strong>国内主要拠点</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/ir/sustainability/index-j.html" target="_blank"><strong>サステナビリティ経営</strong></a> — <em>鹿島建設 プレス</em>
