@@ -296,7 +296,7 @@ def fetch_site_list(feed_cfg):
     url = feed_cfg["url"]
     name = feed_cfg["name"]
     try:
-        r = requests.get(url, timeout=20, headers={"User-Agent":"ai-curator/1.0"})
+        r = requests.get(url, timeout=20, headers={"User-Agent": "ai-curator/1.0"})
         r.raise_for_status()
     except Exception as e:
         print(f"[WARN] fetch_site_list fail {name}: {e}")
@@ -324,9 +324,9 @@ def fetch_site_list(feed_cfg):
         return unicodedata.normalize("NFKC", s)
 
     rows = []
-    page_seen_hrefs = set()  # 同一ページ内のリンク重複除去
+    page_seen_hrefs = set()  # 同一ページ内リンクの重複除去
 
-        for a in soup.find_all("a")[:200]:
+    for a in soup.find_all("a")[:200]:
         t = _norm_text(a.get_text(" ", strip=True))
         href = a.get("href") or ""
         if not t or not href:
@@ -340,27 +340,27 @@ def fetch_site_list(feed_cfg):
         elif href.startswith("/"):
             href = up.urljoin(url, href)
 
-        # 正規化
+        # 正規化（?utm=…等を削って重複抑制）
         href = normalize_url(href)
 
-        # ページ内での重複除去
-        if href in page_seen_hrefs:
-            continue
-        page_seen_hrefs.add(href)
-
-        # 同一ドメインに限定
+        # 対象ドメイン外は除外（外部リンク排除）
         base_netloc = up.urlparse(url).netloc
         link_netloc = up.urlparse(href).netloc
         if link_netloc and link_netloc != base_netloc:
             continue
 
-        # ノイズ除外（採用・ポリシー・サイトマップ等）
+        # 採用/IR/ポリシー/サイトマップ/検索/問い合わせなどのノイズ除外
         if is_blocked(href, t):
             continue
 
-        # “記事っぽいURL”だけ通す（一覧/カテゴリ等は弾く）
+        # 一覧ではなく“記事っぽい”URLだけに絞る
         if not looks_like_article(href, url):
             continue
+
+        # 同一ページ内での重複除去
+        if href in page_seen_hrefs:
+            continue
+        page_seen_hrefs.add(href)
 
         rows.append(dict(
             id=sha(href),
@@ -374,7 +374,6 @@ def fetch_site_list(feed_cfg):
         ))
         if len(rows) >= 50:
             break
-
 
     return rows
 
