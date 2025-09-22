@@ -17,21 +17,89 @@ DB = DATA / "archive.sqlite3"
 CFG = yaml.safe_load((BASE/"config.yml").read_text(encoding="utf-8"))
 
 
-# --- 追加: リンク生存チェック（RSSのリンク切れを除外） ---
-def is_alive(url: str, timeout=7) -> bool:
-    if not url or not url.startswith(("http://", "https://")):
-        return False
-    headers = {"User-Agent": "ai-curator/1.0 (+github actions)"}
+# ---- URL正規化・フィルタ・HTMLエスケープ・記事判定 ----
+def normalize_url(href: str) -> str:
     try:
-        r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
-        if r.status_code < 400:
+        u = up.urlparse(href)
+        path = (u.path or "/").rstrip("/") or "/"
+        # クエリ・フラグメントは除去（?utm=... 等を落として重複抑制）
+        return up.urlunparse((u.scheme, u.netloc, path, "", "", ""))
+    except Exception:
+        return href or ""
+
+def is_blocked(url: str, title: str) -> bool:
+    """採用/IR/ポリシー/サイトマップ/検索/問い合わせ等のノイズ除外 + 短文見出し除外"""
+    t = (title or "").lower()
+    u = (url or "").lower()
+
+    defaults_words = [
+        "採用","求人","リクルート","募集","インターン","説明会",
+        "ir","決算","株主","投資家","disclosure",
+        "ポリシー","プライバシー","個人情報","利用規約","約款","terms","policy","privacy",
+        "サイトマップ","sitemap","サイト マップ",
+        "検索","search",
+        "お問い合わせ","問い合わせ","contact","inquiry","faq","guideline","ガイドライン","ヘルプ","help",
+        "会社概要","outline","会社案内","アバウト","about"
+    ]
+    defaults_paths = [
+        "/recruit","/career","/careers","/jobs",
+        "/ir","/investor","/shareholder",
+        "/privacy","/policy","/terms","/agreement","/security",
+        "/sitemap","/site-map","/search","/contact","/inquiry","/help","/faq","/guideline",
+        "/company/outline","/about"
+    ]
+
+    cfg_filters = CFG.get("filters", {}) if isinstance(CFG, dict) else {}
+    block_words = cfg_filters.get("block_words", defaults_words)
+    block_paths = cfg_filters.get("block_path_patterns", defaults_paths)
+    min_len     = int(cfg_filters.get("min_title_len", 6))
+
+    if len((title or "").strip()) < min_len:
+        return True
+    if any(w.lower() in t or w.lower() in u for w in block_words):
+        return True
+    if any(p in u for p in block_paths):
+        return True
+    return False
+
+def looks_like_article(url: str, base_url: str = "") -> bool:
+    """
+    記事（詳細）ページっぽいURLだけを通す軽量判定。
+    - 例: /news/2025/..., /press/..., /solution/issue/..., /blog/..., /topics/...
+    - カテゴリや一覧: /news/, /category/, /tag/, /top-category/, /topics/（末尾/のみ）等は除外
+    """
+    try:
+        p = up.urlparse(url)
+        path = (p.path or "/").rstrip("/")
+        if path == "/":
+            return False
+        # 典型的な一覧パスは除外
+        bad_segments = {"news","press","topics","blog","category","tag","tags","top-category","archive","archives","list"}
+        segs = [s for s in path.split("/") if s]
+        if len(segs) == 1 and segs[0] in bad_segments:
+            return False
+        if any(s in {"category","tag","tags","top-category","archive","archives","list","search"} for s in segs):
+            return False
+        # baseドメイン外は別で弾く（fetch_site_list内で実施）
+        # “記事っぽい”ヒューリスティクス
+        has_year = any(re.fullmatch(r"(19|20)\d{2}", s) for s in segs)
+        has_slug = any(len(s) >= 6 and "-" in s for s in segs)
+        has_numeric_id = any(re.fullmatch(r"\d{6,}", s) for s in segs)
+        # よくある記事ルート
+        good_prefixes = ["/news/","/press/","/solution/","/blog/","/topics/","/information/","/docs/"]
+        if any(path.startswith(pref.rstrip("/")) for pref in good_prefixes):
             return True
-        # HEAD を拒否するサイト向けフォールバック
-        r = requests.get(url, allow_redirects=True, timeout=timeout, headers=headers, stream=True)
-        return (r.status_code < 400)
+        # 年・slug・数字IDのいずれかがあるなら記事可能性高
+        return has_year or has_slug or has_numeric_id
     except Exception:
         return False
 
+def html_escape(s: str) -> str:
+    s = s or ""
+    return (s.replace("&","&amp;")
+             .replace("<","&lt;")
+             .replace(">","&gt;")
+             .replace('"',"&quot;"))
 
 def init_db():
     con = sqlite3.connect(DB); cur = con.cursor()
@@ -74,6 +142,10 @@ def fetch_rss(name, url, tags):
         link = (e.get("link") or "").strip()
         # リンク切れはスキップ
         if link and not is_alive(link):
+            continue
+        # ②-1: 不要なリンクを除外（採用情報・サイトポリシーなど）
+        skip_keywords = ["採用", "求人", "リクルート", "募集", "サイトマップ", "検索", "検索結果", "利用規約", "プライバシー", "個人情報", "お問い合わせ"]
+        if any(k in title for k in skip_keywords):
             continue
         summary_html = e.get("summary") or e.get("description") or ""
         summary = BeautifulSoup(summary_html, "html.parser").get_text(" ", strip=True)
@@ -133,7 +205,7 @@ def tidy_and_export():
     lines = ["# AI / 生成AI クリッピング（最新200件）\n"]
     for source, title, url, published, summary in rows_page:
         date = (published or "")[:16].replace("T", " ")
-        lines.append(f"- **{date}** · **[{title}]({url})** — _{source}_")
+        lines.append(f'- **{date}** · <a href="{url}" target="_blank"><strong>{title}</strong></a> — <em>{source}</em>')
         s = (summary or "").strip()
         if s:
             lines.append(f"  - {s[:160]}")
