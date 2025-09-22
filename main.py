@@ -15,6 +15,20 @@ BASE = Path(__file__).parent
 DATA = BASE / "data"; DATA.mkdir(exist_ok=True)
 DB = DATA / "archive.sqlite3"
 CFG = yaml.safe_load((BASE/"config.yml").read_text(encoding="utf-8"))
+# --- リンク生存チェック（404/リダイレクト等を軽量判定） ---
+def is_alive(url: str, timeout=7) -> bool:
+    if not url or not url.startswith(("http://", "https://")):
+        return False
+    headers = {"User-Agent": "ai-curator/1.0 (+github actions)"}
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
+        if r.status_code < 400:
+            return True
+        # HEAD拒否サイト向けフォールバック
+        r = requests.get(url, allow_redirects=True, timeout=timeout, headers=headers, stream=True)
+        return r.status_code < 400
+    except Exception:
+        return False
 
 
 # ---- URL正規化・フィルタ・HTMLエスケープ・記事判定 ----
@@ -139,21 +153,23 @@ def fetch_rss(name, url, tags):
     rows = []
     for e in d.entries:
         title = (e.get("title") or "").strip()
-        link = (e.get("link") or "").strip()
-        # リンク切れはスキップ
+        link = normalize_url((e.get("link") or "").strip())
+
+        # リンク切れ・ノイズ記事を除外
         if link and not is_alive(link):
             continue
-        # ②-1: 不要なリンクを除外（採用情報・サイトポリシーなど）
-        skip_keywords = ["採用", "求人", "リクルート", "募集", "サイトマップ", "検索", "検索結果", "利用規約", "プライバシー", "個人情報", "お問い合わせ"]
-        if any(k in title for k in skip_keywords):
+        if is_blocked(link, title):
             continue
+
         summary_html = e.get("summary") or e.get("description") or ""
         summary = BeautifulSoup(summary_html, "html.parser").get_text(" ", strip=True)
-        if not title and not link: 
+
+        if not title and not link:
             continue
-        if not passes_filters(title, summary): 
+        if not passes_filters(title, summary):
             continue
-        uid = sha(link or title or (name+summary))
+
+        uid = sha(link or title or (name + summary))
         pub = e.get("published") or e.get("updated") or ""
         rows.append(dict(
             id=uid,
@@ -163,9 +179,10 @@ def fetch_rss(name, url, tags):
             published=norm_date(pub),
             summary=summary[:2000],
             tags=",".join(tags or []),
-            raw=json.dumps({k:str(v)[:10000] for k,v in e.items()}, ensure_ascii=False)
+            raw=json.dumps({k: str(v)[:10000] for k, v in e.items()}, ensure_ascii=False)
         ))
     return rows
+
 
 
 def upsert(rows):
@@ -309,7 +326,7 @@ def fetch_site_list(feed_cfg):
     rows = []
     page_seen_hrefs = set()  # 同一ページ内のリンク重複除去
 
-    for a in soup.find_all("a")[:200]:
+        for a in soup.find_all("a")[:200]:
         t = _norm_text(a.get_text(" ", strip=True))
         href = a.get("href") or ""
         if not t or not href:
@@ -323,20 +340,27 @@ def fetch_site_list(feed_cfg):
         elif href.startswith("/"):
             href = up.urljoin(url, href)
 
+        # 正規化
+        href = normalize_url(href)
+
         # ページ内での重複除去
         if href in page_seen_hrefs:
             continue
         page_seen_hrefs.add(href)
 
-        # 対象ドメイン外は除外（外部リンク排除）
+        # 同一ドメインに限定
         base_netloc = up.urlparse(url).netloc
         link_netloc = up.urlparse(href).netloc
         if link_netloc and link_netloc != base_netloc:
             continue
 
-        # （必要なら）生存チェック。サイト一覧は負荷軽くしたいならコメントアウト可
-        # if not is_alive(href):
-        #     continue
+        # ノイズ除外（採用・ポリシー・サイトマップ等）
+        if is_blocked(href, t):
+            continue
+
+        # “記事っぽいURL”だけ通す（一覧/カテゴリ等は弾く）
+        if not looks_like_article(href, url):
+            continue
 
         rows.append(dict(
             id=sha(href),
@@ -350,6 +374,7 @@ def fetch_site_list(feed_cfg):
         ))
         if len(rows) >= 50:
             break
+
 
     return rows
 
