@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-23 19:20** · <a href="https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs" target="_blank"><strong>Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC...
+- **2025-09-23 16:36** · <a href="https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo" target="_blank"><strong>Faster Training Throughput in FP8 Precision with NVIDIA NeMo</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In previous posts on FP8 training, we explored the fundamentals of FP8 precision and took a deep dive into the various scaling recipes for practical large-scale
+- **2025-09-23 15:30** · <a href="https://developer.nvidia.com/blog/reasoning-through-molecular-synthetic-pathways-with-generative-ai" target="_blank"><strong>Reasoning Through Molecular Synthetic Pathways with Generative AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - A recurring challenge in molecular design, whether for pharmaceutical, chemical, or material applications, is creating synthesizable molecules. Synthesizability
 - **2025-09-22 22:39** · <a href="https://www.anthropic.com/economic-futures" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/zeb" target="_blank"><strong>ZEB・ZEH 快適な省エネ建築物の設計・提案、技術開発に取り組んでいます。当社のZEB・ZEH取組方針や実績を紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/overseas" target="_blank"><strong>海外進出サポート</strong></a> — <em>安藤ハザマ ニュース</em>
@@ -213,6 +219,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/partner/index-j.html" target="_blank"><strong>協力会社の皆様へ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/news/press/index-j.html" target="_blank"><strong>プレスリリース</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/news/observe/index.html" target="_blank"><strong>学生向けイベント情報</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/network/group/index-j.html" target="_blank"><strong>国内グループ会社</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/network/global.html" target="_blank"><strong>グローバルネットワーク</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/network/base/index-j.html" target="_blank"><strong>国内主要拠点</strong></a> — <em>鹿島建設 プレス</em>
