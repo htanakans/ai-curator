@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-24 22:35** · <a href="202509/pdf/24a1-j.pdf" target="_blank"><strong>JR「関内」駅前 大規模ミクストユース型プロジェクト 「BASEGATE 横浜関内」2026年3月19日グランドオープン 入居テナント55店舗の詳細と小割飲食ゾーンの名称を発表</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-09-24 22:35** · <a href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot" target="_blank"><strong>Announcements Claude is now available in Microsoft 365 Copilot Sep 24, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-09-24 17:00** · <a href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model" target="_blank"><strong>NVIDIA Open Sources Audio2Face Animation Model</strong></a> — <em>NVIDIA Technical Blog</em>
+  - By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games
 - **2025-09-23 19:20** · <a href="https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs" target="_blank"><strong>Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs</strong></a> — <em>NVIDIA Technical Blog</em>
   - Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC...
 - **2025-09-23 16:36** · <a href="https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo" target="_blank"><strong>Faster Training Throughput in FP8 Precision with NVIDIA NeMo</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -216,6 +220,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/message/index-j.html" target="_blank"><strong>社長ごあいさつ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/index-j.html" target="_blank"><strong>企業情報のトップページへ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/governance/corporate_governance/index-j.html" target="_blank"><strong>コーポレート・ガバナンス</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/partner/index-j.html" target="_blank"><strong>協力会社の皆様へ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/news/press/index-j.html" target="_blank"><strong>プレスリリース</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/news/observe/index.html" target="_blank"><strong>学生向けイベント情報</strong></a> — <em>鹿島建設 プレス</em>
