@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-25 16:42** · <a href="https://developer.nvidia.com/blog/how-to-integrate-computer-vision-pipelines-with-generative-ai-and-reasoning" target="_blank"><strong>How to Integrate Computer Vision Pipelines with Generative AI and Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Generative AI is opening new possibilities for analyzing existing video streams. Video analytics are evolving from counting objects to turning raw video content
+- **2025-09-25 16:30** · <a href="https://developer.nvidia.com/blog/how-to-gpu-accelerate-model-training-with-cuda-x-data-science" target="_blank"><strong>How to GPU-Accelerate Model Training with CUDA-X Data Science</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In previous posts on AI in manufacturing and operations, we covered the unique data challenges in the supply chain and how smart feature engineering can...
 - **2025-09-24 22:35** · <a href="202509/pdf/24a1-j.pdf" target="_blank"><strong>JR「関内」駅前 大規模ミクストユース型プロジェクト 「BASEGATE 横浜関内」2026年3月19日グランドオープン 入居テナント55店舗の詳細と小割飲食ゾーンの名称を発表</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-24 22:35** · <a href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot" target="_blank"><strong>Announcements Claude is now available in Microsoft 365 Copilot Sep 24, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-24 17:00** · <a href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model" target="_blank"><strong>NVIDIA Open Sources Audio2Face Animation Model</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -218,5 +222,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/global/index.html" target="_blank"><strong>留学生の皆様へ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/policy/index-j.html" target="_blank"><strong>基本方針と 安全衛生・環境・品質方針</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/message/index-j.html" target="_blank"><strong>社長ごあいさつ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/index-j.html" target="_blank"><strong>企業情報のトップページへ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/governance/corporate_governance/index-j.html" target="_blank"><strong>コーポレート・ガバナンス</strong></a> — <em>鹿島建設 プレス</em>
