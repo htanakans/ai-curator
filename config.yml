@@ -246,3 +246,7 @@ keywords:
 output:
   rss_max_items: 150
   snapshot_keep_days: 30
+filters:
+  block_domains:
+    - mirait-one.com
+    - www.mirait-one.com
