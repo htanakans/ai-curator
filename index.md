@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-26 16:31** · <a href="https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models" target="_blank"><strong>Why CVEs Belong in Frameworks and Apps, Not AI Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA,.
 - **2025-09-25 16:42** · <a href="https://developer.nvidia.com/blog/how-to-integrate-computer-vision-pipelines-with-generative-ai-and-reasoning" target="_blank"><strong>How to Integrate Computer Vision Pipelines with Generative AI and Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
   - Generative AI is opening new possibilities for analyzing existing video streams. Video analytics are evolving from counting objects to turning raw video content
 - **2025-09-25 16:30** · <a href="https://developer.nvidia.com/blog/how-to-gpu-accelerate-model-training-with-cuda-x-data-science" target="_blank"><strong>How to GPU-Accelerate Model Training with CUDA-X Data Science</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -221,4 +223,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/group/index.html" target="_blank"><strong>国内グループ会社採用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/global/index.html" target="_blank"><strong>留学生の皆様へ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/policy/index-j.html" target="_blank"><strong>基本方針と 安全衛生・環境・品質方針</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/message/index-j.html" target="_blank"><strong>社長ごあいさつ</strong></a> — <em>鹿島建設 プレス</em>
