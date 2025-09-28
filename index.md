@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-28 15:00** · <a href="https://events.zoom.us/ev/Ag9h43l88Btk65TlD9a2oZD5gLWhBD4HPbnApXEgazabeggG1Amq~Ah35JdKFc3kjnPkJVjccd7ubm35Av5p_vKJviCDFm-OnTsouYuioDrkaYg" target="_blank"><strong>Upcoming Digital Event: Open Accelerated Computing Summit</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Join the OAC Summit on October 7-8 and dive into recent research at the crossroads of AI and HPC.
 - **2025-09-26 16:31** · <a href="https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models" target="_blank"><strong>Why CVEs Belong in Frameworks and Apps, Not AI Models</strong></a> — <em>NVIDIA Technical Blog</em>
   - The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA,.
 - **2025-09-25 16:42** · <a href="https://developer.nvidia.com/blog/how-to-integrate-computer-vision-pipelines-with-generative-ai-and-reasoning" target="_blank"><strong>How to Integrate Computer Vision Pipelines with Generative AI and Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -222,4 +224,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/new/index.html" target="_blank"><strong>新卒採用・インターンシップ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/group/index.html" target="_blank"><strong>国内グループ会社採用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/global/index.html" target="_blank"><strong>留学生の皆様へ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/policy/index-j.html" target="_blank"><strong>基本方針と 安全衛生・環境・品質方針</strong></a> — <em>鹿島建設 プレス</em>
