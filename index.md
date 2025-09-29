@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously" target="_blank"><strong>Product Enabling Claude Code to work more autonomously Sep 29, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/context-management" target="_blank"><strong>Product Managing context on the Claude Developer Platform Sep 29, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank"><strong>Announcements Introducing Claude Sonnet 4.5 Sep 29, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-09-29 15:00** · <a href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo" target="_blank"><strong>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high...
 - **2025-09-28 15:00** · <a href="https://events.zoom.us/ev/Ag9h43l88Btk65TlD9a2oZD5gLWhBD4HPbnApXEgazabeggG1Amq~Ah35JdKFc3kjnPkJVjccd7ubm35Av5p_vKJviCDFm-OnTsouYuioDrkaYg" target="_blank"><strong>Upcoming Digital Event: Open Accelerated Computing Summit</strong></a> — <em>NVIDIA Technical Blog</em>
   - Join the OAC Summit on October 7-8 and dive into recent research at the crossroads of AI and HPC.
 - **2025-09-26 16:31** · <a href="https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models" target="_blank"><strong>Why CVEs Belong in Frameworks and Apps, Not AI Models</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -220,7 +225,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/site/index-j.html" target="_blank"><strong>現場ホームページリンク集</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/recruit/index-j.html" target="_blank"><strong>採用・インターンシップ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/project/site_repo/index-j.html" target="_blank"><strong>THE SITE:現場レポート</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/project/projects_portal/index.html" target="_blank"><strong>鹿島の実績集</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/new/index.html" target="_blank"><strong>新卒採用・インターンシップ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/group/index.html" target="_blank"><strong>国内グループ会社採用</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/prof/recruit/global/index.html" target="_blank"><strong>留学生の皆様へ</strong></a> — <em>鹿島建設 プレス</em>
