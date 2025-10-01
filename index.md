@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-01 22:40** · <a href="202510/1a1-j.htm" target="_blank"><strong>無垢の杉材を用いた木質耐火被覆工法「Tie-KaSOLID ® 」を実適用</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/driving-ai-transformation-with-claude" target="_blank"><strong>Announcements How enterprises are driving AI transformation with Claude Oct 01, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/claude-and-slack" target="_blank"><strong>Product Claude and Slack Oct 01, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously" target="_blank"><strong>Product Enabling Claude Code to work more autonomously Sep 29, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/context-management" target="_blank"><strong>Product Managing context on the Claude Developer Platform Sep 29, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank"><strong>Announcements Introducing Claude Sonnet 4.5 Sep 29, 2025</strong></a> — <em>Anthropic News</em>
@@ -222,6 +225,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/forest/index.html" target="_blank"><strong>鹿島グループの森林</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/evaluation/index-j.html" target="_blank"><strong>社外からの評価</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/data/index-j.html" target="_blank"><strong>サステナビリティデータ・ GRI内容索引</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/site/index-j.html" target="_blank"><strong>現場ホームページリンク集</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/recruit/index-j.html" target="_blank"><strong>採用・インターンシップ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/project/site_repo/index-j.html" target="_blank"><strong>THE SITE:現場レポート</strong></a> — <em>鹿島建設 プレス</em>
