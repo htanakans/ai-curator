@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-02 22:37** · <a href="202510/2e1-j.htm" target="_blank"><strong>鹿島の社有林が地域生物多様性増進法に基づく自然共生サイトの第一弾に認定</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI’s-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI’s Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
+- **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-September" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-10-01 22:40** · <a href="202510/1a1-j.htm" target="_blank"><strong>無垢の杉材を用いた木質耐火被覆工法「Tie-KaSOLID ® 」を実適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/driving-ai-transformation-with-claude" target="_blank"><strong>Announcements How enterprises are driving AI transformation with Claude Oct 01, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/claude-and-slack" target="_blank"><strong>Product Claude and Slack Oct 01, 2025</strong></a> — <em>Anthropic News</em>
@@ -222,6 +225,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/materiality/index-j.html" target="_blank"><strong>鹿島グループのマテリアリティ (重要課題)</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/initiative/index-j.html" target="_blank"><strong>イニシアティブへの参画</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/index-j.html" target="_blank"><strong>サステナビリティ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/forest/index.html" target="_blank"><strong>鹿島グループの森林</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/evaluation/index-j.html" target="_blank"><strong>社外からの評価</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/data/index-j.html" target="_blank"><strong>サステナビリティデータ・ GRI内容索引</strong></a> — <em>鹿島建設 プレス</em>
