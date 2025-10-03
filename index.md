@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-03 22:35** · <a href="202510/pdf/3a1-j.pdf" target="_blank"><strong>クールな日本がここにある。“JAPAN”な夜を楽しむ「ハネダ夜街」イベント詳細決定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-02 22:37** · <a href="202510/2e1-j.htm" target="_blank"><strong>鹿島の社有林が地域生物多様性増進法に基づく自然共生サイトの第一弾に認定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI’s-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI’s Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
 - **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-September" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
@@ -224,4 +225,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/sdgs/index-j.html" target="_blank"><strong>SDGsと鹿島の事業活動</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/materiality/index-j.html" target="_blank"><strong>鹿島グループのマテリアリティ (重要課題)</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/initiative/index-j.html" target="_blank"><strong>イニシアティブへの参画</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/index-j.html" target="_blank"><strong>サステナビリティ</strong></a> — <em>鹿島建設 プレス</em>
