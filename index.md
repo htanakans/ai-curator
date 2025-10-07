@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-07 22:39** · <a href="202510/7c1-j.htm" target="_blank"><strong>施工延長が短い床版取替工事に適した「シングルSDR」を実工事に初導入</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-07 22:39** · <a href="https://www.anthropic.com/news/rahul-patil-joins-anthropic" target="_blank"><strong>Announcements Rahul Patil joins Anthropic as Chief Technology Officer Oct 7, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-06 22:37** · <a href="https://www.anthropic.com/news/deloitte-anthropic-partnership" target="_blank"><strong>Announcements Deloitte will make Claude available to 470,000 people across its global network Oct 06, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-06 16:00** · <a href="https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine" target="_blank"><strong>Speeding Up Data Decompression with nvCOMP and the NVIDIA Blackwell Decompression Engine</strong></a> — <em>NVIDIA Technical Blog</em>
   - Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications,...
@@ -224,5 +226,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/sustainability_topics/index-j.html" target="_blank"><strong>サステナビリティニュース</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/stake_holder/index-j.html" target="_blank"><strong>ステークホルダー (方針・エンゲージメント)</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/social_topics/index-j.html" target="_blank"><strong>社会貢献トピックス</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/social_contribution/index-j.html" target="_blank"><strong>社会貢献活動</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/sdgs/index-j.html" target="_blank"><strong>SDGsと鹿島の事業活動</strong></a> — <em>鹿島建設 プレス</em>
