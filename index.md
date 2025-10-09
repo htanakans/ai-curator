@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-09 22:40** · <a href="202510/9c1-j.htm" target="_blank"><strong>CO 2 -SUICOM製の大型ブロック擁壁を高速道路工事に初適用</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-09 22:39** · <a href="https://www.anthropic.com/news/claude-code-plugins" target="_blank"><strong>Product Customize Claude Code with plugins Oct 09, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-10-09 16:00** · <a href="https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools" target="_blank"><strong>From Assistant to Adversary: Exploiting Agentic AI Developer Tools</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...
 - **2025-10-08 22:40** · <a href="https://www.anthropic.com/news/expanding-global-operations-to-india" target="_blank"><strong>Announcements Expanding our global operations to India with our second Asia Pacific office Oct 07, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-08 16:58** · <a href="https://developer.nvidia.com/blog/training-federated-ai-models-to-predict-protein-properties" target="_blank"><strong>Training Federated AI Models to Predict Protein Properties</strong></a> — <em>NVIDIA Technical Blog</em>
   - Predicting where proteins are located inside a cell is critical in biology and drug discovery. This process is known as subcellular localization. The location..
@@ -224,6 +228,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/index-j.html#tab02" target="_blank"><strong>ニーズから探す</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/index-j.html" target="_blank"><strong>技術とサービス</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/engineering/index.html#anc_tech_menu_all" target="_blank"><strong>エンジニアリング事業</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/system/index-j.html" target="_blank"><strong>サステナビリティ推進体制</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/sustainable_finance/index-j.html" target="_blank"><strong>サステナブルファイナンス</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/sustainability/sustainability_topics/index-j.html" target="_blank"><strong>サステナビリティニュース</strong></a> — <em>鹿島建設 プレス</em>
