@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-10 16:00** · <a href="https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron" target="_blank"><strong>Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...
 - **2025-10-09 22:40** · <a href="202510/9c1-j.htm" target="_blank"><strong>CO 2 -SUICOM製の大型ブロック擁壁を高速道路工事に初適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-09 22:39** · <a href="https://www.anthropic.com/news/claude-code-plugins" target="_blank"><strong>Product Customize Claude Code with plugins Oct 09, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-09 16:00** · <a href="https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools" target="_blank"><strong>From Assistant to Adversary: Exploiting Agentic AI Developer Tools</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -227,4 +229,3 @@
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/kajima_group/index.html" target="_blank"><strong>鹿島グループ</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/index-j.html#tab02" target="_blank"><strong>ニーズから探す</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/index-j.html" target="_blank"><strong>技術とサービス</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/engineering/index.html#anc_tech_menu_all" target="_blank"><strong>エンジニアリング事業</strong></a> — <em>鹿島建設 プレス</em>
