@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-13 15:00** · <a href="https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories" target="_blank"><strong>Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed.
+- **2025-10-13 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-iccv-2025" target="_blank"><strong>International Conference on Computer Vision (ICCV) 2025</strong></a> — <em>Apple ML Research</em>
+  - Apple is presenting new work at the biennial International Conference on Computer Vision (ICCV) , which takes place in person from October 19 to 23, in Honolulu
 - **2025-10-10 16:00** · <a href="https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron" target="_blank"><strong>Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
   - Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...
 - **2025-10-09 22:40** · <a href="202510/9c1-j.htm" target="_blank"><strong>CO 2 -SUICOM製の大型ブロック擁壁を高速道路工事に初適用</strong></a> — <em>鹿島建設 プレス</em>
@@ -227,5 +231,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/#library" target="_blank"><strong>ライブラリー</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/" target="_blank"><strong>会社情報トップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/kajima_group/index.html" target="_blank"><strong>鹿島グループ</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/index-j.html#tab02" target="_blank"><strong>ニーズから探す</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-11 12:46** · <a href="https://www.kajima.co.jp/tech/index-j.html" target="_blank"><strong>技術とサービス</strong></a> — <em>鹿島建設 プレス</em>
