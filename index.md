@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-15 22:33** · <a href="https://www.anthropic.com/news/claude-haiku-4-5" target="_blank"><strong>Product Introducing Claude Haiku 4.5 Oct 15, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-10-15 19:39** · <a href="https://nvidia-aws.devpost.com/" target="_blank"><strong>Agentic AI Unleashed: Join the AWS & NVIDIA Hackathon</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Build the next generation of intelligent, autonomous applications. This isn't just a hackathon—it's your chance to unleash the power of agentic AI and show...
+- **2025-10-15 18:25** · <a href="https://developer.nvidia.com/blog/unlock-faster-smarter-edge-models-with-7x-gen-ai-performance-on-nvidia-jetson-agx-thor" target="_blank"><strong>Unlock Faster, Smarter Edge Models with 7x Gen AI Performance on NVIDIA Jetson AGX Thor</strong></a> — <em>NVIDIA Technical Blog</em>
+  - A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x..
+- **2025-10-15 18:06** · <a href="https://developer.nvidia.com/blog/accelerated-and-distributed-upf-for-the-era-of-agentic-ai-and-6g" target="_blank"><strong>Accelerated and Distributed UPF for the Era of Agentic AI and 6G</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The telecommunications industry is innovating rapidly toward 6G for both AI-native Radio Access Networks (AI-RAN) and AI-Core. The distributed User Plane...
 - **2025-10-14 22:33** · <a href="https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership" target="_blank"><strong>Announcements Anthropic and Salesforce expand partnership to bring Claude to regulated industries Oct 14, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-13 15:00** · <a href="https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories" target="_blank"><strong>Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed.
@@ -227,7 +234,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/recruit/" target="_blank"><strong>採用情報トップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/philosophy/" target="_blank"><strong>企業理念・行動規範</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/network_foreign/" target="_blank"><strong>海外ネットワーク</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/network_domestic/" target="_blank"><strong>国内ネットワーク</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/group/" target="_blank"><strong>グループ会社一覧</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/#library" target="_blank"><strong>ライブラリー</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/" target="_blank"><strong>会社情報トップ</strong></a> — <em>安藤ハザマ ニュース</em>
