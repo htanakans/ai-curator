@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-17 22:33** · <a href="202510/17m1-j.htm" target="_blank"><strong>現場見学会「鹿島サマースクール」に82名が参加</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/skills" target="_blank"><strong>Product Introducing Claude Skills Oct 16, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/productivity-platforms" target="_blank"><strong>Product Claude and your productivity platforms Oct 16, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-15 22:33** · <a href="https://www.anthropic.com/news/claude-haiku-4-5" target="_blank"><strong>Product Introducing Claude Haiku 4.5 Oct 15, 2025</strong></a> — <em>Anthropic News</em>
@@ -233,4 +234,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/" target="_blank"><strong>株主・投資家情報トップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/info/2025/20250214_01.php" target="_blank"><strong>株主総会資料の書面交付をご希望の株主様へ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/info/" target="_blank"><strong>ニュース一覧</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/corporate/recruit/" target="_blank"><strong>採用情報トップ</strong></a> — <em>安藤ハザマ ニュース</em>
