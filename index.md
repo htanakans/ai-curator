@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-for-life-sciences" target="_blank"><strong>Announcements Claude for Life Sciences Oct 20, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-code-on-the-web" target="_blank"><strong>Product Claude Code on the web Oct 20, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-10-20 17:00** · <a href="https://developer.nvidia.com/blog/build-an-ai-agent-to-analyze-it-tickets-with-nvidia-nemotron" target="_blank"><strong>Build an AI Agent to Analyze IT Tickets with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Modern organizations generate a massive volume of operational data through ticketing systems, incident reports, service requests, support escalations, and more.
+- **2025-10-20 16:30** · <a href="https://developer.nvidia.com/blog/enabling-scalable-ai-driven-molecular-dynamics-simulations" target="_blank"><strong>Enabling Scalable AI-Driven Molecular Dynamics Simulations</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Molecular dynamics (MD) simulations are a powerful tool in computational chemistry and materials science, and they’re essential for studying chemical...
+- **2025-10-20 16:00** · <a href="https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems" target="_blank"><strong>Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...
 - **2025-10-17 22:33** · <a href="202510/17m1-j.htm" target="_blank"><strong>現場見学会「鹿島サマースクール」に82名が参加</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/skills" target="_blank"><strong>Product Introducing Claude Skills Oct 16, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/productivity-platforms" target="_blank"><strong>Product Claude and your productivity platforms Oct 16, 2025</strong></a> — <em>Anthropic News</em>
@@ -229,8 +237,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/factbook/" target="_blank"><strong>ファクトブック</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/disclosure/" target="_blank"><strong>ディスクロージャーポリシー</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/calendar/" target="_blank"><strong>IRカレンダー</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/business/" target="_blank"><strong>報告書(ビジネスレポート)</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/archives/" target="_blank"><strong>決算説明資料</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/" target="_blank"><strong>株主・投資家情報トップ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/info/2025/20250214_01.php" target="_blank"><strong>株主総会資料の書面交付をご希望の株主様へ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/info/" target="_blank"><strong>ニュース一覧</strong></a> — <em>安藤ハザマ ニュース</em>
