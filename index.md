@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-21 22:31** · <a href="https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership" target="_blank"><strong>Announcements A statement from Dario Amodei on Anthropic's commitment to American AI leadership Oct 21, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-10-21 20:05** · <a href="https://www.nvidia.com/en-us/learn/learning-path/deep-learning" target="_blank"><strong>Build Practical Deep-Learning Skills for Real-World AI Applications with the New NVIDIA Learning Path</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Check out the learning path page and sign up for courses, workshops, and certifications to help develop your skills.
 - **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-for-life-sciences" target="_blank"><strong>Announcements Claude for Life Sciences Oct 20, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-code-on-the-web" target="_blank"><strong>Product Claude Code on the web Oct 20, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-20 17:00** · <a href="https://developer.nvidia.com/blog/build-an-ai-agent-to-analyze-it-tickets-with-nvidia-nemotron" target="_blank"><strong>Build an AI Agent to Analyze IT Tickets with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -235,5 +238,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/ir_news/" target="_blank"><strong>IRニュース</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/highlight/" target="_blank"><strong>業績ハイライト</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/factbook/" target="_blank"><strong>ファクトブック</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/disclosure/" target="_blank"><strong>ディスクロージャーポリシー</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/calendar/" target="_blank"><strong>IRカレンダー</strong></a> — <em>安藤ハザマ ニュース</em>
