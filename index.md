@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-23 22:34** · <a href="202510/pdf/23a1-j.pdf" target="_blank"><strong>東京証券取引所ビル本館で耐震バリューアップを実施</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights%20on%20AI:%20Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights on AI: Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>October 23, 2025 | Imaging & Sensing Sony AI Sights on AI: Expanding Human Perception Through AI – A Conversation with Daisuke Iso</strong></a> — <em>Sony AI News</em>
+- **2025-10-23 22:34** · <a href="https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services" target="_blank"><strong>Announcements Expanding our use of Google Cloud TPUs and Services Oct 23, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-21 22:31** · <a href="https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership" target="_blank"><strong>Announcements A statement from Dario Amodei on Anthropic's commitment to American AI leadership Oct 21, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-21 20:05** · <a href="https://www.nvidia.com/en-us/learn/learning-path/deep-learning" target="_blank"><strong>Build Practical Deep-Learning Skills for Real-World AI Applications with the New NVIDIA Learning Path</strong></a> — <em>NVIDIA Technical Blog</em>
   - Check out the learning path page and sign up for courses, workshops, and certifications to help develop your skills.
@@ -234,7 +238,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/qa/" target="_blank"><strong>個人株主・投資家の皆様へ(よくあるご質問)</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/profitloss/" target="_blank"><strong>有価証券報告書</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/plan/" target="_blank"><strong>長期ビジョン・中期経営計画</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/message/" target="_blank"><strong>トップメッセージ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/ir_news/" target="_blank"><strong>IRニュース</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/highlight/" target="_blank"><strong>業績ハイライト</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/factbook/" target="_blank"><strong>ファクトブック</strong></a> — <em>安藤ハザマ ニュース</em>
