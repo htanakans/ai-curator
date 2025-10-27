@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-27 22:34** · <a href="202510/27a1-j.htm" target="_blank"><strong>世界最高レベルの制震効率を発揮する電気不要の環境配慮型オイルダンパー「HiDAX ® -Re」を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-27 22:34** · <a href="https://www.anthropic.com/news/advancing-claude-for-financial-services" target="_blank"><strong>Announcements Advancing Claude for Financial Services Oct 27, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-24 22:35** · <a href="https://mistral.ai/products/ai-studio" target="_blank"><strong>AI Studio</strong></a> — <em>Mistral AI News</em>
 - **2025-10-24 22:35** · <a href="https://mistral.ai/news/ai-studio" target="_blank"><strong>Introducing Mistral AI Studio. Product October 24, 2025 Mistral AI The Production AI Platform.</strong></a> — <em>Mistral AI News</em>
 - **2025-10-23 22:34** · <a href="202510/pdf/23a1-j.pdf" target="_blank"><strong>東京証券取引所ビル本館で耐震バリューアップを実施</strong></a> — <em>鹿島建設 プレス</em>
@@ -236,5 +238,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/new_energy/" target="_blank"><strong>次世代エネルギープロジェクト 水素も利用可能なプラントを技術研究所に設置し、省CO2エネルギーを広域に届ける統合エネルギーマネジメントシステムを構築しています。本プロジェクトを通じて脱炭素・循環型社会の実現を目指します。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/library/" target="_blank"><strong>スポンサーシップ 安藤ハザマは若手アスリートの活動のサポートを通じて、次世代を担う若者の挑戦を支援していきます。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/cm/" target="_blank"><strong>CMギャラリー ケンチくん・ドボくん・ミライちゃん 安藤ハザマのTVCMをご紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/ahad/" target="_blank"><strong>安藤ハザマ建築設計 安藤ハザマ建築設計のコンテンツです。設計施工実績集の他、特集記事や各部門の紹介を掲載しています。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/ir/qa/" target="_blank"><strong>個人株主・投資家の皆様へ(よくあるご質問)</strong></a> — <em>安藤ハザマ ニュース</em>
