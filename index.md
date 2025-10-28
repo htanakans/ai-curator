@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-28 22:35** · <a href="202510/pdf/28c1-j.pdf" target="_blank"><strong>「湯西川ダム新水力発電所設置・運営事業」の事業候補者に特定</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-28 20:00** · <a href="https://developer.nvidia.com/blog/introducing-the-codonfm-open-model-for-rna-design-and-analysis" target="_blank"><strong>Introducing the CodonFM Open Model for RNA Design and Analysis</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Open research is critical for driving innovation, and many breakthroughs in AI and science are achieved through open collaboration. In the field of digital...
+- **2025-10-28 17:32** · <a href="https://developer.nvidia.com/blog/develop-specialized-ai-agents-with-new-nvidia-nemotron-vision-rag-and-guardrail-models" target="_blank"><strong>Develop Specialized AI Agents with New NVIDIA Nemotron Vision, RAG, and Guardrail Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI is an ecosystem where specialized language and vision models work together. They handle planning, reasoning, retrieval, and safety guardrailing....
 - **2025-10-27 22:34** · <a href="202510/27a1-j.htm" target="_blank"><strong>世界最高レベルの制震効率を発揮する電気不要の環境配慮型オイルダンパー「HiDAX ® -Re」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-27 22:34** · <a href="https://www.anthropic.com/news/advancing-claude-for-financial-services" target="_blank"><strong>Announcements Advancing Claude for Financial Services Oct 27, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-24 22:35** · <a href="https://mistral.ai/products/ai-studio" target="_blank"><strong>AI Studio</strong></a> — <em>Mistral AI News</em>
@@ -235,6 +240,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sitemap/" target="_blank"><strong>サイトマップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/purch/" target="_blank"><strong>協力会社の皆様へ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/takiginou/2025/" target="_blank"><strong>第44回明治神宮薪能へのご招待 今年で第44回を迎える明治神宮薪能開催のお知らせです。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/new_energy/" target="_blank"><strong>次世代エネルギープロジェクト 水素も利用可能なプラントを技術研究所に設置し、省CO2エネルギーを広域に届ける統合エネルギーマネジメントシステムを構築しています。本プロジェクトを通じて脱炭素・循環型社会の実現を目指します。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/library/" target="_blank"><strong>スポンサーシップ 安藤ハザマは若手アスリートの活動のサポートを通じて、次世代を担う若者の挑戦を支援していきます。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/cm/" target="_blank"><strong>CMギャラリー ケンチくん・ドボくん・ミライちゃん 安藤ハザマのTVCMをご紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
