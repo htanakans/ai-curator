@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-29 22:36** · <a href="202510/pdf/29a1-j.pdf" target="_blank"><strong>ポップカルチャーとテクノロジーの未来を体験できるイベント『ちょっと先のおもしろい未来 -CHANGE TOMORROW-』を開催</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-10-29 22:36** · <a href="https://www.anthropic.com/news/opening-our-tokyo-office" target="_blank"><strong>Announcements Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute Oct 29, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-28 22:35** · <a href="202510/pdf/28c1-j.pdf" target="_blank"><strong>「湯西川ダム新水力発電所設置・運営事業」の事業候補者に特定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-28 20:00** · <a href="https://developer.nvidia.com/blog/introducing-the-codonfm-open-model-for-rna-design-and-analysis" target="_blank"><strong>Introducing the CodonFM Open Model for RNA Design and Analysis</strong></a> — <em>NVIDIA Technical Blog</em>
   - Open research is critical for driving innovation, and many breakthroughs in AI and science are achieved through open collaboration. In the field of digital...
@@ -238,5 +240,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/#real_estate" target="_blank"><strong>不動産事業 インフラ運営事業</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/" target="_blank"><strong>技術・ ソリューション</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sitemap/" target="_blank"><strong>サイトマップ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/purch/" target="_blank"><strong>協力会社の皆様へ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/lp/takiginou/2025/" target="_blank"><strong>第44回明治神宮薪能へのご招待 今年で第44回を迎える明治神宮薪能開催のお知らせです。</strong></a> — <em>安藤ハザマ ニュース</em>
