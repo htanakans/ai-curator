@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-10-30 22:34** · <a href="202510/pdf/30a1-j.pdf" target="_blank"><strong>ソフトウェアの標準化技術を活用した建設ロボットシステムの研究開発に着手</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-29 22:36** · <a href="202510/pdf/29a1-j.pdf" target="_blank"><strong>ポップカルチャーとテクノロジーの未来を体験できるイベント『ちょっと先のおもしろい未来 -CHANGE TOMORROW-』を開催</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-29 22:36** · <a href="https://www.anthropic.com/news/opening-our-tokyo-office" target="_blank"><strong>Announcements Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute Oct 29, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-28 22:35** · <a href="202510/pdf/28c1-j.pdf" target="_blank"><strong>「湯西川ダム新水力発電所設置・運営事業」の事業候補者に特定</strong></a> — <em>鹿島建設 プレス</em>
@@ -239,4 +240,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/laboratory/" target="_blank"><strong>技術研究所 本館と幅広い分野の実験施設を備えた技術研究所では「人間と自然環境を結ぶ技術の創出」をコンセプトに掲げ、現在そして将来に向けた研究開発に取り組んでいます。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/#real_estate" target="_blank"><strong>不動産事業 インフラ運営事業</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/" target="_blank"><strong>技術・ ソリューション</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sitemap/" target="_blank"><strong>サイトマップ</strong></a> — <em>安藤ハザマ ニュース</em>
