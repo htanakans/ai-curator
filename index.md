@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-03 21:48** · <a href="https://developer.nvidia.com/blog/make-sense-of-video-analytics-by-integrating-nvidia-ai-blueprints" target="_blank"><strong>Make Sense of Video Analytics by Integrating NVIDIA AI Blueprints</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Organizations are increasingly seeking ways to extract insights from video, audio, and other complex data sources. Retrieval-augmented generation (RAG) enables.
+- **2025-11-03 17:54** · <a href="https://developer.nvidia.com/blog/how-code-execution-drives-key-risks-in-agentic-ai-systems" target="_blank"><strong>How Code Execution Drives Key Risks in Agentic AI Systems</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI-driven applications are evolving from passive tools to agentic systems that generate code, make decisions, and take autonomous actions. This shift introduces
 - **2025-10-31 22:35** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-October" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-10-30 22:34** · <a href="202510/pdf/30a1-j.pdf" target="_blank"><strong>ソフトウェアの標準化技術を活用した建設ロボットシステムの研究開発に着手</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-29 22:36** · <a href="202510/pdf/29a1-j.pdf" target="_blank"><strong>ポップカルチャーとテクノロジーの未来を体験できるイベント『ちょっと先のおもしろい未来 -CHANGE TOMORROW-』を開催</strong></a> — <em>鹿島建設 プレス</em>
@@ -238,5 +242,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/" target="_blank"><strong>サステナビリティトップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/zeb/" target="_blank"><strong>ZEB・ZEH 快適な省エネ建築物の設計・提案、技術開発に取り組んでいます。当社のZEB・ZEH取組方針や実績を紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/overseas/" target="_blank"><strong>海外進出サポート</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/laboratory/" target="_blank"><strong>技術研究所 本館と幅広い分野の実験施設を備えた技術研究所では「人間と自然環境を結ぶ技術の創出」をコンセプトに掲げ、現在そして将来に向けた研究開発に取り組んでいます。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/#real_estate" target="_blank"><strong>不動産事業 インフラ運営事業</strong></a> — <em>安藤ハザマ ニュース</em>
