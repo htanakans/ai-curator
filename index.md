@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-04 22:35** · <a href="202511/4a1-j.htm" target="_blank"><strong>ハイグレードオフィス「名古屋伏見Kフロンティア」が竣工</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-11-03 21:48** · <a href="https://developer.nvidia.com/blog/make-sense-of-video-analytics-by-integrating-nvidia-ai-blueprints" target="_blank"><strong>Make Sense of Video Analytics by Integrating NVIDIA AI Blueprints</strong></a> — <em>NVIDIA Technical Blog</em>
   - Organizations are increasingly seeking ways to extract insights from video, audio, and other complex data sources. Retrieval-augmented generation (RAG) enables.
 - **2025-11-03 17:54** · <a href="https://developer.nvidia.com/blog/how-code-execution-drives-key-risks-in-agentic-ai-systems" target="_blank"><strong>How Code Execution Drives Key Risks in Agentic AI Systems</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -241,4 +242,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/compliance/" target="_blank"><strong>コンプライアンス</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/" target="_blank"><strong>サステナビリティトップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/zeb/" target="_blank"><strong>ZEB・ZEH 快適な省エネ建築物の設計・提案、技術開発に取り組んでいます。当社のZEB・ZEH取組方針や実績を紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/solution/overseas/" target="_blank"><strong>海外進出サポート</strong></a> — <em>安藤ハザマ ニュース</em>
