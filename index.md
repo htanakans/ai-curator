@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-06 22:35** · <a href="https://www.anthropic.com/news/cognizant-partnership" target="_blank"><strong>Announcements Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation Nov 04, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-11-06 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch" target="_blank"><strong>Accelerating Large-Scale Mixture-of-Experts Training in PyTorch</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....
 - **2025-11-05 16:00** · <a href="https://developer.nvidia.com/blog/scale-biology-transformer-models-with-pytorch-and-nvidia-bionemo-recipes" target="_blank"><strong>Scale Biology Transformer Models with PyTorch and NVIDIA BioNeMo Recipes</strong></a> — <em>NVIDIA Technical Blog</em>
   - Training models with billions or trillions of parameters demands advanced parallel computing. Researchers must decide how to combine parallelism strategies,...
 - **2025-11-04 22:35** · <a href="202511/4a1-j.htm" target="_blank"><strong>ハイグレードオフィス「名古屋伏見Kフロンティア」が竣工</strong></a> — <em>鹿島建設 プレス</em>
@@ -241,5 +244,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/diversity/" target="_blank"><strong>ダイバーシティ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/decarbonization/" target="_blank"><strong>脱炭素・循環型社会</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/culture/" target="_blank"><strong>文化貢献活動</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/compliance/" target="_blank"><strong>コンプライアンス</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/" target="_blank"><strong>サステナビリティトップ</strong></a> — <em>安藤ハザマ ニュース</em>
