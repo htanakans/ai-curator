@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-07 22:35** · <a href="https://ai.sony/blog/The-FHIBE-Team-Data-Dignity-and-the-People-Who-Made-It-Possible" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2025-11-07 22:35** · <a href="https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence" target="_blank"><strong>Announcements New offices in Paris and Munich expand Anthropic窶冱 European presence Nov 07, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-06 22:35** · <a href="https://www.anthropic.com/news/cognizant-partnership" target="_blank"><strong>Announcements Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation Nov 04, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-06 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch" target="_blank"><strong>Accelerating Large-Scale Mixture-of-Experts Training in PyTorch</strong></a> — <em>NVIDIA Technical Blog</em>
   - Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....
@@ -242,5 +244,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/governance/" target="_blank"><strong>コーポレート・ガバナンス</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/environment/" target="_blank"><strong>環境への取り組み</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/diversity/" target="_blank"><strong>ダイバーシティ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/decarbonization/" target="_blank"><strong>脱炭素・循環型社会</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/culture/" target="_blank"><strong>文化貢献活動</strong></a> — <em>安藤ハザマ ニュース</em>
