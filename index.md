@@ -1,5 +1,17 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-10 22:22** · <a href="https://www.addevent.com/event/kffjqsqb67nq" target="_blank"><strong>Upcoming Livestream: Build Visual AI Agents with NVIDIA Cosmos Reason and Metropolis</strong></a> — <em>NVIDIA Technical Blog</em>
+  - On November 18, learn how to fine-tune the NVIDIA Cosmos Reason VLM with your own data to create visual AI agents.
+- **2025-11-10 21:29** · <a href="https://developer.nvidia.com/blog/building-scalable-and-fault-tolerant-nccl-applications" target="_blank"><strong>Building Scalable and Fault-Tolerant NCCL Applications</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The NVIDIA Collective Communications Library (NCCL) provides communication APIs for low-latency and high-bandwidth collectives, enabling AI workloads to scale..
+- **2025-11-10 19:30** · <a href="https://developer.nvidia.com/blog/training-xgboost-models-with-gpu-accelerated-polars-dataframes" target="_blank"><strong>Training XGBoost Models with GPU-Accelerated Polars DataFrames</strong></a> — <em>NVIDIA Technical Blog</em>
+  - One of the many strengths of the PyData ecosystem is interoperability, which enables seamlessly moving data between libraries that specialize in exploratory...
+- **2025-11-10 19:29** · <a href="https://developer.nvidia.com/blog/gen-ai-super-resolution-accelerates-weather-prediction-with-scalable-low-compute-models" target="_blank"><strong>Gen AI Super-resolution Accelerates Weather Prediction with Scalable, Low-Compute Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI weather and climate prediction models rapidly gain adoption, the NVIDIA Earth-2 platform provides libraries and tools for accelerating solutions using a..
+- **2025-11-10 14:00** · <a href="https://developer.nvidia.com/blog/streamline-complex-ai-inference-on-kubernetes-with-nvidia-grove" target="_blank"><strong>Streamline Complex AI Inference on Kubernetes with NVIDIA Grove</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Over the past few years, AI inference has evolved from single-model, single-pod deployments into complex, multicomponent systems. A model deployment may now...
+- **2025-11-10 14:00** · <a href="https://developer.nvidia.com/blog/enabling-multi-node-nvlink-on-kubernetes-for-gb200-and-beyond" target="_blank"><strong>Enabling Multi-Node NVLink on Kubernetes for NVIDIA GB200 NVL72 and Beyond</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The NVIDIA GB200 NVL72 pushes AI infrastructure to new limits, enabling breakthroughs in training large-language models and running scalable, low-latency...
 - **2025-11-07 22:35** · <a href="https://ai.sony/blog/The-FHIBE-Team-Data-Dignity-and-the-People-Who-Made-It-Possible" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-11-07 22:35** · <a href="https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence" target="_blank"><strong>Announcements New offices in Paris and Munich expand Anthropic窶冱 European presence Nov 07, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-06 22:35** · <a href="https://www.anthropic.com/news/cognizant-partnership" target="_blank"><strong>Announcements Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation Nov 04, 2025</strong></a> — <em>Anthropic News</em>
@@ -238,9 +250,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/security/" target="_blank"><strong>情報セキュリティ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/safety/" target="_blank"><strong>労働安全衛生</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/report_2024/" target="_blank"><strong>コーポレートレポート等</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/quality/" target="_blank"><strong>品質管理・向上</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/procurement/" target="_blank"><strong>サプライチェーン</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/message/" target="_blank"><strong>トップメッセージ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/governance/" target="_blank"><strong>コーポレート・ガバナンス</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/environment/" target="_blank"><strong>環境への取り組み</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/diversity/" target="_blank"><strong>ダイバーシティ</strong></a> — <em>安藤ハザマ ニュース</em>
