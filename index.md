@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-12 22:35** · <a href="202511/pdf/12a1-j.pdf" target="_blank"><strong>「日本橋本町 M-SQUARE」竣工 緑豊かな共用空間を整備し環境に配慮したオフィスが日本橋本町に誕生</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-11-12 22:34** · <a href="https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure" target="_blank"><strong>Announcements Anthropic invests $50 billion in American AI infrastructure Nov 12, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-11-12 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks" target="_blank"><strong>NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...
 - **2025-11-10 22:22** · <a href="https://www.addevent.com/event/kffjqsqb67nq" target="_blank"><strong>Upcoming Livestream: Build Visual AI Agents with NVIDIA Cosmos Reason and Metropolis</strong></a> — <em>NVIDIA Technical Blog</em>
   - On November 18, learn how to fine-tune the NVIDIA Cosmos Reason VLM with your own data to create visual AI agents.
 - **2025-11-10 21:29** · <a href="https://developer.nvidia.com/blog/building-scalable-and-fault-tolerant-nccl-applications" target="_blank"><strong>Building Scalable and Fault-Tolerant NCCL Applications</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -247,6 +251,3 @@
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/works/" target="_blank"><strong>施工実績トップ</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/technology/" target="_blank"><strong>技術・工法の開発</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/social/" target="_blank"><strong>社会貢献活動</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/security/" target="_blank"><strong>情報セキュリティ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/safety/" target="_blank"><strong>労働安全衛生</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.ad-hzm.co.jp/sustainability/report_2024/" target="_blank"><strong>コーポレートレポート等</strong></a> — <em>安藤ハザマ ニュース</em>
