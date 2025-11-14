@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-14 22:36** · <a href="https://cohere.com/modern-slavery-statement" target="_blank"><strong>Modern Slavery Act</strong></a> — <em>Cohere Blog</em>
 - **2025-11-13 22:37** · <a href="https://www.ad-hzm.co.jp/lp/exhibition/2025" target="_blank"><strong>メタバース技術展示 当社の注目技術や技術研究所の最新施設を紹介する展示会場を、メタバース空間に開設しました!</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-11-13 22:37** · <a href="202511/13e1-j.htm" target="_blank"><strong>「建設現場から排出される廃プラのケミカルリサイクル実証事業」に着手</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-11-13 22:37** · <a href="https://www.anthropic.com/news/political-even-handedness" target="_blank"><strong>Product Measuring political bias in Claude Nov 13, 2025</strong></a> — <em>Anthropic News</em>
@@ -250,4 +251,3 @@
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/4wuvksCd" target="_blank"><strong>2025.04.25 【ベルギー初】スタイリッシュなクラフトジン「The Drunken Horse GIN」を日本先行販売! |株式会社renue(リノイ) この記事はPRTimesにて配信されました</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/3D-simulator" target="_blank"><strong>2025.06.17 Pythonで創る!!究極の3D航空機シミュレーター エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。飛行をリアルにシミュレーションする3D航空機シミュレーターの構築について解説します。</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/-jFTbLG-" target="_blank"><strong>2025.05.26 ForbesJAPAN様に取材頂きました。 |株式会社renue(リノイ) 弊社代表の山本より、「廃棄端末に新たな価値を――住友商事×renue共創イノベーションへの挑戦」としてお話をさせて頂いております。</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/contact" target="_blank"><strong>CONTACT</strong></a> — <em>renue ニュース</em>
