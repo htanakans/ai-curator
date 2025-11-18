@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships" target="_blank"><strong>Announcements Microsoft, NVIDIA, and Anthropic announce strategic partnerships Nov 18, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/claude-in-microsoft-foundry" target="_blank"><strong>Product Claude now available in Microsoft Foundry and Microsoft 365 Copilot Nov 18, 2025</strong></a> — <em>Anthropic News</em>
+- **2025-11-18 20:00** · <a href="https://developer.nvidia.com/blog/building-scalable-ai-on-enterprise-data-with-nvidia-nemotron-rag-and-microsoft-sql-server-2025" target="_blank"><strong>Building Scalable AI on Enterprise Data with NVIDIA Nemotron RAG and Microsoft SQL Server 2025</strong></a> — <em>NVIDIA Technical Blog</em>
+  - At Microsoft Ignite 2025, the vision for an AI-ready enterprise database becomes a reality with the announcement of Microsoft SQL Server 2025, giving developers
+- **2025-11-18 17:00** · <a href="https://developer.nvidia.com/blog/faster-chemistry-and-materials-discovery-with-ai-powered-simulations-using-nvidia-alchemi" target="_blank"><strong>Faster Chemistry and Materials Discovery with AI-Powered Simulations Using NVIDIA ALCHEMI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Almost all manufactured products are enabled by chemistry and materials science. However, new discoveries are costly and time-consuming and often hindered by...
 - **2025-11-17 22:37** · <a href="202511/17c1-j.htm" target="_blank"><strong>橋梁の損傷・健全度診断を支援するWebシステム「BMStar ® _AI」を開発・運用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-11-17 22:37** · <a href="https://www.anthropic.com/news/rwandan-government-partnership-ai-education" target="_blank"><strong>Announcements Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa Nov 18, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-14 22:36** · <a href="https://cohere.com/modern-slavery-statement" target="_blank"><strong>Modern Slavery Act</strong></a> — <em>Cohere Blog</em>
@@ -247,7 +253,3 @@
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/privacy" target="_blank"><strong>プライバシーポリシー</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/ufELTRky" target="_blank"><strong>2025.05.26 Forbes JAPAN様内に特設ページが公開されました。 |株式会社renue(リノイ) Forbes JAPAN様内に弊社特設ページが公開されております。ご興味がありましたら是非ご一読ください。</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/recruit" target="_blank"><strong>2025.05.26 高卒お笑い芸人からITコンサルタントに?異色の経歴のrenueコンサルタントに聞く、renueジョインの決め手とは? 新しい記事がNoteに掲載されました。異色の経歴を持つ社員が、なぜITコンサルタントというキャリア、そしてなぜrenueを選んだのか語っています。</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/elnino-subfi" target="_blank"><strong>2025.04.25 ENILNO様にて「SubFi」をご紹介いただきました。 |株式会社renue 様々なオンラインサービスを紹介し、新しいライフスタイルを伝えるメディアであるENILNO様に弊社運営サービスであるSubFiをご紹介頂きました。</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/Z1E2qbxz" target="_blank"><strong>2025.05.27 ベンチャー通信様に取材頂きました。 |株式会社renue(リノイ) 弊社代表の山本より、renueの取り組みや今後のビジョンについてお話をさせて頂いております。ご興味がありましたら是非ご一読ください。</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/K7KHrohG" target="_blank"><strong>2025.05.26 Forbes JAPAN様に取材頂きました。 |株式会社renue(リノイ) 弊社代表の山本より、「レベニューシェアで成果にコミット──新鋭コンサルファームrenue CEOの覚悟」</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/4wuvksCd" target="_blank"><strong>2025.04.25 【ベルギー初】スタイリッシュなクラフトジン「The Drunken Horse GIN」を日本先行販売! |株式会社renue(リノイ) この記事はPRTimesにて配信されました</strong></a> — <em>renue ニュース</em>
