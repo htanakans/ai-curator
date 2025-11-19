@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-19 21:51** · <a href="https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl" target="_blank"><strong>Breaking Through Reinforcement Learning Training Limits with Scaling Rollouts in BroRL</strong></a> — <em>NVIDIA Technical Blog</em>
+  - When training large language models (LLMs) with reinforcement learning from verifiable rewards (RLVR), one of the most compelling questions is how to overcome..
 - **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships" target="_blank"><strong>Announcements Microsoft, NVIDIA, and Anthropic announce strategic partnerships Nov 18, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/claude-in-microsoft-foundry" target="_blank"><strong>Product Claude now available in Microsoft Foundry and Microsoft 365 Copilot Nov 18, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-18 20:00** · <a href="https://developer.nvidia.com/blog/building-scalable-ai-on-enterprise-data-with-nvidia-nemotron-rag-and-microsoft-sql-server-2025" target="_blank"><strong>Building Scalable AI on Enterprise Data with NVIDIA Nemotron RAG and Microsoft SQL Server 2025</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -252,4 +254,3 @@
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/recruit" target="_blank"><strong>採用情報を詳しく見る</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/privacy" target="_blank"><strong>プライバシーポリシー</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/ufELTRky" target="_blank"><strong>2025.05.26 Forbes JAPAN様内に特設ページが公開されました。 |株式会社renue(リノイ) Forbes JAPAN様内に弊社特設ページが公開されております。ご興味がありましたら是非ご一読ください。</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/recruit" target="_blank"><strong>2025.05.26 高卒お笑い芸人からITコンサルタントに?異色の経歴のrenueコンサルタントに聞く、renueジョインの決め手とは? 新しい記事がNoteに掲載されました。異色の経歴を持つ社員が、なぜITコンサルタントというキャリア、そしてなぜrenueを選んだのか語っています。</strong></a> — <em>renue ニュース</em>
