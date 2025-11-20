@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-20 22:34** · <a href="https://www.anthropic.com/supported-countries" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
+- **2025-11-20 22:34** · <a href="https://www.anthropic.com/economic-index" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
 - **2025-11-19 21:51** · <a href="https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl" target="_blank"><strong>Breaking Through Reinforcement Learning Training Limits with Scaling Rollouts in BroRL</strong></a> — <em>NVIDIA Technical Blog</em>
   - When training large language models (LLMs) with reinforcement learning from verifiable rewards (RLVR), one of the most compelling questions is how to overcome..
 - **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships" target="_blank"><strong>Announcements Microsoft, NVIDIA, and Anthropic announce strategic partnerships Nov 18, 2025</strong></a> — <em>Anthropic News</em>
@@ -252,5 +254,3 @@
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/services/pm-due-diligence" target="_blank"><strong>PM・ITデューデリジェンス</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/security" target="_blank"><strong>情報セキュリティ基本方針</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/recruit" target="_blank"><strong>採用情報を詳しく見る</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/privacy" target="_blank"><strong>プライバシーポリシー</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/posts/ufELTRky" target="_blank"><strong>2025.05.26 Forbes JAPAN様内に特設ページが公開されました。 |株式会社renue(リノイ) Forbes JAPAN様内に弊社特設ページが公開されております。ご興味がありましたら是非ご一読ください。</strong></a> — <em>renue ニュース</em>
