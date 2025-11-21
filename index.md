@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-21 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-neurips-2025" target="_blank"><strong>Neural Information Processing Systems (NeurIPS) 2025</strong></a> — <em>Apple ML Research</em>
+  - Apple is presenting new research at the annual conference on Neural Information Processing Systems (NeurIPS) , which takes place in person in San Diego, Califor
 - **2025-11-20 22:34** · <a href="https://www.anthropic.com/supported-countries" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
 - **2025-11-20 22:34** · <a href="https://www.anthropic.com/economic-index" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
 - **2025-11-19 21:51** · <a href="https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl" target="_blank"><strong>Breaking Through Reinforcement Learning Training Limits with Scaling Rollouts in BroRL</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -253,4 +255,3 @@
 - **2025-09-11 12:46** · <a href="tel:03-4500-7154" target="_blank"><strong>03-4500-7154</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/services/pm-due-diligence" target="_blank"><strong>PM・ITデューデリジェンス</strong></a> — <em>renue ニュース</em>
 - **2025-09-11 12:46** · <a href="https://renue.co.jp/security" target="_blank"><strong>情報セキュリティ基本方針</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/recruit" target="_blank"><strong>採用情報を詳しく見る</strong></a> — <em>renue ニュース</em>
