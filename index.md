@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-11-24 22:37** · <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank"><strong>Introducing Claude Opus 4.5 Announcements Nov 24, 2025 The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</strong></a> — <em>Anthropic News</em>
+- **2025-11-24 19:23** · <a href="https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters" target="_blank"><strong>Model Quantization: Concepts, Methods, and Why It Matters</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique to address.
 - **2025-11-21 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-neurips-2025" target="_blank"><strong>Neural Information Processing Systems (NeurIPS) 2025</strong></a> — <em>Apple ML Research</em>
   - Apple is presenting new research at the annual conference on Neural Information Processing Systems (NeurIPS) , which takes place in person in San Diego, Califor
 - **2025-11-20 22:34** · <a href="https://www.anthropic.com/supported-countries" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
@@ -253,5 +256,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/cookiepolicy/" target="_blank"><strong>Cookieポリシー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/contact/" target="_blank"><strong>お問い合わせ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="tel:03-4500-7154" target="_blank"><strong>03-4500-7154</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/services/pm-due-diligence" target="_blank"><strong>PM・ITデューデリジェンス</strong></a> — <em>renue ニュース</em>
-- **2025-09-11 12:46** · <a href="https://renue.co.jp/security" target="_blank"><strong>情報セキュリティ基本方針</strong></a> — <em>renue ニュース</em>
