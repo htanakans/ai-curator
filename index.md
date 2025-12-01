@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-01 22:37** · <a href="202512/pdf/1a1-j.pdf" target="_blank"><strong>『Yard miyakojima』2026年4月1日 開業予定</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS%202025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS 2025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>December 1, 2025 | Events NeurIPS 2025: Sony AI窶冱 Latest Contributions</strong></a> — <em>Sony AI News</em>
+- **2025-12-01 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-November" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2025-12-01 22:00** · <a href="https://developer.nvidia.com/blog/build-efficient-financial-data-workflows-with-ai-model-distillation" target="_blank"><strong>Build Efficient Financial Data Workflows with AI Model Distillation</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Large language models (LLMs) in quantitative finance are increasingly being used for alpha generation, automated report analysis, and risk prediction. Yet...
 - **2025-11-25 21:00** · <a href="https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring" target="_blank"><strong>Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring</strong></a> — <em>NVIDIA Technical Blog</em>
   - High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading.
 - **2025-11-24 22:37** · <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank"><strong>Introducing Claude Opus 4.5 Announcements Nov 24, 2025 The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</strong></a> — <em>Anthropic News</em>
@@ -252,8 +258,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/numbers/" target="_blank"><strong>数字で見るミライト・ワン グループ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/message/" target="_blank"><strong>トップメッセージ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/management/" target="_blank"><strong>中期経営計画</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/integrated-management-system/" target="_blank"><strong>統合マネジメントシステム</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/group-companies/" target="_blank"><strong>グループ情報</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/gallery/" target="_blank"><strong>広告ギャラリー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/cookiepolicy/" target="_blank"><strong>Cookieポリシー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/contact/" target="_blank"><strong>お問い合わせ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
