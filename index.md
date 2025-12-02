@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-02 22:35** · <a href="https://www.anthropic.com/news/claude-for-nonprofits" target="_blank"><strong>Dec 2, 2025 Announcements Claude for Nonprofits</strong></a> — <em>Anthropic News</em>
+- **2025-12-02 16:00** · <a href="https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment" target="_blank"><strong>AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As demand for AI continues to grow, hyperscalers are looking for ways to accelerate deployment of specialized AI infrastructure with the highest performance....
+- **2025-12-01 23:25** · <a href="https://developer.nvidia.com/blog/train-small-orchestration-agents-to-solve-big-problems" target="_blank"><strong>Train Small Orchestration Agents to Solve Big Problems</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Using the right tool and model for a task is a challenging and ever-present engineering problem in agent design. At NVIDIA Research, we're making fast progress.
 - **2025-12-01 22:37** · <a href="202512/pdf/1a1-j.pdf" target="_blank"><strong>『Yard miyakojima』2026年4月1日 開業予定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS%202025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS 2025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>December 1, 2025 | Events NeurIPS 2025: Sony AI窶冱 Latest Contributions</strong></a> — <em>Sony AI News</em>
@@ -255,6 +260,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/english/" target="_blank"><strong>english</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/philosophy/" target="_blank"><strong>パーパス・ミッション・ビジョン</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/offices/" target="_blank"><strong>拠点・アクセス</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/numbers/" target="_blank"><strong>数字で見るミライト・ワン グループ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/message/" target="_blank"><strong>トップメッセージ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/corporate/management/" target="_blank"><strong>中期経営計画</strong></a> — <em>ミライト（Mirait One）ニュース</em>
