@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-08 18:00** · <a href="https://developer.nvidia.com/blog/automate-kubernetes-ai-cluster-health-with-nvsentinel" target="_blank"><strong>Automate Kubernetes AI Cluster Health with NVSentinel</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Kubernetes underpins a large portion of all AI workloads in production. Yet, maintaining GPU nodes and ensuring that applications are running, training jobs are
 - **2025-12-05 22:37** · <a href="https://renue.co.jp/posts/article-10" target="_blank"><strong>2025.12.04 Findy アーキテクチャConference 2025 に参加しました エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。</strong></a> — <em>renue ニュース</em>
 - **2025-12-04 22:20** · <a href="https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains" target="_blank"><strong>NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago.  In this release,...
@@ -260,4 +262,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/governance/" target="_blank"><strong>コーポレートガバナンス</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/diversity-inclusion/" target="_blank"><strong>ダイバーシティ&インクルージョンの推進</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/data/" target="_blank"><strong>データ・報告書</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/activities/" target="_blank"><strong>ESG経営推進の取り組み</strong></a> — <em>ミライト（Mirait One）ニュース</em>
