@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-09 22:36** · <a href="https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation" target="_blank"><strong>Dec 9, 2025 Announcements Donating the Model Context Protocol and establishing the Agentic AI Foundation</strong></a> — <em>Anthropic News</em>
+- **2025-12-09 22:36** · <a href="https://www.anthropic.com/news/anthropic-accenture-partnership" target="_blank"><strong>Dec 9, 2025 Announcements Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production</strong></a> — <em>Anthropic News</em>
+- **2025-12-09 18:00** · <a href="https://developer.nvidia.com/blog/top-5-ai-model-optimization-techniques-for-faster-smarter-inference" target="_blank"><strong>Top 5 AI Model Optimization Techniques for Faster, Smarter Inference</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI models get larger and architectures more complex, researchers and engineers are continuously finding new techniques to optimize the performance and...
+- **2025-12-09 17:00** · <a href="https://developer.nvidia.com/blog/improve-ai-native-6g-design-with-the-nvidia-aerial-omniverse-digital-twin" target="_blank"><strong>Improve AI-Native 6G Design with the NVIDIA Aerial Omniverse Digital Twin</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI-native 6G networks will serve billions of intelligent devices, agents, and machines. As the industry moves into new spectrums like FR3 (7–24 GHz), radio...
 - **2025-12-08 18:00** · <a href="https://developer.nvidia.com/blog/automate-kubernetes-ai-cluster-health-with-nvsentinel" target="_blank"><strong>Automate Kubernetes AI Cluster Health with NVSentinel</strong></a> — <em>NVIDIA Technical Blog</em>
   - Kubernetes underpins a large portion of all AI workloads in production. Yet, maintaining GPU nodes and ensuring that applications are running, training jobs are
 - **2025-12-05 22:37** · <a href="https://renue.co.jp/posts/article-10" target="_blank"><strong>2025.12.04 Findy アーキテクチャConference 2025 に参加しました エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。</strong></a> — <em>renue ニュース</em>
@@ -258,7 +264,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sitemap/" target="_blank"><strong>サイトマップ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/privacypolicy/" target="_blank"><strong>個人情報保護方針</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/message/" target="_blank"><strong>トップメッセージ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/health-management/" target="_blank"><strong>健康経営の推進</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/governance/" target="_blank"><strong>コーポレートガバナンス</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/diversity-inclusion/" target="_blank"><strong>ダイバーシティ&インクルージョンの推進</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/data/" target="_blank"><strong>データ・報告書</strong></a> — <em>ミライト（Mirait One）ニュース</em>
