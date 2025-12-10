@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-10 21:45** · <a href="https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector" target="_blank"><strong>Enhancing Communication Observability of AI Workloads with NCCL Inspector</strong></a> — <em>NVIDIA Technical Blog</em>
+  - When using the NVIDIA Collective Communication Library (NCCL) to run a deep learning training or inference workload that uses collective operations (such as...
 - **2025-12-09 22:36** · <a href="https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation" target="_blank"><strong>Dec 9, 2025 Announcements Donating the Model Context Protocol and establishing the Agentic AI Foundation</strong></a> — <em>Anthropic News</em>
 - **2025-12-09 22:36** · <a href="https://www.anthropic.com/news/anthropic-accenture-partnership" target="_blank"><strong>Dec 9, 2025 Announcements Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production</strong></a> — <em>Anthropic News</em>
 - **2025-12-09 18:00** · <a href="https://developer.nvidia.com/blog/top-5-ai-model-optimization-techniques-for-faster-smarter-inference" target="_blank"><strong>Top 5 AI Model Optimization Techniques for Faster, Smarter Inference</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -263,4 +265,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sitepolicy/" target="_blank"><strong>サイトポリシー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sitemap/" target="_blank"><strong>サイトマップ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/privacypolicy/" target="_blank"><strong>個人情報保護方針</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/esg/message/" target="_blank"><strong>トップメッセージ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
