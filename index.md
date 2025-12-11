@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-11 19:20** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture" target="_blank"><strong>NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI innovation continues to be driven by three scaling laws: pre-training, post-training, and test-time scaling. Training is foundational to building smarter...
+- **2025-12-11 19:03** · <a href="https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet" target="_blank"><strong>Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI data centers rapidly evolve into AI factories, traditional network monitoring methods are no longer sufficient. Workloads continue to grow in complexity..
+- **2025-12-11 16:00** · <a href="https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics" target="_blank"><strong>Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous...
 - **2025-12-10 21:45** · <a href="https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector" target="_blank"><strong>Enhancing Communication Observability of AI Workloads with NCCL Inspector</strong></a> — <em>NVIDIA Technical Blog</em>
   - When using the NVIDIA Collective Communication Library (NCCL) to run a deep learning training or inference workload that uses collective operations (such as...
 - **2025-12-09 22:36** · <a href="https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation" target="_blank"><strong>Dec 9, 2025 Announcements Donating the Model Context Protocol and establishing the Agentic AI Foundation</strong></a> — <em>Anthropic News</em>
@@ -262,6 +268,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/" target="_blank"><strong>お客様の業種から探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/" target="_blank"><strong>サービス・ソリューション</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sns-terms-of-use/" target="_blank"><strong>SNS利用規約</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sitepolicy/" target="_blank"><strong>サイトポリシー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sitemap/" target="_blank"><strong>サイトマップ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/privacypolicy/" target="_blank"><strong>個人情報保護方針</strong></a> — <em>ミライト（Mirait One）ニュース</em>
