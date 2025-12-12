@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-12 21:00** · <a href="https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes" target="_blank"><strong>Enabling Horizontal Autoscaling of Enterprise RAG Components on Kubernetes</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Today’s best AI agents rely on retrieval-augmented generation (RAG) to enable more accurate results. A RAG system facilitates the use of a knowledge base to...
 - **2025-12-11 19:20** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture" target="_blank"><strong>NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI innovation continues to be driven by three scaling laws: pre-training, post-training, and test-time scaling. Training is foundational to building smarter...
 - **2025-12-11 19:03** · <a href="https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet" target="_blank"><strong>Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -267,4 +269,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/energy/" target="_blank"><strong>製造・エネルギー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/" target="_blank"><strong>お客様の業種から探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/" target="_blank"><strong>サービス・ソリューション</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/sns-terms-of-use/" target="_blank"><strong>SNS利用規約</strong></a> — <em>ミライト（Mirait One）ニュース</em>
