@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-15 22:39** · <a href="https://ai.sony/blog/Protecting-Creator窶冱-Rights-in-the-Age-of-AI" target="_blank"><strong>December 15, 2025 | Sony AI Protecting Creator窶冱 Rights in the Age of AI</strong></a> — <em>Sony AI News</em>
+- **2025-12-15 22:39** · <a href="https://ai.sony/blog/Protecting-Creator%E2%80%99s-Rights-in-the-Age-of-AI" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2025-12-15 18:25** · <a href="https://developer.nvidia.com/blog/delivering-flexible-performance-for-future-ready-data-centers-with-nvidia-mgx" target="_blank"><strong>Delivering Flexible Performance for Future-Ready Data Centers with NVIDIA MGX</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The AI boom reshaping the computing landscape is poised to scale even faster in 2026. As breakthroughs in model capability and computing power drive rapid...
+- **2025-12-15 14:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate" target="_blank"><strong>Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across large...
+- **2025-12-15 14:00** · <a href="https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning" target="_blank"><strong>How to Train Scientific Agents with Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangling...
 - **2025-12-12 21:00** · <a href="https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes" target="_blank"><strong>Enabling Horizontal Autoscaling of Enterprise RAG Components on Kubernetes</strong></a> — <em>NVIDIA Technical Blog</em>
   - Today’s best AI agents rely on retrieval-augmented generation (RAG) to enable more accurate results. A RAG system facilitates the use of a knowledge base to...
 - **2025-12-11 19:20** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture" target="_blank"><strong>NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -264,8 +272,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/" target="_blank"><strong>目的・課題から探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/real-estate/" target="_blank"><strong>建設・不動産</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/hotel-tourism/" target="_blank"><strong>ホテル・観光</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/healthcare/" target="_blank"><strong>医療・ヘルスケア</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/government/" target="_blank"><strong>官公庁・自治体</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/energy/" target="_blank"><strong>製造・エネルギー</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/" target="_blank"><strong>お客様の業種から探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/" target="_blank"><strong>サービス・ソリューション</strong></a> — <em>ミライト（Mirait One）ニュース</em>
