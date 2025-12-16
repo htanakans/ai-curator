@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-16 21:00** · <a href="https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm" target="_blank"><strong>Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM</strong></a> — <em>NVIDIA Technical Blog</em>
+  - For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation costs...
+- **2025-12-16 17:30** · <a href="https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025" target="_blank"><strong>AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025</strong></a> — <em>NVIDIA Technical Blog</em>
+  - 2025 was another milestone year for developers and researchers working with NVIDIA technologies. Progress in data center power and compute design, AI...
 - **2025-12-15 22:39** · <a href="https://ai.sony/blog/Protecting-Creator窶冱-Rights-in-the-Age-of-AI" target="_blank"><strong>December 15, 2025 | Sony AI Protecting Creator窶冱 Rights in the Age of AI</strong></a> — <em>Sony AI News</em>
 - **2025-12-15 22:39** · <a href="https://ai.sony/blog/Protecting-Creator%E2%80%99s-Rights-in-the-Age-of-AI" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-12-15 18:25** · <a href="https://developer.nvidia.com/blog/delivering-flexible-performance-for-future-ready-data-centers-with-nvidia-mgx" target="_blank"><strong>Delivering Flexible Performance for Future-Ready Data Centers with NVIDIA MGX</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -270,5 +274,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/decarbonation/" target="_blank"><strong>省エネ・脱炭素</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/cloud-application/" target="_blank"><strong>クラウド活用</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/" target="_blank"><strong>目的・課題から探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/real-estate/" target="_blank"><strong>建設・不動産</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/industry/hotel-tourism/" target="_blank"><strong>ホテル・観光</strong></a> — <em>ミライト（Mirait One）ニュース</em>
