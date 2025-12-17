@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-17 21:32** · <a href="https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec" target="_blank"><strong>Real-Time Decoding, Algorithmic GPU Decoders, and AI Inference Enhancements in NVIDIA CUDA-Q QEC</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Real-time decoding is crucial to fault-tolerant quantum computers. By enabling decoders to operate with low latency concurrently with a quantum processing unit.
+- **2025-12-17 16:00** · <a href="https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations" target="_blank"><strong>Using AI Physics for Technology Computer-Aided Design Simulations</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufacturing. They.
+- **2025-12-17 02:00** · <a href="https://developer.nvidia.com/blog/optimizing-semiconductor-defect-classification-with-generative-ai-and-vision-foundation-models" target="_blank"><strong>Optimizing Semiconductor Defect Classification with Generative AI and Vision Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In the heart of every modern electronic device lies a silicon chip, built through a manufacturing process so precise that even a microscopic defect can...
 - **2025-12-16 21:00** · <a href="https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm" target="_blank"><strong>Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM</strong></a> — <em>NVIDIA Technical Blog</em>
   - For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation costs...
 - **2025-12-16 17:30** · <a href="https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025" target="_blank"><strong>AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -271,6 +277,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/" target="_blank"><strong>カテゴリーから探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/wireless-communications/" target="_blank"><strong>Wi-Fi・無線エリア構築</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/equipment-reliability/" target="_blank"><strong>設備の信頼性確保</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/decarbonation/" target="_blank"><strong>省エネ・脱炭素</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/cloud-application/" target="_blank"><strong>クラウド活用</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/" target="_blank"><strong>目的・課題から探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
