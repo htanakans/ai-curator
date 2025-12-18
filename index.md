@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-18 22:39** · <a href="202512/18a1-j.htm" target="_blank"><strong>ユニバーサル・スタジオ・ジャパン オフィシャルホテル唯一の外資系ホテル 「Osaka Sakurajima Resort」プロジェクトが本格着工</strong></a> — <em>鹿島建設 プレス</em>
+- **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/protecting-well-being-of-users" target="_blank"><strong>Dec 18, 2025 Announcements Protecting the well-being of our users</strong></a> — <em>Anthropic News</em>
+- **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/genesis-mission-partnership" target="_blank"><strong>Dec 18, 2025 Announcements Working with the US Department of Energy to unlock the next era of scientific discovery</strong></a> — <em>Anthropic News</em>
 - **2025-12-17 21:32** · <a href="https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec" target="_blank"><strong>Real-Time Decoding, Algorithmic GPU Decoders, and AI Inference Enhancements in NVIDIA CUDA-Q QEC</strong></a> — <em>NVIDIA Technical Blog</em>
   - Real-time decoding is crucial to fault-tolerant quantum computers. By enabling decoders to operate with low latency concurrently with a quantum processing unit.
 - **2025-12-17 16:00** · <a href="https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations" target="_blank"><strong>Using AI Physics for Technology Computer-Aided Design Simulations</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -274,6 +277,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/ict/" target="_blank"><strong>ICTソリューション</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/energy-managiment/" target="_blank"><strong>エネルギーマネジメント</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/cutting-edge/" target="_blank"><strong>先端的取り組み</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/" target="_blank"><strong>カテゴリーから探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/wireless-communications/" target="_blank"><strong>Wi-Fi・無線エリア構築</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/issue/equipment-reliability/" target="_blank"><strong>設備の信頼性確保</strong></a> — <em>ミライト（Mirait One）ニュース</em>
