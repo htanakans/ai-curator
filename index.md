@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2025-12-19 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops" target="_blank"><strong>Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...
 - **2025-12-18 22:39** · <a href="202512/18a1-j.htm" target="_blank"><strong>ユニバーサル・スタジオ・ジャパン オフィシャルホテル唯一の外資系ホテル 「Osaka Sakurajima Resort」プロジェクトが本格着工</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/protecting-well-being-of-users" target="_blank"><strong>Dec 18, 2025 Announcements Protecting the well-being of our users</strong></a> — <em>Anthropic News</em>
 - **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/genesis-mission-partnership" target="_blank"><strong>Dec 18, 2025 Announcements Working with the US Department of Energy to unlock the next era of scientific discovery</strong></a> — <em>Anthropic News</em>
@@ -276,4 +278,3 @@
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/special/group-business/" target="_blank"><strong>グループ事業紹介スペシャルコンテンツ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/ict/" target="_blank"><strong>ICTソリューション</strong></a> — <em>ミライト（Mirait One）ニュース</em>
 - **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/energy-managiment/" target="_blank"><strong>エネルギーマネジメント</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/solution/top-category/cutting-edge/" target="_blank"><strong>先端的取り組み</strong></a> — <em>ミライト（Mirait One）ニュース</em>
