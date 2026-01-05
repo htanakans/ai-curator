@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-05 22:20** · <a href="https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer" target="_blank"><strong>Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI has entered an industrial phase. What began as systems performing discrete AI model training and human-facing inference has evolved into always-on AI...
+- **2026-01-05 22:10** · <a href="https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1" target="_blank"><strong>Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications....
 - **2025-12-24 22:38** · <a href="202512/24e1-j.htm" target="_blank"><strong>米国森林ファンドへの出資を通じて、脱炭素および自然再興の実現を加速</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-12-22 22:39** · <a href="https://ai.sony/blog/Sony-AI-2025-Year-in-Review" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-12-19 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops" target="_blank"><strong>Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -276,5 +280,3 @@
 - **2025-09-11 15:00** · <a href="https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery" target="_blank"><strong>How Quantization Aware Training Enables Low-Precision Accuracy Recovery</strong></a> — <em>NVIDIA Technical Blog</em>
   - After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),.
 - **2025-09-11 12:46** · <a href="sitemap/index.html" target="_blank"><strong>サイトマップから探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="index.html" target="_blank"><strong>トップページから探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
-- **2025-09-11 12:46** · <a href="https://www.mirait-one.com/special/group-business/" target="_blank"><strong>グループ事業紹介スペシャルコンテンツ</strong></a> — <em>ミライト（Mirait One）ニュース</em>
