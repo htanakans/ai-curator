@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-06 17:30** · <a href="https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai" target="_blank"><strong>Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...
+- **2026-01-06 05:30** · <a href="https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs" target="_blank"><strong>Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-20B, and..
 - **2026-01-05 22:20** · <a href="https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer" target="_blank"><strong>Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI has entered an industrial phase. What began as systems performing discrete AI model training and human-facing inference has evolved into always-on AI...
 - **2026-01-05 22:10** · <a href="https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1" target="_blank"><strong>Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -277,6 +281,3 @@
   - The constantly increasing compute throughput of NVIDIA GPUs presents a new opportunity for optimizing vision AI workloads: keeping the hardware fed with data...
 - **2025-09-11 15:00** · <a href="https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery/" target="_blank"><strong>How Quantization Aware Training Enables Low-Precision Accuracy Recovery</strong></a> — <em>NVIDIA Technical Blog</em>
   - After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),.
-- **2025-09-11 15:00** · <a href="https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery" target="_blank"><strong>How Quantization Aware Training Enables Low-Precision Accuracy Recovery</strong></a> — <em>NVIDIA Technical Blog</em>
-  - After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),.
-- **2025-09-11 12:46** · <a href="sitemap/index.html" target="_blank"><strong>サイトマップから探す</strong></a> — <em>ミライト（Mirait One）ニュース</em>
