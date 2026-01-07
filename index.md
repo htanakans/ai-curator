@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-07 17:00** · <a href="https://developer.nvidia.com/blog/redefining-secure-ai-infrastructure-with-nvidia-bluefield-astra-for-nvidia-vera-rubin-nvl72" target="_blank"><strong>Redefining Secure AI Infrastructure with NVIDIA BlueField Astra for NVIDIA Vera Rubin NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Large-scale AI innovation is driving unprecedented demand for accelerated computing infrastructure. Training trillion-parameter foundation models, serving them.
 - **2026-01-06 17:30** · <a href="https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai" target="_blank"><strong>Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...
 - **2026-01-06 05:30** · <a href="https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs" target="_blank"><strong>Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -279,5 +281,3 @@
   - The constantly increasing compute throughput of NVIDIA GPUs presents a new opportunity for optimizing vision AI workloads: keeping the hardware fed with data...
 - **2025-09-11 16:00** · <a href="https://developer.nvidia.com/blog/build-high-performance-vision-ai-pipelines-with-nvidia-cuda-accelerated-vc-6" target="_blank"><strong>Build High-Performance Vision AI Pipelines with NVIDIA CUDA-Accelerated VC-6</strong></a> — <em>NVIDIA Technical Blog</em>
   - The constantly increasing compute throughput of NVIDIA GPUs presents a new opportunity for optimizing vision AI workloads: keeping the hardware fed with data...
-- **2025-09-11 15:00** · <a href="https://developer.nvidia.com/blog/how-quantization-aware-training-enables-low-precision-accuracy-recovery/" target="_blank"><strong>How Quantization Aware Training Enables Low-Precision Accuracy Recovery</strong></a> — <em>NVIDIA Technical Blog</em>
-  - After training AI models, a variety of compression techniques can be used to optimize them for deployment. The most common is post-training quantization (PTQ),.
