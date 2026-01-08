@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-08 19:43** · <a href="https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell" target="_blank"><strong>Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI models continue to get smarter, people can rely on them for an expanding set of tasks. This leads users—from consumers to enterprises—to interact with...
+- **2026-01-08 17:28** · <a href="https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm" target="_blank"><strong>Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want
 - **2026-01-07 17:00** · <a href="https://developer.nvidia.com/blog/redefining-secure-ai-infrastructure-with-nvidia-bluefield-astra-for-nvidia-vera-rubin-nvl72" target="_blank"><strong>Redefining Secure AI Infrastructure with NVIDIA BlueField Astra for NVIDIA Vera Rubin NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
   - Large-scale AI innovation is driving unprecedented demand for accelerated computing infrastructure. Training trillion-parameter foundation models, serving them.
 - **2026-01-06 17:30** · <a href="https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai" target="_blank"><strong>Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -277,7 +281,3 @@
   - AI-powered applications are introducing new attack surfaces that traditional security models don’t fully capture, especially as these agentic systems gain...
 - **2025-09-11 16:00** · <a href="https://developer.nvidia.com/blog/modeling-attacks-on-ai-powered-apps-with-the-ai-kill-chain-framework" target="_blank"><strong>Modeling Attacks on AI-Powered Apps with the AI Kill Chain Framework</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI-powered applications are introducing new attack surfaces that traditional security models don’t fully capture, especially as these agentic systems gain...
-- **2025-09-11 16:00** · <a href="https://developer.nvidia.com/blog/build-high-performance-vision-ai-pipelines-with-nvidia-cuda-accelerated-vc-6/" target="_blank"><strong>Build High-Performance Vision AI Pipelines with NVIDIA CUDA-Accelerated VC-6</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The constantly increasing compute throughput of NVIDIA GPUs presents a new opportunity for optimizing vision AI workloads: keeping the hardware fed with data...
-- **2025-09-11 16:00** · <a href="https://developer.nvidia.com/blog/build-high-performance-vision-ai-pipelines-with-nvidia-cuda-accelerated-vc-6" target="_blank"><strong>Build High-Performance Vision AI Pipelines with NVIDIA CUDA-Accelerated VC-6</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The constantly increasing compute throughput of NVIDIA GPUs presents a new opportunity for optimizing vision AI workloads: keeping the hardware fed with data...
