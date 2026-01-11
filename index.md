@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-11 22:38** · <a href="https://www.anthropic.com/news/healthcare-life-sciences" target="_blank"><strong>Jan 11, 2026 Announcements Advancing Claude in healthcare and the life sciences</strong></a> — <em>Anthropic News</em>
 - **2026-01-09 14:00** · <a href="https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence" target="_blank"><strong>Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence</strong></a> — <em>NVIDIA Technical Blog</em>
   - Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...
 - **2026-01-09 14:00** · <a href="https://developer.nvidia.com/blog/build-an-ai-catalog-system-that-delivers-localized-interactive-product-experiences" target="_blank"><strong>Build an AI Catalog System That Delivers Localized, Interactive Product Experiences</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -280,4 +281,3 @@
 - **2025-09-15 13:00** · <a href="https://developer.nvidia.com/blog/new-open-source-qwen3-next-models-preview-hybrid-moe-architecture-delivering-improved-accuracy-and-accelerated-parallel-processing-across-nvidia-platform" target="_blank"><strong>New Open Source Qwen3-Next Models Preview Hybrid MoE Architecture Delivering Improved Accuracy and Accelerated Parallel Processing across NVIDIA Platform</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI models grow larger and process longer sequences of text, efficiency becomes just as important as scale.   To showcase what’s next, Alibaba...
 - **2025-09-12 22:36** · <a href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi" target="_blank"><strong>Announcements Strengthening our safeguards through collaboration with US CAISI and UK AISI Sep 12, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-11 22:36** · <a href="https://www.anthropic.com/news/memory" target="_blank"><strong>Product Bringing memory to teams at work Sep 11, 2025</strong></a> — <em>Anthropic News</em>
