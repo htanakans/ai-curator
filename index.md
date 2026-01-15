@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-15 16:00** · <a href="https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning" target="_blank"><strong>How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
+  - What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell commands?..
 - **2026-01-14 22:43** · <a href="202601/pdf/14c1-j.pdf" target="_blank"><strong>自治体初のCO 2 の地産地消型コンクリート製造の実現に向け横浜市と鹿島建設が連携協定を締結しました</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-13 22:43** · <a href="https://www.anthropic.com/news/introducing-anthropic-labs" target="_blank"><strong>Jan 13, 2026 Announcements Introducing Anthropic Labs</strong></a> — <em>Anthropic News</em>
 - **2026-01-11 22:38** · <a href="https://www.anthropic.com/news/healthcare-life-sciences" target="_blank"><strong>Jan 11, 2026 Announcements Advancing Claude in healthcare and the life sciences</strong></a> — <em>Anthropic News</em>
@@ -278,5 +280,3 @@
   - Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to...
 - **2025-09-15 19:31** · <a href="https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter" target="_blank"><strong>Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter</strong></a> — <em>NVIDIA Technical Blog</em>
   - Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to...
-- **2025-09-15 13:00** · <a href="https://developer.nvidia.com/blog/new-open-source-qwen3-next-models-preview-hybrid-moe-architecture-delivering-improved-accuracy-and-accelerated-parallel-processing-across-nvidia-platform/" target="_blank"><strong>New Open Source Qwen3-Next Models Preview Hybrid MoE Architecture Delivering Improved Accuracy and Accelerated Parallel Processing across NVIDIA Platform</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI models grow larger and process longer sequences of text, efficiency becomes just as important as scale.   To showcase what’s next, Alibaba released...
