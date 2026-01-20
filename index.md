@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-20 22:40** · <a href="202601/20c1-j.htm" target="_blank"><strong>ドライブレコーダーの動画からバックホウの作業内容を自動で分類し定量化するAIモデルを構築</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-01-20 22:40** · <a href="https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust" target="_blank"><strong>Jan 21, 2026 Announcements Mariano-Florentino Cuテゥllar appointed to Anthropic窶冱 Long-Term Benefit Trust</strong></a> — <em>Anthropic News</em>
+- **2026-01-20 22:40** · <a href="https://www.anthropic.com/news/anthropic-teach-for-all" target="_blank"><strong>Jan 21, 2026 Announcements Anthropic and Teach For All launch global AI training initiative for educators</strong></a> — <em>Anthropic News</em>
 - **2026-01-15 16:00** · <a href="https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning" target="_blank"><strong>How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
   - What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell commands?..
 - **2026-01-14 22:43** · <a href="202601/pdf/14c1-j.pdf" target="_blank"><strong>自治体初のCO 2 の地産地消型コンクリート製造の実現に向け横浜市と鹿島建設が連携協定を締結しました</strong></a> — <em>鹿島建設 プレス</em>
@@ -275,8 +278,3 @@
   - Deploying large language models (LLMs) poses a challenge in optimizing inference efficiency. In particular, cold start delays—where models take significant...
 - **2025-09-15 22:38** · <a href="https://www.anthropic.com/research/economic-index-geography" target="_blank"><strong>Societal Impacts Anthropic Economic Index: Tracking AI's role in the US and global economy Sep 15, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-15 22:38** · <a href="https://www.anthropic.com/research/anthropic-economic-index-september-2025-report" target="_blank"><strong>Societal Impacts Anthropic Economic Index report: Uneven geographic and enterprise AI adoption Sep 15, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-15 22:38** · <a href="https://www.anthropic.com/news/claude-in-xcode" target="_blank"><strong>Product Claude is now generally available in Xcode Sep 15, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-15 19:31** · <a href="https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/" target="_blank"><strong>Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to...
-- **2025-09-15 19:31** · <a href="https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter" target="_blank"><strong>Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to...
