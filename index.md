@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-21 22:49** · <a href="https://www.anthropic.com/news/claude-new-constitution" target="_blank"><strong>Jan 22, 2026 Announcements Claude's new constitution</strong></a> — <em>Anthropic News</em>
 - **2026-01-20 22:40** · <a href="202601/20c1-j.htm" target="_blank"><strong>ドライブレコーダーの動画からバックホウの作業内容を自動で分類し定量化するAIモデルを構築</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-20 22:40** · <a href="https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust" target="_blank"><strong>Jan 21, 2026 Announcements Mariano-Florentino Cuテゥllar appointed to Anthropic窶冱 Long-Term Benefit Trust</strong></a> — <em>Anthropic News</em>
 - **2026-01-20 22:40** · <a href="https://www.anthropic.com/news/anthropic-teach-for-all" target="_blank"><strong>Jan 21, 2026 Announcements Anthropic and Teach For All launch global AI training initiative for educators</strong></a> — <em>Anthropic News</em>
@@ -277,4 +278,3 @@
 - **2025-09-16 17:35** · <a href="https://developer.nvidia.com/blog/reducing-cold-start-latency-for-llm-inference-with-nvidia-runai-model-streamer" target="_blank"><strong>Reducing Cold Start Latency for LLM Inference with NVIDIA Run:ai Model Streamer</strong></a> — <em>NVIDIA Technical Blog</em>
   - Deploying large language models (LLMs) poses a challenge in optimizing inference efficiency. In particular, cold start delays—where models take significant...
 - **2025-09-15 22:38** · <a href="https://www.anthropic.com/research/economic-index-geography" target="_blank"><strong>Societal Impacts Anthropic Economic Index: Tracking AI's role in the US and global economy Sep 15, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-15 22:38** · <a href="https://www.anthropic.com/research/anthropic-economic-index-september-2025-report" target="_blank"><strong>Societal Impacts Anthropic Economic Index report: Uneven geographic and enterprise AI adoption Sep 15, 2025</strong></a> — <em>Anthropic News</em>
