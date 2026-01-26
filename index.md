@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-26 22:44** · <a href="202601/26c1-j.htm" target="_blank"><strong>濁水処理装置に最適な薬品量を自動添加するシステムを開発・導入</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-01-26 21:00** · <a href="https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization" target="_blank"><strong>Adaptive Inference in NVIDIA TensorRT for RTX Enables Automatic Optimization</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and achieve...
+- **2026-01-26 14:00** · <a href="https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2" target="_blank"><strong>How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Global climate models are good at the big picture—but local climate extremes, like hurricanes and typhoons, often disappear in the details. Those patterns are..
 - **2026-01-23 22:39** · <a href="https://renue.co.jp/posts/article-11" target="_blank"><strong>2026.01.15 事業スケールを見据え、本社を汐留シティセンターへ移転</strong></a> — <em>renue ニュース</em>
 - **2026-01-22 22:22** · <a href="https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell" target="_blank"><strong>Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell</strong></a> — <em>NVIDIA Technical Blog</em>
   - Transformer architecture has become a foundational breakthrough driving the revolution in generative AI, powering large language models (LLMs) like GPT,...
@@ -272,9 +277,3 @@
   - As AI models grow larger and more sophisticated, inference, the process by which a model generates responses, is becoming a major challenge. Large language...
 - **2025-09-18 16:30** · <a href="https://developer.nvidia.com/blog/how-to-reduce-kv-cache-bottlenecks-with-nvidia-dynamo" target="_blank"><strong>How to Reduce KV Cache Bottlenecks with NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI models grow larger and more sophisticated, inference, the process by which a model generates responses, is becoming a major challenge. Large language...
-- **2025-09-17 18:09** · <a href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/" target="_blank"><strong>An Introduction to Speculative Decoding for Reducing Latency in AI Inference</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits.
-- **2025-09-17 18:09** · <a href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference" target="_blank"><strong>An Introduction to Speculative Decoding for Reducing Latency in AI Inference</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits.
-- **2025-09-16 17:35** · <a href="https://developer.nvidia.com/blog/reducing-cold-start-latency-for-llm-inference-with-nvidia-runai-model-streamer/" target="_blank"><strong>Reducing Cold Start Latency for LLM Inference with NVIDIA Run:ai Model Streamer</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Deploying large language models (LLMs) poses a challenge in optimizing inference efficiency. In particular, cold start delays—where models take significant...
