@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-27 22:41** · <a href="https://mistral.ai/news/mistral-vibe-2-0" target="_blank"><strong>Terminally online Mistral Vibe. Product January 27, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
+- **2026-01-27 22:41** · <a href="https://www.anthropic.com/news/gov-UK-partnership" target="_blank"><strong>Jan 27, 2026 Announcements Anthropic partners with the UK Government to bring AI assistance to GOV.UK services</strong></a> — <em>Anthropic News</em>
+- **2026-01-27 19:00** · <a href="https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering" target="_blank"><strong>Accelerating Diffusion Models with an Open, Plug-and-Play Offering</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Recent advances in large-scale diffusion models have revolutionized generative AI across multiple domains, from image synthesis to audio generation, 3D asset...
 - **2026-01-26 22:44** · <a href="202601/26c1-j.htm" target="_blank"><strong>濁水処理装置に最適な薬品量を自動添加するシステムを開発・導入</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-26 21:00** · <a href="https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization" target="_blank"><strong>Adaptive Inference in NVIDIA TensorRT for RTX Enables Automatic Optimization</strong></a> — <em>NVIDIA Technical Blog</em>
   - Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and achieve...
@@ -272,8 +276,3 @@
 - **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program" target="_blank"><strong>Announcements Testing our safety defenses with a new bug bounty program May 14, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/max-plan" target="_blank"><strong>Product Introducing the Max Plan Apr 09, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council" target="_blank"><strong>Announcements Introducing the Anthropic Economic Advisory Council Apr 28, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/head-of-EMEA-new-roles" target="_blank"><strong>Announcements Anthropic appoints Guillaume Princen as Head of EMEA and announces 100+ new roles across the region Apr 8, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-18 16:30** · <a href="https://developer.nvidia.com/blog/how-to-reduce-kv-cache-bottlenecks-with-nvidia-dynamo/" target="_blank"><strong>How to Reduce KV Cache Bottlenecks with NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI models grow larger and more sophisticated, inference, the process by which a model generates responses, is becoming a major challenge. Large language...
-- **2025-09-18 16:30** · <a href="https://developer.nvidia.com/blog/how-to-reduce-kv-cache-bottlenecks-with-nvidia-dynamo" target="_blank"><strong>How to Reduce KV Cache Bottlenecks with NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI models grow larger and more sophisticated, inference, the process by which a model generates responses, is becoming a major challenge. Large language...
