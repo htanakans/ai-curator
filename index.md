@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-28 22:51** · <a href="202601/pdf/28c1-j.pdf" target="_blank"><strong>高速道路建設事業での建設機械施工の自動化・遠隔化の社会実装について</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-01-28 22:50** · <a href="https://cohere.com/solutions/model-vault" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
+- **2026-01-28 22:50** · <a href="https://www.anthropic.com/news/servicenow-anthropic-claude" target="_blank"><strong>Jan 28, 2026 Announcements ServiceNow chooses Claude to power customer apps and increase internal productivity</strong></a> — <em>Anthropic News</em>
+- **2026-01-28 16:28** · <a href="https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core" target="_blank"><strong>Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
+  - This post introduces Dynamic Context Parallelism (Dynamic-CP), a scheduling approach in NVIDIA Megatron Core used for LLM post-training or DiT pre-training. It.
+- **2026-01-28 16:19** · <a href="https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models" target="_blank"><strong>Updating Classifier Evasion for Vision Language Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context. For...
 - **2026-01-27 22:41** · <a href="https://mistral.ai/news/mistral-vibe-2-0" target="_blank"><strong>Terminally online Mistral Vibe. Product January 27, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-01-27 22:41** · <a href="https://www.anthropic.com/news/gov-UK-partnership" target="_blank"><strong>Jan 27, 2026 Announcements Anthropic partners with the UK Government to bring AI assistance to GOV.UK services</strong></a> — <em>Anthropic News</em>
 - **2026-01-27 19:00** · <a href="https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering" target="_blank"><strong>Accelerating Diffusion Models with an Open, Plug-and-Play Offering</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -271,8 +278,3 @@
 - **2025-09-22 08:02** · <a href="https://ai.sony/blog/Sony-AI窶冱-Deep-RL-Team-on-Why-the-Hardest-Problems-Still-Matter" target="_blank"><strong>August 26, 2025 | Game AI Gaming Life at Sony AI Robotics Sony AI Sony AI窶冱 Deep RL Team on Why the Hardest Problems Still Matter</strong></a> — <em>Sony AI News</em>
 - **2025-09-22 08:02** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI窶冱-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI窶冱 Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
 - **2025-09-22 08:02** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI%e2%80%99s-Contributions-at-MLCAD-2025" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-09-22 08:02** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-August" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/token-saving-updates" target="_blank"><strong>Product Token-saving updates on the Anthropic API Mar 13, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program" target="_blank"><strong>Announcements Testing our safety defenses with a new bug bounty program May 14, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/max-plan" target="_blank"><strong>Product Introducing the Max Plan Apr 09, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-22 08:02** · <a href="https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council" target="_blank"><strong>Announcements Introducing the Anthropic Economic Advisory Council Apr 28, 2025</strong></a> — <em>Anthropic News</em>
