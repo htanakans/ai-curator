@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-29 22:51** · <a href="202601/pdf/29a1-j.pdf" target="_blank"><strong>杉乃井ホテル「宙館」、省エネ大賞「経済産業大臣賞」を受賞</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-28 22:51** · <a href="202601/pdf/28c1-j.pdf" target="_blank"><strong>高速道路建設事業での建設機械施工の自動化・遠隔化の社会実装について</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-28 22:50** · <a href="https://cohere.com/solutions/model-vault" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
 - **2026-01-28 22:50** · <a href="https://www.anthropic.com/news/servicenow-anthropic-claude" target="_blank"><strong>Jan 28, 2026 Announcements ServiceNow chooses Claude to power customer apps and increase internal productivity</strong></a> — <em>Anthropic News</em>
@@ -277,4 +278,3 @@
 - **2025-09-22 08:02** · <a href="https://sakana.ai/company-info" target="_blank"><strong>corporate info</strong></a> — <em>Sakana AI News</em>
 - **2025-09-22 08:02** · <a href="https://ai.sony/blog/Sony-AI窶冱-Deep-RL-Team-on-Why-the-Hardest-Problems-Still-Matter" target="_blank"><strong>August 26, 2025 | Game AI Gaming Life at Sony AI Robotics Sony AI Sony AI窶冱 Deep RL Team on Why the Hardest Problems Still Matter</strong></a> — <em>Sony AI News</em>
 - **2025-09-22 08:02** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI窶冱-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI窶冱 Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
-- **2025-09-22 08:02** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI%e2%80%99s-Contributions-at-MLCAD-2025" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
