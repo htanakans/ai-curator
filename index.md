@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-01-30 22:50** · <a href="202601/30a1-j.htm" target="_blank"><strong>既存建物の機能と耐震性を同時に向上させる増築制震技術「E 3 SKY」を初適用</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-01-30 22:49** · <a href="https://ai.sony/blog/Sony-AI窶冱-Contributions-at-AAAI-2026" target="_blank"><strong>January 30, 2026 | Sony AI Sony AI窶冱 Contributions at AAAI 2026</strong></a> — <em>Sony AI News</em>
+- **2026-01-30 22:49** · <a href="https://ai.sony/blog/Sony-AI%E2%80%99s-Contributions-at-AAAI-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-01-30 16:13** · <a href="https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk" target="_blank"><strong>Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI coding agents enable developers to work faster by streamlining tasks and driving automated, test-driven development. However, they also introduce a...
 - **2026-01-29 22:51** · <a href="202601/pdf/29a1-j.pdf" target="_blank"><strong>杉乃井ホテル「宙館」、省エネ大賞「経済産業大臣賞」を受賞</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-28 22:51** · <a href="202601/pdf/28c1-j.pdf" target="_blank"><strong>高速道路建設事業での建設機械施工の自動化・遠隔化の社会実装について</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-28 22:50** · <a href="https://cohere.com/solutions/model-vault" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
@@ -274,7 +279,3 @@
 - **2025-09-22 08:02** · <a href="202505/22c1-j.htm" target="_blank"><strong>バックホウ作業による既設構造物への接触や衝突を防止</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202505/21e1-j.htm" target="_blank"><strong>棚田を未来へとつなぐ提案を開始</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202505/16m1-j.htm" target="_blank"><strong>第32回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202505/12a1-j.htm" target="_blank"><strong>赤坂一丁目で「三会堂ビル新築工事」が本格着工</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="https://sakana.ai/company-info" target="_blank"><strong>corporate info</strong></a> — <em>Sakana AI News</em>
-- **2025-09-22 08:02** · <a href="https://ai.sony/blog/Sony-AI窶冱-Deep-RL-Team-on-Why-the-Hardest-Problems-Still-Matter" target="_blank"><strong>August 26, 2025 | Game AI Gaming Life at Sony AI Robotics Sony AI Sony AI窶冱 Deep RL Team on Why the Hardest Problems Still Matter</strong></a> — <em>Sony AI News</em>
-- **2025-09-22 08:02** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI窶冱-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI窶冱 Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
