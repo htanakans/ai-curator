@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-03 22:54** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-January" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-02-03 22:54** · <a href="https://cohere.com/customer-stories/coreweave" target="_blank"><strong>CoreWeave</strong></a> — <em>Cohere Blog</em>
+- **2026-02-03 22:54** · <a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk" target="_blank"><strong>Feb 3, 2026 Product Apple窶冱 Xcode now supports the Claude Agent SDK</strong></a> — <em>Anthropic News</em>
+- **2026-02-03 22:54** · <a href="https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute" target="_blank"><strong>Feb 2, 2026 Societal Impacts Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery</strong></a> — <em>Anthropic News</em>
+- **2026-02-02 18:43** · <a href="https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel" target="_blank"><strong>Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all-to-all,..
 - **2026-01-30 22:50** · <a href="202601/30a1-j.htm" target="_blank"><strong>既存建物の機能と耐震性を同時に向上させる増築制震技術「E 3 SKY」を初適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-30 22:49** · <a href="https://ai.sony/blog/Sony-AI窶冱-Contributions-at-AAAI-2026" target="_blank"><strong>January 30, 2026 | Sony AI Sony AI窶冱 Contributions at AAAI 2026</strong></a> — <em>Sony AI News</em>
 - **2026-01-30 22:49** · <a href="https://ai.sony/blog/Sony-AI%E2%80%99s-Contributions-at-AAAI-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
@@ -274,8 +280,3 @@
 - **2025-09-22 08:02** · <a href="202506/24c1-j.htm" target="_blank"><strong>鹿島建設、SUBARU 光ファイバセンシング技術を用いた路車協調型自動運転の実証実験を開始</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202506/16m1-j.htm" target="_blank"><strong>カジマ・オーストラリア社が賃貸集合住宅(BTR)ファンドマネジメント事業に着手</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202506/11a1-j.htm" target="_blank"><strong>「水災害トータルエンジニアリングサービス」による対策工事を自社技術研究所にて完了</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202505/29c1-j.htm" target="_blank"><strong>下水道光ファイバを活用した地中空洞化調査技術の開発を開始</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202505/27a1-j.htm" target="_blank"><strong>鹿島が「東北支店ビル」を新たな木造フラッグシップビルに建替え</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202505/22c1-j.htm" target="_blank"><strong>バックホウ作業による既設構造物への接触や衝突を防止</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202505/21e1-j.htm" target="_blank"><strong>棚田を未来へとつなぐ提案を開始</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202505/16m1-j.htm" target="_blank"><strong>第32回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
