@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-04 22:50** · <a href="https://www.anthropic.com/news/claude-is-a-space-to-think" target="_blank"><strong>Feb 4, 2026 Announcements Claude is a space to think</strong></a> — <em>Anthropic News</em>
+- **2026-02-04 16:00** · <a href="https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron" target="_blank"><strong>How to Build a Document Processing Pipeline for RAG with Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
+  - What if your AI agent could instantly parse complex PDFs, extract nested tables, and "see" data within charts as easily as reading a text file? With NVIDIA...
 - **2026-02-03 22:54** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-January" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2026-02-03 22:54** · <a href="https://cohere.com/customer-stories/coreweave" target="_blank"><strong>CoreWeave</strong></a> — <em>Cohere Blog</em>
 - **2026-02-03 22:54** · <a href="https://www.anthropic.com/news/apple-xcode-claude-agent-sdk" target="_blank"><strong>Feb 3, 2026 Product Apple窶冱 Xcode now supports the Claude Agent SDK</strong></a> — <em>Anthropic News</em>
@@ -278,5 +281,3 @@
 - **2025-09-22 08:02** · <a href="202507/24a1-j.htm" target="_blank"><strong>札幌4丁目プレイスの商業施設「4PLA」の全テナントが決定!地上2階・3階は8月7日、地下1階は10月9日に開業</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202506/2c1-j.htm" target="_blank"><strong>斜杭式桟橋・ドルフィン上部工のフルプレキャスト化の実現により、海上作業を大幅に省力化</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202506/24c1-j.htm" target="_blank"><strong>鹿島建設、SUBARU 光ファイバセンシング技術を用いた路車協調型自動運転の実証実験を開始</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202506/16m1-j.htm" target="_blank"><strong>カジマ・オーストラリア社が賃貸集合住宅(BTR)ファンドマネジメント事業に着手</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202506/11a1-j.htm" target="_blank"><strong>「水災害トータルエンジニアリングサービス」による対策工事を自社技術研究所にて完了</strong></a> — <em>鹿島建設 プレス</em>
