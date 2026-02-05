@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-05 22:53** · <a href="https://cohere.com/customer-stories" target="_blank"><strong>Customer Stories Explore enterprise AI case studies and success stories</strong></a> — <em>Cohere Blog</em>
+- **2026-02-05 22:53** · <a href="https://www.anthropic.com/news/claude-opus-4-6" target="_blank"><strong>Feb 5, 2026 Announcements Introducing Claude Opus 4.6</strong></a> — <em>Anthropic News</em>
+- **2026-02-05 18:00** · <a href="https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation" target="_blank"><strong>How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-specific...
+- **2026-02-05 14:00** · <a href="https://developer.nvidia.com/blog/how-painkiller-rtx-uses-generative-ai-to-modernize-game-assets-at-scale" target="_blank"><strong>How Painkiller RTX Uses Generative AI to Modernize Game Assets at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Painkiller RTX sets a new standard for how small teams can balance massive visual ambition with limited resources by integrating generative AI. By upscaling...
 - **2026-02-04 22:50** · <a href="https://www.anthropic.com/news/claude-is-a-space-to-think" target="_blank"><strong>Feb 4, 2026 Announcements Claude is a space to think</strong></a> — <em>Anthropic News</em>
 - **2026-02-04 16:00** · <a href="https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron" target="_blank"><strong>How to Build a Document Processing Pipeline for RAG with Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
   - What if your AI agent could instantly parse complex PDFs, extract nested tables, and "see" data within charts as easily as reading a text file? With NVIDIA...
@@ -277,7 +283,3 @@
 - **2025-09-22 08:02** · <a href="202508/28a1-j.htm" target="_blank"><strong>ZEB Ready取得オフィスビル「芝御成門タワー」が竣工</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202507/pdf/9e1-j.pdf" target="_blank"><strong>植物を用いた有用タンパク質生産のための研究開発拠点を設置しました</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202507/pdf/8a1-j.pdf" target="_blank"><strong>大規模複合施設「HANEDA INNOVATION CITY ® 」「NO BORDER BONODORI×台湾好包miniフェス」開催決定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202507/pdf/7a1-j.pdf" target="_blank"><strong>「関内駅前北口地区第一種市街地再開発事業」関内駅前北口地区市街地再開発組合を設立</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202507/24a1-j.htm" target="_blank"><strong>札幌4丁目プレイスの商業施設「4PLA」の全テナントが決定!地上2階・3階は8月7日、地下1階は10月9日に開業</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202506/2c1-j.htm" target="_blank"><strong>斜杭式桟橋・ドルフィン上部工のフルプレキャスト化の実現により、海上作業を大幅に省力化</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202506/24c1-j.htm" target="_blank"><strong>鹿島建設、SUBARU 光ファイバセンシング技術を用いた路車協調型自動運転の実証実験を開始</strong></a> — <em>鹿島建設 プレス</em>
