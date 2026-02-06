@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-06 16:00** · <a href="https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference" target="_blank"><strong>3 Ways NVFP4 Accelerates AI Training and Inference</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The latest AI models continue to grow in size and complexity, demanding increasing amounts of compute performance for training and inference—far beyond what...
 - **2026-02-05 22:53** · <a href="https://cohere.com/customer-stories" target="_blank"><strong>Customer Stories Explore enterprise AI case studies and success stories</strong></a> — <em>Cohere Blog</em>
 - **2026-02-05 22:53** · <a href="https://www.anthropic.com/news/claude-opus-4-6" target="_blank"><strong>Feb 5, 2026 Announcements Introducing Claude Opus 4.6</strong></a> — <em>Anthropic News</em>
 - **2026-02-05 18:00** · <a href="https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation" target="_blank"><strong>How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -282,4 +284,3 @@
 - **2025-09-22 08:02** · <a href="202508/7a1-j.htm" target="_blank"><strong>仙台駅至近のビジネスエリアに高機能オフィスビル「NANT仙台南町」が開業</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202508/28a1-j.htm" target="_blank"><strong>ZEB Ready取得オフィスビル「芝御成門タワー」が竣工</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202507/pdf/9e1-j.pdf" target="_blank"><strong>植物を用いた有用タンパク質生産のための研究開発拠点を設置しました</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202507/pdf/8a1-j.pdf" target="_blank"><strong>大規模複合施設「HANEDA INNOVATION CITY ® 」「NO BORDER BONODORI×台湾好包miniフェス」開催決定</strong></a> — <em>鹿島建設 プレス</em>
