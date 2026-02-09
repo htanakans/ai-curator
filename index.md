@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-09 23:03** · <a href="https://cohere.com/saas-agreement" target="_blank"><strong>SaaS Agreement</strong></a> — <em>Cohere Blog</em>
+- **2026-02-09 18:30** · <a href="https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy" target="_blank"><strong>Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture...
 - **2026-02-06 16:00** · <a href="https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference" target="_blank"><strong>3 Ways NVFP4 Accelerates AI Training and Inference</strong></a> — <em>NVIDIA Technical Blog</em>
   - The latest AI models continue to grow in size and complexity, demanding increasing amounts of compute performance for training and inference—far beyond what...
 - **2026-02-05 22:53** · <a href="https://cohere.com/customer-stories" target="_blank"><strong>Customer Stories Explore enterprise AI case studies and success stories</strong></a> — <em>Cohere Blog</em>
@@ -282,5 +285,3 @@
 - **2025-09-22 08:02** · <a href="202509/18a1-j.htm" target="_blank"><strong>「ANAホリデイ・インリゾート軽井沢」 9月12日(金)開業</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202508/pdf/27e1-j.pdf" target="_blank"><strong>有害物質が付着した金属廃棄物の無害化・再資源化により、サーキュラーエコノミーを実現</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202508/7a1-j.htm" target="_blank"><strong>仙台駅至近のビジネスエリアに高機能オフィスビル「NANT仙台南町」が開業</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202508/28a1-j.htm" target="_blank"><strong>ZEB Ready取得オフィスビル「芝御成門タワー」が竣工</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202507/pdf/9e1-j.pdf" target="_blank"><strong>植物を用いた有用タンパク質生産のための研究開発拠点を設置しました</strong></a> — <em>鹿島建設 プレス</em>
