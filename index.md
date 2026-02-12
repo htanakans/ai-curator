@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-12 22:54** · <a href="202602/12a1-j.htm" target="_blank"><strong>「新秩父宮ラグビー場(仮称)整備・運営等事業」 着工 トップパートナーは三井住友フィナンシャルグループ</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-02-12 22:53** · <a href="https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation" target="_blank"><strong>Feb 12, 2026 Announcements Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation</strong></a> — <em>Anthropic News</em>
 - **2026-02-09 23:03** · <a href="https://cohere.com/saas-agreement" target="_blank"><strong>SaaS Agreement</strong></a> — <em>Cohere Blog</em>
 - **2026-02-09 18:30** · <a href="https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy" target="_blank"><strong>Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture...
@@ -283,5 +285,3 @@
 - **2025-09-22 08:02** · <a href="202509/2m1-j.htm" target="_blank"><strong>南海トラフ地震「半割れ」を想定した広域連携BCP 訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202509/1c1-j.htm" target="_blank"><strong>エレクタ付き2ノズル自動吹付け機を実工事に初導入</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202509/18a1-j.htm" target="_blank"><strong>「ANAホリデイ・インリゾート軽井沢」 9月12日(金)開業</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202508/pdf/27e1-j.pdf" target="_blank"><strong>有害物質が付着した金属廃棄物の無害化・再資源化により、サーキュラーエコノミーを実現</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202508/7a1-j.htm" target="_blank"><strong>仙台駅至近のビジネスエリアに高機能オフィスビル「NANT仙台南町」が開業</strong></a> — <em>鹿島建設 プレス</em>
