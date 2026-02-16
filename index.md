@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-16 22:53** · <a href="https://www.anthropic.com/news/bengaluru-office-partnerships-across-india" target="_blank"><strong>Feb 16, 2026 Announcements Anthropic opens Bengaluru office and announces new partnerships across India</strong></a> — <em>Anthropic News</em>
 - **2026-02-13 22:56** · <a href="https://www.anthropic.com/news/anthropic-codepath-partnership" target="_blank"><strong>Feb 13, 2026 Announcements Anthropic partners with CodePath to bring Claude to the US窶冱 largest collegiate computer science program</strong></a> — <em>Anthropic News</em>
 - **2026-02-12 22:54** · <a href="202602/12a1-j.htm" target="_blank"><strong>「新秩父宮ラグビー場(仮称)整備・運営等事業」 着工 トップパートナーは三井住友フィナンシャルグループ</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-02-12 22:53** · <a href="https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation" target="_blank"><strong>Feb 12, 2026 Announcements Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation</strong></a> — <em>Anthropic News</em>
@@ -284,4 +285,3 @@
 - **2025-09-22 08:02** · <a href="202509/9c1-j.htm" target="_blank"><strong>リアルタイム3Dスキャンにより現場状況の”今”を3次元で見える化</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202509/4c1-j.htm" target="_blank"><strong>高速道路高架橋の耐震補強にUHPFRCを初適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-22 08:02** · <a href="202509/2m1-j.htm" target="_blank"><strong>南海トラフ地震「半割れ」を想定した広域連携BCP 訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202509/1c1-j.htm" target="_blank"><strong>エレクタ付き2ノズル自動吹付け機を実工事に初導入</strong></a> — <em>鹿島建設 プレス</em>
