@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/financial-accounting-ai-agent" target="_blank"><strong>2026.02.13 複数SaaSを統合した財務・管理会計AIエージェントを開発 freee会計の財務データと複数の管理会計系SaaSを統合し、横断的な経営分析を実現します。</strong></a> — <em>renue ニュース</em>
+- **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/e-commerce-agent" target="_blank"><strong>2026.02.05 EC運営コストを大幅に削減するAIマーケティング自動化ソリューション「E-Commerce Agent」の提供を開始 複数ECプラットフォームをAIで一元管理し、自然言語での指示だけで運用工数を大幅削減します。</strong></a> — <em>renue ニュース</em>
+- **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/ai-pmo-platform" target="_blank"><strong>2026.01.22 PMO業務の周辺業務を生成AIに全自動化する「AI PMO」基盤を発表 議事録作成、日報作成、タスク・課題整理といったPMOの周辺業務をAIで自動化する「AI PMO」基盤を開発しました。</strong></a> — <em>renue ニュース</em>
+- **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/claude-sonnet-4-6" target="_blank"><strong>Introducing Claude Sonnet 4.6 Product Feb 17, 2026 Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.</strong></a> — <em>Anthropic News</em>
+- **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/anthropic-rwanda-mou" target="_blank"><strong>Feb 17, 2026 Announcements Anthropic and the Government of Rwanda sign MOU for AI in health and education</strong></a> — <em>Anthropic News</em>
+- **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/anthropic-infosys" target="_blank"><strong>Feb 17, 2026 Announcements Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries</strong></a> — <em>Anthropic News</em>
+- **2026-02-17 18:00** · <a href="https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities" target="_blank"><strong>Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...
 - **2026-02-16 22:53** · <a href="https://www.anthropic.com/news/bengaluru-office-partnerships-across-india" target="_blank"><strong>Feb 16, 2026 Announcements Anthropic opens Bengaluru office and announces new partnerships across India</strong></a> — <em>Anthropic News</em>
 - **2026-02-13 22:56** · <a href="https://www.anthropic.com/news/anthropic-codepath-partnership" target="_blank"><strong>Feb 13, 2026 Announcements Anthropic partners with CodePath to bring Claude to the US窶冱 largest collegiate computer science program</strong></a> — <em>Anthropic News</em>
 - **2026-02-12 22:54** · <a href="202602/12a1-j.htm" target="_blank"><strong>「新秩父宮ラグビー場(仮称)整備・運営等事業」 着工 トップパートナーは三井住友フィナンシャルグループ</strong></a> — <em>鹿島建設 プレス</em>
@@ -278,10 +286,3 @@
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/overseas" target="_blank"><strong>海外進出サポート</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/laboratory" target="_blank"><strong>技術研究所 本館と幅広い分野の実験施設を備えた技術研究所では「人間と自然環境を結ぶ技術の創出」をコンセプトに掲げ、現在そして将来に向けた研究開発に取り組んでいます。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution" target="_blank"><strong>技術・ ソリューション</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/lp/takiginou/2025" target="_blank"><strong>第44回明治神宮薪能へのご招待 今年で第44回を迎える明治神宮薪能開催のお知らせです。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/assets/pdf/sustainability/nd/non-financialdata.pdf" target="_blank"><strong>非財務データ</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-22 08:02** · <a href="https://www.kajima.co.jp/news/digest/index-j.html" target="_blank"><strong>KAJIMA MONTHLY REPORT - 月報KAJIMA</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202509/pdf/16a1-j.pdf" target="_blank"><strong>“これぞ日本!”な食・遊・知のコンテンツがHICity ® に大集結 ナイトタイムイベント「ハネダ夜街」開催決定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202509/9c1-j.htm" target="_blank"><strong>リアルタイム3Dスキャンにより現場状況の”今”を3次元で見える化</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202509/4c1-j.htm" target="_blank"><strong>高速道路高架橋の耐震補強にUHPFRCを初適用</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-22 08:02** · <a href="202509/2m1-j.htm" target="_blank"><strong>南海トラフ地震「半割れ」を想定した広域連携BCP 訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
