@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-18 18:00** · <a href="https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai" target="_blank"><strong>Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges.
+- **2026-02-18 16:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models" target="_blank"><strong>How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost
 - **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/financial-accounting-ai-agent" target="_blank"><strong>2026.02.13 複数SaaSを統合した財務・管理会計AIエージェントを開発 freee会計の財務データと複数の管理会計系SaaSを統合し、横断的な経営分析を実現します。</strong></a> — <em>renue ニュース</em>
 - **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/e-commerce-agent" target="_blank"><strong>2026.02.05 EC運営コストを大幅に削減するAIマーケティング自動化ソリューション「E-Commerce Agent」の提供を開始 複数ECプラットフォームをAIで一元管理し、自然言語での指示だけで運用工数を大幅削減します。</strong></a> — <em>renue ニュース</em>
 - **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/ai-pmo-platform" target="_blank"><strong>2026.01.22 PMO業務の周辺業務を生成AIに全自動化する「AI PMO」基盤を発表 議事録作成、日報作成、タスク・課題整理といったPMOの周辺業務をAIで自動化する「AI PMO」基盤を開発しました。</strong></a> — <em>renue ニュース</em>
@@ -284,5 +288,3 @@
 - **2025-09-22 22:39** · <a href="https://www.anthropic.com/economic-futures" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/zeb" target="_blank"><strong>ZEB・ZEH 快適な省エネ建築物の設計・提案、技術開発に取り組んでいます。当社のZEB・ZEH取組方針や実績を紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/overseas" target="_blank"><strong>海外進出サポート</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/laboratory" target="_blank"><strong>技術研究所 本館と幅広い分野の実験施設を備えた技術研究所では「人間と自然環境を結ぶ技術の創出」をコンセプトに掲げ、現在そして将来に向けた研究開発に取り組んでいます。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution" target="_blank"><strong>技術・ ソリューション</strong></a> — <em>安藤ハザマ ニュース</em>
