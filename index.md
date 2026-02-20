@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-20 22:52** · <a href="https://www.anthropic.com/news/claude-code-security" target="_blank"><strong>Feb 20, 2026 Announcements Making frontier cybersecurity capabilities available to defenders</strong></a> — <em>Anthropic News</em>
 - **2026-02-19 22:56** · <a href="https://renue.co.jp/posts/ad-agency-ai-agent" target="_blank"><strong>2026.02.19 「広告代理AIエージェント」を開発、Web広告の制作・配信・運用を生成AIが完全代行 Meta広告・Google広告などプラットフォーム横断で、キャンペーン設計からクリエイティブ制作、入稿、PDCA改善までをAIが一括代行します。</strong></a> — <em>renue ニュース</em>
 - **2026-02-18 18:00** · <a href="https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai" target="_blank"><strong>Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges.
@@ -287,4 +288,3 @@
 - **2025-09-23 15:30** · <a href="https://developer.nvidia.com/blog/reasoning-through-molecular-synthetic-pathways-with-generative-ai" target="_blank"><strong>Reasoning Through Molecular Synthetic Pathways with Generative AI</strong></a> — <em>NVIDIA Technical Blog</em>
   - A recurring challenge in molecular design, whether for pharmaceutical, chemical, or material applications, is creating synthesizable molecules. Synthesizability
 - **2025-09-22 22:39** · <a href="https://www.anthropic.com/economic-futures" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
-- **2025-09-22 08:02** · <a href="https://www.ad-hzm.co.jp/solution/zeb" target="_blank"><strong>ZEB・ZEH 快適な省エネ建築物の設計・提案、技術開発に取り組んでいます。当社のZEB・ZEH取組方針や実績を紹介しています。</strong></a> — <em>安藤ハザマ ニュース</em>
