@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-23 23:05** · <a href="https://cohere.com/solutions/telecommunications" target="_blank"><strong>Telecommunications</strong></a> — <em>Cohere Blog</em>
+- **2026-02-23 23:05** · <a href="https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks" target="_blank"><strong>Feb 23, 2026 Announcements Detecting and preventing distillation attacks</strong></a> — <em>Anthropic News</em>
+- **2026-02-23 18:00** · <a href="https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy" target="_blank"><strong>Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...
+- **2026-02-23 00:00** · <a href="https://machinelearning.apple.com/updates/reasoning-workshop-2025" target="_blank"><strong>Apple Workshop on Reasoning and Planning 2025</strong></a> — <em>Apple ML Research</em>
+  - Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Apple, under
 - **2026-02-20 22:52** · <a href="https://www.anthropic.com/news/claude-code-security" target="_blank"><strong>Feb 20, 2026 Announcements Making frontier cybersecurity capabilities available to defenders</strong></a> — <em>Anthropic News</em>
 - **2026-02-19 22:56** · <a href="https://renue.co.jp/posts/ad-agency-ai-agent" target="_blank"><strong>2026.02.19 「広告代理AIエージェント」を開発、Web広告の制作・配信・運用を生成AIが完全代行 Meta広告・Google広告などプラットフォーム横断で、キャンペーン設計からクリエイティブ制作、入稿、PDCA改善までをAIが一括代行します。</strong></a> — <em>renue ニュース</em>
 - **2026-02-18 18:00** · <a href="https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai" target="_blank"><strong>Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -281,10 +287,3 @@
 - **2025-09-24 22:35** · <a href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot" target="_blank"><strong>Announcements Claude is now available in Microsoft 365 Copilot Sep 24, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-24 17:00** · <a href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model" target="_blank"><strong>NVIDIA Open Sources Audio2Face Animation Model</strong></a> — <em>NVIDIA Technical Blog</em>
   - By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games
-- **2025-09-23 19:20** · <a href="https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs" target="_blank"><strong>Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC...
-- **2025-09-23 16:36** · <a href="https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo" target="_blank"><strong>Faster Training Throughput in FP8 Precision with NVIDIA NeMo</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In previous posts on FP8 training, we explored the fundamentals of FP8 precision and took a deep dive into the various scaling recipes for practical large-scale
-- **2025-09-23 15:30** · <a href="https://developer.nvidia.com/blog/reasoning-through-molecular-synthetic-pathways-with-generative-ai" target="_blank"><strong>Reasoning Through Molecular Synthetic Pathways with Generative AI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - A recurring challenge in molecular design, whether for pharmaceutical, chemical, or material applications, is creating synthesizable molecules. Synthesizability
-- **2025-09-22 22:39** · <a href="https://www.anthropic.com/economic-futures" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
