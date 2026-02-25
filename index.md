@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-25 17:00** · <a href="https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra" target="_blank"><strong>Making Softmax More Efficient with NVIDIA Blackwell Ultra</strong></a> — <em>NVIDIA Technical Blog</em>
+  - LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query...
 - **2026-02-23 23:05** · <a href="https://cohere.com/solutions/telecommunications" target="_blank"><strong>Telecommunications</strong></a> — <em>Cohere Blog</em>
 - **2026-02-23 23:05** · <a href="https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks" target="_blank"><strong>Feb 23, 2026 Announcements Detecting and preventing distillation attacks</strong></a> — <em>Anthropic News</em>
 - **2026-02-23 18:00** · <a href="https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy" target="_blank"><strong>Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -285,5 +287,3 @@
   - In previous posts on AI in manufacturing and operations, we covered the unique data challenges in the supply chain and how smart feature engineering can...
 - **2025-09-24 22:35** · <a href="202509/pdf/24a1-j.pdf" target="_blank"><strong>JR「関内」駅前 大規模ミクストユース型プロジェクト 「BASEGATE 横浜関内」2026年3月19日グランドオープン 入居テナント55店舗の詳細と小割飲食ゾーンの名称を発表</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-09-24 22:35** · <a href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot" target="_blank"><strong>Announcements Claude is now available in Microsoft 365 Copilot Sep 24, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-24 17:00** · <a href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model" target="_blank"><strong>NVIDIA Open Sources Audio2Face Animation Model</strong></a> — <em>NVIDIA Technical Blog</em>
-  - By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games
