@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-26 22:58** · <a href="202602/26c1-j.htm" target="_blank"><strong>風車支持構造物技術審査において浮体式洋上風車基礎で国内初となる認証が完了</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-02-26 22:58** · <a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank"><strong>Statement from Dario Amodei on our discussions with the Department of War Announcements Feb 26, 2026 A statement from our CEO on national security uses of AI.</strong></a> — <em>Anthropic News</em>
 - **2026-02-25 17:00** · <a href="https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra" target="_blank"><strong>Making Softmax More Efficient with NVIDIA Blackwell Ultra</strong></a> — <em>NVIDIA Technical Blog</em>
   - LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query...
 - **2026-02-23 23:05** · <a href="https://cohere.com/solutions/telecommunications" target="_blank"><strong>Telecommunications</strong></a> — <em>Cohere Blog</em>
@@ -285,5 +287,3 @@
   - Generative AI is opening new possibilities for analyzing existing video streams. Video analytics are evolving from counting objects to turning raw video content
 - **2025-09-25 16:30** · <a href="https://developer.nvidia.com/blog/how-to-gpu-accelerate-model-training-with-cuda-x-data-science" target="_blank"><strong>How to GPU-Accelerate Model Training with CUDA-X Data Science</strong></a> — <em>NVIDIA Technical Blog</em>
   - In previous posts on AI in manufacturing and operations, we covered the unique data challenges in the supply chain and how smart feature engineering can...
-- **2025-09-24 22:35** · <a href="202509/pdf/24a1-j.pdf" target="_blank"><strong>JR「関内」駅前 大規模ミクストユース型プロジェクト 「BASEGATE 横浜関内」2026年3月19日グランドオープン 入居テナント55店舗の詳細と小割飲食ゾーンの名称を発表</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-09-24 22:35** · <a href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot" target="_blank"><strong>Announcements Claude is now available in Microsoft 365 Copilot Sep 24, 2025</strong></a> — <em>Anthropic News</em>
