@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-02-27 22:48** · <a href="https://cohere.com/solutions" target="_blank"><strong>Solutions</strong></a> — <em>Cohere Blog</em>
 - **2026-02-26 22:58** · <a href="202602/26c1-j.htm" target="_blank"><strong>風車支持構造物技術審査において浮体式洋上風車基礎で国内初となる認証が完了</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-02-26 22:58** · <a href="https://www.anthropic.com/news/statement-department-of-war" target="_blank"><strong>Statement from Dario Amodei on our discussions with the Department of War Announcements Feb 26, 2026 A statement from our CEO on national security uses of AI.</strong></a> — <em>Anthropic News</em>
 - **2026-02-25 17:00** · <a href="https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra" target="_blank"><strong>Making Softmax More Efficient with NVIDIA Blackwell Ultra</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -285,5 +286,3 @@
   - The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA,.
 - **2025-09-25 16:42** · <a href="https://developer.nvidia.com/blog/how-to-integrate-computer-vision-pipelines-with-generative-ai-and-reasoning" target="_blank"><strong>How to Integrate Computer Vision Pipelines with Generative AI and Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
   - Generative AI is opening new possibilities for analyzing existing video streams. Video analytics are evolving from counting objects to turning raw video content
-- **2025-09-25 16:30** · <a href="https://developer.nvidia.com/blog/how-to-gpu-accelerate-model-training-with-cuda-x-data-science" target="_blank"><strong>How to GPU-Accelerate Model Training with CUDA-X Data Science</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In previous posts on AI in manufacturing and operations, we covered the unique data challenges in the supply chain and how smart feature engineering can...
