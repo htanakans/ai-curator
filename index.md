@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-01 07:00** · <a href="https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo" target="_blank"><strong>Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...
+- **2026-03-01 07:00** · <a href="https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks" target="_blank"><strong>5 New Digital Twin Products Developers Can Use to Build 6G Networks</strong></a> — <em>NVIDIA Technical Blog</em>
+  - To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to.
 - **2026-02-28 22:43** · <a href="https://www.anthropic.com/news/statement-comments-secretary-war" target="_blank"><strong>Statement on the comments from Secretary of War Pete Hegseth Announcements Feb 27, 2026 Anthropic's response to the Secretary of War and advice to customers.</strong></a> — <em>Anthropic News</em>
 - **2026-02-27 22:48** · <a href="https://cohere.com/solutions" target="_blank"><strong>Solutions</strong></a> — <em>Cohere Blog</em>
 - **2026-02-26 22:58** · <a href="202602/26c1-j.htm" target="_blank"><strong>風車支持構造物技術審査において浮体式洋上風車基礎で国内初となる認証が完了</strong></a> — <em>鹿島建設 プレス</em>
@@ -281,7 +285,3 @@
 - **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank"><strong>Announcements Introducing Claude Sonnet 4.5 Sep 29, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-09-29 15:00** · <a href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo" target="_blank"><strong>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
   - The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high...
-- **2025-09-28 15:00** · <a href="https://events.zoom.us/ev/Ag9h43l88Btk65TlD9a2oZD5gLWhBD4HPbnApXEgazabeggG1Amq~Ah35JdKFc3kjnPkJVjccd7ubm35Av5p_vKJviCDFm-OnTsouYuioDrkaYg" target="_blank"><strong>Upcoming Digital Event: Open Accelerated Computing Summit</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Join the OAC Summit on October 7-8 and dive into recent research at the crossroads of AI and HPC.
-- **2025-09-26 16:31** · <a href="https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models" target="_blank"><strong>Why CVEs Belong in Frameworks and Apps, Not AI Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA,.
