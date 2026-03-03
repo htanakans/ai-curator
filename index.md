@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-03 22:52** · <a href="202603/3c1-j.htm" target="_blank"><strong>道路橋の床版更新に係る工法の普及展開を図る「SDRシステム研究会」が始動</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-03 22:52** · <a href="https://ai.sony/blog/Sony-AI’s-Contributions-at-AAAI-2026" target="_blank"><strong>January 30, 2026 | Sony AI Sony AI’s Contributions at AAAI 2026</strong></a> — <em>Sony AI News</em>
+- **2026-03-03 22:52** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-February-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-03-03 19:49** · <a href="https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents" target="_blank"><strong>How to Minimize Game Runtime Inference Costs with Coding Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA ACE is a suite of technologies for building AI agents for gaming. ACE provides ready-to-integrate cloud and on-device AI models for every part of in-game
 - **2026-03-01 07:00** · <a href="https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo" target="_blank"><strong>Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo</strong></a> — <em>NVIDIA Technical Blog</em>
   - Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...
 - **2026-03-01 07:00** · <a href="https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks" target="_blank"><strong>5 New Digital Twin Products Developers Can Use to Build 6G Networks</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -280,8 +285,3 @@
 - **2025-10-01 22:40** · <a href="202510/1a1-j.htm" target="_blank"><strong>無垢の杉材を用いた木質耐火被覆工法「Tie-KaSOLID ® 」を実適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/driving-ai-transformation-with-claude" target="_blank"><strong>Announcements How enterprises are driving AI transformation with Claude Oct 01, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/claude-and-slack" target="_blank"><strong>Product Claude and Slack Oct 01, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously" target="_blank"><strong>Product Enabling Claude Code to work more autonomously Sep 29, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/context-management" target="_blank"><strong>Product Managing context on the Claude Developer Platform Sep 29, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-29 22:33** · <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank"><strong>Announcements Introducing Claude Sonnet 4.5 Sep 29, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-09-29 15:00** · <a href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo" target="_blank"><strong>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high...
