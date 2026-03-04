@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-04 22:54** · <a href="202603/4c1-j.htm" target="_blank"><strong>山岳トンネル工事における「切羽評価システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-04 17:00** · <a href="https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile" target="_blank"><strong>Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA..
 - **2026-03-03 22:52** · <a href="202603/3c1-j.htm" target="_blank"><strong>道路橋の床版更新に係る工法の普及展開を図る「SDRシステム研究会」が始動</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-03 22:52** · <a href="https://ai.sony/blog/Sony-AI’s-Contributions-at-AAAI-2026" target="_blank"><strong>January 30, 2026 | Sony AI Sony AI’s Contributions at AAAI 2026</strong></a> — <em>Sony AI News</em>
 - **2026-03-03 22:52** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-February-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
@@ -283,5 +286,3 @@
 - **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI’s-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI’s Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
 - **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-September" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-10-01 22:40** · <a href="202510/1a1-j.htm" target="_blank"><strong>無垢の杉材を用いた木質耐火被覆工法「Tie-KaSOLID ® 」を実適用</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/driving-ai-transformation-with-claude" target="_blank"><strong>Announcements How enterprises are driving AI transformation with Claude Oct 01, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-01 22:39** · <a href="https://www.anthropic.com/news/claude-and-slack" target="_blank"><strong>Product Claude and Slack Oct 01, 2025</strong></a> — <em>Anthropic News</em>
