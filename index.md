@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-05 23:26** · <a href="202603/5c1-j.htm" target="_blank"><strong>耐久性と耐候性を備えた走路用粉じん飛散防止材「MAK.ドーロ」を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-05 18:00** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance" target="_blank"><strong>NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to...
 - **2026-03-04 22:54** · <a href="202603/4c1-j.htm" target="_blank"><strong>山岳トンネル工事における「切羽評価システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-04 17:00** · <a href="https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile" target="_blank"><strong>Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile</strong></a> — <em>NVIDIA Technical Blog</em>
   - In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA..
@@ -284,5 +287,3 @@
 - **2025-10-03 22:35** · <a href="202510/pdf/3a1-j.pdf" target="_blank"><strong>クールな日本がここにある。“JAPAN”な夜を楽しむ「ハネダ夜街」イベント詳細決定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-02 22:37** · <a href="202510/2e1-j.htm" target="_blank"><strong>鹿島の社有林が地域生物多様性増進法に基づく自然共生サイトの第一弾に認定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI’s-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI’s Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
-- **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-September" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-10-01 22:40** · <a href="202510/1a1-j.htm" target="_blank"><strong>無垢の杉材を用いた木質耐火被覆工法「Tie-KaSOLID ® 」を実適用</strong></a> — <em>鹿島建設 プレス</em>
