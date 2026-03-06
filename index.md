@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-06 22:52** · <a href="202603/6e1-j.htm" target="_blank"><strong>森林の水資源を守る、高精度技術で未来をつなぐ</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-06 22:52** · <a href="https://www.anthropic.com/news/where-stand-department-war" target="_blank"><strong>Where things stand with the Department of War Announcements Mar 5, 2026 A statement from Dario Amodei.</strong></a> — <em>Anthropic News</em>
 - **2026-03-05 23:26** · <a href="202603/5c1-j.htm" target="_blank"><strong>耐久性と耐候性を備えた走路用粉じん飛散防止材「MAK.ドーロ」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-05 18:00** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance" target="_blank"><strong>NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance</strong></a> — <em>NVIDIA Technical Blog</em>
   - Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to...
@@ -285,5 +287,3 @@
 - **2025-10-06 16:00** · <a href="https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine" target="_blank"><strong>Speeding Up Data Decompression with nvCOMP and the NVIDIA Blackwell Decompression Engine</strong></a> — <em>NVIDIA Technical Blog</em>
   - Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications,...
 - **2025-10-03 22:35** · <a href="202510/pdf/3a1-j.pdf" target="_blank"><strong>クールな日本がここにある。“JAPAN”な夜を楽しむ「ハネダ夜街」イベント詳細決定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-02 22:37** · <a href="202510/2e1-j.htm" target="_blank"><strong>鹿島の社有林が地域生物多様性増進法に基づく自然共生サイトの第一弾に認定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-02 22:37** · <a href="https://ai.sony/blog/Advancing-Analog-Design-with-AI-Sony-AI’s-Contributions-at-MLCAD-2025" target="_blank"><strong>September 9, 2025 | Sony AI Advancing Analog Design with AI: Sony AI’s Contributions at MLCAD 2025</strong></a> — <em>Sony AI News</em>
