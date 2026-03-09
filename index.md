@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-09 22:51** · <a href="https://renue.co.jp/posts/article-17" target="_blank"><strong>2026.03.09 日経水産新聞様に取材いただきました AIで職人技を言語化 リノイ・山本社長、水産の課題解決にも着手</strong></a> — <em>renue ニュース</em>
+- **2026-03-09 22:51** · <a href="202603/9c1-j.htm" target="_blank"><strong>AGF鋼管打設作業において切羽作業範囲の無人化を実現</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-09 19:30** · <a href="https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core" target="_blank"><strong>Implementing Falcon-H1 Hybrid Architecture in NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In the rapidly evolving landscape of large language model (LLM) development, NVIDIA Megatron Core has emerged as the foundational framework for training massive
+- **2026-03-09 16:00** · <a href="https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving" target="_blank"><strong>Removing the Guesswork from Disaggregated Serving</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Deploying and optimizing large language models (LLMs) for high-performance, cost-effective serving can be an overwhelming engineering problem. The ideal...
 - **2026-03-06 22:52** · <a href="202603/6e1-j.htm" target="_blank"><strong>森林の水資源を守る、高精度技術で未来をつなぐ</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-06 22:52** · <a href="https://www.anthropic.com/news/where-stand-department-war" target="_blank"><strong>Where things stand with the Department of War Announcements Mar 5, 2026 A statement from Dario Amodei.</strong></a> — <em>Anthropic News</em>
 - **2026-03-05 23:26** · <a href="202603/5c1-j.htm" target="_blank"><strong>耐久性と耐候性を備えた走路用粉じん飛散防止材「MAK.ドーロ」を開発</strong></a> — <em>鹿島建設 プレス</em>
@@ -282,8 +288,3 @@
 - **2025-10-08 16:58** · <a href="https://developer.nvidia.com/blog/training-federated-ai-models-to-predict-protein-properties" target="_blank"><strong>Training Federated AI Models to Predict Protein Properties</strong></a> — <em>NVIDIA Technical Blog</em>
   - Predicting where proteins are located inside a cell is critical in biology and drug discovery. This process is known as subcellular localization. The location..
 - **2025-10-07 22:39** · <a href="202510/7c1-j.htm" target="_blank"><strong>施工延長が短い床版取替工事に適した「シングルSDR」を実工事に初導入</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-07 22:39** · <a href="https://www.anthropic.com/news/rahul-patil-joins-anthropic" target="_blank"><strong>Announcements Rahul Patil joins Anthropic as Chief Technology Officer Oct 7, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-06 22:37** · <a href="https://www.anthropic.com/news/deloitte-anthropic-partnership" target="_blank"><strong>Announcements Deloitte will make Claude available to 470,000 people across its global network Oct 06, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-06 16:00** · <a href="https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine" target="_blank"><strong>Speeding Up Data Decompression with nvCOMP and the NVIDIA Blackwell Decompression Engine</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications,...
-- **2025-10-03 22:35** · <a href="202510/pdf/3a1-j.pdf" target="_blank"><strong>クールな日本がここにある。“JAPAN”な夜を楽しむ「ハネダ夜街」イベント詳細決定</strong></a> — <em>鹿島建設 プレス</em>
