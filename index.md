@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-10 22:52** · <a href="202603/10m1-j.htm" target="_blank"><strong>首都圏北部の直下型地震を想定した休日BCP訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-10 15:30** · <a href="https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs" target="_blank"><strong>Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants..
+- **2026-03-10 15:30** · <a href="https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development" target="_blank"><strong>NVIDIA RTX Innovations Are Powering the Next Era of Game Development</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At..
 - **2026-03-09 22:51** · <a href="https://renue.co.jp/posts/article-17" target="_blank"><strong>2026.03.09 日経水産新聞様に取材いただきました AIで職人技を言語化 リノイ・山本社長、水産の課題解決にも着手</strong></a> — <em>renue ニュース</em>
 - **2026-03-09 22:51** · <a href="202603/9c1-j.htm" target="_blank"><strong>AGF鋼管打設作業において切羽作業範囲の無人化を実現</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-09 19:30** · <a href="https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core" target="_blank"><strong>Implementing Falcon-H1 Hybrid Architecture in NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -284,7 +289,3 @@
 - **2025-10-09 22:39** · <a href="https://www.anthropic.com/news/claude-code-plugins" target="_blank"><strong>Product Customize Claude Code with plugins Oct 09, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-09 16:00** · <a href="https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools" target="_blank"><strong>From Assistant to Adversary: Exploiting Agentic AI Developer Tools</strong></a> — <em>NVIDIA Technical Blog</em>
   - Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...
-- **2025-10-08 22:40** · <a href="https://www.anthropic.com/news/expanding-global-operations-to-india" target="_blank"><strong>Announcements Expanding our global operations to India with our second Asia Pacific office Oct 07, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-08 16:58** · <a href="https://developer.nvidia.com/blog/training-federated-ai-models-to-predict-protein-properties" target="_blank"><strong>Training Federated AI Models to Predict Protein Properties</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Predicting where proteins are located inside a cell is critical in biology and drug discovery. This process is known as subcellular localization. The location..
-- **2025-10-07 22:39** · <a href="202510/7c1-j.htm" target="_blank"><strong>施工延長が短い床版取替工事に適した「シングルSDR」を実工事に初導入</strong></a> — <em>鹿島建設 プレス</em>
