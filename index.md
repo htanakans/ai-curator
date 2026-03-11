@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/the-anthropic-institute" target="_blank"><strong>Mar 11, 2026 Announcements Introducing The Anthropic Institute</strong></a> — <em>Anthropic News</em>
+- **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/sydney-fourth-office-asia-pacific" target="_blank"><strong>Mar 10, 2026 Announcements Sydney will become Anthropic窶冱 fourth office in Asia-Pacific</strong></a> — <em>Anthropic News</em>
+- **2026-03-11 16:00** · <a href="https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning" target="_blank"><strong>Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI systems need models with the specialized depth to solve dense technical problems autonomously. They must excel at reasoning, coding, and long-context
 - **2026-03-10 22:52** · <a href="202603/10m1-j.htm" target="_blank"><strong>首都圏北部の直下型地震を想定した休日BCP訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-10 15:30** · <a href="https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs" target="_blank"><strong>Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants..
@@ -285,7 +289,3 @@
   - Apple is presenting new work at the biennial International Conference on Computer Vision (ICCV) , which takes place in person from October 19 to 23, in Honolulu
 - **2025-10-10 16:00** · <a href="https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron" target="_blank"><strong>Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
   - Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...
-- **2025-10-09 22:40** · <a href="202510/9c1-j.htm" target="_blank"><strong>CO 2 -SUICOM製の大型ブロック擁壁を高速道路工事に初適用</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-09 22:39** · <a href="https://www.anthropic.com/news/claude-code-plugins" target="_blank"><strong>Product Customize Claude Code with plugins Oct 09, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-09 16:00** · <a href="https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools" target="_blank"><strong>From Assistant to Adversary: Exploiting Agentic AI Developer Tools</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...
