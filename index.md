@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-12 22:50** · <a href="https://www.anthropic.com/news/claude-partner-network" target="_blank"><strong>Mar 12, 2026 Announcements Anthropic invests $100 million into the Claude Partner Network</strong></a> — <em>Anthropic News</em>
+- **2026-03-12 17:30** · <a href="https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp" target="_blank"><strong>Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Computer-Aided Engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...
 - **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/the-anthropic-institute" target="_blank"><strong>Mar 11, 2026 Announcements Introducing The Anthropic Institute</strong></a> — <em>Anthropic News</em>
 - **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/sydney-fourth-office-asia-pacific" target="_blank"><strong>Mar 10, 2026 Announcements Sydney will become Anthropic窶冱 fourth office in Asia-Pacific</strong></a> — <em>Anthropic News</em>
 - **2026-03-11 16:00** · <a href="https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning" target="_blank"><strong>Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -285,7 +288,3 @@
 - **2025-10-14 22:33** · <a href="https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership" target="_blank"><strong>Announcements Anthropic and Salesforce expand partnership to bring Claude to regulated industries Oct 14, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-13 15:00** · <a href="https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories" target="_blank"><strong>Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed.
-- **2025-10-13 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-iccv-2025" target="_blank"><strong>International Conference on Computer Vision (ICCV) 2025</strong></a> — <em>Apple ML Research</em>
-  - Apple is presenting new work at the biennial International Conference on Computer Vision (ICCV) , which takes place in person from October 19 to 23, in Honolulu
-- **2025-10-10 16:00** · <a href="https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron" target="_blank"><strong>Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...
