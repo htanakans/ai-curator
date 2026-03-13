@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-13 22:49** · <a href="202603/pdf/13a1-j.pdf" target="_blank"><strong>竹芝地区における産官学連携によるまちづくりイベント「第6回竹芝みなとフェスタ」を開催</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-13 16:00** · <a href="https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models" target="_blank"><strong>Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...
 - **2026-03-12 22:50** · <a href="https://www.anthropic.com/news/claude-partner-network" target="_blank"><strong>Mar 12, 2026 Announcements Anthropic invests $100 million into the Claude Partner Network</strong></a> — <em>Anthropic News</em>
 - **2026-03-12 17:30** · <a href="https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp" target="_blank"><strong>Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp</strong></a> — <em>NVIDIA Technical Blog</em>
   - Computer-Aided Engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...
@@ -285,6 +288,3 @@
   - A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x..
 - **2025-10-15 18:06** · <a href="https://developer.nvidia.com/blog/accelerated-and-distributed-upf-for-the-era-of-agentic-ai-and-6g" target="_blank"><strong>Accelerated and Distributed UPF for the Era of Agentic AI and 6G</strong></a> — <em>NVIDIA Technical Blog</em>
   - The telecommunications industry is innovating rapidly toward 6G for both AI-native Radio Access Networks (AI-RAN) and AI-Core. The distributed User Plane...
-- **2025-10-14 22:33** · <a href="https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership" target="_blank"><strong>Announcements Anthropic and Salesforce expand partnership to bring Claude to regulated industries Oct 14, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-13 15:00** · <a href="https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories" target="_blank"><strong>Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
-  - For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed.
