@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-16 22:56** · <a href="202603/16e1-j.htm" target="_blank"><strong>国内唯一の高温固定床式・小型メタン発酵装置「メタクレス・ミニ」を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-16 20:30** · <a href="https://developer.nvidia.com/blog/scaling-autonomous-ai-agents-and-workloads-with-nvidia-dgx-spark" target="_blank"><strong>Scaling Autonomous AI Agents and Workloads with NVIDIA DGX Spark</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Autonomous AI agents are driving the next wave of AI innovation. These agents must often manage long-running tasks that use multiple communication channels and.
+- **2026-03-16 20:30** · <a href="https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready" target="_blank"><strong>How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Reasoning models are growing rapidly in size and are increasingly being integrated into agentic AI workflows that interact with other models and external tools.
+- **2026-03-16 19:27** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer" target="_blank"><strong>NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown..
 - **2026-03-13 22:49** · <a href="202603/pdf/13a1-j.pdf" target="_blank"><strong>竹芝地区における産官学連携によるまちづくりイベント「第6回竹芝みなとフェスタ」を開催</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-13 16:00** · <a href="https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models" target="_blank"><strong>Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
   - The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...
@@ -281,10 +288,3 @@
 - **2025-10-17 22:33** · <a href="202510/17m1-j.htm" target="_blank"><strong>現場見学会「鹿島サマースクール」に82名が参加</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/skills" target="_blank"><strong>Product Introducing Claude Skills Oct 16, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/productivity-platforms" target="_blank"><strong>Product Claude and your productivity platforms Oct 16, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-15 22:33** · <a href="https://www.anthropic.com/news/claude-haiku-4-5" target="_blank"><strong>Product Introducing Claude Haiku 4.5 Oct 15, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-15 19:39** · <a href="https://nvidia-aws.devpost.com/" target="_blank"><strong>Agentic AI Unleashed: Join the AWS & NVIDIA Hackathon</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Build the next generation of intelligent, autonomous applications. This isn't just a hackathon—it's your chance to unleash the power of agentic AI and show...
-- **2025-10-15 18:25** · <a href="https://developer.nvidia.com/blog/unlock-faster-smarter-edge-models-with-7x-gen-ai-performance-on-nvidia-jetson-agx-thor" target="_blank"><strong>Unlock Faster, Smarter Edge Models with 7x Gen AI Performance on NVIDIA Jetson AGX Thor</strong></a> — <em>NVIDIA Technical Blog</em>
-  - A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x..
-- **2025-10-15 18:06** · <a href="https://developer.nvidia.com/blog/accelerated-and-distributed-upf-for-the-era-of-agentic-ai-and-6g" target="_blank"><strong>Accelerated and Distributed UPF for the Era of Agentic AI and 6G</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The telecommunications industry is innovating rapidly toward 6G for both AI-native Radio Access Networks (AI-RAN) and AI-Core. The distributed User Plane...
