@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-17 17:13** · <a href="https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere" target="_blank"><strong>Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI-native services are exposing a new bottleneck in AI infrastructure: As millions of users, agents, and devices demand access to intelligence, the challenge is
 - **2026-03-16 22:56** · <a href="202603/16e1-j.htm" target="_blank"><strong>国内唯一の高温固定床式・小型メタン発酵装置「メタクレス・ミニ」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-16 20:30** · <a href="https://developer.nvidia.com/blog/scaling-autonomous-ai-agents-and-workloads-with-nvidia-dgx-spark" target="_blank"><strong>Scaling Autonomous AI Agents and Workloads with NVIDIA DGX Spark</strong></a> — <em>NVIDIA Technical Blog</em>
   - Autonomous AI agents are driving the next wave of AI innovation. These agents must often manage long-running tasks that use multiple communication channels and.
@@ -287,4 +289,3 @@
   - Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...
 - **2025-10-17 22:33** · <a href="202510/17m1-j.htm" target="_blank"><strong>現場見学会「鹿島サマースクール」に82名が参加</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/skills" target="_blank"><strong>Product Introducing Claude Skills Oct 16, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/productivity-platforms" target="_blank"><strong>Product Claude and your productivity platforms Oct 16, 2025</strong></a> — <em>Anthropic News</em>
