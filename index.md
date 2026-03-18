@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-18 22:53** · <a href="202603/18a1-j.htm" target="_blank"><strong>太径鉄筋を全自動で配筋する「鉄筋自動プレファブ工法」を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-18 22:53** · <a href="https://www.anthropic.com/81k-interviews" target="_blank"><strong>What 81,000 people want from AI Mar 18, 2026 We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated窶杯he largest and most multilingual qualitative study of its kind. Here's what we found.</strong></a> — <em>Anthropic News</em>
 - **2026-03-17 17:13** · <a href="https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere" target="_blank"><strong>Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI-native services are exposing a new bottleneck in AI infrastructure: As millions of users, agents, and devices demand access to intelligence, the challenge is
 - **2026-03-16 22:56** · <a href="202603/16e1-j.htm" target="_blank"><strong>国内唯一の高温固定床式・小型メタン発酵装置「メタクレス・ミニ」を開発</strong></a> — <em>鹿島建設 プレス</em>
@@ -287,5 +289,3 @@
   - Molecular dynamics (MD) simulations are a powerful tool in computational chemistry and materials science, and they’re essential for studying chemical...
 - **2025-10-20 16:00** · <a href="https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems" target="_blank"><strong>Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems</strong></a> — <em>NVIDIA Technical Blog</em>
   - Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...
-- **2025-10-17 22:33** · <a href="202510/17m1-j.htm" target="_blank"><strong>現場見学会「鹿島サマースクール」に82名が参加</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-16 22:31** · <a href="https://www.anthropic.com/news/skills" target="_blank"><strong>Product Introducing Claude Skills Oct 16, 2025</strong></a> — <em>Anthropic News</em>
