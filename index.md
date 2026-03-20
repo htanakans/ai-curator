@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-20 22:52** · <a href="https://www.anthropic.com/product/claude-cowork" target="_blank"><strong>Inside Cowork</strong></a> — <em>Anthropic News</em>
 - **2026-03-19 22:53** · <a href="202603/pdf/19a1-j.pdf" target="_blank"><strong>関内エリア最大級の「新旧融合」大規模複合街区がついに誕生 「BASEGATE横浜関内」2026年3月19日グランドオープン</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-18 22:53** · <a href="202603/18a1-j.htm" target="_blank"><strong>太径鉄筋を全自動で配筋する「鉄筋自動プレファブ工法」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-18 22:53** · <a href="https://www.anthropic.com/81k-interviews" target="_blank"><strong>What 81,000 people want from AI Mar 18, 2026 We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated窶杯he largest and most multilingual qualitative study of its kind. Here's what we found.</strong></a> — <em>Anthropic News</em>
@@ -286,5 +287,3 @@
 - **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-code-on-the-web" target="_blank"><strong>Product Claude Code on the web Oct 20, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-20 17:00** · <a href="https://developer.nvidia.com/blog/build-an-ai-agent-to-analyze-it-tickets-with-nvidia-nemotron" target="_blank"><strong>Build an AI Agent to Analyze IT Tickets with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
   - Modern organizations generate a massive volume of operational data through ticketing systems, incident reports, service requests, support escalations, and more.
-- **2025-10-20 16:30** · <a href="https://developer.nvidia.com/blog/enabling-scalable-ai-driven-molecular-dynamics-simulations" target="_blank"><strong>Enabling Scalable AI-Driven Molecular Dynamics Simulations</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Molecular dynamics (MD) simulations are a powerful tool in computational chemistry and materials science, and they’re essential for studying chemical...
