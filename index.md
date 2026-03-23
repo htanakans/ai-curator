@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-23 20:24** · <a href="https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications" target="_blank"><strong>NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...
+- **2026-03-23 12:00** · <a href="https://developer.nvidia.com/blog/building-a-zero-trust-architecture-for-confidential-ai-factories" target="_blank"><strong>Building a Zero-Trust Architecture for Confidential AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI is moving from experimentation to production. However, most data enterprises need exists outside the public cloud. This includes sensitive information like..
+- **2026-03-23 07:01** · <a href="https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes" target="_blank"><strong>Deploying Disaggregated LLM Inference Workloads on Kubernetes</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...
 - **2026-03-20 22:52** · <a href="https://www.anthropic.com/product/claude-cowork" target="_blank"><strong>Inside Cowork</strong></a> — <em>Anthropic News</em>
 - **2026-03-19 22:53** · <a href="202603/pdf/19a1-j.pdf" target="_blank"><strong>関内エリア最大級の「新旧融合」大規模複合街区がついに誕生 「BASEGATE横浜関内」2026年3月19日グランドオープン</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-18 22:53** · <a href="202603/18a1-j.htm" target="_blank"><strong>太径鉄筋を全自動で配筋する「鉄筋自動プレファブ工法」を開発</strong></a> — <em>鹿島建設 プレス</em>
@@ -283,7 +289,3 @@
 - **2025-10-21 22:31** · <a href="https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership" target="_blank"><strong>Announcements A statement from Dario Amodei on Anthropic's commitment to American AI leadership Oct 21, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-21 20:05** · <a href="https://www.nvidia.com/en-us/learn/learning-path/deep-learning" target="_blank"><strong>Build Practical Deep-Learning Skills for Real-World AI Applications with the New NVIDIA Learning Path</strong></a> — <em>NVIDIA Technical Blog</em>
   - Check out the learning path page and sign up for courses, workshops, and certifications to help develop your skills.
-- **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-for-life-sciences" target="_blank"><strong>Announcements Claude for Life Sciences Oct 20, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-20 22:34** · <a href="https://www.anthropic.com/news/claude-code-on-the-web" target="_blank"><strong>Product Claude Code on the web Oct 20, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-20 17:00** · <a href="https://developer.nvidia.com/blog/build-an-ai-agent-to-analyze-it-tickets-with-nvidia-nemotron" target="_blank"><strong>Build an AI Agent to Analyze IT Tickets with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Modern organizations generate a massive volume of operational data through ticketing systems, incident reports, service requests, support escalations, and more.
