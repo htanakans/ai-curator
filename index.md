@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-24 16:00** · <a href="https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety" target="_blank"><strong>Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...
 - **2026-03-23 20:24** · <a href="https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications" target="_blank"><strong>NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
   - Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...
 - **2026-03-23 12:00** · <a href="https://developer.nvidia.com/blog/building-a-zero-trust-architecture-for-confidential-ai-factories" target="_blank"><strong>Building a Zero-Trust Architecture for Confidential AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -287,5 +289,3 @@
 - **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights on AI: Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>October 23, 2025 | Imaging & Sensing Sony AI Sights on AI: Expanding Human Perception Through AI – A Conversation with Daisuke Iso</strong></a> — <em>Sony AI News</em>
 - **2025-10-23 22:34** · <a href="https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services" target="_blank"><strong>Announcements Expanding our use of Google Cloud TPUs and Services Oct 23, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-21 22:31** · <a href="https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership" target="_blank"><strong>Announcements A statement from Dario Amodei on Anthropic's commitment to American AI leadership Oct 21, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-21 20:05** · <a href="https://www.nvidia.com/en-us/learn/learning-path/deep-learning" target="_blank"><strong>Build Practical Deep-Learning Skills for Real-World AI Applications with the New NVIDIA Learning Path</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Check out the learning path page and sign up for courses, workshops, and certifications to help develop your skills.
