@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-25 23:02** · <a href="202603/25c1-j.htm" target="_blank"><strong>陸上風車基礎の設計手法として国内初の技術認証を取得</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-25 11:00** · <a href="https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt" target="_blank"><strong>Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is..
 - **2026-03-24 16:00** · <a href="https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety" target="_blank"><strong>Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...
 - **2026-03-23 20:24** · <a href="https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications" target="_blank"><strong>NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -287,5 +290,3 @@
 - **2025-10-23 22:34** · <a href="202510/pdf/23a1-j.pdf" target="_blank"><strong>東京証券取引所ビル本館で耐震バリューアップを実施</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights%20on%20AI:%20Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights on AI: Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>October 23, 2025 | Imaging & Sensing Sony AI Sights on AI: Expanding Human Perception Through AI – A Conversation with Daisuke Iso</strong></a> — <em>Sony AI News</em>
-- **2025-10-23 22:34** · <a href="https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services" target="_blank"><strong>Announcements Expanding our use of Google Cloud TPUs and Services Oct 23, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-21 22:31** · <a href="https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership" target="_blank"><strong>Announcements A statement from Dario Amodei on Anthropic's commitment to American AI leadership Oct 21, 2025</strong></a> — <em>Anthropic News</em>
