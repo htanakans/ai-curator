@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-26 22:55** · <a href="202603/pdf/26c1-j.pdf" target="_blank"><strong>「湯西川ダムで官民が連携!」</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-25 23:02** · <a href="202603/25c1-j.htm" target="_blank"><strong>陸上風車基礎の設計手法として国内初の技術認証を取得</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-25 11:00** · <a href="https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt" target="_blank"><strong>Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt</strong></a> — <em>NVIDIA Technical Blog</em>
   - In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is..
@@ -289,4 +290,3 @@
 - **2025-10-24 22:35** · <a href="https://mistral.ai/news/ai-studio" target="_blank"><strong>Introducing Mistral AI Studio. Product October 24, 2025 Mistral AI The Production AI Platform.</strong></a> — <em>Mistral AI News</em>
 - **2025-10-23 22:34** · <a href="202510/pdf/23a1-j.pdf" target="_blank"><strong>東京証券取引所ビル本館で耐震バリューアップを実施</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights%20on%20AI:%20Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-10-23 22:34** · <a href="https://ai.sony/blog/Sights on AI: Expanding-Human-Perception-Through-AI-A-Conversation-with-Daisuke-Iso" target="_blank"><strong>October 23, 2025 | Imaging & Sensing Sony AI Sights on AI: Expanding Human Perception Through AI – A Conversation with Daisuke Iso</strong></a> — <em>Sony AI News</em>
