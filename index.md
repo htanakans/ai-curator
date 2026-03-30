@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-30 23:00** · <a href="202603/pdf/30a2-j.pdf" target="_blank"><strong>2026年4月1日GRAND OPEN『Yard miyakojima』</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-03-30 23:00** · <a href="202603/pdf/30a1-j.pdf" target="_blank"><strong>「キャノピーbyヒルトン沖縄宮古島リゾート」2026年4月1日(水)開業</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-27 22:56** · <a href="https://renue.co.jp/posts/article-18" target="_blank"><strong>2026.03.26 メディア掲載のお知らせ メディア掲載のお知らせ</strong></a> — <em>renue ニュース</em>
 - **2026-03-27 22:56** · <a href="202603/pdf/27a1-j.pdf" target="_blank"><strong>「関内駅前港町地区第一種市街地再開発事業」および「関内駅前北口地区第一種市街地再開発事業」権利変換計画認可のお知らせ</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-26 22:55** · <a href="202603/pdf/26c1-j.pdf" target="_blank"><strong>「湯西川ダムで官民が連携!」</strong></a> — <em>鹿島建設 プレス</em>
@@ -288,5 +290,3 @@
   - Agentic AI is an ecosystem where specialized language and vision models work together. They handle planning, reasoning, retrieval, and safety guardrailing....
 - **2025-10-27 22:34** · <a href="202510/27a1-j.htm" target="_blank"><strong>世界最高レベルの制震効率を発揮する電気不要の環境配慮型オイルダンパー「HiDAX ® -Re」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-27 22:34** · <a href="https://www.anthropic.com/news/advancing-claude-for-financial-services" target="_blank"><strong>Announcements Advancing Claude for Financial Services Oct 27, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-24 22:35** · <a href="https://mistral.ai/products/ai-studio" target="_blank"><strong>AI Studio</strong></a> — <em>Mistral AI News</em>
-- **2025-10-24 22:35** · <a href="https://mistral.ai/news/ai-studio" target="_blank"><strong>Introducing Mistral AI Studio. Product October 24, 2025 Mistral AI The Production AI Platform.</strong></a> — <em>Mistral AI News</em>
