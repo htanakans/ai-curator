@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-03-31 22:59** · <a href="202603/31c1-j.htm" target="_blank"><strong>産学連携により光ファイバセンシングの計測器「SensRay」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-30 23:00** · <a href="202603/pdf/30a2-j.pdf" target="_blank"><strong>2026年4月1日GRAND OPEN『Yard miyakojima』</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-30 23:00** · <a href="202603/pdf/30a1-j.pdf" target="_blank"><strong>「キャノピーbyヒルトン沖縄宮古島リゾート」2026年4月1日(水)開業</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-27 22:56** · <a href="https://renue.co.jp/posts/article-18" target="_blank"><strong>2026.03.26 メディア掲載のお知らせ メディア掲載のお知らせ</strong></a> — <em>renue ニュース</em>
@@ -289,4 +290,3 @@
 - **2025-10-28 17:32** · <a href="https://developer.nvidia.com/blog/develop-specialized-ai-agents-with-new-nvidia-nemotron-vision-rag-and-guardrail-models" target="_blank"><strong>Develop Specialized AI Agents with New NVIDIA Nemotron Vision, RAG, and Guardrail Models</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic AI is an ecosystem where specialized language and vision models work together. They handle planning, reasoning, retrieval, and safety guardrailing....
 - **2025-10-27 22:34** · <a href="202510/27a1-j.htm" target="_blank"><strong>世界最高レベルの制震効率を発揮する電気不要の環境配慮型オイルダンパー「HiDAX ® -Re」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-27 22:34** · <a href="https://www.anthropic.com/news/advancing-claude-for-financial-services" target="_blank"><strong>Announcements Advancing Claude for Financial Services Oct 27, 2025</strong></a> — <em>Anthropic News</em>
