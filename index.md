@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-01 23:02** · <a href="https://www.anthropic.com/product/claude-code" target="_blank"><strong>Inside Claude Code</strong></a> — <em>Anthropic News</em>
+- **2026-04-01 16:00** · <a href="https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic" target="_blank"><strong>CUDA Tile Programming Now Available for BASIC!</strong></a> — <em>NVIDIA Technical Blog</em>
+  - CUDA 13.1 introduced CUDA Tile, a next generation tile-based GPU programming paradigm designed to make fine-grained parallelism more accessible and flexible....
+- **2026-04-01 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records" target="_blank"><strong>NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...
 - **2026-03-31 22:59** · <a href="202603/31c1-j.htm" target="_blank"><strong>産学連携により光ファイバセンシングの計測器「SensRay」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-30 23:00** · <a href="202603/pdf/30a2-j.pdf" target="_blank"><strong>2026年4月1日GRAND OPEN『Yard miyakojima』</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-30 23:00** · <a href="202603/pdf/30a1-j.pdf" target="_blank"><strong>「キャノピーbyヒルトン沖縄宮古島リゾート」2026年4月1日(水)開業</strong></a> — <em>鹿島建設 プレス</em>
@@ -285,8 +290,3 @@
 - **2025-10-29 22:36** · <a href="202510/pdf/29a1-j.pdf" target="_blank"><strong>ポップカルチャーとテクノロジーの未来を体験できるイベント『ちょっと先のおもしろい未来 -CHANGE TOMORROW-』を開催</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-10-29 22:36** · <a href="https://www.anthropic.com/news/opening-our-tokyo-office" target="_blank"><strong>Announcements Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute Oct 29, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-10-28 22:35** · <a href="202510/pdf/28c1-j.pdf" target="_blank"><strong>「湯西川ダム新水力発電所設置・運営事業」の事業候補者に特定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-28 20:00** · <a href="https://developer.nvidia.com/blog/introducing-the-codonfm-open-model-for-rna-design-and-analysis" target="_blank"><strong>Introducing the CodonFM Open Model for RNA Design and Analysis</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Open research is critical for driving innovation, and many breakthroughs in AI and science are achieved through open collaboration. In the field of digital...
-- **2025-10-28 17:32** · <a href="https://developer.nvidia.com/blog/develop-specialized-ai-agents-with-new-nvidia-nemotron-vision-rag-and-guardrail-models" target="_blank"><strong>Develop Specialized AI Agents with New NVIDIA Nemotron Vision, RAG, and Guardrail Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic AI is an ecosystem where specialized language and vision models work together. They handle planning, reasoning, retrieval, and safety guardrailing....
-- **2025-10-27 22:34** · <a href="202510/27a1-j.htm" target="_blank"><strong>世界最高レベルの制震効率を発揮する電気不要の環境配慮型オイルダンパー「HiDAX ® -Re」を開発</strong></a> — <em>鹿島建設 プレス</em>
