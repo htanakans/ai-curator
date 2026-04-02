@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-02 22:56** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-March-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-04-02 20:00** · <a href="https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight" target="_blank"><strong>Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...
+- **2026-04-02 16:27** · <a href="https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4" target="_blank"><strong>Bringing AI Closer to the Edge and On-Device with Gemma 4</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from
 - **2026-04-01 23:02** · <a href="https://www.anthropic.com/product/claude-code" target="_blank"><strong>Inside Claude Code</strong></a> — <em>Anthropic News</em>
 - **2026-04-01 16:00** · <a href="https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic" target="_blank"><strong>CUDA Tile Programming Now Available for BASIC!</strong></a> — <em>NVIDIA Technical Blog</em>
   - CUDA 13.1 introduced CUDA Tile, a next generation tile-based GPU programming paradigm designed to make fine-grained parallelism more accessible and flexible....
@@ -287,6 +292,3 @@
   - AI-driven applications are evolving from passive tools to agentic systems that generate code, make decisions, and take autonomous actions. This shift introduces
 - **2025-10-31 22:35** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-October" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-10-30 22:34** · <a href="202510/pdf/30a1-j.pdf" target="_blank"><strong>ソフトウェアの標準化技術を活用した建設ロボットシステムの研究開発に着手</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-29 22:36** · <a href="202510/pdf/29a1-j.pdf" target="_blank"><strong>ポップカルチャーとテクノロジーの未来を体験できるイベント『ちょっと先のおもしろい未来 -CHANGE TOMORROW-』を開催</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-10-29 22:36** · <a href="https://www.anthropic.com/news/opening-our-tokyo-office" target="_blank"><strong>Announcements Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute Oct 29, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-10-28 22:35** · <a href="202510/pdf/28c1-j.pdf" target="_blank"><strong>「湯西川ダム新水力発電所設置・運営事業」の事業候補者に特定</strong></a> — <em>鹿島建設 プレス</em>
