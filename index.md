@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-03 22:57** · <a href="https://renue.co.jp/posts/nikkei-20260402" target="_blank"><strong>2026.04.03 日本経済新聞に掲載されました 2026年4月2日付の日本経済新聞に、弊社renueが手がけるAI工事見積支援システムについて掲載いただきました。</strong></a> — <em>renue ニュース</em>
 - **2026-04-02 22:56** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-March-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2026-04-02 20:00** · <a href="https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight" target="_blank"><strong>Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight</strong></a> — <em>NVIDIA Technical Blog</em>
   - In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...
@@ -8,6 +9,8 @@
 - **2026-04-01 23:02** · <a href="https://www.anthropic.com/product/claude-code" target="_blank"><strong>Inside Claude Code</strong></a> — <em>Anthropic News</em>
 - **2026-04-01 16:00** · <a href="https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic" target="_blank"><strong>CUDA Tile Programming Now Available for BASIC!</strong></a> — <em>NVIDIA Technical Blog</em>
   - CUDA 13.1 introduced CUDA Tile, a next generation tile-based GPU programming paradigm designed to make fine-grained parallelism more accessible and flexible....
+- **2026-04-01 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design" target="_blank"><strong>NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...
 - **2026-04-01 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records" target="_blank"><strong>NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records</strong></a> — <em>NVIDIA Technical Blog</em>
   - Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...
 - **2026-03-31 22:59** · <a href="202603/31c1-j.htm" target="_blank"><strong>産学連携により光ファイバセンシングの計測器「SensRay」を開発</strong></a> — <em>鹿島建設 プレス</em>
@@ -290,5 +293,3 @@
   - Organizations are increasingly seeking ways to extract insights from video, audio, and other complex data sources. Retrieval-augmented generation (RAG) enables.
 - **2025-11-03 17:54** · <a href="https://developer.nvidia.com/blog/how-code-execution-drives-key-risks-in-agentic-ai-systems" target="_blank"><strong>How Code Execution Drives Key Risks in Agentic AI Systems</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI-driven applications are evolving from passive tools to agentic systems that generate code, make decisions, and take autonomous actions. This shift introduces
-- **2025-10-31 22:35** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-October" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-10-30 22:34** · <a href="202510/pdf/30a1-j.pdf" target="_blank"><strong>ソフトウェアの標準化技術を活用した建設ロボットシステムの研究開発に着手</strong></a> — <em>鹿島建設 プレス</em>
