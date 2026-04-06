@@ -1,5 +1,14 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pr-ai-press-release-sns-media-guide-2026" target="_blank"><strong>2026.04.06 広報AI・PR AIとは?プレスリリース自動生成・SNS運用・メディア対応のAI活用法を解説【2026年版】</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pYxDJq-f" target="_blank"><strong>2026.04.06 サブスクも年末に大掃除しよう!解約忘れ予測・解約サポートの無料キャンペーンを100名様限定で実施 [サブスク.LIFE]</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/btob-pr-public-relations-strategy-press-release-media-guide" target="_blank"><strong>2026.04.06 BtoB企業のPR・広報戦略ガイド|プレスリリース活用からメディアリレーションまで徹底解説【2026年版】 BtoB企業のPR・広報戦略を徹底解説。プレスリリースの書き方、メディアリレーション構築法、ソートリーダーシップ実践法、AI活用まで。記者の89%が信頼す...</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-4" target="_blank"><strong>2026.04.06 株式会社アウナラの運営するコラム内の記事に当社が掲載されました</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-3" target="_blank"><strong>2026.04.06 FX-viewのコラム記事にて当社が掲載されました。</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-2" target="_blank"><strong>2026.04.06 虎ノ門に新しいオフィスを開設しました</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-1" target="_blank"><strong>2026.04.06 サクフリ株式会社のサクフリブログに当社が掲載されました</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/GwC-N4fo" target="_blank"><strong>2026.04.06 ミライのお仕事様に取材頂きました |株式会社renue(リノイ) 弊社代表の山本より、ITコンサルティング業界における若手キャリアの課題とrenueの取り組みについてお話をさせて頂いております。</strong></a> — <em>renue ニュース</em>
+- **2026-04-06 23:01** · <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" target="_blank"><strong>Apr 6, 2026 Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</strong></a> — <em>Anthropic News</em>
 - **2026-04-03 22:57** · <a href="https://renue.co.jp/posts/nikkei-20260402" target="_blank"><strong>2026.04.03 日本経済新聞に掲載されました 2026年4月2日付の日本経済新聞に、弊社renueが手がけるAI工事見積支援システムについて掲載いただきました。</strong></a> — <em>renue ニュース</em>
 - **2026-04-02 22:56** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-March-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2026-04-02 20:00** · <a href="https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight" target="_blank"><strong>Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -279,17 +288,3 @@
   - As AI weather and climate prediction models rapidly gain adoption, the NVIDIA Earth-2 platform provides libraries and tools for accelerating solutions using a..
 - **2025-11-10 14:00** · <a href="https://developer.nvidia.com/blog/streamline-complex-ai-inference-on-kubernetes-with-nvidia-grove" target="_blank"><strong>Streamline Complex AI Inference on Kubernetes with NVIDIA Grove</strong></a> — <em>NVIDIA Technical Blog</em>
   - Over the past few years, AI inference has evolved from single-model, single-pod deployments into complex, multicomponent systems. A model deployment may now...
-- **2025-11-10 14:00** · <a href="https://developer.nvidia.com/blog/enabling-multi-node-nvlink-on-kubernetes-for-gb200-and-beyond" target="_blank"><strong>Enabling Multi-Node NVLink on Kubernetes for NVIDIA GB200 NVL72 and Beyond</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The NVIDIA GB200 NVL72 pushes AI infrastructure to new limits, enabling breakthroughs in training large-language models and running scalable, low-latency...
-- **2025-11-07 22:35** · <a href="https://ai.sony/blog/The-FHIBE-Team-Data-Dignity-and-the-People-Who-Made-It-Possible" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-11-07 22:35** · <a href="https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence" target="_blank"><strong>Announcements New offices in Paris and Munich expand Anthropic窶冱 European presence Nov 07, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-06 22:35** · <a href="https://www.anthropic.com/news/cognizant-partnership" target="_blank"><strong>Announcements Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation Nov 04, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-06 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch" target="_blank"><strong>Accelerating Large-Scale Mixture-of-Experts Training in PyTorch</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....
-- **2025-11-05 16:00** · <a href="https://developer.nvidia.com/blog/scale-biology-transformer-models-with-pytorch-and-nvidia-bionemo-recipes" target="_blank"><strong>Scale Biology Transformer Models with PyTorch and NVIDIA BioNeMo Recipes</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Training models with billions or trillions of parameters demands advanced parallel computing. Researchers must decide how to combine parallelism strategies,...
-- **2025-11-04 22:35** · <a href="202511/4a1-j.htm" target="_blank"><strong>ハイグレードオフィス「名古屋伏見Kフロンティア」が竣工</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-11-03 21:48** · <a href="https://developer.nvidia.com/blog/make-sense-of-video-analytics-by-integrating-nvidia-ai-blueprints" target="_blank"><strong>Make Sense of Video Analytics by Integrating NVIDIA AI Blueprints</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Organizations are increasingly seeking ways to extract insights from video, audio, and other complex data sources. Retrieval-augmented generation (RAG) enables.
-- **2025-11-03 17:54** · <a href="https://developer.nvidia.com/blog/how-code-execution-drives-key-risks-in-agentic-ai-systems" target="_blank"><strong>How Code Execution Drives Key Risks in Agentic AI Systems</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI-driven applications are evolving from passive tools to agentic systems that generate code, make decisions, and take autonomous actions. This shift introduces
