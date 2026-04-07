@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-07 23:03** · <a href="202604/7m1-j.htm" target="_blank"><strong>現場で「ポイ活」!担い手確保と技能者の処遇改善を推進</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-04-07 18:51** · <a href="https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling" target="_blank"><strong>Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pr-ai-press-release-sns-media-guide-2026" target="_blank"><strong>2026.04.06 広報AI・PR AIとは?プレスリリース自動生成・SNS運用・メディア対応のAI活用法を解説【2026年版】</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pYxDJq-f" target="_blank"><strong>2026.04.06 サブスクも年末に大掃除しよう!解約忘れ予測・解約サポートの無料キャンペーンを100名様限定で実施 [サブスク.LIFE]</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/btob-pr-public-relations-strategy-press-release-media-guide" target="_blank"><strong>2026.04.06 BtoB企業のPR・広報戦略ガイド|プレスリリース活用からメディアリレーションまで徹底解説【2026年版】 BtoB企業のPR・広報戦略を徹底解説。プレスリリースの書き方、メディアリレーション構築法、ソートリーダーシップ実践法、AI活用まで。記者の89%が信頼す...</strong></a> — <em>renue ニュース</em>
@@ -284,7 +287,3 @@
   - The NVIDIA Collective Communications Library (NCCL) provides communication APIs for low-latency and high-bandwidth collectives, enabling AI workloads to scale..
 - **2025-11-10 19:30** · <a href="https://developer.nvidia.com/blog/training-xgboost-models-with-gpu-accelerated-polars-dataframes" target="_blank"><strong>Training XGBoost Models with GPU-Accelerated Polars DataFrames</strong></a> — <em>NVIDIA Technical Blog</em>
   - One of the many strengths of the PyData ecosystem is interoperability, which enables seamlessly moving data between libraries that specialize in exploratory...
-- **2025-11-10 19:29** · <a href="https://developer.nvidia.com/blog/gen-ai-super-resolution-accelerates-weather-prediction-with-scalable-low-compute-models" target="_blank"><strong>Gen AI Super-resolution Accelerates Weather Prediction with Scalable, Low-Compute Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI weather and climate prediction models rapidly gain adoption, the NVIDIA Earth-2 platform provides libraries and tools for accelerating solutions using a..
-- **2025-11-10 14:00** · <a href="https://developer.nvidia.com/blog/streamline-complex-ai-inference-on-kubernetes-with-nvidia-grove" target="_blank"><strong>Streamline Complex AI Inference on Kubernetes with NVIDIA Grove</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Over the past few years, AI inference has evolved from single-model, single-pod deployments into complex, multicomponent systems. A model deployment may now...
