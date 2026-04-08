@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-08 23:05** · <a href="https://renue.co.jp/services/ad-agent/automation" target="_blank"><strong>広告代理AIエージェント</strong></a> — <em>renue ニュース</em>
+- **2026-04-08 23:05** · <a href="https://renue.co.jp/post/howto-guide" target="_blank"><strong>やり方ガイド</strong></a> — <em>renue ニュース</em>
 - **2026-04-07 23:03** · <a href="202604/7m1-j.htm" target="_blank"><strong>現場で「ポイ活」!担い手確保と技能者の処遇改善を推進</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-04-07 18:51** · <a href="https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling" target="_blank"><strong>Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling</strong></a> — <em>NVIDIA Technical Blog</em>
   - The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...
@@ -283,7 +285,3 @@
   - The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...
 - **2025-11-10 22:22** · <a href="https://www.addevent.com/event/kffjqsqb67nq" target="_blank"><strong>Upcoming Livestream: Build Visual AI Agents with NVIDIA Cosmos Reason and Metropolis</strong></a> — <em>NVIDIA Technical Blog</em>
   - On November 18, learn how to fine-tune the NVIDIA Cosmos Reason VLM with your own data to create visual AI agents.
-- **2025-11-10 21:29** · <a href="https://developer.nvidia.com/blog/building-scalable-and-fault-tolerant-nccl-applications" target="_blank"><strong>Building Scalable and Fault-Tolerant NCCL Applications</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The NVIDIA Collective Communications Library (NCCL) provides communication APIs for low-latency and high-bandwidth collectives, enabling AI workloads to scale..
-- **2025-11-10 19:30** · <a href="https://developer.nvidia.com/blog/training-xgboost-models-with-gpu-accelerated-polars-dataframes" target="_blank"><strong>Training XGBoost Models with GPU-Accelerated Polars DataFrames</strong></a> — <em>NVIDIA Technical Blog</em>
-  - One of the many strengths of the PyData ecosystem is interoperability, which enables seamlessly moving data between libraries that specialize in exploratory...
