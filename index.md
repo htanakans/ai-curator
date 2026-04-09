@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-09 23:05** · <a href="202604/9c1-j.htm" target="_blank"><strong>2種類の環境配慮型コンクリートを国土交通省の直轄工事に大量適用</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-04-09 23:05** · <a href="https://ai.sony/blog/9d126e3cb522595b37c19882bb77306e4ef2c80b" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2026-04-08 23:05** · <a href="https://renue.co.jp/services/ad-agent/automation" target="_blank"><strong>広告代理AIエージェント</strong></a> — <em>renue ニュース</em>
 - **2026-04-08 23:05** · <a href="https://renue.co.jp/post/howto-guide" target="_blank"><strong>やり方ガイド</strong></a> — <em>renue ニュース</em>
 - **2026-04-07 23:03** · <a href="202604/7m1-j.htm" target="_blank"><strong>現場で「ポイ活」!担い手確保と技能者の処遇改善を推進</strong></a> — <em>鹿島建設 プレス</em>
@@ -281,7 +283,3 @@
 - **2025-11-13 22:37** · <a href="https://www.anthropic.com/news/maryland-partnership" target="_blank"><strong>Announcements The state of Maryland partners with Anthropic to better serve residents Nov 13, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-12 22:35** · <a href="202511/pdf/12a1-j.pdf" target="_blank"><strong>「日本橋本町 M-SQUARE」竣工 緑豊かな共用空間を整備し環境に配慮したオフィスが日本橋本町に誕生</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-11-12 22:34** · <a href="https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure" target="_blank"><strong>Announcements Anthropic invests $50 billion in American AI infrastructure Nov 12, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-12 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks" target="_blank"><strong>NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...
-- **2025-11-10 22:22** · <a href="https://www.addevent.com/event/kffjqsqb67nq" target="_blank"><strong>Upcoming Livestream: Build Visual AI Agents with NVIDIA Cosmos Reason and Metropolis</strong></a> — <em>NVIDIA Technical Blog</em>
-  - On November 18, learn how to fine-tune the NVIDIA Cosmos Reason VLM with your own data to create visual AI agents.
