@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-10 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-chi-2026" target="_blank"><strong>ACM Human-Computer Interaction Conference (CHI) 2026</strong></a> — <em>Apple ML Research</em>
+  - Apple is presenting new research at the annual ACM (Association of Computing Machinery) CHI Conference on Human Factors in Computing Systems , which takes place
 - **2026-04-09 23:05** · <a href="202604/9c1-j.htm" target="_blank"><strong>2種類の環境配慮型コンクリートを国土交通省の直轄工事に大量適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-04-09 23:05** · <a href="https://ai.sony/blog/9d126e3cb522595b37c19882bb77306e4ef2c80b" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2026-04-08 23:05** · <a href="https://renue.co.jp/services/ad-agent/automation" target="_blank"><strong>広告代理AIエージェント</strong></a> — <em>renue ニュース</em>
@@ -111,6 +113,8 @@
   - Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Apple, under
 - **2026-02-20 22:52** · <a href="https://www.anthropic.com/news/claude-code-security" target="_blank"><strong>Feb 20, 2026 Announcements Making frontier cybersecurity capabilities available to defenders</strong></a> — <em>Anthropic News</em>
 - **2026-02-19 22:56** · <a href="https://renue.co.jp/posts/ad-agency-ai-agent" target="_blank"><strong>2026.02.19 「広告代理AIエージェント」を開発、Web広告の制作・配信・運用を生成AIが完全代行 Meta広告・Google広告などプラットフォーム横断で、キャンペーン設計からクリエイティブ制作、入稿、PDCA改善までをAIが一括代行します。</strong></a> — <em>renue ニュース</em>
+- **2026-02-19 17:30** · <a href="https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization" target="_blank"><strong>Accelerating Data Processing with NVIDIA Multi-Instance GPU and Locality Domains</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but.
 - **2026-02-18 18:00** · <a href="https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai" target="_blank"><strong>Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges.
 - **2026-02-18 16:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models" target="_blank"><strong>How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -281,5 +285,3 @@
 - **2025-11-13 22:37** · <a href="202511/13e1-j.htm" target="_blank"><strong>「建設現場から排出される廃プラのケミカルリサイクル実証事業」に着手</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-11-13 22:37** · <a href="https://www.anthropic.com/news/political-even-handedness" target="_blank"><strong>Product Measuring political bias in Claude Nov 13, 2025</strong></a> — <em>Anthropic News</em>
 - **2025-11-13 22:37** · <a href="https://www.anthropic.com/news/maryland-partnership" target="_blank"><strong>Announcements The state of Maryland partners with Anthropic to better serve residents Nov 13, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-12 22:35** · <a href="202511/pdf/12a1-j.pdf" target="_blank"><strong>「日本橋本町 M-SQUARE」竣工 緑豊かな共用空間を整備し環境に配慮したオフィスが日本橋本町に誕生</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-11-12 22:34** · <a href="https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure" target="_blank"><strong>Announcements Anthropic invests $50 billion in American AI infrastructure Nov 12, 2025</strong></a> — <em>Anthropic News</em>
