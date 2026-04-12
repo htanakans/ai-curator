@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-12 01:02** · <a href="https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications" target="_blank"><strong>MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses,...
 - **2026-04-11 22:56** · <a href="https://renue.co.jp/posts/article-5" target="_blank"><strong>2026.04.10 renue山本がビジネス映像メディア「PIVOT」に出演! 金融・証券業界のコールセンター課題をAIで解決したミンカブ・ジ・インフォノイドとの共創事例を公開 株式会社renue(本社:東京都港区、代表取締役:山本悠介、以下 renue)の代表 山本が出演した動画がビジネス映像メディア「PIVOT」にて公開されました。</strong></a> — <em>renue ニュース</em>
 - **2026-04-10 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-chi-2026" target="_blank"><strong>ACM Human-Computer Interaction Conference (CHI) 2026</strong></a> — <em>Apple ML Research</em>
   - Apple is presenting new research at the annual ACM (Association of Computing Machinery) CHI Conference on Human Factors in Computing Systems , which takes place
@@ -284,4 +286,3 @@
 - **2025-11-14 22:36** · <a href="https://cohere.com/modern-slavery-statement" target="_blank"><strong>Modern Slavery Act</strong></a> — <em>Cohere Blog</em>
 - **2025-11-13 22:37** · <a href="https://www.ad-hzm.co.jp/lp/exhibition/2025" target="_blank"><strong>メタバース技術展示 当社の注目技術や技術研究所の最新施設を紹介する展示会場を、メタバース空間に開設しました!</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2025-11-13 22:37** · <a href="202511/13e1-j.htm" target="_blank"><strong>「建設現場から排出される廃プラのケミカルリサイクル実証事業」に着手</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-11-13 22:37** · <a href="https://www.anthropic.com/news/political-even-handedness" target="_blank"><strong>Product Measuring political bias in Claude Nov 13, 2025</strong></a> — <em>Anthropic News</em>
