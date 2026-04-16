@@ -1,5 +1,17 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-16 23:07** · <a href="https://ai.sony/publications/reconciling-legal-and-technical-approaches-to-algorithmic-bias" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/publications/beyond-skin-tone-a-multidimensiona-measure-of-apparent-skin-color" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/publications/Diffusion-based-Signal-Refiner-for-Speech-Enhancement-and-Separation" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/join-us" target="_blank"><strong>Careers</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/blog/unveiling-gran-turismo-sophy-an-ai-breakthrough" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/blog/sony-ais-contributions-at-aaai-2026" target="_blank"><strong>Blog Sony AI窶冱 Contributions at AAAI 2026</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/blog/protecting-creators-rights-in-the-age-of-ai" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/blog/beyond-skin-tone-a-multidimensional-measure-of-apparent-skin-color" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://ai.sony/blog/advancing-ai-highlights-from-january" target="_blank"><strong>Blog Advancing AI: Highlights from January</strong></a> — <em>Sony AI News</em>
+- **2026-04-16 23:07** · <a href="https://www.anthropic.com/news/claude-opus-4-7" target="_blank"><strong>Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.</strong></a> — <em>Anthropic News</em>
+- **2026-04-16 15:00** · <a href="https://developer.nvidia.com/blog/how-to-build-vision-ai-pipelines-using-deepstream-coding-agents" target="_blank"><strong>How to Build Vision AI Pipelines Using NVIDIA DeepStream Coding Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Developing real-time vision AI applications presents a significant challenge for developers, often demanding intricate data pipelines, countless lines of code,.
 - **2026-04-12 01:02** · <a href="https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications" target="_blank"><strong>MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
   - The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses,...
 - **2026-04-11 22:56** · <a href="https://renue.co.jp/posts/article-5" target="_blank"><strong>2026.04.10 renue山本がビジネス映像メディア「PIVOT」に出演! 金融・証券業界のコールセンター課題をAIで解決したミンカブ・ジ・インフォノイドとの共創事例を公開 株式会社renue(本社:東京都港区、代表取締役:山本悠介、以下 renue)の代表 山本が出演した動画がビジネス映像メディア「PIVOT」にて公開されました。</strong></a> — <em>renue ニュース</em>
@@ -272,17 +284,3 @@
 - **2025-11-21 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-neurips-2025" target="_blank"><strong>Neural Information Processing Systems (NeurIPS) 2025</strong></a> — <em>Apple ML Research</em>
   - Apple is presenting new research at the annual conference on Neural Information Processing Systems (NeurIPS) , which takes place in person in San Diego, Califor
 - **2025-11-20 22:34** · <a href="https://www.anthropic.com/supported-countries" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
-- **2025-11-20 22:34** · <a href="https://www.anthropic.com/economic-index" target="_blank"><strong>Economic Futures</strong></a> — <em>Anthropic News</em>
-- **2025-11-19 21:51** · <a href="https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl" target="_blank"><strong>Breaking Through Reinforcement Learning Training Limits with Scaling Rollouts in BroRL</strong></a> — <em>NVIDIA Technical Blog</em>
-  - When training large language models (LLMs) with reinforcement learning from verifiable rewards (RLVR), one of the most compelling questions is how to overcome..
-- **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships" target="_blank"><strong>Announcements Microsoft, NVIDIA, and Anthropic announce strategic partnerships Nov 18, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-18 22:37** · <a href="https://www.anthropic.com/news/claude-in-microsoft-foundry" target="_blank"><strong>Product Claude now available in Microsoft Foundry and Microsoft 365 Copilot Nov 18, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-18 20:00** · <a href="https://developer.nvidia.com/blog/building-scalable-ai-on-enterprise-data-with-nvidia-nemotron-rag-and-microsoft-sql-server-2025" target="_blank"><strong>Building Scalable AI on Enterprise Data with NVIDIA Nemotron RAG and Microsoft SQL Server 2025</strong></a> — <em>NVIDIA Technical Blog</em>
-  - At Microsoft Ignite 2025, the vision for an AI-ready enterprise database becomes a reality with the announcement of Microsoft SQL Server 2025, giving developers
-- **2025-11-18 17:00** · <a href="https://developer.nvidia.com/blog/faster-chemistry-and-materials-discovery-with-ai-powered-simulations-using-nvidia-alchemi" target="_blank"><strong>Faster Chemistry and Materials Discovery with AI-Powered Simulations Using NVIDIA ALCHEMI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Almost all manufactured products are enabled by chemistry and materials science. However, new discoveries are costly and time-consuming and often hindered by...
-- **2025-11-17 22:37** · <a href="202511/17c1-j.htm" target="_blank"><strong>橋梁の損傷・健全度診断を支援するWebシステム「BMStar ® _AI」を開発・運用</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-11-17 22:37** · <a href="https://www.anthropic.com/news/rwandan-government-partnership-ai-education" target="_blank"><strong>Announcements Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa Nov 18, 2025</strong></a> — <em>Anthropic News</em>
-- **2025-11-14 22:36** · <a href="https://cohere.com/modern-slavery-statement" target="_blank"><strong>Modern Slavery Act</strong></a> — <em>Cohere Blog</em>
-- **2025-11-13 22:37** · <a href="https://www.ad-hzm.co.jp/lp/exhibition/2025" target="_blank"><strong>メタバース技術展示 当社の注目技術や技術研究所の最新施設を紹介する展示会場を、メタバース空間に開設しました!</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2025-11-13 22:37** · <a href="202511/13e1-j.htm" target="_blank"><strong>「建設現場から排出される廃プラのケミカルリサイクル実証事業」に着手</strong></a> — <em>鹿島建設 プレス</em>
