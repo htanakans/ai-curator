@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-17 23:05** · <a href="https://www.anthropic.com/news/claude-design-anthropic-labs" target="_blank"><strong>Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we窶决e launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</strong></a> — <em>Anthropic News</em>
+- **2026-04-17 18:59** · <a href="https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw" target="_blank"><strong>Build a Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows....
 - **2026-04-16 23:07** · <a href="https://ai.sony/publications/reconciling-legal-and-technical-approaches-to-algorithmic-bias" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
 - **2026-04-16 23:07** · <a href="https://ai.sony/publications/beyond-skin-tone-a-multidimensiona-measure-of-apparent-skin-color" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
 - **2026-04-16 23:07** · <a href="https://ai.sony/publications/Diffusion-based-Signal-Refiner-for-Speech-Enhancement-and-Separation" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
@@ -281,6 +284,3 @@
 - **2025-11-24 22:37** · <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank"><strong>Introducing Claude Opus 4.5 Announcements Nov 24, 2025 The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</strong></a> — <em>Anthropic News</em>
 - **2025-11-24 19:23** · <a href="https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters" target="_blank"><strong>Model Quantization: Concepts, Methods, and Why It Matters</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique to address.
-- **2025-11-21 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-neurips-2025" target="_blank"><strong>Neural Information Processing Systems (NeurIPS) 2025</strong></a> — <em>Apple ML Research</em>
-  - Apple is presenting new research at the annual conference on Neural Information Processing Systems (NeurIPS) , which takes place in person in San Diego, Califor
-- **2025-11-20 22:34** · <a href="https://www.anthropic.com/supported-countries" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
