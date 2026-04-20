@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-20 23:01** · <a href="https://developer.nvidia.com/blog/maximizing-memory-efficiency-to-run-bigger-models-on-nvidia-jetson" target="_blank"><strong>Maximizing Memory Efficiency to Run Bigger Models on NVIDIA Jetson</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The boom in open source generative AI models is pushing beyond data centers into machines operating in the physical world. Developers are eager to deploy these.
+- **2026-04-20 22:52** · <a href="https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision" target="_blank"><strong>Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...
 - **2026-04-17 23:05** · <a href="https://www.anthropic.com/news/claude-design-anthropic-labs" target="_blank"><strong>Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we窶决e launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</strong></a> — <em>Anthropic News</em>
 - **2026-04-17 18:59** · <a href="https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw" target="_blank"><strong>Build a Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows....
@@ -281,6 +285,3 @@
   - Large language models (LLMs) in quantitative finance are increasingly being used for alpha generation, automated report analysis, and risk prediction. Yet...
 - **2025-11-25 21:00** · <a href="https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring" target="_blank"><strong>Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring</strong></a> — <em>NVIDIA Technical Blog</em>
   - High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading.
-- **2025-11-24 22:37** · <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank"><strong>Introducing Claude Opus 4.5 Announcements Nov 24, 2025 The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</strong></a> — <em>Anthropic News</em>
-- **2025-11-24 19:23** · <a href="https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters" target="_blank"><strong>Model Quantization: Concepts, Methods, and Why It Matters</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique to address.
