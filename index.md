@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-22 20:30** · <a href="https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20" target="_blank"><strong>Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools..
+- **2026-04-22 20:01** · <a href="https://developer.nvidia.com/blog/advancing-emerging-optimizers-for-accelerated-llm-training-with-nvidia-megatron" target="_blank"><strong>Advancing Emerging Optimizers for Accelerated LLM Training with NVIDIA Megatron</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Higher-order optimization algorithms such as Shampoo have been effectively applied in neural network training for at least a decade. These methods have achieved
 - **2026-04-20 23:01** · <a href="https://developer.nvidia.com/blog/maximizing-memory-efficiency-to-run-bigger-models-on-nvidia-jetson" target="_blank"><strong>Maximizing Memory Efficiency to Run Bigger Models on NVIDIA Jetson</strong></a> — <em>NVIDIA Technical Blog</em>
   - The boom in open source generative AI models is pushing beyond data centers into machines operating in the physical world. Developers are eager to deploy these.
 - **2026-04-20 22:52** · <a href="https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision" target="_blank"><strong>Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -281,7 +285,3 @@
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS%202025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS 2025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>December 1, 2025 | Events NeurIPS 2025: Sony AI窶冱 Latest Contributions</strong></a> — <em>Sony AI News</em>
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-November" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-12-01 22:00** · <a href="https://developer.nvidia.com/blog/build-efficient-financial-data-workflows-with-ai-model-distillation" target="_blank"><strong>Build Efficient Financial Data Workflows with AI Model Distillation</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Large language models (LLMs) in quantitative finance are increasingly being used for alpha generation, automated report analysis, and risk prediction. Yet...
-- **2025-11-25 21:00** · <a href="https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring" target="_blank"><strong>Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring</strong></a> — <em>NVIDIA Technical Blog</em>
-  - High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading.
