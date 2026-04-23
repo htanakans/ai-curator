@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-23 23:11** · <a href="202604/23c1-j.htm" target="_blank"><strong>太径横筋の配置作業を省人化する装置「Bar Crawler」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-04-22 20:30** · <a href="https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20" target="_blank"><strong>Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools..
 - **2026-04-22 20:01** · <a href="https://developer.nvidia.com/blog/advancing-emerging-optimizers-for-accelerated-llm-training-with-nvidia-megatron" target="_blank"><strong>Advancing Emerging Optimizers for Accelerated LLM Training with NVIDIA Megatron</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -284,4 +285,3 @@
 - **2025-12-01 22:37** · <a href="202512/pdf/1a1-j.pdf" target="_blank"><strong>『Yard miyakojima』2026年4月1日 開業予定</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS%202025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS 2025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>December 1, 2025 | Events NeurIPS 2025: Sony AI窶冱 Latest Contributions</strong></a> — <em>Sony AI News</em>
-- **2025-12-01 22:37** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-November" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
