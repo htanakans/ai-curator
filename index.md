@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-24 23:03** · <a href="https://cohere.com/blog/cohere-alephalpha-join-forces" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
+- **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/election-safeguards-update" target="_blank"><strong>Apr 24, 2026 Announcements An update on our election safeguards</strong></a> — <em>Anthropic News</em>
+- **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-nec" target="_blank"><strong>Apr 24, 2026 Announcements Anthropic and NEC collaborate to build Japan窶冱 largest AI engineering workforce</strong></a> — <em>Anthropic News</em>
+- **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-amazon-compute" target="_blank"><strong>Apr 20, 2026 Announcements Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute</strong></a> — <em>Anthropic News</em>
+- **2026-04-24 15:00** · <a href="https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare" target="_blank"><strong>Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Federated learning (FL) is no longer a research curiosity—it’s a practical response to a hard constraint: the most valuable data is often the least movable....
 - **2026-04-23 23:11** · <a href="202604/23c1-j.htm" target="_blank"><strong>太径横筋の配置作業を省人化する装置「Bar Crawler」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-04-22 20:30** · <a href="https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20" target="_blank"><strong>Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools..
@@ -278,10 +284,3 @@
   - NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago.  In this release,...
 - **2025-12-03 22:38** · <a href="https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership" target="_blank"><strong>Dec 3, 2025 Announcements Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises</strong></a> — <em>Anthropic News</em>
 - **2025-12-02 22:35** · <a href="https://www.anthropic.com/news/claude-for-nonprofits" target="_blank"><strong>Dec 2, 2025 Announcements Claude for Nonprofits</strong></a> — <em>Anthropic News</em>
-- **2025-12-02 16:00** · <a href="https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment" target="_blank"><strong>AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As demand for AI continues to grow, hyperscalers are looking for ways to accelerate deployment of specialized AI infrastructure with the highest performance....
-- **2025-12-01 23:25** · <a href="https://developer.nvidia.com/blog/train-small-orchestration-agents-to-solve-big-problems" target="_blank"><strong>Train Small Orchestration Agents to Solve Big Problems</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Using the right tool and model for a task is a challenging and ever-present engineering problem in agent design. At NVIDIA Research, we're making fast progress.
-- **2025-12-01 22:37** · <a href="202512/pdf/1a1-j.pdf" target="_blank"><strong>『Yard miyakojima』2026年4月1日 開業予定</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS%202025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-12-01 22:37** · <a href="https://ai.sony/blog/NeurIPS 2025-Sony-AI窶冱-Latest-Contributions" target="_blank"><strong>December 1, 2025 | Events NeurIPS 2025: Sony AI窶冱 Latest Contributions</strong></a> — <em>Sony AI News</em>
