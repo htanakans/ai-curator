@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-27 23:15** · <a href="https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand" target="_blank"><strong>Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office</strong></a> — <em>Anthropic News</em>
 - **2026-04-24 23:03** · <a href="https://cohere.com/blog/cohere-alephalpha-join-forces" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/election-safeguards-update" target="_blank"><strong>Apr 24, 2026 Announcements An update on our election safeguards</strong></a> — <em>Anthropic News</em>
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-nec" target="_blank"><strong>Apr 24, 2026 Announcements Anthropic and NEC collaborate to build Japan窶冱 largest AI engineering workforce</strong></a> — <em>Anthropic News</em>
@@ -283,4 +284,3 @@
 - **2025-12-04 22:20** · <a href="https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains" target="_blank"><strong>NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago.  In this release,...
 - **2025-12-03 22:38** · <a href="https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership" target="_blank"><strong>Dec 3, 2025 Announcements Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises</strong></a> — <em>Anthropic News</em>
-- **2025-12-02 22:35** · <a href="https://www.anthropic.com/news/claude-for-nonprofits" target="_blank"><strong>Dec 2, 2025 Announcements Claude for Nonprofits</strong></a> — <em>Anthropic News</em>
