@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-28 23:14** · <a href="https://www.anthropic.com/news/claude-for-creative-work" target="_blank"><strong>Apr 28, 2026 Announcements Claude for Creative Work</strong></a> — <em>Anthropic News</em>
+- **2026-04-28 23:14** · <a href="https://mistral.ai/news/workflows" target="_blank"><strong>Workflows for work that runs the business Product Workflows is now in public preview. Apr 27, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-04-27 23:15** · <a href="https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand" target="_blank"><strong>Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office</strong></a> — <em>Anthropic News</em>
 - **2026-04-24 23:03** · <a href="https://cohere.com/blog/cohere-alephalpha-join-forces" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/election-safeguards-update" target="_blank"><strong>Apr 24, 2026 Announcements An update on our election safeguards</strong></a> — <em>Anthropic News</em>
@@ -281,6 +283,3 @@
 - **2025-12-08 18:00** · <a href="https://developer.nvidia.com/blog/automate-kubernetes-ai-cluster-health-with-nvsentinel" target="_blank"><strong>Automate Kubernetes AI Cluster Health with NVSentinel</strong></a> — <em>NVIDIA Technical Blog</em>
   - Kubernetes underpins a large portion of all AI workloads in production. Yet, maintaining GPU nodes and ensuring that applications are running, training jobs are
 - **2025-12-05 22:37** · <a href="https://renue.co.jp/posts/article-10" target="_blank"><strong>2025.12.04 Findy アーキテクチャConference 2025 に参加しました エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。</strong></a> — <em>renue ニュース</em>
-- **2025-12-04 22:20** · <a href="https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains" target="_blank"><strong>NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago.  In this release,...
-- **2025-12-03 22:38** · <a href="https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership" target="_blank"><strong>Dec 3, 2025 Announcements Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises</strong></a> — <em>Anthropic News</em>
