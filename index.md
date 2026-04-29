@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-04-29 23:14** · <a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5" target="_blank"><strong>Remote agents in Vibe. Powered by Mistral Medium 3.5. Product Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. Apr 29, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
+- **2026-04-29 16:41** · <a href="https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures" target="_blank"><strong>Powering AI Factories with NVIDIA Enterprise Reference Architectures</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...
 - **2026-04-28 23:14** · <a href="https://www.anthropic.com/news/claude-for-creative-work" target="_blank"><strong>Apr 28, 2026 Announcements Claude for Creative Work</strong></a> — <em>Anthropic News</em>
 - **2026-04-28 23:14** · <a href="https://mistral.ai/news/workflows" target="_blank"><strong>Workflows for work that runs the business Product Workflows is now in public preview. Apr 27, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-04-27 23:15** · <a href="https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand" target="_blank"><strong>Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office</strong></a> — <em>Anthropic News</em>
@@ -280,6 +283,3 @@
   - As AI models get larger and architectures more complex, researchers and engineers are continuously finding new techniques to optimize the performance and...
 - **2025-12-09 17:00** · <a href="https://developer.nvidia.com/blog/improve-ai-native-6g-design-with-the-nvidia-aerial-omniverse-digital-twin" target="_blank"><strong>Improve AI-Native 6G Design with the NVIDIA Aerial Omniverse Digital Twin</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI-native 6G networks will serve billions of intelligent devices, agents, and machines. As the industry moves into new spectrums like FR3 (7–24 GHz), radio...
-- **2025-12-08 18:00** · <a href="https://developer.nvidia.com/blog/automate-kubernetes-ai-cluster-health-with-nvsentinel" target="_blank"><strong>Automate Kubernetes AI Cluster Health with NVSentinel</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Kubernetes underpins a large portion of all AI workloads in production. Yet, maintaining GPU nodes and ensuring that applications are running, training jobs are
-- **2025-12-05 22:37** · <a href="https://renue.co.jp/posts/article-10" target="_blank"><strong>2025.12.04 Findy アーキテクチャConference 2025 に参加しました エンジニアのための情報共有コミュニティ「Zenn」にて配信されました。</strong></a> — <em>renue ニュース</em>
