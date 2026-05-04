@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-04 23:14** · <a href="https://www.anthropic.com/news/enterprise-ai-services-company" target="_blank"><strong>May 4, 2026 Announcements Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs</strong></a> — <em>Anthropic News</em>
+- **2026-05-04 20:55** · <a href="https://developer.nvidia.com/blog/optimize-supply-chain-decision-systems-using-nvidia-cuopt-agent-skills" target="_blank"><strong>Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Modern supply chains operate under the constant pressures of fluctuating demand, volatile costs, constrained capacity, and interdependent decision-making....
 - **2026-04-30 17:00** · <a href="https://developer.nvidia.com/blog/build-ai-powered-games-with-nvidia-dlss-4-5-rtx-and-unreal-engine-5" target="_blank"><strong>Build AI-Powered Games with NVIDIA DLSS 4.5, RTX, and Unreal Engine 5</strong></a> — <em>NVIDIA Technical Blog</em>
   - Today, game developers can begin integrating NVIDIA DLSS 4.5 with Dynamic Multi Frame Generation, Multi Frame Generation 6X, and the second-generation...
 - **2026-04-30 16:16** · <a href="https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui" target="_blank"><strong>How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -281,7 +284,3 @@
   - AI innovation continues to be driven by three scaling laws: pre-training, post-training, and test-time scaling. Training is foundational to building smarter...
 - **2025-12-11 19:03** · <a href="https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet" target="_blank"><strong>Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI data centers rapidly evolve into AI factories, traditional network monitoring methods are no longer sufficient. Workloads continue to grow in complexity..
-- **2025-12-11 16:00** · <a href="https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics" target="_blank"><strong>Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous...
-- **2025-12-10 21:45** · <a href="https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector" target="_blank"><strong>Enhancing Communication Observability of AI Workloads with NCCL Inspector</strong></a> — <em>NVIDIA Technical Blog</em>
-  - When using the NVIDIA Collective Communication Library (NCCL) to run a deep learning training or inference workload that uses collective operations (such as...
