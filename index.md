@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-05 23:16** · <a href="https://www.anthropic.com/news/finance-agents" target="_blank"><strong>May 5, 2026 Announcements Agents for financial services</strong></a> — <em>Anthropic News</em>
+- **2026-05-05 16:00** · <a href="https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car" target="_blank"><strong>How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...
 - **2026-05-04 23:14** · <a href="https://www.anthropic.com/news/enterprise-ai-services-company" target="_blank"><strong>May 4, 2026 Announcements Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs</strong></a> — <em>Anthropic News</em>
 - **2026-05-04 20:55** · <a href="https://developer.nvidia.com/blog/optimize-supply-chain-decision-systems-using-nvidia-cuopt-agent-skills" target="_blank"><strong>Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills</strong></a> — <em>NVIDIA Technical Blog</em>
   - Modern supply chains operate under the constant pressures of fluctuating demand, volatile costs, constrained capacity, and interdependent decision-making....
@@ -280,7 +283,3 @@
   - The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangling...
 - **2025-12-12 21:00** · <a href="https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes" target="_blank"><strong>Enabling Horizontal Autoscaling of Enterprise RAG Components on Kubernetes</strong></a> — <em>NVIDIA Technical Blog</em>
   - Today’s best AI agents rely on retrieval-augmented generation (RAG) to enable more accurate results. A RAG system facilitates the use of a knowledge base to...
-- **2025-12-11 19:20** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture" target="_blank"><strong>NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI innovation continues to be driven by three scaling laws: pre-training, post-training, and test-time scaling. Training is foundational to building smarter...
-- **2025-12-11 19:03** · <a href="https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet" target="_blank"><strong>Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI data centers rapidly evolve into AI factories, traditional network monitoring methods are no longer sufficient. Workloads continue to grow in complexity..
