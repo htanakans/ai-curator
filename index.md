@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-07 23:15** · <a href="https://sakana.ai/marlin-beta" target="_blank"><strong>Sakana Marlin 🐬</strong></a> — <em>Sakana AI News</em>
+- **2026-05-07 23:15** · <a href="https://sakana.ai/fugu-beta" target="_blank"><strong>Sakana Fugu 🐡</strong></a> — <em>Sakana AI News</em>
+- **2026-05-07 21:18** · <a href="https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer" target="_blank"><strong>Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Model quantization is an effective method to reduce VRAM usage and improve inference performance on consumer devices such as NVIDIA GeForce RTX GPUs. By...
+- **2026-05-07 16:02** · <a href="https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus" target="_blank"><strong>Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Distributed deep learning depends on fast, reliable GPU-to-GPU communication using the NVIDIA Collective Communication Library (NCCL). When training slows down,
 - **2026-05-06 23:10** · <a href="https://www.anthropic.com/news/higher-limits-spacex" target="_blank"><strong>May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX</strong></a> — <em>Anthropic News</em>
 - **2026-05-05 23:16** · <a href="https://www.anthropic.com/news/finance-agents" target="_blank"><strong>May 5, 2026 Announcements Agents for financial services</strong></a> — <em>Anthropic News</em>
 - **2026-05-05 16:00** · <a href="https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car" target="_blank"><strong>How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -275,10 +281,3 @@
 - **2025-12-16 17:30** · <a href="https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025" target="_blank"><strong>AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025</strong></a> — <em>NVIDIA Technical Blog</em>
   - 2025 was another milestone year for developers and researchers working with NVIDIA technologies. Progress in data center power and compute design, AI...
 - **2025-12-15 22:39** · <a href="https://ai.sony/blog/Protecting-Creator窶冱-Rights-in-the-Age-of-AI" target="_blank"><strong>December 15, 2025 | Sony AI Protecting Creator窶冱 Rights in the Age of AI</strong></a> — <em>Sony AI News</em>
-- **2025-12-15 22:39** · <a href="https://ai.sony/blog/Protecting-Creator%E2%80%99s-Rights-in-the-Age-of-AI" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-12-15 18:25** · <a href="https://developer.nvidia.com/blog/delivering-flexible-performance-for-future-ready-data-centers-with-nvidia-mgx" target="_blank"><strong>Delivering Flexible Performance for Future-Ready Data Centers with NVIDIA MGX</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The AI boom reshaping the computing landscape is poised to scale even faster in 2026. As breakthroughs in model capability and computing power drive rapid...
-- **2025-12-15 14:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate" target="_blank"><strong>Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across large...
-- **2025-12-15 14:00** · <a href="https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning" target="_blank"><strong>How to Train Scientific Agents with Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangling...
