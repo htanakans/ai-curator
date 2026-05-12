@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-12 18:00** · <a href="https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving" target="_blank"><strong>How to Eliminate Pipeline Friction in AI Model Serving</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The path from a trained AI model to production should be smooth, but rarely is. Many teams invest weeks fine-tuning models, only to discover that exporting to a
 - **2026-05-08 17:13** · <a href="https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding" target="_blank"><strong>Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
   - Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is..
 - **2026-05-07 23:15** · <a href="https://sakana.ai/marlin-beta" target="_blank"><strong>Sakana Marlin 🐬</strong></a> — <em>Sakana AI News</em>
@@ -280,5 +282,3 @@
   - In the heart of every modern electronic device lies a silicon chip, built through a manufacturing process so precise that even a microscopic defect can...
 - **2025-12-16 21:00** · <a href="https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm" target="_blank"><strong>Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM</strong></a> — <em>NVIDIA Technical Blog</em>
   - For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation costs...
-- **2025-12-16 17:30** · <a href="https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025" target="_blank"><strong>AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025</strong></a> — <em>NVIDIA Technical Blog</em>
-  - 2025 was another milestone year for developers and researchers working with NVIDIA technologies. Progress in data center power and compute design, AI...
