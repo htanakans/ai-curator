@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-13 23:23** · <a href="202605/13c1-j.htm" target="_blank"><strong>高速道路の既設光ファイバ通信網を有効活用したモニタリング実証実験を開始</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-05-13 23:23** · <a href="https://www.anthropic.com/news/claude-for-small-business" target="_blank"><strong>May 13, 2026 Announcements Introducing Claude for Small Business</strong></a> — <em>Anthropic News</em>
 - **2026-05-12 18:00** · <a href="https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving" target="_blank"><strong>How to Eliminate Pipeline Friction in AI Model Serving</strong></a> — <em>NVIDIA Technical Blog</em>
   - The path from a trained AI model to production should be smooth, but rarely is. Many teams invest weeks fine-tuning models, only to discover that exporting to a
 - **2026-05-08 17:13** · <a href="https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding" target="_blank"><strong>Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -278,7 +280,3 @@
   - Real-time decoding is crucial to fault-tolerant quantum computers. By enabling decoders to operate with low latency concurrently with a quantum processing unit.
 - **2025-12-17 16:00** · <a href="https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations" target="_blank"><strong>Using AI Physics for Technology Computer-Aided Design Simulations</strong></a> — <em>NVIDIA Technical Blog</em>
   - Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufacturing. They.
-- **2025-12-17 02:00** · <a href="https://developer.nvidia.com/blog/optimizing-semiconductor-defect-classification-with-generative-ai-and-vision-foundation-models" target="_blank"><strong>Optimizing Semiconductor Defect Classification with Generative AI and Vision Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In the heart of every modern electronic device lies a silicon chip, built through a manufacturing process so precise that even a microscopic defect can...
-- **2025-12-16 21:00** · <a href="https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm" target="_blank"><strong>Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM</strong></a> — <em>NVIDIA Technical Blog</em>
-  - For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation costs...
