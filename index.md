@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-14 23:15** · <a href="https://www.anthropic.com/news/gates-foundation-partnership" target="_blank"><strong>May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gates Foundation</strong></a> — <em>Anthropic News</em>
+- **2026-05-14 19:24** · <a href="https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem" target="_blank"><strong>How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...
 - **2026-05-13 23:23** · <a href="202605/13c1-j.htm" target="_blank"><strong>高速道路の既設光ファイバ通信網を有効活用したモニタリング実証実験を開始</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-13 23:23** · <a href="https://www.anthropic.com/news/claude-for-small-business" target="_blank"><strong>May 13, 2026 Announcements Introducing Claude for Small Business</strong></a> — <em>Anthropic News</em>
 - **2026-05-12 18:00** · <a href="https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving" target="_blank"><strong>How to Eliminate Pipeline Friction in AI Model Serving</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -276,7 +279,3 @@
 - **2025-12-18 22:39** · <a href="202512/18a1-j.htm" target="_blank"><strong>ユニバーサル・スタジオ・ジャパン オフィシャルホテル唯一の外資系ホテル 「Osaka Sakurajima Resort」プロジェクトが本格着工</strong></a> — <em>鹿島建設 プレス</em>
 - **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/protecting-well-being-of-users" target="_blank"><strong>Dec 18, 2025 Announcements Protecting the well-being of our users</strong></a> — <em>Anthropic News</em>
 - **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/genesis-mission-partnership" target="_blank"><strong>Dec 18, 2025 Announcements Working with the US Department of Energy to unlock the next era of scientific discovery</strong></a> — <em>Anthropic News</em>
-- **2025-12-17 21:32** · <a href="https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec" target="_blank"><strong>Real-Time Decoding, Algorithmic GPU Decoders, and AI Inference Enhancements in NVIDIA CUDA-Q QEC</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Real-time decoding is crucial to fault-tolerant quantum computers. By enabling decoders to operate with low latency concurrently with a quantum processing unit.
-- **2025-12-17 16:00** · <a href="https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations" target="_blank"><strong>Using AI Physics for Technology Computer-Aided Design Simulations</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufacturing. They.
