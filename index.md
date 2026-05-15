@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-15 23:14** · <a href="202605/15m1-j.htm" target="_blank"><strong>第33回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-05-15 23:14** · <a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank"><strong>May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</strong></a> — <em>Anthropic News</em>
 - **2026-05-14 23:15** · <a href="https://www.anthropic.com/news/gates-foundation-partnership" target="_blank"><strong>May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gates Foundation</strong></a> — <em>Anthropic News</em>
 - **2026-05-14 19:24** · <a href="https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem" target="_blank"><strong>How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...
@@ -277,5 +279,3 @@
 - **2025-12-19 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops" target="_blank"><strong>Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops</strong></a> — <em>NVIDIA Technical Blog</em>
   - Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...
 - **2025-12-18 22:39** · <a href="202512/18a1-j.htm" target="_blank"><strong>ユニバーサル・スタジオ・ジャパン オフィシャルホテル唯一の外資系ホテル 「Osaka Sakurajima Resort」プロジェクトが本格着工</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/protecting-well-being-of-users" target="_blank"><strong>Dec 18, 2025 Announcements Protecting the well-being of our users</strong></a> — <em>Anthropic News</em>
-- **2025-12-18 22:39** · <a href="https://www.anthropic.com/news/genesis-mission-partnership" target="_blank"><strong>Dec 18, 2025 Announcements Working with the US Department of Energy to unlock the next era of scientific discovery</strong></a> — <em>Anthropic News</em>
