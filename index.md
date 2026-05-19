@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-19 23:35** · <a href="https://www.anthropic.com/news/widening-conversation-ai" target="_blank"><strong>May 19, 2026 Announcements Widening the conversation on frontier AI</strong></a> — <em>Anthropic News</em>
+- **2026-05-19 23:35** · <a href="https://www.anthropic.com/news/anthropic-kpmg" target="_blank"><strong>May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</strong></a> — <em>Anthropic News</em>
+- **2026-05-19 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Evaluation</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Evaluating an AI model and evaluating an AI agent are related—but they answer fundamentally different questions. A model benchmark tests the capability of a...
 - **2026-05-15 23:14** · <a href="202605/15m1-j.htm" target="_blank"><strong>第33回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-15 23:14** · <a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank"><strong>May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</strong></a> — <em>Anthropic News</em>
 - **2026-05-14 23:15** · <a href="https://www.anthropic.com/news/gates-foundation-partnership" target="_blank"><strong>May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gates Foundation</strong></a> — <em>Anthropic News</em>
@@ -275,7 +279,3 @@
 - **2026-01-05 22:10** · <a href="https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1" target="_blank"><strong>Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications....
 - **2025-12-24 22:38** · <a href="202512/24e1-j.htm" target="_blank"><strong>米国森林ファンドへの出資を通じて、脱炭素および自然再興の実現を加速</strong></a> — <em>鹿島建設 プレス</em>
-- **2025-12-22 22:39** · <a href="https://ai.sony/blog/Sony-AI-2025-Year-in-Review" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2025-12-19 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops" target="_blank"><strong>Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...
-- **2025-12-18 22:39** · <a href="202512/18a1-j.htm" target="_blank"><strong>ユニバーサル・スタジオ・ジャパン オフィシャルホテル唯一の外資系ホテル 「Osaka Sakurajima Resort」プロジェクトが本格着工</strong></a> — <em>鹿島建設 プレス</em>
