@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-20 23:41** · <a href="https://cohere.com/models-overview" target="_blank"><strong>Models Overview Explore and compare our open source models</strong></a> — <em>Cohere Blog</em>
+- **2026-05-20 23:41** · <a href="https://cohere.com/blog/command-a-plus" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
+- **2026-05-20 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Customization</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...
+- **2026-05-19 23:40** · <a href="https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents" target="_blank"><strong>NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to.
 - **2026-05-19 23:35** · <a href="https://www.anthropic.com/news/widening-conversation-ai" target="_blank"><strong>May 19, 2026 Announcements Widening the conversation on frontier AI</strong></a> — <em>Anthropic News</em>
 - **2026-05-19 23:35** · <a href="https://www.anthropic.com/news/anthropic-kpmg" target="_blank"><strong>May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</strong></a> — <em>Anthropic News</em>
 - **2026-05-19 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Evaluation</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -272,10 +278,3 @@
   - Large-scale AI innovation is driving unprecedented demand for accelerated computing infrastructure. Training trillion-parameter foundation models, serving them.
 - **2026-01-06 17:30** · <a href="https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai" target="_blank"><strong>Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...
-- **2026-01-06 05:30** · <a href="https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs" target="_blank"><strong>Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-20B, and..
-- **2026-01-05 22:20** · <a href="https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer" target="_blank"><strong>Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI has entered an industrial phase. What began as systems performing discrete AI model training and human-facing inference has evolved into always-on AI...
-- **2026-01-05 22:10** · <a href="https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1" target="_blank"><strong>Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications....
-- **2025-12-24 22:38** · <a href="202512/24e1-j.htm" target="_blank"><strong>米国森林ファンドへの出資を通じて、脱炭素および自然再興の実現を加速</strong></a> — <em>鹿島建設 プレス</em>
