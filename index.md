@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-21 23:19** · <a href="202605/21a1-j.htm" target="_blank"><strong>名古屋市中区栄エリアにオフィスビル「栄トリッドスクエア」が竣工</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-05-21 18:00** · <a href="https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters" target="_blank"><strong>Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Maximizing the value of AI infrastructure demands deep visibility into GPU utilization. Yet many platform teams running AI workloads on Kubernetes operate with.
+- **2026-05-21 17:32** · <a href="https://developer.nvidia.com/blog/unlock-exascale-performance-on-nvidia-gb200-nvl72-with-slurm-topology-aware-job-scheduling" target="_blank"><strong>Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI models grow in scale and complexity, realizing the full performance of modern accelerated infrastructure depends as much on how workloads are placed as on
+- **2026-05-21 15:30** · <a href="https://developer.nvidia.com/blog/building-token-metered-ai-services-on-telco-ai-factories" target="_blank"><strong>Building Token‑Metered AI Services on Telco AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Telcos around the world are building sovereign AI factories based on the NVIDIA Cloud Partner (NCP) reference architecture, giving governments, enterprises, and
 - **2026-05-20 23:41** · <a href="https://cohere.com/models-overview" target="_blank"><strong>Models Overview Explore and compare our open source models</strong></a> — <em>Cohere Blog</em>
 - **2026-05-20 23:41** · <a href="https://cohere.com/blog/command-a-plus" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
 - **2026-05-20 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Customization</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -270,11 +277,3 @@
   - Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...
 - **2026-01-09 14:00** · <a href="https://developer.nvidia.com/blog/build-an-ai-catalog-system-that-delivers-localized-interactive-product-experiences" target="_blank"><strong>Build an AI Catalog System That Delivers Localized, Interactive Product Experiences</strong></a> — <em>NVIDIA Technical Blog</em>
   - E-commerce catalogs often contain sparse product data, generic images, a basic title, and short description. This limits discoverability, engagement, and...
-- **2026-01-08 19:43** · <a href="https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell" target="_blank"><strong>Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI models continue to get smarter, people can rely on them for an expanding set of tasks. This leads users—from consumers to enterprises—to interact with...
-- **2026-01-08 17:28** · <a href="https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm" target="_blank"><strong>Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want
-- **2026-01-07 17:00** · <a href="https://developer.nvidia.com/blog/redefining-secure-ai-infrastructure-with-nvidia-bluefield-astra-for-nvidia-vera-rubin-nvl72" target="_blank"><strong>Redefining Secure AI Infrastructure with NVIDIA BlueField Astra for NVIDIA Vera Rubin NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Large-scale AI innovation is driving unprecedented demand for accelerated computing infrastructure. Training trillion-parameter foundation models, serving them.
-- **2026-01-06 17:30** · <a href="https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai" target="_blank"><strong>Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...
