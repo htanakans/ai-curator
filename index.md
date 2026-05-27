@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-27 23:40** · <a href="202605/27c1-j.htm" target="_blank"><strong>「A 4 CSEL」で地盤の締固め品質管理手法「Geo-DX Compaction」を自動運転</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-25 23:34** · <a href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical" target="_blank"><strong>May 25, 2026 Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</strong></a> — <em>Anthropic News</em>
 - **2026-05-22 16:00** · <a href="https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models" target="_blank"><strong>Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models</strong></a> — <em>NVIDIA Technical Blog</em>
   - High‑quality 3D medical imaging data is the foundation of modern radiology AI, but access to it is often constrained by data scarcity, privacy restrictions,...
@@ -275,4 +276,3 @@
   - What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell commands?..
 - **2026-01-14 22:43** · <a href="202601/pdf/14c1-j.pdf" target="_blank"><strong>自治体初のCO 2 の地産地消型コンクリート製造の実現に向け横浜市と鹿島建設が連携協定を締結しました</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-01-13 22:43** · <a href="https://www.anthropic.com/news/introducing-anthropic-labs" target="_blank"><strong>Jan 13, 2026 Announcements Introducing Anthropic Labs</strong></a> — <em>Anthropic News</em>
-- **2026-01-11 22:38** · <a href="https://www.anthropic.com/news/healthcare-life-sciences" target="_blank"><strong>Jan 11, 2026 Announcements Advancing Claude in healthcare and the life sciences</strong></a> — <em>Anthropic News</em>
