@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-05-29 23:44** · <a href="https://renue.co.jp/services/asset-management-ai" target="_blank"><strong>物品管理AI</strong></a> — <em>renue ニュース</em>
+- **2026-05-29 23:44** · <a href="202605/29a1-j.htm" target="_blank"><strong>木造と制震技術を融合させた「欄間制震システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-05-29 22:31** · <a href="https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier" target="_blank"><strong>DynoSim: Simulating the Pareto Frontier</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Modern LLM serving is hard to tune because each deployment is a stack of interacting choices: model backend, tensor-parallel shape, prefill/decode split, worker
+- **2026-05-29 16:00** · <a href="https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit" target="_blank"><strong>How to Automate AI Model Documentation with the NVIDIA MCG Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including  California’s AB-2013 and the EU AI Act, software teams...
+- **2026-05-29 00:07** · <a href="https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai" target="_blank"><strong>Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...
 - **2026-05-28 23:45** · <a href="202605/pdf/28a1-j.pdf" target="_blank"><strong>“みらいのはねだ”をHICityで体験!「空と緑のみらいフェス」開催決定</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/speech" target="_blank"><strong>Speech</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/document-ai" target="_blank"><strong>Document intelligence</strong></a> — <em>Mistral AI News</em>
@@ -256,9 +264,3 @@
 - **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/ai-pmo-platform" target="_blank"><strong>2026.01.22 PMO業務の周辺業務を生成AIに全自動化する「AI PMO」基盤を発表 議事録作成、日報作成、タスク・課題整理といったPMOの周辺業務をAIで自動化する「AI PMO」基盤を開発しました。</strong></a> — <em>renue ニュース</em>
 - **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/claude-sonnet-4-6" target="_blank"><strong>Introducing Claude Sonnet 4.6 Product Feb 17, 2026 Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.</strong></a> — <em>Anthropic News</em>
 - **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/anthropic-rwanda-mou" target="_blank"><strong>Feb 17, 2026 Announcements Anthropic and the Government of Rwanda sign MOU for AI in health and education</strong></a> — <em>Anthropic News</em>
-- **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/anthropic-infosys" target="_blank"><strong>Feb 17, 2026 Announcements Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries</strong></a> — <em>Anthropic News</em>
-- **2026-02-17 18:00** · <a href="https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities" target="_blank"><strong>Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...
-- **2026-02-16 22:53** · <a href="https://www.anthropic.com/news/bengaluru-office-partnerships-across-india" target="_blank"><strong>Feb 16, 2026 Announcements Anthropic opens Bengaluru office and announces new partnerships across India</strong></a> — <em>Anthropic News</em>
-- **2026-02-13 22:56** · <a href="https://www.anthropic.com/news/anthropic-codepath-partnership" target="_blank"><strong>Feb 13, 2026 Announcements Anthropic partners with CodePath to bring Claude to the US窶冱 largest collegiate computer science program</strong></a> — <em>Anthropic News</em>
-- **2026-02-12 22:54** · <a href="202602/12a1-j.htm" target="_blank"><strong>「新秩父宮ラグビー場(仮称)整備・運営等事業」 着工 トップパートナーは三井住友フィナンシャルグループ</strong></a> — <em>鹿島建設 プレス</em>
