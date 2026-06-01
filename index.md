@@ -1,5 +1,16 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-01 23:47** · <a href="https://www.anthropic.com/news/confidential-draft-s1-sec" target="_blank"><strong>Jun 1, 2026 Announcements Anthropic confidentially submits draft S-1 to the SEC</strong></a> — <em>Anthropic News</em>
+- **2026-06-01 22:00** · <a href="https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark" target="_blank"><strong>Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent.
+- **2026-06-01 04:43** · <a href="https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3" target="_blank"><strong>Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Physical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what's...
+- **2026-06-01 04:21** · <a href="https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security" target="_blank"><strong>Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...
+- **2026-06-01 03:59** · <a href="https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories" target="_blank"><strong>NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems....
+- **2026-06-01 03:36** · <a href="https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale" target="_blank"><strong>NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale...
 - **2026-05-29 23:44** · <a href="https://renue.co.jp/services/asset-management-ai" target="_blank"><strong>物品管理AI</strong></a> — <em>renue ニュース</em>
 - **2026-05-29 23:44** · <a href="202605/29a1-j.htm" target="_blank"><strong>木造と制震技術を融合させた「欄間制震システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-29 22:31** · <a href="https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier" target="_blank"><strong>DynoSim: Simulating the Pareto Frontier</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -257,10 +268,3 @@
   - NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but.
 - **2026-02-18 18:00** · <a href="https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai" target="_blank"><strong>Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges.
-- **2026-02-18 16:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models" target="_blank"><strong>How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost
-- **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/financial-accounting-ai-agent" target="_blank"><strong>2026.02.13 複数SaaSを統合した財務・管理会計AIエージェントを開発 freee会計の財務データと複数の管理会計系SaaSを統合し、横断的な経営分析を実現します。</strong></a> — <em>renue ニュース</em>
-- **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/e-commerce-agent" target="_blank"><strong>2026.02.05 EC運営コストを大幅に削減するAIマーケティング自動化ソリューション「E-Commerce Agent」の提供を開始 複数ECプラットフォームをAIで一元管理し、自然言語での指示だけで運用工数を大幅削減します。</strong></a> — <em>renue ニュース</em>
-- **2026-02-17 22:55** · <a href="https://renue.co.jp/posts/ai-pmo-platform" target="_blank"><strong>2026.01.22 PMO業務の周辺業務を生成AIに全自動化する「AI PMO」基盤を発表 議事録作成、日報作成、タスク・課題整理といったPMOの周辺業務をAIで自動化する「AI PMO」基盤を開発しました。</strong></a> — <em>renue ニュース</em>
-- **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/claude-sonnet-4-6" target="_blank"><strong>Introducing Claude Sonnet 4.6 Product Feb 17, 2026 Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.</strong></a> — <em>Anthropic News</em>
-- **2026-02-17 22:55** · <a href="https://www.anthropic.com/news/anthropic-rwanda-mou" target="_blank"><strong>Feb 17, 2026 Announcements Anthropic and the Government of Rwanda sign MOU for AI in health and education</strong></a> — <em>Anthropic News</em>
