@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-03 00:04** · <a href="202606/2e1-j.htm" target="_blank"><strong>建設現場から排出される廃プラのケミカルリサイクルを実証</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-06-03 00:04** · <a href="https://www.anthropic.com/news/expanding-project-glasswing" target="_blank"><strong>Jun 2, 2026 Announcements Expanding Project Glasswing</strong></a> — <em>Anthropic News</em>
+- **2026-06-02 19:00** · <a href="https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia" target="_blank"><strong>Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with...
 - **2026-06-01 23:47** · <a href="https://www.anthropic.com/news/confidential-draft-s1-sec" target="_blank"><strong>Jun 1, 2026 Announcements Anthropic confidentially submits draft S-1 to the SEC</strong></a> — <em>Anthropic News</em>
 - **2026-06-01 22:00** · <a href="https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark" target="_blank"><strong>Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark</strong></a> — <em>NVIDIA Technical Blog</em>
   - The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent.
@@ -263,8 +267,3 @@
 - **2026-02-23 00:00** · <a href="https://machinelearning.apple.com/updates/reasoning-workshop-2025" target="_blank"><strong>Apple Workshop on Reasoning and Planning 2025</strong></a> — <em>Apple ML Research</em>
   - Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Apple, under
 - **2026-02-20 22:52** · <a href="https://www.anthropic.com/news/claude-code-security" target="_blank"><strong>Feb 20, 2026 Announcements Making frontier cybersecurity capabilities available to defenders</strong></a> — <em>Anthropic News</em>
-- **2026-02-19 22:56** · <a href="https://renue.co.jp/posts/ad-agency-ai-agent" target="_blank"><strong>2026.02.19 「広告代理AIエージェント」を開発、Web広告の制作・配信・運用を生成AIが完全代行 Meta広告・Google広告などプラットフォーム横断で、キャンペーン設計からクリエイティブ制作、入稿、PDCA改善までをAIが一括代行します。</strong></a> — <em>renue ニュース</em>
-- **2026-02-19 17:30** · <a href="https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization" target="_blank"><strong>Accelerating Data Processing with NVIDIA Multi-Instance GPU and Locality Domains</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but.
-- **2026-02-18 18:00** · <a href="https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai" target="_blank"><strong>Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges.
