@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-04 00:03** · <a href="https://www.anthropic.com/news/services-track-partner-hub" target="_blank"><strong>Jun 3, 2026 Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network</strong></a> — <em>Anthropic News</em>
 - **2026-06-03 00:04** · <a href="202606/2e1-j.htm" target="_blank"><strong>建設現場から排出される廃プラのケミカルリサイクルを実証</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-03 00:04** · <a href="https://www.anthropic.com/news/expanding-project-glasswing" target="_blank"><strong>Jun 2, 2026 Announcements Expanding Project Glasswing</strong></a> — <em>Anthropic News</em>
 - **2026-06-02 19:00** · <a href="https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia" target="_blank"><strong>Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -266,4 +267,3 @@
   - As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...
 - **2026-02-23 00:00** · <a href="https://machinelearning.apple.com/updates/reasoning-workshop-2025" target="_blank"><strong>Apple Workshop on Reasoning and Planning 2025</strong></a> — <em>Apple ML Research</em>
   - Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Apple, under
-- **2026-02-20 22:52** · <a href="https://www.anthropic.com/news/claude-code-security" target="_blank"><strong>Feb 20, 2026 Announcements Making frontier cybersecurity capabilities available to defenders</strong></a> — <em>Anthropic News</em>
