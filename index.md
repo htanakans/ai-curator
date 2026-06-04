@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-04 13:02** · <a href="https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents" target="_blank"><strong>NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...
 - **2026-06-04 00:03** · <a href="https://www.anthropic.com/news/services-track-partner-hub" target="_blank"><strong>Jun 3, 2026 Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network</strong></a> — <em>Anthropic News</em>
 - **2026-06-03 00:04** · <a href="202606/2e1-j.htm" target="_blank"><strong>建設現場から排出される廃プラのケミカルリサイクルを実証</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-03 00:04** · <a href="https://www.anthropic.com/news/expanding-project-glasswing" target="_blank"><strong>Jun 2, 2026 Announcements Expanding Project Glasswing</strong></a> — <em>Anthropic News</em>
@@ -265,5 +267,3 @@
 - **2026-02-23 23:05** · <a href="https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks" target="_blank"><strong>Feb 23, 2026 Announcements Detecting and preventing distillation attacks</strong></a> — <em>Anthropic News</em>
 - **2026-02-23 18:00** · <a href="https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy" target="_blank"><strong>Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy</strong></a> — <em>NVIDIA Technical Blog</em>
   - As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...
-- **2026-02-23 00:00** · <a href="https://machinelearning.apple.com/updates/reasoning-workshop-2025" target="_blank"><strong>Apple Workshop on Reasoning and Planning 2025</strong></a> — <em>Apple ML Research</em>
-  - Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Apple, under
