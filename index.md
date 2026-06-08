@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-08 18:18** · <a href="https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell" target="_blank"><strong>Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...
 - **2026-06-06 23:19** · <a href="https://sakana.ai/rsi-lab" target="_blank"><strong>Recursive Self-Improvement Lab</strong></a> — <em>Sakana AI News</em>
 - **2026-06-05 23:41** · <a href="202606/5a1-j.htm" target="_blank"><strong>エッジコンピューティング技術で新築・既設建物の設備をスマート化</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-05 23:41** · <a href="https://cohere.com/blog/transcribe" target="_blank"><strong>Introducing Cohere Transcribe: a new state-of-the-art in open-source speech recognition Mar 26, 2026 3 min read</strong></a> — <em>Cohere Blog</em>
@@ -261,4 +263,3 @@
 - **2026-03-04 22:54** · <a href="202603/4c1-j.htm" target="_blank"><strong>山岳トンネル工事における「切羽評価システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-04 17:00** · <a href="https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile" target="_blank"><strong>Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile</strong></a> — <em>NVIDIA Technical Blog</em>
   - In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA..
-- **2026-03-03 22:52** · <a href="202603/3c1-j.htm" target="_blank"><strong>道路橋の床版更新に係る工法の普及展開を図る「SDRシステム研究会」が始動</strong></a> — <em>鹿島建設 プレス</em>
