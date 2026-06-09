@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-09 23:45** · <a href="https://cohere.com/blog/north-mini-code" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
+- **2026-06-09 23:45** · <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5" target="_blank"><strong>Claude Fable 5 and Claude Mythos 5 Announcements Jun 9, 2026 Our next generation of intelligence for the hardest knowledge work and coding problems.</strong></a> — <em>Anthropic News</em>
+- **2026-06-09 19:00** · <a href="https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability" target="_blank"><strong>Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI infrastructure scales, enterprise expectations for operational maturity are increasing. Organizations expect these systems to be provisionable,...
+- **2026-06-09 15:00** · <a href="https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech" target="_blank"><strong>Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,...
 - **2026-06-08 18:18** · <a href="https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell" target="_blank"><strong>Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell</strong></a> — <em>NVIDIA Technical Blog</em>
   - Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...
 - **2026-06-06 23:19** · <a href="https://sakana.ai/rsi-lab" target="_blank"><strong>Recursive Self-Improvement Lab</strong></a> — <em>Sakana AI News</em>
@@ -257,9 +263,3 @@
   - Deploying and optimizing large language models (LLMs) for high-performance, cost-effective serving can be an overwhelming engineering problem. The ideal...
 - **2026-03-06 22:52** · <a href="202603/6e1-j.htm" target="_blank"><strong>森林の水資源を守る、高精度技術で未来をつなぐ</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-06 22:52** · <a href="https://www.anthropic.com/news/where-stand-department-war" target="_blank"><strong>Where things stand with the Department of War Announcements Mar 5, 2026 A statement from Dario Amodei.</strong></a> — <em>Anthropic News</em>
-- **2026-03-05 23:26** · <a href="202603/5c1-j.htm" target="_blank"><strong>耐久性と耐候性を備えた走路用粉じん飛散防止材「MAK.ドーロ」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-05 18:00** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance" target="_blank"><strong>NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to...
-- **2026-03-04 22:54** · <a href="202603/4c1-j.htm" target="_blank"><strong>山岳トンネル工事における「切羽評価システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-04 17:00** · <a href="https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile" target="_blank"><strong>Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA..
