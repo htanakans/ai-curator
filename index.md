@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-10 23:53** · <a href="https://cohere.com/blog/the-future-of-work-debate-has-an-evidence-problem" target="_blank"><strong>The future of work debate has an evidence problem Jun 10, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-10 16:16** · <a href="https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation" target="_blank"><strong>Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This...
+- **2026-06-10 15:00** · <a href="https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories" target="_blank"><strong>Designing Production-Ready Battery Energy Storage Systems for AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI factories are changing what data-center infrastructure must do. Unlike traditional data centers, AI factories are built to manufacture intelligence at scale.
 - **2026-06-09 23:45** · <a href="https://cohere.com/blog/north-mini-code" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
 - **2026-06-09 23:45** · <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5" target="_blank"><strong>Claude Fable 5 and Claude Mythos 5 Announcements Jun 9, 2026 Our next generation of intelligence for the hardest knowledge work and coding problems.</strong></a> — <em>Anthropic News</em>
 - **2026-06-09 19:00** · <a href="https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability" target="_blank"><strong>Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -259,7 +264,3 @@
 - **2026-03-09 22:51** · <a href="202603/9c1-j.htm" target="_blank"><strong>AGF鋼管打設作業において切羽作業範囲の無人化を実現</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-09 19:30** · <a href="https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core" target="_blank"><strong>Implementing Falcon-H1 Hybrid Architecture in NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
   - In the rapidly evolving landscape of large language model (LLM) development, NVIDIA Megatron Core has emerged as the foundational framework for training massive
-- **2026-03-09 16:00** · <a href="https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving" target="_blank"><strong>Removing the Guesswork from Disaggregated Serving</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Deploying and optimizing large language models (LLMs) for high-performance, cost-effective serving can be an overwhelming engineering problem. The ideal...
-- **2026-03-06 22:52** · <a href="202603/6e1-j.htm" target="_blank"><strong>森林の水資源を守る、高精度技術で未来をつなぐ</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-06 22:52** · <a href="https://www.anthropic.com/news/where-stand-department-war" target="_blank"><strong>Where things stand with the Department of War Announcements Mar 5, 2026 A statement from Dario Amodei.</strong></a> — <em>Anthropic News</em>
