@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-11 23:55** · <a href="https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained" target="_blank"><strong>Production-Ready W4A8: vLLM Integration and Quality Recovery Techniques Explained Apr 22, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-11 23:55** · <a href="https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding" target="_blank"><strong>Why MoE models get more from speculative decoding Apr 21, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-11 23:55** · <a href="https://www.anthropic.com/news/claude-corps" target="_blank"><strong>Jun 11, 2026 Announcements Introducing Claude Corps</strong></a> — <em>Anthropic News</em>
+- **2026-06-11 23:55** · <a href="https://www.anthropic.com/claude-corps" target="_blank"><strong>Claude Corps</strong></a> — <em>Anthropic News</em>
 - **2026-06-10 23:53** · <a href="https://cohere.com/blog/the-future-of-work-debate-has-an-evidence-problem" target="_blank"><strong>The future of work debate has an evidence problem Jun 10, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-10 16:16** · <a href="https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation" target="_blank"><strong>Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation</strong></a> — <em>NVIDIA Technical Blog</em>
   - Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This...
@@ -258,9 +262,3 @@
 - **2026-03-10 22:52** · <a href="202603/10m1-j.htm" target="_blank"><strong>首都圏北部の直下型地震を想定した休日BCP訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-10 15:30** · <a href="https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs" target="_blank"><strong>Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants..
-- **2026-03-10 15:30** · <a href="https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development" target="_blank"><strong>NVIDIA RTX Innovations Are Powering the Next Era of Game Development</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At..
-- **2026-03-09 22:51** · <a href="https://renue.co.jp/posts/article-17" target="_blank"><strong>2026.03.09 日経水産新聞様に取材いただきました AIで職人技を言語化 リノイ・山本社長、水産の課題解決にも着手</strong></a> — <em>renue ニュース</em>
-- **2026-03-09 22:51** · <a href="202603/9c1-j.htm" target="_blank"><strong>AGF鋼管打設作業において切羽作業範囲の無人化を実現</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-09 19:30** · <a href="https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core" target="_blank"><strong>Implementing Falcon-H1 Hybrid Architecture in NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In the rapidly evolving landscape of large language model (LLM) development, NVIDIA Megatron Core has emerged as the foundational framework for training massive
