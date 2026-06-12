@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-12 23:53** · <a href="https://www.anthropic.com/news/tcs-anthropic-partnership" target="_blank"><strong>Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries</strong></a> — <em>Anthropic News</em>
+- **2026-06-12 14:43** · <a href="https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure" target="_blank"><strong>Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As enterprise AI adoption scales, developers are increasingly forced to stitch together fragmented pipelines—separate models for text, vision, and...
 - **2026-06-11 23:55** · <a href="https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained" target="_blank"><strong>Production-Ready W4A8: vLLM Integration and Quality Recovery Techniques Explained Apr 22, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-11 23:55** · <a href="https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding" target="_blank"><strong>Why MoE models get more from speculative decoding Apr 21, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-11 23:55** · <a href="https://www.anthropic.com/news/claude-corps" target="_blank"><strong>Jun 11, 2026 Announcements Introducing Claude Corps</strong></a> — <em>Anthropic News</em>
@@ -259,6 +262,3 @@
 - **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/sydney-fourth-office-asia-pacific" target="_blank"><strong>Mar 10, 2026 Announcements Sydney will become Anthropic窶冱 fourth office in Asia-Pacific</strong></a> — <em>Anthropic News</em>
 - **2026-03-11 16:00** · <a href="https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning" target="_blank"><strong>Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic AI systems need models with the specialized depth to solve dense technical problems autonomously. They must excel at reasoning, coding, and long-context
-- **2026-03-10 22:52** · <a href="202603/10m1-j.htm" target="_blank"><strong>首都圏北部の直下型地震を想定した休日BCP訓練を実施</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-10 15:30** · <a href="https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs" target="_blank"><strong>Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants..
