@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-16 17:00** · <a href="https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins" target="_blank"><strong>Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This
+- **2026-06-16 16:00** · <a href="https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training" target="_blank"><strong>How to Optimize Transformer-Based Models for Low-Precision Training</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU.
+- **2026-06-16 15:11** · <a href="https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance" target="_blank"><strong>NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....
 - **2026-06-15 18:07** · <a href="https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes" target="_blank"><strong>Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes</strong></a> — <em>NVIDIA Technical Blog</em>
   - Foundation models are reshaping computational biology. Pretrained on massive corpora of protein or genomic sequences, models such as ESM2 (a protein language...
 - **2026-06-15 16:45** · <a href="https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels" target="_blank"><strong>Boosting MoE Training Throughput with Advanced Fusion Kernels</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -259,8 +265,3 @@
 - **2026-03-16 19:27** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer" target="_blank"><strong>NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer</strong></a> — <em>NVIDIA Technical Blog</em>
   - Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown..
 - **2026-03-13 22:49** · <a href="202603/pdf/13a1-j.pdf" target="_blank"><strong>竹芝地区における産官学連携によるまちづくりイベント「第6回竹芝みなとフェスタ」を開催</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-13 16:00** · <a href="https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models" target="_blank"><strong>Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...
-- **2026-03-12 22:50** · <a href="https://www.anthropic.com/news/claude-partner-network" target="_blank"><strong>Mar 12, 2026 Announcements Anthropic invests $100 million into the Claude Partner Network</strong></a> — <em>Anthropic News</em>
-- **2026-03-12 17:30** · <a href="https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp" target="_blank"><strong>Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Computer-Aided Engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...
