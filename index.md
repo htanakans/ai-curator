@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-15 18:07** · <a href="https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes" target="_blank"><strong>Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Foundation models are reshaping computational biology. Pretrained on massive corpora of protein or genomic sequences, models such as ESM2 (a protein language...
+- **2026-06-15 16:45** · <a href="https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels" target="_blank"><strong>Boosting MoE Training Throughput with Advanced Fusion Kernels</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Mixture-of-experts (MoE) models have quickly become a foundational component of modern, large-scale AI systems. They are widely adopted because they enable...
+- **2026-06-15 12:00** · <a href="https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models" target="_blank"><strong>Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it.
 - **2026-06-12 23:53** · <a href="https://www.anthropic.com/news/tcs-anthropic-partnership" target="_blank"><strong>Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries</strong></a> — <em>Anthropic News</em>
 - **2026-06-12 14:43** · <a href="https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure" target="_blank"><strong>Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
   - As enterprise AI adoption scales, developers are increasingly forced to stitch together fragmented pipelines—separate models for text, vision, and...
@@ -258,7 +264,3 @@
 - **2026-03-12 22:50** · <a href="https://www.anthropic.com/news/claude-partner-network" target="_blank"><strong>Mar 12, 2026 Announcements Anthropic invests $100 million into the Claude Partner Network</strong></a> — <em>Anthropic News</em>
 - **2026-03-12 17:30** · <a href="https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp" target="_blank"><strong>Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp</strong></a> — <em>NVIDIA Technical Blog</em>
   - Computer-Aided Engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...
-- **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/the-anthropic-institute" target="_blank"><strong>Mar 11, 2026 Announcements Introducing The Anthropic Institute</strong></a> — <em>Anthropic News</em>
-- **2026-03-11 22:46** · <a href="https://www.anthropic.com/news/sydney-fourth-office-asia-pacific" target="_blank"><strong>Mar 10, 2026 Announcements Sydney will become Anthropic窶冱 fourth office in Asia-Pacific</strong></a> — <em>Anthropic News</em>
-- **2026-03-11 16:00** · <a href="https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning" target="_blank"><strong>Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic AI systems need models with the specialized depth to solve dense technical problems autonomously. They must excel at reasoning, coding, and long-context
