@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-17 23:53** · <a href="https://renue.co.jp/services/genba-anzen" target="_blank"><strong>現場安全係長</strong></a> — <em>renue ニュース</em>
+- **2026-06-17 23:53** · <a href="202606/17c1-j.htm" target="_blank"><strong>山岳トンネル工事における安全性の高い遠隔爆薬装填法を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-06-17 23:53** · <a href="https://cohere.com/blog/authors/musa-talluzi" target="_blank"><strong>Musa Talluzi Member of Technical Staff</strong></a> — <em>Cohere Blog</em>
+- **2026-06-17 23:53** · <a href="https://cohere.com/blog/authors/manoj-govindassamy" target="_blank"><strong>Manoj Govindassamy Manager of Technical Staff</strong></a> — <em>Cohere Blog</em>
+- **2026-06-17 23:53** · <a href="https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem" target="_blank"><strong>Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</strong></a> — <em>Anthropic News</em>
 - **2026-06-16 17:00** · <a href="https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins" target="_blank"><strong>Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This
 - **2026-06-16 16:00** · <a href="https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training" target="_blank"><strong>How to Optimize Transformer-Based Models for Low-Precision Training</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -257,11 +262,3 @@
 - **2026-03-18 22:53** · <a href="https://www.anthropic.com/81k-interviews" target="_blank"><strong>What 81,000 people want from AI Mar 18, 2026 We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated窶杯he largest and most multilingual qualitative study of its kind. Here's what we found.</strong></a> — <em>Anthropic News</em>
 - **2026-03-17 17:13** · <a href="https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere" target="_blank"><strong>Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI-native services are exposing a new bottleneck in AI infrastructure: As millions of users, agents, and devices demand access to intelligence, the challenge is
-- **2026-03-16 22:56** · <a href="202603/16e1-j.htm" target="_blank"><strong>国内唯一の高温固定床式・小型メタン発酵装置「メタクレス・ミニ」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-16 20:30** · <a href="https://developer.nvidia.com/blog/scaling-autonomous-ai-agents-and-workloads-with-nvidia-dgx-spark" target="_blank"><strong>Scaling Autonomous AI Agents and Workloads with NVIDIA DGX Spark</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Autonomous AI agents are driving the next wave of AI innovation. These agents must often manage long-running tasks that use multiple communication channels and.
-- **2026-03-16 20:30** · <a href="https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready" target="_blank"><strong>How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Reasoning models are growing rapidly in size and are increasingly being integrated into agentic AI workflows that interact with other models and external tools.
-- **2026-03-16 19:27** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer" target="_blank"><strong>NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown..
-- **2026-03-13 22:49** · <a href="202603/pdf/13a1-j.pdf" target="_blank"><strong>竹芝地区における産官学連携によるまちづくりイベント「第6回竹芝みなとフェスタ」を開催</strong></a> — <em>鹿島建設 プレス</em>
