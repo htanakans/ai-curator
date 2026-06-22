@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-22 13:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai" target="_blank"><strong>Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...
 - **2026-06-17 23:53** · <a href="https://renue.co.jp/services/genba-anzen" target="_blank"><strong>現場安全係長</strong></a> — <em>renue ニュース</em>
 - **2026-06-17 23:53** · <a href="202606/17c1-j.htm" target="_blank"><strong>山岳トンネル工事における安全性の高い遠隔爆薬装填法を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-17 23:53** · <a href="https://cohere.com/blog/authors/musa-talluzi" target="_blank"><strong>Musa Talluzi Member of Technical Staff</strong></a> — <em>Cohere Blog</em>
@@ -260,5 +262,3 @@
 - **2026-03-19 22:53** · <a href="202603/pdf/19a1-j.pdf" target="_blank"><strong>関内エリア最大級の「新旧融合」大規模複合街区がついに誕生 「BASEGATE横浜関内」2026年3月19日グランドオープン</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-18 22:53** · <a href="202603/18a1-j.htm" target="_blank"><strong>太径鉄筋を全自動で配筋する「鉄筋自動プレファブ工法」を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-18 22:53** · <a href="https://www.anthropic.com/81k-interviews" target="_blank"><strong>What 81,000 people want from AI Mar 18, 2026 We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated窶杯he largest and most multilingual qualitative study of its kind. Here's what we found.</strong></a> — <em>Anthropic News</em>
-- **2026-03-17 17:13** · <a href="https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere" target="_blank"><strong>Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI-native services are exposing a new bottleneck in AI infrastructure: As millions of users, agents, and devices demand access to intelligence, the challenge is
