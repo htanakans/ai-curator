@@ -1,5 +1,18 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-23 23:33** · <a href="202606/23c1-j.htm" target="_blank"><strong>シンガポールPUB(公益事業庁)の研究プログラムにおいて鹿島らの高さ調節が可能な「環境配慮型護岸」が採択</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-06-23 23:33** · <a href="https://cohere.com/blog/why-cultural-awareness-is-essential-for-global-ai" target="_blank"><strong>Why Cultural Awareness is Essential for Global AI How users are impacted around the world by AI窶冱 cultural gaps Jun 23, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-23 23:33** · <a href="https://cohere.com/blog/authors/marzieh-fadaee" target="_blank"><strong>Marzieh Fadaee Head of Cohere Labs</strong></a> — <em>Cohere Blog</em>
+- **2026-06-23 23:33** · <a href="https://www.anthropic.com/news/introducing-claude-tag" target="_blank"><strong>Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.</strong></a> — <em>Anthropic News</em>
+- **2026-06-23 23:33** · <a href="https://mistral.ai/news/ocr-4" target="_blank"><strong>Mistral OCR 4</strong></a> — <em>Mistral AI News</em>
+- **2026-06-23 16:30** · <a href="https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations" target="_blank"><strong>Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Power can account for 40% of the operating expenses (OpEx) to run an AI factory. Each watt can be spent on overhead, data ingestion, training, or generating...
+- **2026-06-23 15:00** · <a href="https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding" target="_blank"><strong>Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs.
+- **2026-06-23 13:30** · <a href="https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit" target="_blank"><strong>Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,
+- **2026-06-23 06:00** · <a href="https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai" target="_blank"><strong>How Telcos Build Autonomous Networks with Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In..
 - **2026-06-22 13:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai" target="_blank"><strong>Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI</strong></a> — <em>NVIDIA Technical Blog</em>
   - Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...
 - **2026-06-17 23:53** · <a href="https://renue.co.jp/services/genba-anzen" target="_blank"><strong>現場安全係長</strong></a> — <em>renue ニュース</em>
@@ -248,17 +261,3 @@
 - **2026-03-27 22:56** · <a href="202603/pdf/27a1-j.pdf" target="_blank"><strong>「関内駅前港町地区第一種市街地再開発事業」および「関内駅前北口地区第一種市街地再開発事業」権利変換計画認可のお知らせ</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-26 22:55** · <a href="202603/pdf/26c1-j.pdf" target="_blank"><strong>「湯西川ダムで官民が連携!」</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-25 23:02** · <a href="202603/25c1-j.htm" target="_blank"><strong>陸上風車基礎の設計手法として国内初の技術認証を取得</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-25 11:00** · <a href="https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt" target="_blank"><strong>Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is..
-- **2026-03-24 16:00** · <a href="https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety" target="_blank"><strong>Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...
-- **2026-03-23 20:24** · <a href="https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications" target="_blank"><strong>NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...
-- **2026-03-23 12:00** · <a href="https://developer.nvidia.com/blog/building-a-zero-trust-architecture-for-confidential-ai-factories" target="_blank"><strong>Building a Zero-Trust Architecture for Confidential AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI is moving from experimentation to production. However, most data enterprises need exists outside the public cloud. This includes sensitive information like..
-- **2026-03-23 07:01** · <a href="https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes" target="_blank"><strong>Deploying Disaggregated LLM Inference Workloads on Kubernetes</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...
-- **2026-03-20 22:52** · <a href="https://www.anthropic.com/product/claude-cowork" target="_blank"><strong>Inside Cowork</strong></a> — <em>Anthropic News</em>
-- **2026-03-19 22:53** · <a href="202603/pdf/19a1-j.pdf" target="_blank"><strong>関内エリア最大級の「新旧融合」大規模複合街区がついに誕生 「BASEGATE横浜関内」2026年3月19日グランドオープン</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-18 22:53** · <a href="202603/18a1-j.htm" target="_blank"><strong>太径鉄筋を全自動で配筋する「鉄筋自動プレファブ工法」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-18 22:53** · <a href="https://www.anthropic.com/81k-interviews" target="_blank"><strong>What 81,000 people want from AI Mar 18, 2026 We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated窶杯he largest and most multilingual qualitative study of its kind. Here's what we found.</strong></a> — <em>Anthropic News</em>
