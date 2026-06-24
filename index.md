@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-24 23:36** · <a href="https://mistral.ai/news/more-control-over-connectors" target="_blank"><strong>Bringing more control over your connectors</strong></a> — <em>Mistral AI News</em>
 - **2026-06-23 23:33** · <a href="202606/23c1-j.htm" target="_blank"><strong>シンガポールPUB(公益事業庁)の研究プログラムにおいて鹿島らの高さ調節が可能な「環境配慮型護岸」が採択</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-23 23:33** · <a href="https://cohere.com/blog/why-cultural-awareness-is-essential-for-global-ai" target="_blank"><strong>Why Cultural Awareness is Essential for Global AI How users are impacted around the world by AI窶冱 cultural gaps Jun 23, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-23 23:33** · <a href="https://cohere.com/blog/authors/marzieh-fadaee" target="_blank"><strong>Marzieh Fadaee Head of Cohere Labs</strong></a> — <em>Cohere Blog</em>
@@ -260,4 +261,3 @@
 - **2026-03-27 22:56** · <a href="https://renue.co.jp/posts/article-18" target="_blank"><strong>2026.03.26 メディア掲載のお知らせ メディア掲載のお知らせ</strong></a> — <em>renue ニュース</em>
 - **2026-03-27 22:56** · <a href="202603/pdf/27a1-j.pdf" target="_blank"><strong>「関内駅前港町地区第一種市街地再開発事業」および「関内駅前北口地区第一種市街地再開発事業」権利変換計画認可のお知らせ</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-03-26 22:55** · <a href="202603/pdf/26c1-j.pdf" target="_blank"><strong>「湯西川ダムで官民が連携!」</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-25 23:02** · <a href="202603/25c1-j.htm" target="_blank"><strong>陸上風車基礎の設計手法として国内初の技術認証を取得</strong></a> — <em>鹿島建設 プレス</em>
