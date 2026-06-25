@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth" target="_blank"><strong>Cohere triples UK footprint with new London office to support R&D growth Jun 15, 2026 2 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-security-ai-agent-north-wiz" target="_blank"><strong>Creating a security agent with Cohere North and Wiz Learn how the Cohere team used North, Wiz, and a custom MCP server to automate incident response workflows Jun 25, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-25 23:48** · <a href="https://cohere.com/blog/automating-fork-maintenance-with-ai-agents" target="_blank"><strong>Automating fork maintenance with AI agents Jun 25, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-06-25 23:48** · <a href="https://cohere.com/blog/authors/donglu-wang" target="_blank"><strong>Donglu Wang Member of Technical Staff, Foundations</strong></a> — <em>Cohere Blog</em>
+- **2026-06-25 16:43** · <a href="https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support" target="_blank"><strong>Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the..
 - **2026-06-24 23:36** · <a href="https://mistral.ai/news/more-control-over-connectors" target="_blank"><strong>Bringing more control over your connectors</strong></a> — <em>Mistral AI News</em>
 - **2026-06-23 23:33** · <a href="202606/23c1-j.htm" target="_blank"><strong>シンガポールPUB(公益事業庁)の研究プログラムにおいて鹿島らの高さ調節が可能な「環境配慮型護岸」が採択</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-23 23:33** · <a href="https://cohere.com/blog/why-cultural-awareness-is-essential-for-global-ai" target="_blank"><strong>Why Cultural Awareness is Essential for Global AI How users are impacted around the world by AI窶冱 cultural gaps Jun 23, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
@@ -256,8 +262,3 @@
 - **2026-04-01 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records" target="_blank"><strong>NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records</strong></a> — <em>NVIDIA Technical Blog</em>
   - Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...
 - **2026-03-31 22:59** · <a href="202603/31c1-j.htm" target="_blank"><strong>産学連携により光ファイバセンシングの計測器「SensRay」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-30 23:00** · <a href="202603/pdf/30a2-j.pdf" target="_blank"><strong>2026年4月1日GRAND OPEN『Yard miyakojima』</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-30 23:00** · <a href="202603/pdf/30a1-j.pdf" target="_blank"><strong>「キャノピーbyヒルトン沖縄宮古島リゾート」2026年4月1日(水)開業</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-27 22:56** · <a href="https://renue.co.jp/posts/article-18" target="_blank"><strong>2026.03.26 メディア掲載のお知らせ メディア掲載のお知らせ</strong></a> — <em>renue ニュース</em>
-- **2026-03-27 22:56** · <a href="202603/pdf/27a1-j.pdf" target="_blank"><strong>「関内駅前港町地区第一種市街地再開発事業」および「関内駅前北口地区第一種市街地再開発事業」権利変換計画認可のお知らせ</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-03-26 22:55** · <a href="202603/pdf/26c1-j.pdf" target="_blank"><strong>「湯西川ダムで官民が連携!」</strong></a> — <em>鹿島建設 プレス</em>
