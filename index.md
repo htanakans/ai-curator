@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-29 23:18** · <a href="202606/29a1-j.htm" target="_blank"><strong>天井ボード取付ロボットと移動式天台を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-06-29 15:50** · <a href="https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories" target="_blank"><strong>How to Govern Autonomous Agents in Enterprise AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth" target="_blank"><strong>Cohere triples UK footprint with new London office to support R&D growth Jun 15, 2026 2 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-security-ai-agent-north-wiz" target="_blank"><strong>Creating a security agent with Cohere North and Wiz Learn how the Cohere team used North, Wiz, and a custom MCP server to automate incident response workflows Jun 25, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/automating-fork-maintenance-with-ai-agents" target="_blank"><strong>Automating fork maintenance with AI agents Jun 25, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
@@ -259,7 +262,3 @@
 - **2026-04-01 23:02** · <a href="https://www.anthropic.com/product/claude-code" target="_blank"><strong>Inside Claude Code</strong></a> — <em>Anthropic News</em>
 - **2026-04-01 16:00** · <a href="https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic" target="_blank"><strong>CUDA Tile Programming Now Available for BASIC!</strong></a> — <em>NVIDIA Technical Blog</em>
   - CUDA 13.1 introduced CUDA Tile, a next generation tile-based GPU programming paradigm designed to make fine-grained parallelism more accessible and flexible....
-- **2026-04-01 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design" target="_blank"><strong>NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...
-- **2026-04-01 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records" target="_blank"><strong>NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...
