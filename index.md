@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-06-30 23:40** · <a href="202606/30c1-j.htm" target="_blank"><strong>製鉄副産物を原料としたコンクリート用CO 2 固定混和材の実用化に目途</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-06-30 23:40** · <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank"><strong>Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</strong></a> — <em>Anthropic News</em>
+- **2026-06-30 23:40** · <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank"><strong>Jun 30, 2026 Announcements Claude Science, an AI workbench for scientists, is now available</strong></a> — <em>Anthropic News</em>
+- **2026-06-30 17:36** · <a href="https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe" target="_blank"><strong>Designing GPU-Accelerated Query Engines with NVIDIA GQE</strong></a> — <em>NVIDIA Technical Blog</em>
+  - GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...
 - **2026-06-29 23:18** · <a href="202606/29a1-j.htm" target="_blank"><strong>天井ボード取付ロボットと移動式天台を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-06-29 15:50** · <a href="https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories" target="_blank"><strong>How to Govern Autonomous Agents in Enterprise AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on
@@ -255,10 +260,3 @@
 - **2026-04-06 23:01** · <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" target="_blank"><strong>Apr 6, 2026 Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</strong></a> — <em>Anthropic News</em>
 - **2026-04-03 22:57** · <a href="https://renue.co.jp/posts/nikkei-20260402" target="_blank"><strong>2026.04.03 日本経済新聞に掲載されました 2026年4月2日付の日本経済新聞に、弊社renueが手がけるAI工事見積支援システムについて掲載いただきました。</strong></a> — <em>renue ニュース</em>
 - **2026-04-02 22:56** · <a href="https://ai.sony/blog/Advancing-AI-Highlights-from-March-2026" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2026-04-02 20:00** · <a href="https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight" target="_blank"><strong>Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight</strong></a> — <em>NVIDIA Technical Blog</em>
-  - In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...
-- **2026-04-02 16:27** · <a href="https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4" target="_blank"><strong>Bringing AI Closer to the Edge and On-Device with Gemma 4</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from
-- **2026-04-01 23:02** · <a href="https://www.anthropic.com/product/claude-code" target="_blank"><strong>Inside Claude Code</strong></a> — <em>Anthropic News</em>
-- **2026-04-01 16:00** · <a href="https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic" target="_blank"><strong>CUDA Tile Programming Now Available for BASIC!</strong></a> — <em>NVIDIA Technical Blog</em>
-  - CUDA 13.1 introduced CUDA Tile, a next generation tile-based GPU programming paradigm designed to make fine-grained parallelism more accessible and flexible....
