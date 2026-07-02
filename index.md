@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-02 21:25** · <a href="https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down" target="_blank"><strong>Hardware-Rooted AI Security That Won’t Slow You Down</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns...
 - **2026-07-01 23:45** · <a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank"><strong>Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.</strong></a> — <em>Anthropic News</em>
 - **2026-07-01 23:45** · <a href="https://mistral.ai/pricing/enterprise-deployments" target="_blank"><strong>For enterprises</strong></a> — <em>Mistral AI News</em>
 - **2026-07-01 17:04** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -260,4 +262,3 @@
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-3" target="_blank"><strong>2026.04.06 FX-viewのコラム記事にて当社が掲載されました。</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-2" target="_blank"><strong>2026.04.06 虎ノ門に新しいオフィスを開設しました</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-1" target="_blank"><strong>2026.04.06 サクフリ株式会社のサクフリブログに当社が掲載されました</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/GwC-N4fo" target="_blank"><strong>2026.04.06 ミライのお仕事様に取材頂きました |株式会社renue(リノイ) 弊社代表の山本より、ITコンサルティング業界における若手キャリアの課題とrenueの取り組みについてお話をさせて頂いております。</strong></a> — <em>renue ニュース</em>
