@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-03 23:20** · <a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank"><strong>Jul 2, 2026 Announcements More details on Fable 5窶冱 cyber safeguards and our jailbreak framework</strong></a> — <em>Anthropic News</em>
+- **2026-07-03 23:20** · <a href="https://mistral.ai/news/leanstral-1-5" target="_blank"><strong>Leanstral 1.5: Proof Abundance for All</strong></a> — <em>Mistral AI News</em>
 - **2026-07-02 21:25** · <a href="https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down" target="_blank"><strong>Hardware-Rooted AI Security That Won’t Slow You Down</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns...
 - **2026-07-01 23:45** · <a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank"><strong>Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.</strong></a> — <em>Anthropic News</em>
@@ -260,5 +262,3 @@
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/btob-pr-public-relations-strategy-press-release-media-guide" target="_blank"><strong>2026.04.06 BtoB企業のPR・広報戦略ガイド|プレスリリース活用からメディアリレーションまで徹底解説【2026年版】 BtoB企業のPR・広報戦略を徹底解説。プレスリリースの書き方、メディアリレーション構築法、ソートリーダーシップ実践法、AI活用まで。記者の89%が信頼す...</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-4" target="_blank"><strong>2026.04.06 株式会社アウナラの運営するコラム内の記事に当社が掲載されました</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-3" target="_blank"><strong>2026.04.06 FX-viewのコラム記事にて当社が掲載されました。</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-2" target="_blank"><strong>2026.04.06 虎ノ門に新しいオフィスを開設しました</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-1" target="_blank"><strong>2026.04.06 サクフリ株式会社のサクフリブログに当社が掲載されました</strong></a> — <em>renue ニュース</em>
