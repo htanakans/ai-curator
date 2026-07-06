@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-06 23:35** · <a href="202607/6a1-j.htm" target="_blank"><strong>CUCO-SUICOMハーフプレキャスト床版を建築構造部材として国内初適用</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-07-06 23:34** · <a href="https://www.anthropic.com/news/alberta-government-claude-cybersecurity" target="_blank"><strong>Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</strong></a> — <em>Anthropic News</em>
+- **2026-07-06 21:44** · <a href="https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism" target="_blank"><strong>Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these
 - **2026-07-03 23:20** · <a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank"><strong>Jul 2, 2026 Announcements More details on Fable 5窶冱 cyber safeguards and our jailbreak framework</strong></a> — <em>Anthropic News</em>
 - **2026-07-03 23:20** · <a href="https://mistral.ai/news/leanstral-1-5" target="_blank"><strong>Leanstral 1.5: Proof Abundance for All</strong></a> — <em>Mistral AI News</em>
 - **2026-07-02 21:25** · <a href="https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down" target="_blank"><strong>Hardware-Rooted AI Security That Won’t Slow You Down</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -259,6 +263,3 @@
   - The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pr-ai-press-release-sns-media-guide-2026" target="_blank"><strong>2026.04.06 広報AI・PR AIとは?プレスリリース自動生成・SNS運用・メディア対応のAI活用法を解説【2026年版】</strong></a> — <em>renue ニュース</em>
 - **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pYxDJq-f" target="_blank"><strong>2026.04.06 サブスクも年末に大掃除しよう!解約忘れ予測・解約サポートの無料キャンペーンを100名様限定で実施 [サブスク.LIFE]</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/btob-pr-public-relations-strategy-press-release-media-guide" target="_blank"><strong>2026.04.06 BtoB企業のPR・広報戦略ガイド|プレスリリース活用からメディアリレーションまで徹底解説【2026年版】 BtoB企業のPR・広報戦略を徹底解説。プレスリリースの書き方、メディアリレーション構築法、ソートリーダーシップ実践法、AI活用まで。記者の89%が信頼す...</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-4" target="_blank"><strong>2026.04.06 株式会社アウナラの運営するコラム内の記事に当社が掲載されました</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/article-3" target="_blank"><strong>2026.04.06 FX-viewのコラム記事にて当社が掲載されました。</strong></a> — <em>renue ニュース</em>
