@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-07 23:17** · <a href="202607/7a1-j.htm" target="_blank"><strong>70年ぶりの新工法「型枠一本締め工法」の汎用性が向上</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-07-07 23:17** · <a href="https://cohere.com/blog/transcribe-arabic" target="_blank"><strong>Meet Cohere Transcribe Arabic The world’s most accurate open-source model for Arabic speech recognition. Jul 07, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-07-07 15:10** · <a href="https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads" target="_blank"><strong>NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...
 - **2026-07-06 23:35** · <a href="202607/6a1-j.htm" target="_blank"><strong>CUCO-SUICOMハーフプレキャスト床版を建築構造部材として国内初適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-06 23:34** · <a href="https://www.anthropic.com/news/alberta-government-claude-cybersecurity" target="_blank"><strong>Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</strong></a> — <em>Anthropic News</em>
 - **2026-07-06 21:44** · <a href="https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism" target="_blank"><strong>Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -259,7 +263,3 @@
 - **2026-04-08 23:05** · <a href="https://renue.co.jp/services/ad-agent/automation" target="_blank"><strong>広告代理AIエージェント</strong></a> — <em>renue ニュース</em>
 - **2026-04-08 23:05** · <a href="https://renue.co.jp/post/howto-guide" target="_blank"><strong>やり方ガイド</strong></a> — <em>renue ニュース</em>
 - **2026-04-07 23:03** · <a href="202604/7m1-j.htm" target="_blank"><strong>現場で「ポイ活」!担い手確保と技能者の処遇改善を推進</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-04-07 18:51** · <a href="https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling" target="_blank"><strong>Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pr-ai-press-release-sns-media-guide-2026" target="_blank"><strong>2026.04.06 広報AI・PR AIとは?プレスリリース自動生成・SNS運用・メディア対応のAI活用法を解説【2026年版】</strong></a> — <em>renue ニュース</em>
-- **2026-04-06 23:01** · <a href="https://renue.co.jp/posts/pYxDJq-f" target="_blank"><strong>2026.04.06 サブスクも年末に大掃除しよう!解約忘れ予測・解約サポートの無料キャンペーンを100名様限定で実施 [サブスク.LIFE]</strong></a> — <em>renue ニュース</em>
