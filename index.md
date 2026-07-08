@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-08 23:33** · <a href="202607/8a1-j.htm" target="_blank"><strong>CFT柱のコンクリート充填作業の異常検出をAIが支援</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-07-08 23:32** · <a href="https://mistral.ai/news/robostral-navigate" target="_blank"><strong>Introducing Robostral Navigate</strong></a> — <em>Mistral AI News</em>
+- **2026-07-08 15:00** · <a href="https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance" target="_blank"><strong>Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are.
 - **2026-07-07 23:17** · <a href="202607/7a1-j.htm" target="_blank"><strong>70年ぶりの新工法「型枠一本締め工法」の汎用性が向上</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-07 23:17** · <a href="https://cohere.com/blog/transcribe-arabic" target="_blank"><strong>Meet Cohere Transcribe Arabic The world’s most accurate open-source model for Arabic speech recognition. Jul 07, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-07 15:10** · <a href="https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads" target="_blank"><strong>NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -260,6 +264,3 @@
   - Apple is presenting new research at the annual ACM (Association of Computing Machinery) CHI Conference on Human Factors in Computing Systems , which takes place
 - **2026-04-09 23:05** · <a href="202604/9c1-j.htm" target="_blank"><strong>2種類の環境配慮型コンクリートを国土交通省の直轄工事に大量適用</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-04-09 23:05** · <a href="https://ai.sony/blog/9d126e3cb522595b37c19882bb77306e4ef2c80b" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2026-04-08 23:05** · <a href="https://renue.co.jp/services/ad-agent/automation" target="_blank"><strong>広告代理AIエージェント</strong></a> — <em>renue ニュース</em>
-- **2026-04-08 23:05** · <a href="https://renue.co.jp/post/howto-guide" target="_blank"><strong>やり方ガイド</strong></a> — <em>renue ニュース</em>
-- **2026-04-07 23:03** · <a href="202604/7m1-j.htm" target="_blank"><strong>現場で「ポイ活」!担い手確保と技能者の処遇改善を推進</strong></a> — <em>鹿島建設 プレス</em>
