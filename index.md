@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-09 23:39** · <a href="202607/pdf/9e1-j.pdf" target="_blank"><strong>熊本県の林業振興や地下水保全に向け、官民連携の協議会を設立</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-07-09 23:39** · <a href="https://www.anthropic.com/path-to-hope" target="_blank"><strong>Keep thinking</strong></a> — <em>Anthropic News</em>
+- **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/reflect-with-claude" target="_blank"><strong>Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude</strong></a> — <em>Anthropic News</em>
+- **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/hard-questions" target="_blank"><strong>Jul 9, 2026 Announcements Inviting hard questions</strong></a> — <em>Anthropic News</em>
+- **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/ben-bernanke" target="_blank"><strong>Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic窶冱 Long-Term Benefit Trust</strong></a> — <em>Anthropic News</em>
+- **2026-07-09 23:39** · <a href="https://mistral.ai/news/manage-prompts-and-skills-in-studio" target="_blank"><strong>Your Prompts and Skills need a system of record.</strong></a> — <em>Mistral AI News</em>
 - **2026-07-08 23:33** · <a href="202607/8a1-j.htm" target="_blank"><strong>CFT柱のコンクリート充填作業の異常検出をAIが支援</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-08 23:32** · <a href="https://mistral.ai/news/robostral-navigate" target="_blank"><strong>Introducing Robostral Navigate</strong></a> — <em>Mistral AI News</em>
 - **2026-07-08 15:00** · <a href="https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance" target="_blank"><strong>Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -255,12 +261,3 @@
 - **2026-04-16 23:07** · <a href="https://ai.sony/blog/beyond-skin-tone-a-multidimensional-measure-of-apparent-skin-color" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
 - **2026-04-16 23:07** · <a href="https://ai.sony/blog/advancing-ai-highlights-from-january" target="_blank"><strong>Blog Advancing AI: Highlights from January</strong></a> — <em>Sony AI News</em>
 - **2026-04-16 23:07** · <a href="https://www.anthropic.com/news/claude-opus-4-7" target="_blank"><strong>Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.</strong></a> — <em>Anthropic News</em>
-- **2026-04-16 15:00** · <a href="https://developer.nvidia.com/blog/how-to-build-vision-ai-pipelines-using-deepstream-coding-agents" target="_blank"><strong>How to Build Vision AI Pipelines Using NVIDIA DeepStream Coding Agents</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Developing real-time vision AI applications presents a significant challenge for developers, often demanding intricate data pipelines, countless lines of code,.
-- **2026-04-12 01:02** · <a href="https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications" target="_blank"><strong>MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses,...
-- **2026-04-11 22:56** · <a href="https://renue.co.jp/posts/article-5" target="_blank"><strong>2026.04.10 renue山本がビジネス映像メディア「PIVOT」に出演! 金融・証券業界のコールセンター課題をAIで解決したミンカブ・ジ・インフォノイドとの共創事例を公開 株式会社renue(本社:東京都港区、代表取締役:山本悠介、以下 renue)の代表 山本が出演した動画がビジネス映像メディア「PIVOT」にて公開されました。</strong></a> — <em>renue ニュース</em>
-- **2026-04-10 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-chi-2026" target="_blank"><strong>ACM Human-Computer Interaction Conference (CHI) 2026</strong></a> — <em>Apple ML Research</em>
-  - Apple is presenting new research at the annual ACM (Association of Computing Machinery) CHI Conference on Human Factors in Computing Systems , which takes place
-- **2026-04-09 23:05** · <a href="202604/9c1-j.htm" target="_blank"><strong>2種類の環境配慮型コンクリートを国土交通省の直轄工事に大量適用</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-04-09 23:05** · <a href="https://ai.sony/blog/9d126e3cb522595b37c19882bb77306e4ef2c80b" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
