@@ -1,5 +1,14 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-10 23:15** · <a href="https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding" target="_blank"><strong>Hardware-aware dynamic speculative decoding Jul 10, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-07-10 23:15** · <a href="https://cohere.com/blog/authors/ekagra-ranjan" target="_blank"><strong>Ekagra Ranjan Member of Technical Staff, Foundations</strong></a> — <em>Cohere Blog</em>
+- **2026-07-10 23:15** · <a href="https://www.anthropic.com/news/ust-claude" target="_blank"><strong>Jul 9, 2026 Case Study UST is bringing Claude to physical AI</strong></a> — <em>Anthropic News</em>
+- **2026-07-10 18:17** · <a href="https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading" target="_blank"><strong>Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,.
+- **2026-07-10 16:36** · <a href="https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design" target="_blank"><strong>AI Model Co-Design: Hardware-Friendly LLM Design</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI performance comes down to three dimensions:  Accuracy: How well the model reasons and produces outputs Throughput: How many tokens per second a...
+- **2026-07-10 13:00** · <a href="https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit" target="_blank"><strong>Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein...
 - **2026-07-09 23:39** · <a href="202607/pdf/9e1-j.pdf" target="_blank"><strong>熊本県の林業振興や地下水保全に向け、官民連携の協議会を設立</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-09 23:39** · <a href="https://www.anthropic.com/path-to-hope" target="_blank"><strong>Keep thinking</strong></a> — <em>Anthropic News</em>
 - **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/reflect-with-claude" target="_blank"><strong>Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude</strong></a> — <em>Anthropic News</em>
@@ -255,9 +264,3 @@
 - **2026-04-16 23:07** · <a href="https://ai.sony/publications/beyond-skin-tone-a-multidimensiona-measure-of-apparent-skin-color" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
 - **2026-04-16 23:07** · <a href="https://ai.sony/publications/Diffusion-based-Signal-Refiner-for-Speech-Enhancement-and-Separation" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
 - **2026-04-16 23:07** · <a href="https://ai.sony/join-us" target="_blank"><strong>Careers</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/blog/unveiling-gran-turismo-sophy-an-ai-breakthrough" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/blog/sony-ais-contributions-at-aaai-2026" target="_blank"><strong>Blog Sony AI窶冱 Contributions at AAAI 2026</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/blog/protecting-creators-rights-in-the-age-of-ai" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/blog/beyond-skin-tone-a-multidimensional-measure-of-apparent-skin-color" target="_blank"><strong>Learn More</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/blog/advancing-ai-highlights-from-january" target="_blank"><strong>Blog Advancing AI: Highlights from January</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://www.anthropic.com/news/claude-opus-4-7" target="_blank"><strong>Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.</strong></a> — <em>Anthropic News</em>
