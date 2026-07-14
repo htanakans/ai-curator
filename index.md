@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-14 23:13** · <a href="https://cohere.com/blog/authors/madeline-smith" target="_blank"><strong>Madeline Smith Operations and Community Manager, Cohere Labs</strong></a> — <em>Cohere Blog</em>
+- **2026-07-14 23:13** · <a href="https://www.anthropic.com/news/claude-for-teachers" target="_blank"><strong>Jul 14, 2026 Product Introducing Claude for Teachers</strong></a> — <em>Anthropic News</em>
+- **2026-07-14 16:00** · <a href="https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills" target="_blank"><strong>Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills</strong></a> — <em>NVIDIA Technical Blog</em>
+  - What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning...
 - **2026-07-10 23:15** · <a href="https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding" target="_blank"><strong>Hardware-aware dynamic speculative decoding Jul 10, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-10 23:15** · <a href="https://cohere.com/blog/authors/ekagra-ranjan" target="_blank"><strong>Ekagra Ranjan Member of Technical Staff, Foundations</strong></a> — <em>Cohere Blog</em>
 - **2026-07-10 23:15** · <a href="https://www.anthropic.com/news/ust-claude" target="_blank"><strong>Jul 9, 2026 Case Study UST is bringing Claude to physical AI</strong></a> — <em>Anthropic News</em>
@@ -261,6 +265,3 @@
 - **2026-04-17 18:59** · <a href="https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw" target="_blank"><strong>Build a Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows....
 - **2026-04-16 23:07** · <a href="https://ai.sony/publications/reconciling-legal-and-technical-approaches-to-algorithmic-bias" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/publications/beyond-skin-tone-a-multidimensiona-measure-of-apparent-skin-color" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/publications/Diffusion-based-Signal-Refiner-for-Speech-Enhancement-and-Separation" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
-- **2026-04-16 23:07** · <a href="https://ai.sony/join-us" target="_blank"><strong>Careers</strong></a> — <em>Sony AI News</em>
