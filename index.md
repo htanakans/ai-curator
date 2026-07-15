@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-15 23:15** · <a href="https://cohere.com/blog/the-total-cost-of-ai-ownership" target="_blank"><strong>The total cost of AI ownership Jul 15, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-07-15 23:15** · <a href="https://cohere.com/blog/authors/ariana-milligan" target="_blank"><strong>Ariana Milligan Product Marketing Manager</strong></a> — <em>Cohere Blog</em>
+- **2026-07-15 21:57** · <a href="https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents" target="_blank"><strong>Develop Lightweight USD Runtimes Faster with AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...
 - **2026-07-14 23:13** · <a href="https://cohere.com/blog/authors/madeline-smith" target="_blank"><strong>Madeline Smith Operations and Community Manager, Cohere Labs</strong></a> — <em>Cohere Blog</em>
 - **2026-07-14 23:13** · <a href="https://www.anthropic.com/news/claude-for-teachers" target="_blank"><strong>Jul 14, 2026 Product Introducing Claude for Teachers</strong></a> — <em>Anthropic News</em>
 - **2026-07-14 16:00** · <a href="https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills" target="_blank"><strong>Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -261,7 +265,3 @@
   - The boom in open source generative AI models is pushing beyond data centers into machines operating in the physical world. Developers are eager to deploy these.
 - **2026-04-20 22:52** · <a href="https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision" target="_blank"><strong>Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision</strong></a> — <em>NVIDIA Technical Blog</em>
   - As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...
-- **2026-04-17 23:05** · <a href="https://www.anthropic.com/news/claude-design-anthropic-labs" target="_blank"><strong>Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we窶决e launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</strong></a> — <em>Anthropic News</em>
-- **2026-04-17 18:59** · <a href="https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw" target="_blank"><strong>Build a Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows....
-- **2026-04-16 23:07** · <a href="https://ai.sony/publications/reconciling-legal-and-technical-approaches-to-algorithmic-bias" target="_blank"><strong>Read Now</strong></a> — <em>Sony AI News</em>
