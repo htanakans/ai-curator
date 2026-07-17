@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-17 23:10** · <a href="202607/17m1-j.htm" target="_blank"><strong>建設ICTの中核機能を内製化し、自動化施工技術を強化</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-16 23:13** · <a href="https://cohere.com/total-cost-of-ai-ownership" target="_blank"><strong>Total Cost of AI Ownership</strong></a> — <em>Cohere Blog</em>
 - **2026-07-16 23:13** · <a href="https://cohere.com/blog/cohere-university-of-toronto-announcement" target="_blank"><strong>Cohere and the University of Toronto partner to advance responsible AI adoption at scale The multi-year partnership will integrate Cohere’s sovereign, enterprise-grade AI technology into U of T’s university-wide AI platform. Jul 16, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-16 22:59** · <a href="https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem" target="_blank"><strong>Q&amp;A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -262,5 +263,3 @@
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/election-safeguards-update" target="_blank"><strong>Apr 24, 2026 Announcements An update on our election safeguards</strong></a> — <em>Anthropic News</em>
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-nec" target="_blank"><strong>Apr 24, 2026 Announcements Anthropic and NEC collaborate to build Japan窶冱 largest AI engineering workforce</strong></a> — <em>Anthropic News</em>
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-amazon-compute" target="_blank"><strong>Apr 20, 2026 Announcements Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute</strong></a> — <em>Anthropic News</em>
-- **2026-04-24 15:00** · <a href="https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare" target="_blank"><strong>Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Federated learning (FL) is no longer a research curiosity—it’s a practical response to a hard constraint: the most valuable data is often the least movable....
