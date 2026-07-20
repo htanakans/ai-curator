@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-20 15:46** · <a href="https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories" target="_blank"><strong>NVIDIA NVLink: The Scale-Up Network for AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute..
+- **2026-07-20 15:00** · <a href="https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps" target="_blank"><strong>Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and...
 - **2026-07-17 23:10** · <a href="202607/17m1-j.htm" target="_blank"><strong>建設ICTの中核機能を内製化し、自動化施工技術を強化</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-16 23:13** · <a href="https://cohere.com/total-cost-of-ai-ownership" target="_blank"><strong>Total Cost of AI Ownership</strong></a> — <em>Cohere Blog</em>
 - **2026-07-16 23:13** · <a href="https://cohere.com/blog/cohere-university-of-toronto-announcement" target="_blank"><strong>Cohere and the University of Toronto partner to advance responsible AI adoption at scale The multi-year partnership will integrate Cohere’s sovereign, enterprise-grade AI technology into U of T’s university-wide AI platform. Jul 16, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
@@ -261,5 +265,3 @@
 - **2026-04-27 23:15** · <a href="https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand" target="_blank"><strong>Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office</strong></a> — <em>Anthropic News</em>
 - **2026-04-24 23:03** · <a href="https://cohere.com/blog/cohere-alephalpha-join-forces" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
 - **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/election-safeguards-update" target="_blank"><strong>Apr 24, 2026 Announcements An update on our election safeguards</strong></a> — <em>Anthropic News</em>
-- **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-nec" target="_blank"><strong>Apr 24, 2026 Announcements Anthropic and NEC collaborate to build Japan窶冱 largest AI engineering workforce</strong></a> — <em>Anthropic News</em>
-- **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/anthropic-amazon-compute" target="_blank"><strong>Apr 20, 2026 Announcements Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute</strong></a> — <em>Anthropic News</em>
