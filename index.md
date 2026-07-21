@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72" target="_blank"><strong>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token
+- **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai" target="_blank"><strong>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with..
+- **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai" target="_blank"><strong>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale..
 - **2026-07-20 15:46** · <a href="https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories" target="_blank"><strong>NVIDIA NVLink: The Scale-Up Network for AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute..
 - **2026-07-20 15:00** · <a href="https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps" target="_blank"><strong>Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -262,6 +268,3 @@
   - The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...
 - **2026-04-28 23:14** · <a href="https://www.anthropic.com/news/claude-for-creative-work" target="_blank"><strong>Apr 28, 2026 Announcements Claude for Creative Work</strong></a> — <em>Anthropic News</em>
 - **2026-04-28 23:14** · <a href="https://mistral.ai/news/workflows" target="_blank"><strong>Workflows for work that runs the business Product Workflows is now in public preview. Apr 27, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-04-27 23:15** · <a href="https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand" target="_blank"><strong>Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office</strong></a> — <em>Anthropic News</em>
-- **2026-04-24 23:03** · <a href="https://cohere.com/blog/cohere-alephalpha-join-forces" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
-- **2026-04-24 23:03** · <a href="https://www.anthropic.com/news/election-safeguards-update" target="_blank"><strong>Apr 24, 2026 Announcements An update on our election safeguards</strong></a> — <em>Anthropic News</em>
