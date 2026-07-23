@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-23 16:07** · <a href="https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit" target="_blank"><strong>Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways.
+- **2026-07-23 16:00** · <a href="https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes" target="_blank"><strong>Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a..
 - **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72" target="_blank"><strong>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
   - Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token
 - **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai" target="_blank"><strong>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -266,5 +270,3 @@
 - **2026-04-29 23:14** · <a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5" target="_blank"><strong>Remote agents in Vibe. Powered by Mistral Medium 3.5. Product Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. Apr 29, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-04-29 16:41** · <a href="https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures" target="_blank"><strong>Powering AI Factories with NVIDIA Enterprise Reference Architectures</strong></a> — <em>NVIDIA Technical Blog</em>
   - The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...
-- **2026-04-28 23:14** · <a href="https://www.anthropic.com/news/claude-for-creative-work" target="_blank"><strong>Apr 28, 2026 Announcements Claude for Creative Work</strong></a> — <em>Anthropic News</em>
-- **2026-04-28 23:14** · <a href="https://mistral.ai/news/workflows" target="_blank"><strong>Workflows for work that runs the business Product Workflows is now in public preview. Apr 27, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
