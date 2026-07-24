@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-24 23:18** · <a href="https://www.anthropic.com/news/claude-opus-5" target="_blank"><strong>Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</strong></a> — <em>Anthropic News</em>
 - **2026-07-23 16:07** · <a href="https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit" target="_blank"><strong>Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways.
 - **2026-07-23 16:00** · <a href="https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes" target="_blank"><strong>Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -268,5 +269,3 @@
 - **2026-04-30 00:00** · <a href="https://machinelearning.apple.com/updates/apple-at-icassp-2026" target="_blank"><strong>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026</strong></a> — <em>Apple ML Research</em>
   - Apple is presenting new research at the annual International Conference on Acoustics, Speech and Signal Processing (ICASSP) , which takes place in person in Bar
 - **2026-04-29 23:14** · <a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5" target="_blank"><strong>Remote agents in Vibe. Powered by Mistral Medium 3.5. Product Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. Apr 29, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-04-29 16:41** · <a href="https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures" target="_blank"><strong>Powering AI Factories with NVIDIA Enterprise Reference Architectures</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...
