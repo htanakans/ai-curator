@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-30 23:20** · <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals" target="_blank"><strong>Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations</strong></a> — <em>Anthropic News</em>
+- **2026-07-30 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure" target="_blank"><strong>NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...
 - **2026-07-27 23:22** · <a href="https://www.ad-hzm.co.jp/lp/takiginou/2026" target="_blank"><strong>第45回明治神宮薪能へのご招待 今年で第45回を迎える明治神宮薪能開催のお知らせです。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2026-07-27 23:22** · <a href="https://cohere.com/blog/tiny-aya-in-the-wild" target="_blank"><strong>Tiny Aya in the wild: What people are building with open multilingual AI Jul 14, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-27 23:22** · <a href="https://cohere.com/blog/introducing-north-automations-ai-workflows" target="_blank"><strong>Introducing North Automations: Intelligent workflow orchestration Jul 27, 2026 3 min read</strong></a> — <em>Cohere Blog</em>
@@ -263,6 +266,3 @@
 - **2026-05-07 16:02** · <a href="https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus" target="_blank"><strong>Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus</strong></a> — <em>NVIDIA Technical Blog</em>
   - Distributed deep learning depends on fast, reliable GPU-to-GPU communication using the NVIDIA Collective Communication Library (NCCL). When training slows down,
 - **2026-05-06 23:10** · <a href="https://www.anthropic.com/news/higher-limits-spacex" target="_blank"><strong>May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX</strong></a> — <em>Anthropic News</em>
-- **2026-05-05 23:16** · <a href="https://www.anthropic.com/news/finance-agents" target="_blank"><strong>May 5, 2026 Announcements Agents for financial services</strong></a> — <em>Anthropic News</em>
-- **2026-05-05 16:00** · <a href="https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car" target="_blank"><strong>How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...
