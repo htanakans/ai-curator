@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-07-31 23:18** · <a href="202607/31e1-j.htm" target="_blank"><strong>建設現場の廃プラを活用した資源循環型の高耐久アスファルト舗装を開発</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-07-31 22:16** · <a href="https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference" target="_blank"><strong>Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because...
 - **2026-07-30 23:20** · <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals" target="_blank"><strong>Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations</strong></a> — <em>Anthropic News</em>
 - **2026-07-30 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure" target="_blank"><strong>NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
   - Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...
@@ -263,6 +266,3 @@
 - **2026-05-07 23:15** · <a href="https://sakana.ai/fugu-beta" target="_blank"><strong>Sakana Fugu 🐡</strong></a> — <em>Sakana AI News</em>
 - **2026-05-07 21:18** · <a href="https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer" target="_blank"><strong>Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer</strong></a> — <em>NVIDIA Technical Blog</em>
   - Model quantization is an effective method to reduce VRAM usage and improve inference performance on consumer devices such as NVIDIA GeForce RTX GPUs. By...
-- **2026-05-07 16:02** · <a href="https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus" target="_blank"><strong>Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Distributed deep learning depends on fast, reliable GPU-to-GPU communication using the NVIDIA Collective Communication Library (NCCL). When training slows down,
-- **2026-05-06 23:10** · <a href="https://www.anthropic.com/news/higher-limits-spacex" target="_blank"><strong>May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX</strong></a> — <em>Anthropic News</em>
