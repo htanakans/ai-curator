@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-03 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage" target="_blank"><strong>NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...
 - **2026-07-31 23:18** · <a href="202607/31e1-j.htm" target="_blank"><strong>建設現場の廃プラを活用した資源循環型の高耐久アスファルト舗装を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-31 22:16** · <a href="https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference" target="_blank"><strong>Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference</strong></a> — <em>NVIDIA Technical Blog</em>
   - As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because...
@@ -264,5 +266,3 @@
   - Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is..
 - **2026-05-07 23:15** · <a href="https://sakana.ai/marlin-beta" target="_blank"><strong>Sakana Marlin 🐬</strong></a> — <em>Sakana AI News</em>
 - **2026-05-07 23:15** · <a href="https://sakana.ai/fugu-beta" target="_blank"><strong>Sakana Fugu 🐡</strong></a> — <em>Sakana AI News</em>
-- **2026-05-07 21:18** · <a href="https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer" target="_blank"><strong>Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Model quantization is an effective method to reduce VRAM usage and improve inference performance on consumer devices such as NVIDIA GeForce RTX GPUs. By...
