@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-04 23:20** · <a href="https://mistral.ai/news/shieldstral" target="_blank"><strong>Introducing Shieldstral.</strong></a> — <em>Mistral AI News</em>
+- **2026-08-04 16:00** · <a href="https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation" target="_blank"><strong>Beyond VLAs: How World Action Models Reshape Robot Manipulation</strong></a> — <em>NVIDIA Technical Blog</em>
+  - A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...
 - **2026-08-03 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage" target="_blank"><strong>NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage</strong></a> — <em>NVIDIA Technical Blog</em>
   - Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...
 - **2026-07-31 23:18** · <a href="202607/31e1-j.htm" target="_blank"><strong>建設現場の廃プラを活用した資源循環型の高耐久アスファルト舗装を開発</strong></a> — <em>鹿島建設 プレス</em>
@@ -264,5 +267,3 @@
   - The path from a trained AI model to production should be smooth, but rarely is. Many teams invest weeks fine-tuning models, only to discover that exporting to a
 - **2026-05-08 17:13** · <a href="https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding" target="_blank"><strong>Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
   - Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is..
-- **2026-05-07 23:15** · <a href="https://sakana.ai/marlin-beta" target="_blank"><strong>Sakana Marlin 🐬</strong></a> — <em>Sakana AI News</em>
-- **2026-05-07 23:15** · <a href="https://sakana.ai/fugu-beta" target="_blank"><strong>Sakana Fugu 🐡</strong></a> — <em>Sakana AI News</em>
