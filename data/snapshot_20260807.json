@@ -1,5 +1,12 @@
 [
   {
+    "source": "Anthropic News",
+    "title": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "published": "2026-08-07 22:58:00",
+    "summary": ""
+  },
+  {
     "source": "Mistral AI News",
     "title": "Introducing Shieldstral.",
     "url": "https://mistral.ai/news/shieldstral",
@@ -6991,12 +6998,5 @@
     "url": "https://arxiv.org/abs/2509.05908",
     "published": "2025-09-09 04:00:00+0000",
     "summary": "arXiv:2509.05908v1 Announce Type: new \nAbstract: Recently, cross-attention-based contextual automatic speech recognition (ASR) models have made notable advancements in recognizing personalized biasing phrases. However, the effectiveness of cross-attention is affected by variations in biasing information volume, especially when the length of the biasing list increases significantly. We find that, regardless of the length of the biasing list, only a limited amount of biasing information is most relevant to a specific ASR intermediate representation. Therefore, by identifying and integrating the most relevant biasing information rather than the entire biasing list, we can alleviate the effects of variations in biasing information volume for contextual ASR. To this end, we propose a purified semantic correlation joint modeling (PSC-Joint) approach. In PSC-Joint, we define and calculate three semantic correlations between the ASR intermediate representations and biasing information from coarse to fine: list-level, phrase-level, and token-level. Then, the three correlations are jointly modeled to produce their intersection, so that the most relevant biasing information across various granularities is highlighted and integrated for contextual recognition. In addition, to reduce the computational cost introduced by the joint modeling of three semantic correlations, we also propose a purification mechanism based on a grouped-and-competitive strategy to filter out irrelevant biasing phrases. Compared with baselines, our PSC-Joint approach achieves average relative F1 score improvements of up to 21.34% on AISHELL-1 and 28.46% on KeSpeech, across biasing lists of varying lengths."
-  },
-  {
-    "source": "arXiv cs.CL",
-    "title": "Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues",
-    "url": "https://arxiv.org/abs/2509.05882",
-    "published": "2025-09-09 04:00:00+0000",
-    "summary": "arXiv:2509.05882v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) integrate into diverse workflows, they are increasingly being considered \"collaborators\" with humans. If such AI collaborators are to be reliable, their behavior over multiturn interactions must be predictable, validated and verified before deployment. Common alignment techniques are typically developed under simplified single-user settings and do not account for the dynamics of long-horizon multiparty interactions. This paper examines how different alignment methods affect LLM agents' effectiveness as partners in multiturn, multiparty collaborations. We study this question through the lens of friction agents that intervene in group dialogues to encourage the collaborative group to slow down and reflect upon their reasoning for deliberative decision-making. Using a roleplay methodology, we evaluate interventions from differently-trained friction agents in collaborative task conversations. We propose a novel counterfactual evaluation framework that quantifies how friction interventions change the trajectory of group collaboration and belief alignment. Our results show that a friction-aware approach significantly outperforms common alignment baselines in helping both convergence to a common ground, or agreed-upon task-relevant propositions, and correctness of task outcomes."
   }
 ]
