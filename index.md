@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-10 13:27** · <a href="https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia" target="_blank"><strong>Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI...
 - **2026-08-07 22:58** · <a href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards" target="_blank"><strong>Aug 7, 2026 Product Improving Fable 5's biology safeguards</strong></a> — <em>Anthropic News</em>
 - **2026-08-04 23:20** · <a href="https://mistral.ai/news/shieldstral" target="_blank"><strong>Introducing Shieldstral.</strong></a> — <em>Mistral AI News</em>
 - **2026-08-04 16:00** · <a href="https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation" target="_blank"><strong>Beyond VLAs: How World Action Models Reshape Robot Manipulation</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -264,5 +266,3 @@
   - Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...
 - **2026-05-13 23:23** · <a href="202605/13c1-j.htm" target="_blank"><strong>高速道路の既設光ファイバ通信網を有効活用したモニタリング実証実験を開始</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-13 23:23** · <a href="https://www.anthropic.com/news/claude-for-small-business" target="_blank"><strong>May 13, 2026 Announcements Introducing Claude for Small Business</strong></a> — <em>Anthropic News</em>
-- **2026-05-12 18:00** · <a href="https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving" target="_blank"><strong>How to Eliminate Pipeline Friction in AI Model Serving</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The path from a trained AI model to production should be smooth, but rarely is. Many teams invest weeks fine-tuning models, only to discover that exporting to a
