@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-12 16:13** · <a href="https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories" target="_blank"><strong>How to Choose Full-Stack Observability for NVIDIA AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...
 - **2026-08-11 23:05** · <a href="https://mistral.ai/news/regional-inference-open-models-new-compute" target="_blank"><strong>In-region inference, open models, and new European infrastructure for sovereign AI.</strong></a> — <em>Mistral AI News</em>
 - **2026-08-11 13:00** · <a href="https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard" target="_blank"><strong>Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard</strong></a> — <em>NVIDIA Technical Blog</em>
   - Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one...
@@ -265,5 +267,3 @@
 - **2026-05-15 23:14** · <a href="202605/15m1-j.htm" target="_blank"><strong>第33回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-15 23:14** · <a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank"><strong>May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</strong></a> — <em>Anthropic News</em>
 - **2026-05-14 23:15** · <a href="https://www.anthropic.com/news/gates-foundation-partnership" target="_blank"><strong>May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gates Foundation</strong></a> — <em>Anthropic News</em>
-- **2026-05-14 19:24** · <a href="https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem" target="_blank"><strong>How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...
