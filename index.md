@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-17 22:43** · <a href="https://cohere.com/north/mini-code" target="_blank"><strong>North Mini Code New Agentic coding model</strong></a> — <em>Cohere Blog</em>
 - **2026-08-14 22:43** · <a href="https://www.anthropic.com/news/claude-text-watermark" target="_blank"><strong>Aug 14, 2026 Announcements How Claude窶冱 text watermark works</strong></a> — <em>Anthropic News</em>
 - **2026-08-12 16:13** · <a href="https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories" target="_blank"><strong>How to Choose Full-Stack Observability for NVIDIA AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...
@@ -266,4 +267,3 @@
 - **2026-05-19 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Evaluation</strong></a> — <em>NVIDIA Technical Blog</em>
   - Evaluating an AI model and evaluating an AI agent are related—but they answer fundamentally different questions. A model benchmark tests the capability of a...
 - **2026-05-15 23:14** · <a href="202605/15m1-j.htm" target="_blank"><strong>第33回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-05-15 23:14** · <a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank"><strong>May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</strong></a> — <em>Anthropic News</em>
