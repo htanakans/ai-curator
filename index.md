@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-19 22:43** · <a href="https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data" target="_blank"><strong>The Culture Funnel: You can’t align what isn’t in the data Cohere Labs analyzed data from modern LLM training pipelines and found that cultural diversity is frequently lost in post-training data mixes. Aug 19, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-08-19 22:22** · <a href="https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents" target="_blank"><strong>Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a...
+- **2026-08-19 17:50** · <a href="https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare" target="_blank"><strong>Building Federated Multimodal AI Workflows with NVIDIA FLARE</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data..
+- **2026-08-19 16:00** · <a href="https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator" target="_blank"><strong>Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI agents are only as effective as the context they receive. Even with capable models and well-documented NVIDIA libraries, agents can spend extra steps finding
 - **2026-08-17 22:43** · <a href="https://cohere.com/north/mini-code" target="_blank"><strong>North Mini Code New Agentic coding model</strong></a> — <em>Cohere Blog</em>
 - **2026-08-14 22:43** · <a href="https://www.anthropic.com/news/claude-text-watermark" target="_blank"><strong>Aug 14, 2026 Announcements How Claude窶冱 text watermark works</strong></a> — <em>Anthropic News</em>
 - **2026-08-12 16:13** · <a href="https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories" target="_blank"><strong>How to Choose Full-Stack Observability for NVIDIA AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -262,8 +269,3 @@
   - Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...
 - **2026-05-19 23:40** · <a href="https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents" target="_blank"><strong>NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
   - Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to.
-- **2026-05-19 23:35** · <a href="https://www.anthropic.com/news/widening-conversation-ai" target="_blank"><strong>May 19, 2026 Announcements Widening the conversation on frontier AI</strong></a> — <em>Anthropic News</em>
-- **2026-05-19 23:35** · <a href="https://www.anthropic.com/news/anthropic-kpmg" target="_blank"><strong>May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</strong></a> — <em>Anthropic News</em>
-- **2026-05-19 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Evaluation</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Evaluating an AI model and evaluating an AI agent are related—but they answer fundamentally different questions. A model benchmark tests the capability of a...
-- **2026-05-15 23:14** · <a href="202605/15m1-j.htm" target="_blank"><strong>第33回鹿島美術財団 財団賞・優秀賞を決定</strong></a> — <em>鹿島建設 プレス</em>
