@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-20 22:48** · <a href="https://renue.co.jp/services/callcenter-ai" target="_blank"><strong>サポトレAI</strong></a> — <em>renue ニュース</em>
+- **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-8" target="_blank"><strong>2026.04.27 株式会社renue、Claude Codeをブラウザから対話的に利用できる「コードだもん」を公開 AIコーディングを、ターミナルからブラウザへ</strong></a> — <em>renue ニュース</em>
+- **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-7" target="_blank"><strong>2026.05.19 renue、コードだもんUSBを開発</strong></a> — <em>renue ニュース</em>
+- **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-6" target="_blank"><strong>2026.04.20 renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発 AIを「使ってもらう」から「業務の中核で働かせる」へ。全社員のAIエージェント日常利用を前提に、社内情報へ自然言語でアクセスする基盤を自社開発。</strong></a> — <em>renue ニュース</em>
+- **2026-08-20 22:48** · <a href="https://cohere.com/north-mini-code" target="_blank"><strong>North Mini Code New Agentic coding model</strong></a> — <em>Cohere Blog</em>
+- **2026-08-20 16:00** · <a href="https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale" target="_blank"><strong>How Generative Recommenders Are Redefining RecSys at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and..
 - **2026-08-19 22:43** · <a href="https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data" target="_blank"><strong>The Culture Funnel: You can’t align what isn’t in the data Cohere Labs analyzed data from modern LLM training pipelines and found that cultural diversity is frequently lost in post-training data mixes. Aug 19, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-08-19 22:22** · <a href="https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents" target="_blank"><strong>Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a...
@@ -259,13 +266,3 @@
 - **2026-05-21 23:19** · <a href="202605/21a1-j.htm" target="_blank"><strong>名古屋市中区栄エリアにオフィスビル「栄トリッドスクエア」が竣工</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-05-21 18:00** · <a href="https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters" target="_blank"><strong>Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters</strong></a> — <em>NVIDIA Technical Blog</em>
   - Maximizing the value of AI infrastructure demands deep visibility into GPU utilization. Yet many platform teams running AI workloads on Kubernetes operate with.
-- **2026-05-21 17:32** · <a href="https://developer.nvidia.com/blog/unlock-exascale-performance-on-nvidia-gb200-nvl72-with-slurm-topology-aware-job-scheduling" target="_blank"><strong>Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI models grow in scale and complexity, realizing the full performance of modern accelerated infrastructure depends as much on how workloads are placed as on
-- **2026-05-21 15:30** · <a href="https://developer.nvidia.com/blog/building-token-metered-ai-services-on-telco-ai-factories" target="_blank"><strong>Building Token‑Metered AI Services on Telco AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Telcos around the world are building sovereign AI factories based on the NVIDIA Cloud Partner (NCP) reference architecture, giving governments, enterprises, and
-- **2026-05-20 23:41** · <a href="https://cohere.com/models-overview" target="_blank"><strong>Models Overview Explore and compare our open source models</strong></a> — <em>Cohere Blog</em>
-- **2026-05-20 23:41** · <a href="https://cohere.com/blog/command-a-plus" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
-- **2026-05-20 20:00** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Customization</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...
-- **2026-05-19 23:40** · <a href="https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents" target="_blank"><strong>NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to.
