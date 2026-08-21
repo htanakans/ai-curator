@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-21 16:21** · <a href="https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale" target="_blank"><strong>GPU-Accelerated Clustering for Financial Instruments at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Use AdaptGrow, a GPU-accelerated matrix factorization algorithm, to turn rolling correlation and tail-dependence matrices into hard clusters, soft factor...
+- **2026-08-21 15:00** · <a href="https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps" target="_blank"><strong>Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available...
+- **2026-08-21 13:00** · <a href="https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack" target="_blank"><strong>Where Security Fits in an AI Agent Stack</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important..
+- **2026-08-21 13:00** · <a href="https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents" target="_blank"><strong>NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives...
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/services/callcenter-ai" target="_blank"><strong>サポトレAI</strong></a> — <em>renue ニュース</em>
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-8" target="_blank"><strong>2026.04.27 株式会社renue、Claude Codeをブラウザから対話的に利用できる「コードだもん」を公開 AIコーディングを、ターミナルからブラウザへ</strong></a> — <em>renue ニュース</em>
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-7" target="_blank"><strong>2026.05.19 renue、コードだもんUSBを開発</strong></a> — <em>renue ニュース</em>
@@ -260,9 +268,3 @@
 - **2026-05-28 23:45** · <a href="https://www.anthropic.com/news/series-h" target="_blank"><strong>May 28, 2026 Announcements Anthropic raises $65B in Series H funding at $965B post-money valuation</strong></a> — <em>Anthropic News</em>
 - **2026-05-28 23:45** · <a href="https://www.anthropic.com/news/claude-opus-4-8" target="_blank"><strong>Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</strong></a> — <em>Anthropic News</em>
 - **2026-05-27 23:40** · <a href="202605/27c1-j.htm" target="_blank"><strong>「A 4 CSEL」で地盤の締固め品質管理手法「Geo-DX Compaction」を自動運転</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-05-25 23:34** · <a href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical" target="_blank"><strong>May 25, 2026 Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</strong></a> — <em>Anthropic News</em>
-- **2026-05-22 16:00** · <a href="https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models" target="_blank"><strong>Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models</strong></a> — <em>NVIDIA Technical Blog</em>
-  - High‑quality 3D medical imaging data is the foundation of modern radiology AI, but access to it is often constrained by data scarcity, privacy restrictions,...
-- **2026-05-21 23:19** · <a href="202605/21a1-j.htm" target="_blank"><strong>名古屋市中区栄エリアにオフィスビル「栄トリッドスクエア」が竣工</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-05-21 18:00** · <a href="https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters" target="_blank"><strong>Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Maximizing the value of AI infrastructure demands deep visibility into GPU utilization. Yet many platform teams running AI workloads on Kubernetes operate with.
