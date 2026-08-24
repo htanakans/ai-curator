@@ -1,5 +1,14 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-24 22:46** · <a href="https://mistral.ai/news/mistral-x-humain" target="_blank"><strong>Mistral x HUMAIN</strong></a> — <em>Mistral AI News</em>
+- **2026-08-24 15:08** · <a href="https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules" target="_blank"><strong>Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The massive growth of generative AI has fundamentally altered data center design. As distributed model training scales to span hundreds of thousands of GPUs,...
+- **2026-08-24 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt" target="_blank"><strong>NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI agents have expanded inference from single-turn interactions into multi-step workflows that reason, invoke tools, coordinate subagents, and carry growing...
+- **2026-08-24 15:00** · <a href="https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories" target="_blank"><strong>NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Traditional cloud infrastructure was designed for predictable, general-purpose workloads and standard interfaces. Agentic AI factories connect diverse users,...
+- **2026-08-24 15:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin" target="_blank"><strong>How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA Groq 3 LPX is the interactive AI inference accelerator for the NVIDIA Vera Rubin platform. At the core of the platform is NVIDIA Vera Rubin NVL72, the...
 - **2026-08-21 16:21** · <a href="https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale" target="_blank"><strong>GPU-Accelerated Clustering for Financial Instruments at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
   - Use AdaptGrow, a GPU-accelerated matrix factorization algorithm, to turn rolling correlation and tail-dependence matrices into hard clusters, soft factor...
 - **2026-08-21 15:00** · <a href="https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps" target="_blank"><strong>Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -263,8 +272,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets" target="_blank"><strong>Solutions Empowering product development with an agentic workflow March 4, 2025 Mistral AI team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/accelerate-ai-native-industry" target="_blank"><strong>Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/2024-ft-hackathon" target="_blank"><strong>Company Mistral AI Fine-tuning Hackathon June 5, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/industry/public-sector" target="_blank"><strong>Public sector & government</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/customers/cma-cgm" target="_blank"><strong>CMA CGM</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://www.anthropic.com/news/series-h" target="_blank"><strong>May 28, 2026 Announcements Anthropic raises $65B in Series H funding at $965B post-money valuation</strong></a> — <em>Anthropic News</em>
-- **2026-05-28 23:45** · <a href="https://www.anthropic.com/news/claude-opus-4-8" target="_blank"><strong>Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</strong></a> — <em>Anthropic News</em>
-- **2026-05-27 23:40** · <a href="202605/27c1-j.htm" target="_blank"><strong>「A 4 CSEL」で地盤の締固め品質管理手法「Geo-DX Compaction」を自動運転</strong></a> — <em>鹿島建設 プレス</em>
