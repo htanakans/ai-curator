@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-25 22:47** · <a href="https://cohere.com/blog/state-of-sovereign-ai-adoption-2026" target="_blank"><strong>Read now</strong></a> — <em>Cohere Blog</em>
+- **2026-08-25 22:47** · <a href="https://cohere.com/blog/cohere-university-of-waterloo-announcement" target="_blank"><strong>Cohere and the University of Waterloo launch partnership to strengthen Canada’s AI talent pipeline</strong></a> — <em>Cohere Blog</em>
+- **2026-08-25 15:00** · <a href="https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access" target="_blank"><strong>CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access</strong></a> — <em>NVIDIA Technical Blog</em>
+  - For years, a Python developer who needed a GPU had two realistic choices: Learn NVIDIA CUDA C++ well enough to write an extension, set up a build toolchain, and
 - **2026-08-24 22:46** · <a href="https://mistral.ai/news/mistral-x-humain" target="_blank"><strong>Mistral x HUMAIN</strong></a> — <em>Mistral AI News</em>
 - **2026-08-24 15:08** · <a href="https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules" target="_blank"><strong>Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules</strong></a> — <em>NVIDIA Technical Blog</em>
   - The massive growth of generative AI has fundamentally altered data center design. As distributed model training scales to span hundreds of thousands of GPUs,...
@@ -269,6 +273,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/ai-now-summit-2026" target="_blank"><strong>AI Now Summit 2026</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/ai-for-citizens" target="_blank"><strong>Solutions Announcing AI for Citizens July 3, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/agents-api" target="_blank"><strong>Product Build AI agents with the Mistral Agents API May 27, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets" target="_blank"><strong>Solutions Empowering product development with an agentic workflow March 4, 2025 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/accelerate-ai-native-industry" target="_blank"><strong>Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/2024-ft-hackathon" target="_blank"><strong>Company Mistral AI Fine-tuning Hackathon June 5, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
