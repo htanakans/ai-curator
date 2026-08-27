@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-26 21:06** · <a href="https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure" target="_blank"><strong>NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI factories must support increasingly large models and more complex reasoning workloads. To keep up with the insatiable compute demands of AI workloads,...
 - **2026-08-25 22:47** · <a href="https://cohere.com/blog/state-of-sovereign-ai-adoption-2026" target="_blank"><strong>Read now</strong></a> — <em>Cohere Blog</em>
 - **2026-08-25 22:47** · <a href="https://cohere.com/blog/cohere-university-of-waterloo-announcement" target="_blank"><strong>Cohere and the University of Waterloo launch partnership to strengthen Canada’s AI talent pipeline</strong></a> — <em>Cohere Blog</em>
 - **2026-08-25 15:00** · <a href="https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access" target="_blank"><strong>CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -272,4 +274,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/all-new-le-chat" target="_blank"><strong>Product The all new le Chat: Your AI assistant for life and work February 6, 2025 Mistral AI Team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/ai-now-summit-2026" target="_blank"><strong>AI Now Summit 2026</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/ai-for-citizens" target="_blank"><strong>Solutions Announcing AI for Citizens July 3, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/agents-api" target="_blank"><strong>Product Build AI agents with the Mistral Agents API May 27, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
