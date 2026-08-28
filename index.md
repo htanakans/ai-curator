@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-28 06:09** · <a href="https://cohere.com/blog/parse" target="_blank"><strong>Introducing Parse: Enterprise document intelligence at scale A high-throughput vision parsing model with the strongest price-performance profile on the market. Aug 27, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-08-28 06:09** · <a href="https://cohere.com/blog/forward-deployed-engineers-capability-building" target="_blank"><strong>Why forward-deployed engineers should build capability, not dependency Aug 27, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-08-28 06:09** · <a href="https://cohere.com/blog/cohere-signs-eu-code-of-practice" target="_blank"><strong>Cohere signs EU Code of Practice on Transparency of AI-Generated Content Jul 31, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-08-28 06:09** · <a href="https://www.anthropic.com/news/expanding-support-for-scientists" target="_blank"><strong>Aug 27, 2026 Announcements Expanding our support for scientists</strong></a> — <em>Anthropic News</em>
 - **2026-08-26 21:06** · <a href="https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure" target="_blank"><strong>NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI factories must support increasingly large models and more complex reasoning workloads. To keep up with the insatiable compute demands of AI workloads,...
 - **2026-08-25 22:47** · <a href="https://cohere.com/blog/state-of-sovereign-ai-adoption-2026" target="_blank"><strong>Read now</strong></a> — <em>Cohere Blog</em>
@@ -270,7 +274,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/ki-fur-deutschland" target="_blank"><strong>Company Mistral AI - KI fテシr Deutschland November 19, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/introducing-physics-ai-at-mistral" target="_blank"><strong>Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 Mistral</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/debugging-memory-leak-in-vllm" target="_blank"><strong>Engineering Heaps do lie: debugging a memory leak in vLLM. January 21, 2026 By Mathis Felardos</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/batch-api" target="_blank"><strong>Product Mistral Batch API November 7, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/all-new-le-chat" target="_blank"><strong>Product The all new le Chat: Your AI assistant for life and work February 6, 2025 Mistral AI Team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/ai-now-summit-2026" target="_blank"><strong>AI Now Summit 2026</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/ai-for-citizens" target="_blank"><strong>Solutions Announcing AI for Citizens July 3, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
