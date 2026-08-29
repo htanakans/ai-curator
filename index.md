@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-08-29 03:45** · <a href="https://cohere.com/blog/generative-ai-for-business" target="_blank"><strong>Generative AI for business: Use cases, benefits, and adoption Aug 28, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-08-28 06:09** · <a href="https://cohere.com/blog/parse" target="_blank"><strong>Introducing Parse: Enterprise document intelligence at scale A high-throughput vision parsing model with the strongest price-performance profile on the market. Aug 27, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-08-28 06:09** · <a href="https://cohere.com/blog/forward-deployed-engineers-capability-building" target="_blank"><strong>Why forward-deployed engineers should build capability, not dependency Aug 27, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-08-28 06:09** · <a href="https://cohere.com/blog/cohere-signs-eu-code-of-practice" target="_blank"><strong>Cohere signs EU Code of Practice on Transparency of AI-Generated Content Jul 31, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
@@ -273,4 +274,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/la-plateforme" target="_blank"><strong>Product La Plateforme December 11, 2023 Mistral AI team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/ki-fur-deutschland" target="_blank"><strong>Company Mistral AI - KI fテシr Deutschland November 19, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/introducing-physics-ai-at-mistral" target="_blank"><strong>Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 Mistral</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/debugging-memory-leak-in-vllm" target="_blank"><strong>Engineering Heaps do lie: debugging a memory leak in vLLM. January 21, 2026 By Mathis Felardos</strong></a> — <em>Mistral AI News</em>
