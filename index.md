@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-01 01:21** · <a href="https://www.anthropic.com/news/improving-alignment-security-efforts" target="_blank"><strong>Aug 31, 2026 Improving our alignment and security efforts</strong></a> — <em>Anthropic News</em>
+- **2026-08-31 16:30** · <a href="https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science" target="_blank"><strong>Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next.
 - **2026-08-29 03:45** · <a href="https://cohere.com/blog/generative-ai-for-business" target="_blank"><strong>Generative AI for business: Use cases, benefits, and adoption Aug 28, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-08-28 06:09** · <a href="https://cohere.com/blog/parse" target="_blank"><strong>Introducing Parse: Enterprise document intelligence at scale A high-throughput vision parsing model with the strongest price-performance profile on the market. Aug 27, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-08-28 06:09** · <a href="https://cohere.com/blog/forward-deployed-engineers-capability-building" target="_blank"><strong>Why forward-deployed engineers should build capability, not dependency Aug 27, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
@@ -272,5 +275,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/le-chat-enterprise" target="_blank"><strong>Product Introducing Le Chat Enterprise May 7, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/le-chat-dives-deep" target="_blank"><strong>Product Le Chat dives deep. July 17, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/la-plateforme" target="_blank"><strong>Product La Plateforme December 11, 2023 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/ki-fur-deutschland" target="_blank"><strong>Company Mistral AI - KI fテシr Deutschland November 19, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/introducing-physics-ai-at-mistral" target="_blank"><strong>Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 Mistral</strong></a> — <em>Mistral AI News</em>
