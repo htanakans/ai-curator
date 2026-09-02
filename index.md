@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-02 00:17** · <a href="https://www.anthropic.com/news/enterprise-frontier-safeguards" target="_blank"><strong>Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers</strong></a> — <em>Anthropic News</em>
+- **2026-09-01 17:00** · <a href="https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron" target="_blank"><strong>Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to.
+- **2026-09-01 15:00** · <a href="https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending" target="_blank"><strong>How to Size GPUs for AI Inference and TCO Without Overspending</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently..
 - **2026-09-01 01:21** · <a href="https://www.anthropic.com/news/improving-alignment-security-efforts" target="_blank"><strong>Aug 31, 2026 Improving our alignment and security efforts</strong></a> — <em>Anthropic News</em>
 - **2026-08-31 16:30** · <a href="https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science" target="_blank"><strong>Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next.
@@ -272,6 +277,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/memory" target="_blank"><strong>Product Make Memory work for you. September 2, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/llm-as-rag-judge" target="_blank"><strong>Solutions Evaluating RAG with LLM as a Judge April 9, 2025 Mistral AI Team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/le-chat-mistral" target="_blank"><strong>Product Le Chat February 26, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/le-chat-enterprise" target="_blank"><strong>Product Introducing Le Chat Enterprise May 7, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/le-chat-dives-deep" target="_blank"><strong>Product Le Chat dives deep. July 17, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/la-plateforme" target="_blank"><strong>Product La Plateforme December 11, 2023 Mistral AI team</strong></a> — <em>Mistral AI News</em>
