@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-03 00:18** · <a href="https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises" target="_blank"><strong>How small AI models can make a big impact for enterprises Sep 02, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-09-02 17:15** · <a href="https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough" target="_blank"><strong>The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...
 - **2026-09-02 00:17** · <a href="https://www.anthropic.com/news/enterprise-frontier-safeguards" target="_blank"><strong>Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers</strong></a> — <em>Anthropic News</em>
 - **2026-09-01 17:00** · <a href="https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron" target="_blank"><strong>Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to.
@@ -275,5 +278,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-afp" target="_blank"><strong>Product Purr-fectly informed January 16, 2025 Mistral AI team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-3" target="_blank"><strong>Mistral 3</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/memory" target="_blank"><strong>Product Make Memory work for you. September 2, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/llm-as-rag-judge" target="_blank"><strong>Solutions Evaluating RAG with LLM as a Judge April 9, 2025 Mistral AI Team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/le-chat-mistral" target="_blank"><strong>Product Le Chat February 26, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
