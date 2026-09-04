@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-04 00:08** · <a href="https://cohere.com/blog/automations-early-footprint" target="_blank"><strong>Automation’s Early Footprint Where AI Agents Are (and Aren’t) Being Built Sep 03, 2026 13 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-09-03 22:36** · <a href="https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms" target="_blank"><strong>How to Carry User Identity Across Federated Kubernetes and AI Platforms</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook
 - **2026-09-03 00:18** · <a href="https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises" target="_blank"><strong>How small AI models can make a big impact for enterprises Sep 02, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-02 17:15** · <a href="https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough" target="_blank"><strong>The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing...
@@ -276,5 +279,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai" target="_blank"><strong>Company Mistral AI raises 1.7B竄ャ to accelerate technological progress with AI September 9, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models" target="_blank"><strong>Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-afp" target="_blank"><strong>Product Purr-fectly informed January 16, 2025 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-3" target="_blank"><strong>Mistral 3</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/memory" target="_blank"><strong>Product Make Memory work for you. September 2, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
