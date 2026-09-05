@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-04 18:04** · <a href="https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw" target="_blank"><strong>Building a Memory-Driven Agent with NVIDIA NemoClaw</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Enterprise work spans messages, decisions, projects, and obligations that change over time. An AI agent that starts without this context must reconstruct it...
+- **2026-09-04 16:21** · <a href="https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson" target="_blank"><strong>Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Running reasoning and agentic AI at the edge has been harder than it needs to be. Until recently, models capable of multi-step reasoning were too large to run..
 - **2026-09-04 00:08** · <a href="https://cohere.com/blog/automations-early-footprint" target="_blank"><strong>Automation’s Early Footprint Where AI Agents Are (and Aren’t) Being Built Sep 03, 2026 13 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-03 22:36** · <a href="https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms" target="_blank"><strong>How to Carry User Identity Across Federated Kubernetes and AI Platforms</strong></a> — <em>NVIDIA Technical Blog</em>
   - Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook
@@ -277,5 +281,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-code" target="_blank"><strong>Product Introducing Mistral Code June 4, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-chat" target="_blank"><strong>Product Mistral has entered the chat November 18, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai" target="_blank"><strong>Company Mistral AI raises 1.7B竄ャ to accelerate technological progress with AI September 9, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models" target="_blank"><strong>Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-afp" target="_blank"><strong>Product Purr-fectly informed January 16, 2025 Mistral AI team</strong></a> — <em>Mistral AI News</em>
