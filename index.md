@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-09 00:18** · <a href="https://cohere.com/blog/megakernels" target="_blank"><strong>Inside the megakernel serving engine for North Mini Code A technical deep dive into how Cohere’s approach to megakernels delivers 1.58x faster LLM serving on H100 devices. Sep 08, 2026 22 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-09-09 00:18** · <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier" target="_blank"><strong>Mistral raises 竄ャ3B to make sovereign, open-weight AI the technology frontier</strong></a> — <em>Mistral AI News</em>
+- **2026-09-08 12:00** · <a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels" target="_blank"><strong>Introducing CUDA Rust: Two Tracks for Writing GPU Kernels</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and...
 - **2026-09-04 18:04** · <a href="https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw" target="_blank"><strong>Building a Memory-Driven Agent with NVIDIA NemoClaw</strong></a> — <em>NVIDIA Technical Blog</em>
   - Enterprise work spans messages, decisions, projects, and obligations that change over time. An AI agent that starts without this context must reconstruct it...
 - **2026-09-04 16:21** · <a href="https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson" target="_blank"><strong>Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -278,6 +282,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont" target="_blank"><strong>Solutions Rails testing on autopilot: Building an agent that writes what developers won't March 11, 2026 By Maxime Langelier & Mathis Grosmaitre - Applied AI - Proto team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-small-4" target="_blank"><strong>Mistral Small 4</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-compute" target="_blank"><strong>Company Mistral Compute June 11, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-code" target="_blank"><strong>Product Introducing Mistral Code June 4, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-chat" target="_blank"><strong>Product Mistral has entered the chat November 18, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai" target="_blank"><strong>Company Mistral AI raises 1.7B竄ャ to accelerate technological progress with AI September 9, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
