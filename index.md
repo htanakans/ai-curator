@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-10 00:17** · <a href="https://cohere.com/ai-for-empowerment" target="_blank"><strong>Explore now</strong></a> — <em>Cohere Blog</em>
+- **2026-09-10 00:17** · <a href="https://mistral.ai/news/legacy-code-modernization" target="_blank"><strong>Modernizing complex legacy code with AI agents.</strong></a> — <em>Mistral AI News</em>
 - **2026-09-09 00:18** · <a href="https://cohere.com/blog/megakernels" target="_blank"><strong>Inside the megakernel serving engine for North Mini Code A technical deep dive into how Cohere’s approach to megakernels delivers 1.58x faster LLM serving on H100 devices. Sep 08, 2026 22 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-09 00:18** · <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier" target="_blank"><strong>Mistral raises 竄ャ3B to make sovereign, open-weight AI the technology frontier</strong></a> — <em>Mistral AI News</em>
 - **2026-09-08 12:00** · <a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels" target="_blank"><strong>Introducing CUDA Rust: Two Tracks for Writing GPU Kernels</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -280,5 +282,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/spaces" target="_blank"><strong>Engineering Spaces: A CLI Built for Humans and Agents March 31, 2026 Mistral AI</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/september-24-release" target="_blank"><strong>Product AI in abundance September 17, 2024 Mistral AI team</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont" target="_blank"><strong>Solutions Rails testing on autopilot: Building an agent that writes what developers won't March 11, 2026 By Maxime Langelier & Mathis Grosmaitre - Applied AI - Proto team</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-small-4" target="_blank"><strong>Mistral Small 4</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/mistral-compute" target="_blank"><strong>Company Mistral Compute June 11, 2025 Mistral AI</strong></a> — <em>Mistral AI News</em>
