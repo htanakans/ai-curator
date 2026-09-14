@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-14 00:15** · <a href="https://renue.co.jp/posts/kensetsu-it-guide-drawing-agent-cleanup" target="_blank"><strong>2026.09.13 「建設ITガイド」にDrawing Agentの「図面クリーンアップ」機能が掲載されました 「建設ITガイドWEB」の新製品ニュースで、Drawing Agentの「図面クリーンアップ」機能をご紹介いただきました。</strong></a> — <em>renue ニュース</em>
+- **2026-09-14 00:14** · <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai" target="_blank"><strong>Who Gets to Define the Rules for AI? AI Needs Evidenced Standards, Not A Cartel Sep 13, 2026 15 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-11 00:12** · <a href="https://cohere.com/north-small-translate" target="_blank"><strong>North Small Translate NEW Machine translation model</strong></a> — <em>Cohere Blog</em>
 - **2026-09-11 00:12** · <a href="https://cohere.com/blog/north-small-translate" target="_blank"><strong>Introducing North Small Translate: A leading sovereign open-weight machine translation model Outsized performance, right-sized footprint — translation built for speed and cost efficiency. Sep 10, 2026 4 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-11 00:12** · <a href="https://www.anthropic.com/threat-intelligence-report-september-2026" target="_blank"><strong>Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.</strong></a> — <em>Anthropic News</em>
@@ -280,5 +282,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/document-ai" target="_blank"><strong>Document intelligence</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/custom-model-training" target="_blank"><strong>Model customization</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/coding" target="_blank"><strong>Coding</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/voxtral-tts" target="_blank"><strong>Voxtral TTS</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/news/vibe-agent" target="_blank"><strong>Vibe gets to work.</strong></a> — <em>Mistral AI News</em>
