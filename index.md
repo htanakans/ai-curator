@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-14 16:39** · <a href="https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine" target="_blank"><strong>Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE..
 - **2026-09-14 00:15** · <a href="https://renue.co.jp/posts/kensetsu-it-guide-drawing-agent-cleanup" target="_blank"><strong>2026.09.13 「建設ITガイド」にDrawing Agentの「図面クリーンアップ」機能が掲載されました 「建設ITガイドWEB」の新製品ニュースで、Drawing Agentの「図面クリーンアップ」機能をご紹介いただきました。</strong></a> — <em>renue ニュース</em>
 - **2026-09-14 00:14** · <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai" target="_blank"><strong>Who Gets to Define the Rules for AI? AI Needs Evidenced Standards, Not A Cartel Sep 13, 2026 15 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-11 00:12** · <a href="https://cohere.com/north-small-translate" target="_blank"><strong>North Small Translate NEW Machine translation model</strong></a> — <em>Cohere Blog</em>
@@ -281,4 +283,3 @@
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/speech" target="_blank"><strong>Speech</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/document-ai" target="_blank"><strong>Document intelligence</strong></a> — <em>Mistral AI News</em>
 - **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/custom-model-training" target="_blank"><strong>Model customization</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/coding" target="_blank"><strong>Coding</strong></a> — <em>Mistral AI News</em>
