@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-15 16:55** · <a href="https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories" target="_blank"><strong>How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
+  - For operators of large-scale AI factories, maximizing continuous output is essential for productivity. In massive-scale AI training, every GPU in the cluster...
+- **2026-09-15 16:55** · <a href="https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin" target="_blank"><strong>How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Power is a defining constraint for AI factories. As AI workloads demand a full compute platform to serve them, each component of that platform must maximize...
+- **2026-09-15 15:00** · <a href="https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare" target="_blank"><strong>Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Federated learning (FL) projects often begin with a straightforward setup: one server, a few clients, and one dataset at each site. As those projects grow, the.
 - **2026-09-14 16:39** · <a href="https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine" target="_blank"><strong>Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine</strong></a> — <em>NVIDIA Technical Blog</em>
   - Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE..
 - **2026-09-14 00:15** · <a href="https://renue.co.jp/posts/kensetsu-it-guide-drawing-agent-cleanup" target="_blank"><strong>2026.09.13 「建設ITガイド」にDrawing Agentの「図面クリーンアップ」機能が掲載されました 「建設ITガイドWEB」の新製品ニュースで、Drawing Agentの「図面クリーンアップ」機能をご紹介いただきました。</strong></a> — <em>renue ニュース</em>
@@ -280,6 +286,3 @@
 - **2026-05-29 00:07** · <a href="https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai" target="_blank"><strong>Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...
 - **2026-05-28 23:45** · <a href="202605/pdf/28a1-j.pdf" target="_blank"><strong>“みらいのはねだ”をHICityで体験!「空と緑のみらいフェス」開催決定</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/speech" target="_blank"><strong>Speech</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/document-ai" target="_blank"><strong>Document intelligence</strong></a> — <em>Mistral AI News</em>
-- **2026-05-28 23:45** · <a href="https://mistral.ai/solutions/custom-model-training" target="_blank"><strong>Model customization</strong></a> — <em>Mistral AI News</em>
