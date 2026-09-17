@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-17 00:35** · <a href="https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai" target="_blank"><strong>Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries Bringing together enterprise data, context, and secure AI to support agentic AI at scale Sep 16, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-09-17 00:35** · <a href="https://mistral.ai/news/mistral-x-mozilla" target="_blank"><strong>Mistral and Mozilla are bringing open, private and multilingual AI to your web browser</strong></a> — <em>Mistral AI News</em>
+- **2026-09-16 23:20** · <a href="https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation" target="_blank"><strong>How to Use AI Agents to Prepare 3D Scenes for Simulation</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in
+- **2026-09-16 20:37** · <a href="https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor" target="_blank"><strong>TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through.
+- **2026-09-16 16:28** · <a href="https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai" target="_blank"><strong>Translating CUDA Tile Operations from Python to Rust Using Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
+  - cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to.
 - **2026-09-15 16:55** · <a href="https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories" target="_blank"><strong>How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - For operators of large-scale AI factories, maximizing continuous output is essential for productivity. In massive-scale AI training, every GPU in the cluster...
 - **2026-09-15 16:55** · <a href="https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin" target="_blank"><strong>How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -278,11 +286,3 @@
 - **2026-06-01 03:36** · <a href="https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale" target="_blank"><strong>NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale...
 - **2026-05-29 23:44** · <a href="https://renue.co.jp/services/asset-management-ai" target="_blank"><strong>物品管理AI</strong></a> — <em>renue ニュース</em>
-- **2026-05-29 23:44** · <a href="202605/29a1-j.htm" target="_blank"><strong>木造と制震技術を融合させた「欄間制震システム」を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-05-29 22:31** · <a href="https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier" target="_blank"><strong>DynoSim: Simulating the Pareto Frontier</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Modern LLM serving is hard to tune because each deployment is a stack of interacting choices: model backend, tensor-parallel shape, prefill/decode split, worker
-- **2026-05-29 16:00** · <a href="https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit" target="_blank"><strong>How to Automate AI Model Documentation with the NVIDIA MCG Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including  California’s AB-2013 and the EU AI Act, software teams...
-- **2026-05-29 00:07** · <a href="https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai" target="_blank"><strong>Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...
-- **2026-05-28 23:45** · <a href="202605/pdf/28a1-j.pdf" target="_blank"><strong>“みらいのはねだ”をHICityで体験!「空と緑のみらいフェス」開催決定</strong></a> — <em>鹿島建設 プレス</em>
