@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-18 00:22** · <a href="https://www.anthropic.com/news/life-sciences-verification-program" target="_blank"><strong>Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program</strong></a> — <em>Anthropic News</em>
+- **2026-09-18 00:22** · <a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development" target="_blank"><strong>Sep 17, 2026 Measurements for understanding the pace of AI development inside frontier labs Today, the world can窶冲 see what窶冱 going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</strong></a> — <em>Anthropic News</em>
 - **2026-09-17 00:35** · <a href="https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai" target="_blank"><strong>Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries Bringing together enterprise data, context, and secure AI to support agentic AI at scale Sep 16, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-09-17 00:35** · <a href="https://mistral.ai/news/mistral-x-mozilla" target="_blank"><strong>Mistral and Mozilla are bringing open, private and multilingual AI to your web browser</strong></a> — <em>Mistral AI News</em>
 - **2026-09-16 23:20** · <a href="https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation" target="_blank"><strong>How to Use AI Agents to Prepare 3D Scenes for Simulation</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -283,6 +285,3 @@
   - The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...
 - **2026-06-01 03:59** · <a href="https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories" target="_blank"><strong>NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems....
-- **2026-06-01 03:36** · <a href="https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale" target="_blank"><strong>NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale...
-- **2026-05-29 23:44** · <a href="https://renue.co.jp/services/asset-management-ai" target="_blank"><strong>物品管理AI</strong></a> — <em>renue ニュース</em>
