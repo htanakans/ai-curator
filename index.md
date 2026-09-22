@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-21 21:51** · <a href="https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton" target="_blank"><strong>Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton</strong></a> — <em>NVIDIA Technical Blog</em>
+  - The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability...
 - **2026-09-19 00:24** · <a href="https://sakana.ai/frontier-intelligence-group" target="_blank"><strong>Frontier Intelligence Group</strong></a> — <em>Sakana AI News</em>
 - **2026-09-19 00:24** · <a href="https://www.anthropic.com/news/accenture-embedded-evaluation" target="_blank"><strong>Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation</strong></a> — <em>Anthropic News</em>
 - **2026-09-18 19:04** · <a href="https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf" target="_blank"><strong>Benchmarking LLM Inference at Scale with AIPerf</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -281,5 +283,3 @@
 - **2026-06-02 19:00** · <a href="https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia" target="_blank"><strong>Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with...
 - **2026-06-01 23:47** · <a href="https://www.anthropic.com/news/confidential-draft-s1-sec" target="_blank"><strong>Jun 1, 2026 Announcements Anthropic confidentially submits draft S-1 to the SEC</strong></a> — <em>Anthropic News</em>
-- **2026-06-01 22:00** · <a href="https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark" target="_blank"><strong>Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark</strong></a> — <em>NVIDIA Technical Blog</em>
-  - The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent.
