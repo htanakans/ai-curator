@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-24 15:00** · <a href="https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models" target="_blank"><strong>Efficient MoE Training for Biological Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding..
 - **2026-09-24 00:33** · <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank"><strong>Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats</strong></a> — <em>Anthropic News</em>
 - **2026-09-23 22:54** · <a href="https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning" target="_blank"><strong>Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning</strong></a> — <em>NVIDIA Technical Blog</em>
   - Radiology AI has made remarkable strides in detecting abnormalities across chest X-rays, pathology slides, and 2D scans. Yet one of the most clinically rich and
@@ -288,4 +290,3 @@
 - **2026-06-05 23:41** · <a href="https://cohere.com/blog/guide-to-mcp" target="_blank"><strong>What is Model Context Protocol? A practical guide to MCP May 28, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-05 23:41** · <a href="https://cohere.com/blog/enterprise-ai-maturity-model-pt2" target="_blank"><strong>The five phases of enterprise AI maturity, Part 2: Integrating AI and the AI-native enterprise May 13, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-05 23:41** · <a href="https://cohere.com/blog/enterprise-ai-maturity-model" target="_blank"><strong>Read article</strong></a> — <em>Cohere Blog</em>
-- **2026-06-05 23:41** · <a href="https://cohere.com/blog/cohere-releases-command-a-plus" target="_blank"><strong>Cohere Releases Command A+: An Open-Source Enterprise AI Model Built for Sovereign Critical Infrastructure May 20, 2026 3 min read</strong></a> — <em>Cohere Blog</em>
