@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-29 02:00** · <a href="https://www.anthropic.com/claude-sonnet-5-5" target="_blank"><strong>Introducing Claude Sonnet 5.5 Announcements Sep 28, 2026 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.</strong></a> — <em>Anthropic News</em>
+- **2026-09-29 02:00** · <a href="https://mistral.ai/news/hallo-deutschland" target="_blank"><strong>Hallo, Deutschland!</strong></a> — <em>Mistral AI News</em>
+- **2026-09-28 08:56** · <a href="https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring" target="_blank"><strong>NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</strong></a> — <em>NVIDIA Technical Blog</em>
+  - To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of...
+- **2026-09-28 08:55** · <a href="https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell" target="_blank"><strong>Add Runtime Controls to AI Agents with NVIDIA OpenShell</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that...
+- **2026-09-28 01:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency" target="_blank"><strong>How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a...
 - **2026-09-24 15:00** · <a href="https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models" target="_blank"><strong>Efficient MoE Training for Biological Foundation Models</strong></a> — <em>NVIDIA Technical Blog</em>
   - As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding..
 - **2026-09-24 00:33** · <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank"><strong>Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats</strong></a> — <em>Anthropic News</em>
@@ -285,8 +293,3 @@
   - Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...
 - **2026-06-06 23:19** · <a href="https://sakana.ai/rsi-lab" target="_blank"><strong>Recursive Self-Improvement Lab</strong></a> — <em>Sakana AI News</em>
 - **2026-06-05 23:41** · <a href="202606/5a1-j.htm" target="_blank"><strong>エッジコンピューティング技術で新築・既設建物の設備をスマート化</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-06-05 23:41** · <a href="https://cohere.com/blog/transcribe" target="_blank"><strong>Introducing Cohere Transcribe: a new state-of-the-art in open-source speech recognition Mar 26, 2026 3 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-05 23:41** · <a href="https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence" target="_blank"><strong>RWS and Cohere build top-performing AI language intelligence for the enterprise Jun 01, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-05 23:41** · <a href="https://cohere.com/blog/guide-to-mcp" target="_blank"><strong>What is Model Context Protocol? A practical guide to MCP May 28, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-05 23:41** · <a href="https://cohere.com/blog/enterprise-ai-maturity-model-pt2" target="_blank"><strong>The five phases of enterprise AI maturity, Part 2: Integrating AI and the AI-native enterprise May 13, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-05 23:41** · <a href="https://cohere.com/blog/enterprise-ai-maturity-model" target="_blank"><strong>Read article</strong></a> — <em>Cohere Blog</em>
