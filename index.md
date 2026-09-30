@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-09-30 01:20** · <a href="https://mistral.ai/products/ai-cloud" target="_blank"><strong>AI Cloud Frontier-scale infrastructure for training and inference.</strong></a> — <em>Mistral AI News</em>
+- **2026-09-29 19:10** · <a href="https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect" target="_blank"><strong>AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Parallel work, model-family isolation, reversible changes, and GPU-backed validation shaped an open source project designed around coding agents NVIDIA TensorRT
+- **2026-09-29 18:35** · <a href="https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3" target="_blank"><strong>Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability.
 - **2026-09-29 02:00** · <a href="https://www.anthropic.com/claude-sonnet-5-5" target="_blank"><strong>Introducing Claude Sonnet 5.5 Announcements Sep 28, 2026 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.</strong></a> — <em>Anthropic News</em>
 - **2026-09-29 02:00** · <a href="https://mistral.ai/news/hallo-deutschland" target="_blank"><strong>Hallo, Deutschland!</strong></a> — <em>Mistral AI News</em>
 - **2026-09-28 08:56** · <a href="https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring" target="_blank"><strong>NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -289,7 +294,3 @@
   - As AI infrastructure scales, enterprise expectations for operational maturity are increasing. Organizations expect these systems to be provisionable,...
 - **2026-06-09 15:00** · <a href="https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech" target="_blank"><strong>Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech</strong></a> — <em>NVIDIA Technical Blog</em>
   - Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,...
-- **2026-06-08 18:18** · <a href="https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell" target="_blank"><strong>Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...
-- **2026-06-06 23:19** · <a href="https://sakana.ai/rsi-lab" target="_blank"><strong>Recursive Self-Improvement Lab</strong></a> — <em>Sakana AI News</em>
-- **2026-06-05 23:41** · <a href="202606/5a1-j.htm" target="_blank"><strong>エッジコンピューティング技術で新築・既設建物の設備をスマート化</strong></a> — <em>鹿島建設 プレス</em>
