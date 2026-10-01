@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-01 01:20** · <a href="https://cohere.com/blog/rcp-ndcg" target="_blank"><strong>RCP-nDCG@10: A more complete way to measure retrieval relevance Our new standard for measuring enterprise retrieval quality, validated against human judgment. Sep 30, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-01 01:20** · <a href="https://cohere.com/blog/embed-5" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
+- **2026-09-30 19:13** · <a href="https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk" target="_blank"><strong>Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI infrastructure engineers, storage developers, and cloud service providers need fast and secure access to high-capacity file and object storage to support AI.
+- **2026-09-30 16:00** · <a href="https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay" target="_blank"><strong>Tracing Agent Harness Behavior with NVIDIA NeMo Relay</strong></a> — <em>NVIDIA Technical Blog</em>
+  - An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching.
 - **2026-09-30 01:20** · <a href="https://mistral.ai/products/ai-cloud" target="_blank"><strong>AI Cloud Frontier-scale infrastructure for training and inference.</strong></a> — <em>Mistral AI News</em>
 - **2026-09-29 19:10** · <a href="https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect" target="_blank"><strong>AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect</strong></a> — <em>NVIDIA Technical Blog</em>
   - Parallel work, model-family isolation, reversible changes, and GPU-backed validation shaped an open source project designed around coding agents NVIDIA TensorRT
@@ -288,9 +294,3 @@
   - Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This...
 - **2026-06-10 15:00** · <a href="https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories" target="_blank"><strong>Designing Production-Ready Battery Energy Storage Systems for AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI factories are changing what data-center infrastructure must do. Unlike traditional data centers, AI factories are built to manufacture intelligence at scale.
-- **2026-06-09 23:45** · <a href="https://cohere.com/blog/north-mini-code" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
-- **2026-06-09 23:45** · <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5" target="_blank"><strong>Claude Fable 5 and Claude Mythos 5 Announcements Jun 9, 2026 Our next generation of intelligence for the hardest knowledge work and coding problems.</strong></a> — <em>Anthropic News</em>
-- **2026-06-09 19:00** · <a href="https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability" target="_blank"><strong>Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI infrastructure scales, enterprise expectations for operational maturity are increasing. Organizations expect these systems to be provisionable,...
-- **2026-06-09 15:00** · <a href="https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech" target="_blank"><strong>Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,...
