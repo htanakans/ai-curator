@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-06 02:21** · <a href="https://cohere.com/blog/introducing-north-2" target="_blank"><strong>North 2: Enterprise AI without compromises</strong></a> — <em>Cohere Blog</em>
+- **2026-10-06 02:21** · <a href="https://cohere.com/blog/compass-cloud-beta" target="_blank"><strong>Compass is coming to the cloud Sep 25, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-06 02:21** · <a href="https://mistral.ai/use-cases" target="_blank"><strong>Sovereign AI in practice</strong></a> — <em>Mistral AI News</em>
+- **2026-10-06 02:21** · <a href="https://mistral.ai/sovereign-ai" target="_blank"><strong>Why Sovereign AI</strong></a> — <em>Mistral AI News</em>
+- **2026-10-06 02:21** · <a href="https://mistral.ai/our-method" target="_blank"><strong>Our method</strong></a> — <em>Mistral AI News</em>
+- **2026-10-06 02:21** · <a href="https://mistral.ai/industry/financial-services" target="_blank"><strong>Financial services</strong></a> — <em>Mistral AI News</em>
 - **2026-10-03 01:14** · <a href="https://www.anthropic.com/news/claude-frontier-academy" target="_blank"><strong>Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</strong></a> — <em>Anthropic News</em>
 - **2026-10-02 01:47** · <a href="https://sakana.ai/smbc-proposal-ai" target="_blank"><strong>Finance Apr 2026 Proposal generation for SMBC Group A jointly developed application in which multiple AI agents draft client proposals.</strong></a> — <em>Sakana AI News</em>
 - **2026-10-02 01:47** · <a href="https://sakana.ai/smart-cellular-bricks" target="_blank"><strong>Nature Communications FIG Smart Cellular Bricks Towards collective intelligence for the physical world.</strong></a> — <em>Sakana AI News</em>
@@ -281,10 +287,3 @@
   - Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In..
 - **2026-06-22 13:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai" target="_blank"><strong>Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI</strong></a> — <em>NVIDIA Technical Blog</em>
   - Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...
-- **2026-06-17 23:53** · <a href="https://renue.co.jp/services/genba-anzen" target="_blank"><strong>現場安全係長</strong></a> — <em>renue ニュース</em>
-- **2026-06-17 23:53** · <a href="202606/17c1-j.htm" target="_blank"><strong>山岳トンネル工事における安全性の高い遠隔爆薬装填法を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-06-17 23:53** · <a href="https://cohere.com/blog/authors/musa-talluzi" target="_blank"><strong>Musa Talluzi Member of Technical Staff</strong></a> — <em>Cohere Blog</em>
-- **2026-06-17 23:53** · <a href="https://cohere.com/blog/authors/manoj-govindassamy" target="_blank"><strong>Manoj Govindassamy Manager of Technical Staff</strong></a> — <em>Cohere Blog</em>
-- **2026-06-17 23:53** · <a href="https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem" target="_blank"><strong>Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</strong></a> — <em>Anthropic News</em>
-- **2026-06-16 17:00** · <a href="https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins" target="_blank"><strong>Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This
