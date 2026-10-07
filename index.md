@@ -1,5 +1,9 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-07 01:34** · <a href="https://cohere.com/blog/building-multilingual-bridges" target="_blank"><strong>Multilingual Bridges: How Data Mixing Unlocks In-Language Reasoning When a reasoning model gets an answer wrong, you’d read its reasoning to find out why. But what if that reasoning is in a language you don't speak? Oct 06, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-07 01:34** · <a href="https://www.anthropic.com/news/cyber-verification-program" target="_blank"><strong>Oct 6, 2026 Announcements Expanding the Cyber Verification Program</strong></a> — <em>Anthropic News</em>
+- **2026-10-06 16:13** · <a href="https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration" target="_blank"><strong>AICR v1.0: Open, stable, and verifiable GPU cluster configuration</strong></a> — <em>NVIDIA Technical Blog</em>
+  - GPU-accelerated Kubernetes clusters depend on compatible versions across dozens of components, each on its own release cycle: host kernels, GPU drivers,...
 - **2026-10-06 02:21** · <a href="https://cohere.com/blog/introducing-north-2" target="_blank"><strong>North 2: Enterprise AI without compromises</strong></a> — <em>Cohere Blog</em>
 - **2026-10-06 02:21** · <a href="https://cohere.com/blog/compass-cloud-beta" target="_blank"><strong>Compass is coming to the cloud Sep 25, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-06 02:21** · <a href="https://mistral.ai/use-cases" target="_blank"><strong>Sovereign AI in practice</strong></a> — <em>Mistral AI News</em>
@@ -281,9 +285,3 @@
   - Power can account for 40% of the operating expenses (OpEx) to run an AI factory. Each watt can be spent on overhead, data ingestion, training, or generating...
 - **2026-06-23 15:00** · <a href="https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding" target="_blank"><strong>Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
   - As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs.
-- **2026-06-23 13:30** · <a href="https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit" target="_blank"><strong>Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,
-- **2026-06-23 06:00** · <a href="https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai" target="_blank"><strong>How Telcos Build Autonomous Networks with Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In..
-- **2026-06-22 13:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai" target="_blank"><strong>Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...
