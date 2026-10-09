@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-09 02:12** · <a href="https://www.anthropic.com/news/genesis-mission-commitment" target="_blank"><strong>Oct 8, 2026 Announcements Building on our commitment to American scientific discovery</strong></a> — <em>Anthropic News</em>
+- **2026-10-09 02:12** · <a href="https://www.anthropic.com/news/anthropic-cyber-mission" target="_blank"><strong>Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission</strong></a> — <em>Anthropic News</em>
 - **2026-10-08 01:58** · <a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank"><strong>Introducing Claude Haiku 5.5 Announcements Oct 7, 2026 Our fastest, cheapest, and most capable small model yet. It窶冱 designed for high-volume, cost-sensitive work.</strong></a> — <em>Anthropic News</em>
 - **2026-10-07 16:00** · <a href="https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents" target="_blank"><strong>Validate AI Factory Changes with Digital Twins and AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI factories are some of the most complex operations in the world, combining GPUs, CPUs, switches, DPUs, and SuperNICs alongside schedulers, orchestration...
@@ -7,6 +9,8 @@
   - Supply chain problems are expanding across more SKUs, lanes, and constraints than ever before, while energy grids are balancing more distributed sources in real
 - **2026-10-07 01:34** · <a href="https://cohere.com/blog/building-multilingual-bridges" target="_blank"><strong>Multilingual Bridges: How Data Mixing Unlocks In-Language Reasoning When a reasoning model gets an answer wrong, you’d read its reasoning to find out why. But what if that reasoning is in a language you don't speak? Oct 06, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-07 01:34** · <a href="https://www.anthropic.com/news/cyber-verification-program" target="_blank"><strong>Oct 6, 2026 Announcements Expanding the Cyber Verification Program</strong></a> — <em>Anthropic News</em>
+- **2026-10-06 19:58** · <a href="https://developer.nvidia.com/blog/scale-bitwise-deterministic-pretraining-with-nvidia-megatron-core" target="_blank"><strong>Scale Bitwise-Deterministic Pretraining with NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Bitwise determinism makes large-scale pretraining easier to debug, validate, and resume reproducibly. These benefits become especially valuable when training...
 - **2026-10-06 16:13** · <a href="https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration" target="_blank"><strong>AICR v1.0: Open, stable, and verifiable GPU cluster configuration</strong></a> — <em>NVIDIA Technical Blog</em>
   - GPU-accelerated Kubernetes clusters depend on compatible versions across dozens of components, each on its own release cycle: host kernels, GPU drivers,...
 - **2026-10-06 02:21** · <a href="https://cohere.com/blog/introducing-north-2" target="_blank"><strong>North 2: Enterprise AI without compromises</strong></a> — <em>Cohere Blog</em>
@@ -282,6 +286,3 @@
   - AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI.
 - **2026-06-24 23:36** · <a href="https://mistral.ai/news/more-control-over-connectors" target="_blank"><strong>Bringing more control over your connectors</strong></a> — <em>Mistral AI News</em>
 - **2026-06-23 23:33** · <a href="202606/23c1-j.htm" target="_blank"><strong>シンガポールPUB(公益事業庁)の研究プログラムにおいて鹿島らの高さ調節が可能な「環境配慮型護岸」が採択</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-06-23 23:33** · <a href="https://cohere.com/blog/why-cultural-awareness-is-essential-for-global-ai" target="_blank"><strong>Why Cultural Awareness is Essential for Global AI How users are impacted around the world by AI窶冱 cultural gaps Jun 23, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-23 23:33** · <a href="https://cohere.com/blog/authors/marzieh-fadaee" target="_blank"><strong>Marzieh Fadaee Head of Cohere Labs</strong></a> — <em>Cohere Blog</em>
-- **2026-06-23 23:33** · <a href="https://www.anthropic.com/news/introducing-claude-tag" target="_blank"><strong>Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.</strong></a> — <em>Anthropic News</em>
