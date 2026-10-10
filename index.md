@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-10 01:48** · <a href="https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank" target="_blank"><strong>Shared or dedicated inference for Embed & Rerank Oct 09, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-10 01:48** · <a href="https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption" target="_blank"><strong>Cohere and PwC partner to accelerate secure enterprise AI adoption Oct 05, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-09 02:12** · <a href="https://www.anthropic.com/news/genesis-mission-commitment" target="_blank"><strong>Oct 8, 2026 Announcements Building on our commitment to American scientific discovery</strong></a> — <em>Anthropic News</em>
 - **2026-10-09 02:12** · <a href="https://www.anthropic.com/news/anthropic-cyber-mission" target="_blank"><strong>Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission</strong></a> — <em>Anthropic News</em>
 - **2026-10-08 01:58** · <a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank"><strong>Introducing Claude Haiku 5.5 Announcements Oct 7, 2026 Our fastest, cheapest, and most capable small model yet. It窶冱 designed for high-volume, cost-sensitive work.</strong></a> — <em>Anthropic News</em>
@@ -284,5 +286,3 @@
   - Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the..
 - **2026-06-25 16:38** · <a href="https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace" target="_blank"><strong>Q&amp;A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI.
-- **2026-06-24 23:36** · <a href="https://mistral.ai/news/more-control-over-connectors" target="_blank"><strong>Bringing more control over your connectors</strong></a> — <em>Mistral AI News</em>
-- **2026-06-23 23:33** · <a href="202606/23c1-j.htm" target="_blank"><strong>シンガポールPUB(公益事業庁)の研究プログラムにおいて鹿島らの高さ調節が可能な「環境配慮型護岸」が採択</strong></a> — <em>鹿島建設 プレス</em>
