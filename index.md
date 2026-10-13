@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-13 03:05** · <a href="https://renue.co.jp/services/ai-security" target="_blank"><strong>AI脆弱性診断支援</strong></a> — <em>renue ニュース</em>
+- **2026-10-12 16:00** · <a href="https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding" target="_blank"><strong>ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are.
 - **2026-10-10 01:48** · <a href="https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank" target="_blank"><strong>Shared or dedicated inference for Embed & Rerank Oct 09, 2026 7 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-10 01:48** · <a href="https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption" target="_blank"><strong>Cohere and PwC partner to accelerate secure enterprise AI adoption Oct 05, 2026 1 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-09 02:12** · <a href="https://www.anthropic.com/news/genesis-mission-commitment" target="_blank"><strong>Oct 8, 2026 Announcements Building on our commitment to American scientific discovery</strong></a> — <em>Anthropic News</em>
@@ -282,7 +285,3 @@
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-security-ai-agent-north-wiz" target="_blank"><strong>Creating a security agent with Cohere North and Wiz Learn how the Cohere team used North, Wiz, and a custom MCP server to automate incident response workflows Jun 25, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/automating-fork-maintenance-with-ai-agents" target="_blank"><strong>Automating fork maintenance with AI agents Jun 25, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/authors/donglu-wang" target="_blank"><strong>Donglu Wang Member of Technical Staff, Foundations</strong></a> — <em>Cohere Blog</em>
-- **2026-06-25 16:43** · <a href="https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support" target="_blank"><strong>Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the..
-- **2026-06-25 16:38** · <a href="https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace" target="_blank"><strong>Q&amp;A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI.
