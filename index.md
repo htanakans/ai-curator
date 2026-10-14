@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-14 01:16** · <a href="https://www.anthropic.com/legal/supported-regions" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
+- **2026-10-13 21:33** · <a href="https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents" target="_blank"><strong>How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...
+- **2026-10-13 14:19** · <a href="https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform" target="_blank"><strong>NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...
 - **2026-10-13 03:05** · <a href="https://renue.co.jp/services/ai-security" target="_blank"><strong>AI脆弱性診断支援</strong></a> — <em>renue ニュース</em>
 - **2026-10-12 16:00** · <a href="https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding" target="_blank"><strong>ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding</strong></a> — <em>NVIDIA Technical Blog</em>
   - Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are.
@@ -282,6 +287,3 @@
 - **2026-06-29 15:50** · <a href="https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories" target="_blank"><strong>How to Govern Autonomous Agents in Enterprise AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on
 - **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth" target="_blank"><strong>Cohere triples UK footprint with new London office to support R&D growth Jun 15, 2026 2 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-security-ai-agent-north-wiz" target="_blank"><strong>Creating a security agent with Cohere North and Wiz Learn how the Cohere team used North, Wiz, and a custom MCP server to automate incident response workflows Jun 25, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-25 23:48** · <a href="https://cohere.com/blog/automating-fork-maintenance-with-ai-agents" target="_blank"><strong>Automating fork maintenance with AI agents Jun 25, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-06-25 23:48** · <a href="https://cohere.com/blog/authors/donglu-wang" target="_blank"><strong>Donglu Wang Member of Technical Staff, Foundations</strong></a> — <em>Cohere Blog</em>
