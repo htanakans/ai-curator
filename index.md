@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-15 00:33** · <a href="https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents" target="_blank"><strong>Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost Teams of coding agents are already building large-scale software, but how should they be organized to work most effectively and efficiently? Oct 14, 2026 17 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-15 00:33** · <a href="https://www.anthropic.com/news/singapore-office-opening" target="_blank"><strong>Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore</strong></a> — <em>Anthropic News</em>
 - **2026-10-14 01:16** · <a href="https://www.anthropic.com/legal/supported-regions" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
 - **2026-10-13 21:33** · <a href="https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents" target="_blank"><strong>How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
   - Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...
@@ -284,6 +286,3 @@
 - **2026-06-30 17:36** · <a href="https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe" target="_blank"><strong>Designing GPU-Accelerated Query Engines with NVIDIA GQE</strong></a> — <em>NVIDIA Technical Blog</em>
   - GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...
 - **2026-06-29 23:18** · <a href="202606/29a1-j.htm" target="_blank"><strong>天井ボード取付ロボットと移動式天台を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-06-29 15:50** · <a href="https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories" target="_blank"><strong>How to Govern Autonomous Agents in Enterprise AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on
-- **2026-06-25 23:48** · <a href="https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth" target="_blank"><strong>Cohere triples UK footprint with new London office to support R&D growth Jun 15, 2026 2 min read</strong></a> — <em>Cohere Blog</em>
