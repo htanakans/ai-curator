@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-16 00:27** · <a href="https://cohere.com/blog/ai-roi" target="_blank"><strong>AI ROI: How enterprises can measure the return on AI investments Oct 15, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-16 00:27** · <a href="https://cohere.com/blog/agent-sprawl" target="_blank"><strong>Agent sprawl: How to manage agent proliferation in the enterprise Oct 15, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-16 00:27** · <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators" target="_blank"><strong>Oct 15, 2026 Announcements An update on independent evaluators</strong></a> — <em>Anthropic News</em>
+- **2026-10-15 18:00** · <a href="https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72" target="_blank"><strong>Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on...
 - **2026-10-15 00:33** · <a href="https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents" target="_blank"><strong>Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost Teams of coding agents are already building large-scale software, but how should they be organized to work most effectively and efficiently? Oct 14, 2026 17 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-15 00:33** · <a href="https://www.anthropic.com/news/singapore-office-opening" target="_blank"><strong>Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore</strong></a> — <em>Anthropic News</em>
 - **2026-10-14 01:16** · <a href="https://www.anthropic.com/legal/supported-regions" target="_blank"><strong>Availability</strong></a> — <em>Anthropic News</em>
@@ -281,8 +286,3 @@
 - **2026-07-01 17:04** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
   - Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer...
 - **2026-06-30 23:40** · <a href="202606/30c1-j.htm" target="_blank"><strong>製鉄副産物を原料としたコンクリート用CO 2 固定混和材の実用化に目途</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-06-30 23:40** · <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank"><strong>Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.</strong></a> — <em>Anthropic News</em>
-- **2026-06-30 23:40** · <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank"><strong>Jun 30, 2026 Announcements Claude Science, an AI workbench for scientists, is now available</strong></a> — <em>Anthropic News</em>
-- **2026-06-30 17:36** · <a href="https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe" target="_blank"><strong>Designing GPU-Accelerated Query Engines with NVIDIA GQE</strong></a> — <em>NVIDIA Technical Blog</em>
-  - GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...
-- **2026-06-29 23:18** · <a href="202606/29a1-j.htm" target="_blank"><strong>天井ボード取付ロボットと移動式天台を開発</strong></a> — <em>鹿島建設 プレス</em>
