@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-19 00:15** · <a href="https://renue.co.jp/posts/prtimes-82-fde-insourcing" target="_blank"><strong>2026.10.18 FDE内製化支援|顧客企業の社員がAIで社内用業務システムを自ら開発。数千万円規模の外部発注を社内で完結 ハーモニープラス株式会社へのFDE支援事例を公開。社員がAIで業務システムを自ら開発し、外部発注を社内で完結。</strong></a> — <em>renue ニュース</em>
+- **2026-10-19 00:15** · <a href="https://renue.co.jp/posts/prtimes-81-ai-security" target="_blank"><strong>2026.10.18 AIによる攻撃からシステムを守る「AI脆弱性診断支援サービス」を開始、コードの静的診断や現場常駐での脆弱性診断も提供|renue 人の手による確認だけでは追いつかないAIの攻撃に、AIを使った診断で支援します。</strong></a> — <em>renue ニュース</em>
+- **2026-10-19 00:15** · <a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank"><strong>Oct 18, 2026 Announcements Investing in the public benefit</strong></a> — <em>Anthropic News</em>
 - **2026-10-16 00:27** · <a href="https://cohere.com/blog/ai-roi" target="_blank"><strong>AI ROI: How enterprises can measure the return on AI investments Oct 15, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-16 00:27** · <a href="https://cohere.com/blog/agent-sprawl" target="_blank"><strong>Agent sprawl: How to manage agent proliferation in the enterprise Oct 15, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-16 00:27** · <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators" target="_blank"><strong>Oct 15, 2026 Announcements An update on independent evaluators</strong></a> — <em>Anthropic News</em>
@@ -282,7 +285,3 @@
 - **2026-07-02 21:25** · <a href="https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down" target="_blank"><strong>Hardware-Rooted AI Security That Won’t Slow You Down</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns...
 - **2026-07-01 23:45** · <a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank"><strong>Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.</strong></a> — <em>Anthropic News</em>
-- **2026-07-01 23:45** · <a href="https://mistral.ai/pricing/enterprise-deployments" target="_blank"><strong>For enterprises</strong></a> — <em>Mistral AI News</em>
-- **2026-07-01 17:04** · <a href="https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning" target="_blank"><strong>Mastering Agentic Techniques: AI Agent Reinforcement Learning</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer...
-- **2026-06-30 23:40** · <a href="202606/30c1-j.htm" target="_blank"><strong>製鉄副産物を原料としたコンクリート用CO 2 固定混和材の実用化に目途</strong></a> — <em>鹿島建設 プレス</em>
