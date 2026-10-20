@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-19 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile" target="_blank"><strong>Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...
 - **2026-10-19 00:15** · <a href="https://renue.co.jp/posts/prtimes-82-fde-insourcing" target="_blank"><strong>2026.10.18 FDE内製化支援|顧客企業の社員がAIで社内用業務システムを自ら開発。数千万円規模の外部発注を社内で完結 ハーモニープラス株式会社へのFDE支援事例を公開。社員がAIで業務システムを自ら開発し、外部発注を社内で完結。</strong></a> — <em>renue ニュース</em>
 - **2026-10-19 00:15** · <a href="https://renue.co.jp/posts/prtimes-81-ai-security" target="_blank"><strong>2026.10.18 AIによる攻撃からシステムを守る「AI脆弱性診断支援サービス」を開始、コードの静的診断や現場常駐での脆弱性診断も提供|renue 人の手による確認だけでは追いつかないAIの攻撃に、AIを使った診断で支援します。</strong></a> — <em>renue ニュース</em>
 - **2026-10-19 00:15** · <a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank"><strong>Oct 18, 2026 Announcements Investing in the public benefit</strong></a> — <em>Anthropic News</em>
@@ -284,4 +286,3 @@
 - **2026-07-03 23:20** · <a href="https://mistral.ai/news/leanstral-1-5" target="_blank"><strong>Leanstral 1.5: Proof Abundance for All</strong></a> — <em>Mistral AI News</em>
 - **2026-07-02 21:25** · <a href="https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down" target="_blank"><strong>Hardware-Rooted AI Security That Won’t Slow You Down</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns...
-- **2026-07-01 23:45** · <a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank"><strong>Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.</strong></a> — <em>Anthropic News</em>
