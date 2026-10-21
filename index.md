@@ -1,5 +1,20 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-21 00:39** · <a href="https://renue.co.jp/posts/japan-it-week-autumn-2026" target="_blank"><strong>2026.10.20 【出展のお知らせ】Japan IT Week 秋 2026に出展しています 2026年10月21日〜23日、幕張メッセで開催中のJapan IT Week 秋 2026に出展しています。ブース番号はA37-62です。</strong></a> — <em>renue ニュース</em>
+- **2026-10-21 00:39** · <a href="https://cohere.com/solutions/healthcare" target="_blank"><strong>Healthcare</strong></a> — <em>Cohere Blog</em>
+- **2026-10-21 00:39** · <a href="https://cohere.com/blog/rethinking-confidence-in-reasoning-models" target="_blank"><strong>Rethinking confidence in reasoning models Oct 20, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/press-kit" target="_blank"><strong>Download press kit</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/news/safeguards" target="_blank"><strong>Safeguards</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/news/product" target="_blank"><strong>Product</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/news/partnerships" target="_blank"><strong>Partnerships</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/news/distillation-defenses" target="_blank"><strong>Strengthening our defenses against distillation attacks</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/news/announcements" target="_blank"><strong>Announcements</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/institute/econ-scenarios" target="_blank"><strong>Scenarios for our economic future</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/features/project-deal" target="_blank"><strong>Project Deal: our Claude-run marketplace experiment</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/features/making-of-claude-code" target="_blank"><strong>The making of Claude Code</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/features/ebola-response" target="_blank"><strong>The Situation Report</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/features/claude-on-mars" target="_blank"><strong>Read more</strong></a> — <em>Anthropic News</em>
+- **2026-10-21 00:39** · <a href="https://www.anthropic.com/claude-fable-and-mythos-5-1" target="_blank"><strong>Introducing Claude Mythos and Fable 5.1</strong></a> — <em>Anthropic News</em>
 - **2026-10-19 17:00** · <a href="https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile" target="_blank"><strong>Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...
 - **2026-10-19 00:15** · <a href="https://renue.co.jp/posts/prtimes-82-fde-insourcing" target="_blank"><strong>2026.10.18 FDE内製化支援|顧客企業の社員がAIで社内用業務システムを自ら開発。数千万円規模の外部発注を社内で完結 ハーモニープラス株式会社へのFDE支援事例を公開。社員がAIで業務システムを自ら開発し、外部発注を社内で完結。</strong></a> — <em>renue ニュース</em>
@@ -267,22 +282,3 @@
 - **2026-07-09 23:39** · <a href="202607/pdf/9e1-j.pdf" target="_blank"><strong>熊本県の林業振興や地下水保全に向け、官民連携の協議会を設立</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-09 23:39** · <a href="https://www.anthropic.com/path-to-hope" target="_blank"><strong>Keep thinking</strong></a> — <em>Anthropic News</em>
 - **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/reflect-with-claude" target="_blank"><strong>Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude</strong></a> — <em>Anthropic News</em>
-- **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/hard-questions" target="_blank"><strong>Jul 9, 2026 Announcements Inviting hard questions</strong></a> — <em>Anthropic News</em>
-- **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/ben-bernanke" target="_blank"><strong>Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic窶冱 Long-Term Benefit Trust</strong></a> — <em>Anthropic News</em>
-- **2026-07-09 23:39** · <a href="https://mistral.ai/news/manage-prompts-and-skills-in-studio" target="_blank"><strong>Your Prompts and Skills need a system of record.</strong></a> — <em>Mistral AI News</em>
-- **2026-07-08 23:33** · <a href="202607/8a1-j.htm" target="_blank"><strong>CFT柱のコンクリート充填作業の異常検出をAIが支援</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-07-08 23:32** · <a href="https://mistral.ai/news/robostral-navigate" target="_blank"><strong>Introducing Robostral Navigate</strong></a> — <em>Mistral AI News</em>
-- **2026-07-08 15:00** · <a href="https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance" target="_blank"><strong>Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are.
-- **2026-07-07 23:17** · <a href="202607/7a1-j.htm" target="_blank"><strong>70年ぶりの新工法「型枠一本締め工法」の汎用性が向上</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-07-07 23:17** · <a href="https://cohere.com/blog/transcribe-arabic" target="_blank"><strong>Meet Cohere Transcribe Arabic The world’s most accurate open-source model for Arabic speech recognition. Jul 07, 2026 5 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-07-07 15:10** · <a href="https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads" target="_blank"><strong>NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...
-- **2026-07-06 23:35** · <a href="202607/6a1-j.htm" target="_blank"><strong>CUCO-SUICOMハーフプレキャスト床版を建築構造部材として国内初適用</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-07-06 23:34** · <a href="https://www.anthropic.com/news/alberta-government-claude-cybersecurity" target="_blank"><strong>Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</strong></a> — <em>Anthropic News</em>
-- **2026-07-06 21:44** · <a href="https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism" target="_blank"><strong>Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these
-- **2026-07-03 23:20** · <a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank"><strong>Jul 2, 2026 Announcements More details on Fable 5窶冱 cyber safeguards and our jailbreak framework</strong></a> — <em>Anthropic News</em>
-- **2026-07-03 23:20** · <a href="https://mistral.ai/news/leanstral-1-5" target="_blank"><strong>Leanstral 1.5: Proof Abundance for All</strong></a> — <em>Mistral AI News</em>
-- **2026-07-02 21:25** · <a href="https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down" target="_blank"><strong>Hardware-Rooted AI Security That Won’t Slow You Down</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns...
