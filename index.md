@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-22 00:44** · <a href="https://cohere.com/solutions/life-sciences" target="_blank"><strong>Life Sciences</strong></a> — <em>Cohere Blog</em>
+- **2026-10-22 00:44** · <a href="https://cohere.com/blog/rerank-5" target="_blank"><strong>Learn more</strong></a> — <em>Cohere Blog</em>
+- **2026-10-22 00:44** · <a href="https://www.anthropic.com/news/features" target="_blank"><strong>Features</strong></a> — <em>Anthropic News</em>
+- **2026-10-22 00:44** · <a href="https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust" target="_blank"><strong>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</strong></a> — <em>Anthropic News</em>
+- **2026-10-22 00:44** · <a href="https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering" target="_blank"><strong>Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral</strong></a> — <em>Mistral AI News</em>
+- **2026-10-21 09:50** · <a href="https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale" target="_blank"><strong>How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex...
 - **2026-10-21 00:39** · <a href="https://renue.co.jp/posts/japan-it-week-autumn-2026" target="_blank"><strong>2026.10.20 【出展のお知らせ】Japan IT Week 秋 2026に出展しています 2026年10月21日〜23日、幕張メッセで開催中のJapan IT Week 秋 2026に出展しています。ブース番号はA37-62です。</strong></a> — <em>renue ニュース</em>
 - **2026-10-21 00:39** · <a href="https://cohere.com/solutions/healthcare" target="_blank"><strong>Healthcare</strong></a> — <em>Cohere Blog</em>
 - **2026-10-21 00:39** · <a href="https://cohere.com/blog/rethinking-confidence-in-reasoning-models" target="_blank"><strong>Rethinking confidence in reasoning models Oct 20, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
@@ -273,12 +280,3 @@
 - **2026-07-10 23:15** · <a href="https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding" target="_blank"><strong>Hardware-aware dynamic speculative decoding Jul 10, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-10 23:15** · <a href="https://cohere.com/blog/authors/ekagra-ranjan" target="_blank"><strong>Ekagra Ranjan Member of Technical Staff, Foundations</strong></a> — <em>Cohere Blog</em>
 - **2026-07-10 23:15** · <a href="https://www.anthropic.com/news/ust-claude" target="_blank"><strong>Jul 9, 2026 Case Study UST is bringing Claude to physical AI</strong></a> — <em>Anthropic News</em>
-- **2026-07-10 18:17** · <a href="https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading" target="_blank"><strong>Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,.
-- **2026-07-10 16:36** · <a href="https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design" target="_blank"><strong>AI Model Co-Design: Hardware-Friendly LLM Design</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI performance comes down to three dimensions:  Accuracy: How well the model reasons and produces outputs Throughput: How many tokens per second a...
-- **2026-07-10 13:00** · <a href="https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit" target="_blank"><strong>Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein...
-- **2026-07-09 23:39** · <a href="202607/pdf/9e1-j.pdf" target="_blank"><strong>熊本県の林業振興や地下水保全に向け、官民連携の協議会を設立</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-07-09 23:39** · <a href="https://www.anthropic.com/path-to-hope" target="_blank"><strong>Keep thinking</strong></a> — <em>Anthropic News</em>
-- **2026-07-09 23:39** · <a href="https://www.anthropic.com/news/reflect-with-claude" target="_blank"><strong>Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude</strong></a> — <em>Anthropic News</em>
