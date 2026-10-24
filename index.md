@@ -1,5 +1,7 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-23 17:27** · <a href="https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1" target="_blank"><strong>Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For
 - **2026-10-23 00:43** · <a href="https://renue.co.jp/posts/headlight-taxi-ad-2026" target="_blank"><strong>2026.10.22 【放映のお知らせ】タクシー車内の情報番組『HEADLIGHT』でrenueの紹介動画と株式会社丸紅 紅林社長との対談動画を放映しました タクシー車内の情報番組『HEADLIGHT』でrenueの紹介動画3本を放映しました。丸紅 紅林社長との対談動画もご覧いただけます。</strong></a> — <em>renue ニュース</em>
 - **2026-10-23 00:43** · <a href="https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault" target="_blank"><strong>Introducing Confidential Computing on Cohere Model Vault Now in public beta with NVIDIA Confidential Computing with NVIDIA GPUs on Microsoft Azure, bringing hardware-backed protection and verifiable security to sensitive enterprise AI. Oct 22, 2026 4 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-23 00:43** · <a href="https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference" target="_blank"><strong>Inside Cohere Model Vault: Building a verifiable confidential AI inference How Model Vault combines confidential CPU and GPU execution, end-to-end encrypted request contents, and remote attestation to protect sensitive AI workloads while they are being processed. Oct 22, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
@@ -278,5 +280,3 @@
   - Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage...
 - **2026-07-15 23:15** · <a href="https://cohere.com/blog/the-total-cost-of-ai-ownership" target="_blank"><strong>The total cost of AI ownership Jul 15, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-15 23:15** · <a href="https://cohere.com/blog/authors/ariana-milligan" target="_blank"><strong>Ariana Milligan Product Marketing Manager</strong></a> — <em>Cohere Blog</em>
-- **2026-07-15 21:57** · <a href="https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents" target="_blank"><strong>Develop Lightweight USD Runtimes Faster with AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
-  - OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...
