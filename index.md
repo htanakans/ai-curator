@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-10-31 01:37** · <a href="https://renue.co.jp/posts/prtimes-84-construction-management-ai" target="_blank"><strong>2026.10.30 施工管理AI|建設現場の状況からAIが工期への影響を判定し工程表を組み直し 建設現場の実績や設計変更、協力会社の状況をもとに、工期・費用への影響判定と工程表の組み替えを支援する「施工管理AI」の提供を開始しました。</strong></a> — <em>renue ニュース</em>
+- **2026-10-30 21:35** · <a href="https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo" target="_blank"><strong>Build a Validated Kubernetes Runtime for NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...
+- **2026-10-30 20:33** · <a href="https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands" target="_blank"><strong>Run AI Models for Edge Application Development with Just a Few Commands</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,...
 - **2026-10-30 02:00** · <a href="https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai" target="_blank"><strong>Who Gets to Build the Frontier for AI Why the democratic world needs more frontier AI builders and how we intend to compete. Oct 29, 2026 11 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-10-29 15:00** · <a href="https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials" target="_blank"><strong>Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials</strong></a> — <em>NVIDIA Technical Blog</em>
   - Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These
@@ -272,9 +277,3 @@
 - **2026-07-24 23:18** · <a href="https://www.anthropic.com/news/claude-opus-5" target="_blank"><strong>Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</strong></a> — <em>Anthropic News</em>
 - **2026-07-23 16:07** · <a href="https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit" target="_blank"><strong>Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways.
-- **2026-07-23 16:00** · <a href="https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes" target="_blank"><strong>Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a..
-- **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72" target="_blank"><strong>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token
-- **2026-07-21 15:00** · <a href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai" target="_blank"><strong>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with..
