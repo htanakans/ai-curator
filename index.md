@@ -1,5 +1,13 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-02 23:39** · <a href="https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution" target="_blank"><strong>Diagnose Distributed AI Workload Failures with NVIDIA Attribution</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state.
+- **2026-11-02 22:43** · <a href="https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery" target="_blank"><strong>Keep Distributed Training Running with Automated Workload Recovery</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...
+- **2026-11-02 18:00** · <a href="https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one" target="_blank"><strong>Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,...
+- **2026-11-02 16:00** · <a href="https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map" target="_blank"><strong>Support New AI Frameworks Faster Using NVIDIA Workload Map</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,
 - **2026-10-31 01:37** · <a href="https://renue.co.jp/posts/prtimes-84-construction-management-ai" target="_blank"><strong>2026.10.30 施工管理AI|建設現場の状況からAIが工期への影響を判定し工程表を組み直し 建設現場の実績や設計変更、協力会社の状況をもとに、工期・費用への影響判定と工程表の組み替えを支援する「施工管理AI」の提供を開始しました。</strong></a> — <em>renue ニュース</em>
 - **2026-10-30 21:35** · <a href="https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo" target="_blank"><strong>Build a Validated Kubernetes Runtime for NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
   - Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...
@@ -270,10 +278,3 @@
 - **2026-07-27 23:22** · <a href="https://cohere.com/blog/introducing-north-automations-ai-workflows" target="_blank"><strong>Introducing North Automations: Intelligent workflow orchestration Jul 27, 2026 3 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-27 23:22** · <a href="https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai" target="_blank"><strong>A day in the life of a wealth manager, with and without AI Jul 27, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-07-27 23:22** · <a href="https://www.anthropic.com/news/position-open-weights-models" target="_blank"><strong>Jul 27, 2026 Announcements Our position on open-weights models</strong></a> — <em>Anthropic News</em>
-- **2026-07-27 09:00** · <a href="https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance" target="_blank"><strong>Six Agent Harness Capabilities for Higher Model Performance</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Building a great AI agent isn’t just about choosing the right models. The harness is the architecture surrounding the model. How it renders context, executes...
-- **2026-07-27 00:45** · <a href="https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing" target="_blank"><strong>Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have..
-- **2026-07-24 23:18** · <a href="https://www.anthropic.com/news/claude-opus-5" target="_blank"><strong>Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</strong></a> — <em>Anthropic News</em>
-- **2026-07-23 16:07** · <a href="https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit" target="_blank"><strong>Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways.
