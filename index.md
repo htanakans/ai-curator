@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-04 02:23** · <a href="https://www.kajima.co.jp/news/press" target="_blank"><strong>プレスリリース</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-11-04 02:23** · <a href="https://www.kajima.co.jp/news/digest" target="_blank"><strong>KAJIMA MONTHLY REPORT月報KAJIMA</strong></a> — <em>鹿島建設 プレス</em>
+- **2026-11-04 02:23** · <a href="https://cohere.com/blog/open-source-model-vault" target="_blank"><strong>The world's leading open models, fully under your control The right model for the right job, all under your jurisdiction. Nov 03, 2026 4 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-11-02 23:39** · <a href="https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution" target="_blank"><strong>Diagnose Distributed AI Workload Failures with NVIDIA Attribution</strong></a> — <em>NVIDIA Technical Blog</em>
   - In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state.
 - **2026-11-02 22:43** · <a href="https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery" target="_blank"><strong>Keep Distributed Training Running with Automated Workload Recovery</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -275,6 +278,3 @@
   - Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...
 - **2026-07-27 23:22** · <a href="https://www.ad-hzm.co.jp/lp/takiginou/2026" target="_blank"><strong>第45回明治神宮薪能へのご招待 今年で第45回を迎える明治神宮薪能開催のお知らせです。</strong></a> — <em>安藤ハザマ ニュース</em>
 - **2026-07-27 23:22** · <a href="https://cohere.com/blog/tiny-aya-in-the-wild" target="_blank"><strong>Tiny Aya in the wild: What people are building with open multilingual AI Jul 14, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-07-27 23:22** · <a href="https://cohere.com/blog/introducing-north-automations-ai-workflows" target="_blank"><strong>Introducing North Automations: Intelligent workflow orchestration Jul 27, 2026 3 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-07-27 23:22** · <a href="https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai" target="_blank"><strong>A day in the life of a wealth manager, with and without AI Jul 27, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-07-27 23:22** · <a href="https://www.anthropic.com/news/position-open-weights-models" target="_blank"><strong>Jul 27, 2026 Announcements Our position on open-weights models</strong></a> — <em>Anthropic News</em>
