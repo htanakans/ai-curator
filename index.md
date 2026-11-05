@@ -1,5 +1,12 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-05 02:31** · <a href="https://cohere.com/blog/embed-rerank-5-openrouter" target="_blank"><strong>Embed 5 and Rerank 5 now on OpenRouter Access Cohere’s state-of-the-art retrieval models through a single API, with unified billing and no additional SDKs. Nov 04, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
+- **2026-11-04 22:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations" target="_blank"><strong>How NVIDIA Uses AI Agents to Streamline AI Factory Operations</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards..
+- **2026-11-04 17:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues" target="_blank"><strong>How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues</strong></a> — <em>NVIDIA Technical Blog</em>
+  - A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...
+- **2026-11-04 16:00** · <a href="https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes" target="_blank"><strong>Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you
 - **2026-11-04 02:23** · <a href="https://www.kajima.co.jp/news/press" target="_blank"><strong>プレスリリース</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-11-04 02:23** · <a href="https://www.kajima.co.jp/news/digest" target="_blank"><strong>KAJIMA MONTHLY REPORT月報KAJIMA</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-11-04 02:23** · <a href="https://cohere.com/blog/open-source-model-vault" target="_blank"><strong>The world's leading open models, fully under your control The right model for the right job, all under your jurisdiction. Nov 03, 2026 4 min read</strong></a> — <em>Cohere Blog</em>
@@ -273,8 +280,3 @@
 - **2026-07-31 23:18** · <a href="202607/31e1-j.htm" target="_blank"><strong>建設現場の廃プラを活用した資源循環型の高耐久アスファルト舗装を開発</strong></a> — <em>鹿島建設 プレス</em>
 - **2026-07-31 22:16** · <a href="https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference" target="_blank"><strong>Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference</strong></a> — <em>NVIDIA Technical Blog</em>
   - As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because...
-- **2026-07-30 23:20** · <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals" target="_blank"><strong>Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations</strong></a> — <em>Anthropic News</em>
-- **2026-07-30 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure" target="_blank"><strong>NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...
-- **2026-07-27 23:22** · <a href="https://www.ad-hzm.co.jp/lp/takiginou/2026" target="_blank"><strong>第45回明治神宮薪能へのご招待 今年で第45回を迎える明治神宮薪能開催のお知らせです。</strong></a> — <em>安藤ハザマ ニュース</em>
-- **2026-07-27 23:22** · <a href="https://cohere.com/blog/tiny-aya-in-the-wild" target="_blank"><strong>Tiny Aya in the wild: What people are building with open multilingual AI Jul 14, 2026 9 min read</strong></a> — <em>Cohere Blog</em>
