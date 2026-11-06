@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-06 02:28** · <a href="https://mistral.ai/news/build-with-studio" target="_blank"><strong>Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral</strong></a> — <em>Mistral AI News</em>
+- **2026-11-05 16:00** · <a href="https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory" target="_blank"><strong>Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...
 - **2026-11-05 02:31** · <a href="https://cohere.com/blog/embed-rerank-5-openrouter" target="_blank"><strong>Embed 5 and Rerank 5 now on OpenRouter Access Cohere’s state-of-the-art retrieval models through a single API, with unified billing and no additional SDKs. Nov 04, 2026 6 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-11-04 22:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations" target="_blank"><strong>How NVIDIA Uses AI Agents to Streamline AI Factory Operations</strong></a> — <em>NVIDIA Technical Blog</em>
   - As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards..
@@ -277,6 +280,3 @@
   - A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...
 - **2026-08-03 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage" target="_blank"><strong>NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage</strong></a> — <em>NVIDIA Technical Blog</em>
   - Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...
-- **2026-07-31 23:18** · <a href="202607/31e1-j.htm" target="_blank"><strong>建設現場の廃プラを活用した資源循環型の高耐久アスファルト舗装を開発</strong></a> — <em>鹿島建設 プレス</em>
-- **2026-07-31 22:16** · <a href="https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference" target="_blank"><strong>Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because...
