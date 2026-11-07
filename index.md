@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-07 01:58** · <a href="https://renue.co.jp/posts/prtimes-85-drawing-skill" target="_blank"><strong>2026.11.06 Drawing Agentのアップデート機能「DRAWING SKILL」|2D図面からAIが3Dモデルを生成 Drawing Agentの新機能「DRAWING SKILL」をリリース。2D図面から3Dモデルを生成し、原図との照合や条件変更による再計算に対応します。</strong></a> — <em>renue ニュース</em>
+- **2026-11-06 18:03** · <a href="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective" target="_blank"><strong>Accelerating Reinforcement Learning Weight Refit with the Reshard Collective</strong></a> — <em>NVIDIA Technical Blog</em>
+  - During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For...
 - **2026-11-06 02:28** · <a href="https://mistral.ai/news/build-with-studio" target="_blank"><strong>Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral</strong></a> — <em>Mistral AI News</em>
 - **2026-11-05 16:00** · <a href="https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory" target="_blank"><strong>Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory</strong></a> — <em>NVIDIA Technical Blog</em>
   - In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...
@@ -276,7 +279,3 @@
   - Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI...
 - **2026-08-07 22:58** · <a href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards" target="_blank"><strong>Aug 7, 2026 Product Improving Fable 5's biology safeguards</strong></a> — <em>Anthropic News</em>
 - **2026-08-04 23:20** · <a href="https://mistral.ai/news/shieldstral" target="_blank"><strong>Introducing Shieldstral.</strong></a> — <em>Mistral AI News</em>
-- **2026-08-04 16:00** · <a href="https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation" target="_blank"><strong>Beyond VLAs: How World Action Models Reshape Robot Manipulation</strong></a> — <em>NVIDIA Technical Blog</em>
-  - A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...
-- **2026-08-03 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage" target="_blank"><strong>NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...
