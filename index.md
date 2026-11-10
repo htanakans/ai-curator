@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-10 04:09** · <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank"><strong>Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</strong></a> — <em>Anthropic News</em>
 - **2026-11-07 01:58** · <a href="https://renue.co.jp/posts/prtimes-85-drawing-skill" target="_blank"><strong>2026.11.06 Drawing Agentのアップデート機能「DRAWING SKILL」|2D図面からAIが3Dモデルを生成 Drawing Agentの新機能「DRAWING SKILL」をリリース。2D図面から3Dモデルを生成し、原図との照合や条件変更による再計算に対応します。</strong></a> — <em>renue ニュース</em>
 - **2026-11-06 18:03** · <a href="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective" target="_blank"><strong>Accelerating Reinforcement Learning Weight Refit with the Reshard Collective</strong></a> — <em>NVIDIA Technical Blog</em>
   - During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For...
@@ -278,4 +279,3 @@
 - **2026-08-10 13:27** · <a href="https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia" target="_blank"><strong>Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA</strong></a> — <em>NVIDIA Technical Blog</em>
   - Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI...
 - **2026-08-07 22:58** · <a href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards" target="_blank"><strong>Aug 7, 2026 Product Improving Fable 5's biology safeguards</strong></a> — <em>Anthropic News</em>
-- **2026-08-04 23:20** · <a href="https://mistral.ai/news/shieldstral" target="_blank"><strong>Introducing Shieldstral.</strong></a> — <em>Mistral AI News</em>
