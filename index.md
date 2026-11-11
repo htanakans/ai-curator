@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-11 01:58** · <a href="https://www.anthropic.com/news/roadshow-launch" target="_blank"><strong>Anthropic launches roadshow for proposed initial public offering</strong></a> — <em>Anthropic News</em>
+- **2026-11-10 16:00** · <a href="https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits" target="_blank"><strong>Running AV Reasoning Models Within Onboard Compute and Latency Limits</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide
+- **2026-11-10 15:00** · <a href="https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot" target="_blank"><strong>Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot</strong></a> — <em>NVIDIA Technical Blog</em>
+  - NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference...
 - **2026-11-10 04:09** · <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank"><strong>Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</strong></a> — <em>Anthropic News</em>
 - **2026-11-07 01:58** · <a href="https://renue.co.jp/posts/prtimes-85-drawing-skill" target="_blank"><strong>2026.11.06 Drawing Agentのアップデート機能「DRAWING SKILL」|2D図面からAIが3Dモデルを生成 Drawing Agentの新機能「DRAWING SKILL」をリリース。2D図面から3Dモデルを生成し、原図との照合や条件変更による再計算に対応します。</strong></a> — <em>renue ニュース</em>
 - **2026-11-06 18:03** · <a href="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective" target="_blank"><strong>Accelerating Reinforcement Learning Weight Refit with the Reshard Collective</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -274,8 +279,3 @@
 - **2026-08-12 16:13** · <a href="https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories" target="_blank"><strong>How to Choose Full-Stack Observability for NVIDIA AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...
 - **2026-08-11 23:05** · <a href="https://mistral.ai/news/regional-inference-open-models-new-compute" target="_blank"><strong>In-region inference, open models, and new European infrastructure for sovereign AI.</strong></a> — <em>Mistral AI News</em>
-- **2026-08-11 13:00** · <a href="https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard" target="_blank"><strong>Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one...
-- **2026-08-10 13:27** · <a href="https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia" target="_blank"><strong>Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI...
-- **2026-08-07 22:58** · <a href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards" target="_blank"><strong>Aug 7, 2026 Product Improving Fable 5's biology safeguards</strong></a> — <em>Anthropic News</em>
