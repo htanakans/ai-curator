@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-12 03:02** · <a href="https://renue.co.jp/posts/ai-expo-autumn-2026-makuhari" target="_blank"><strong>2026.11.11 AI・人工知能 EXPO【秋】に出展中|幕張メッセで11月13日まで開催 renueは11月11日〜13日、幕張メッセで開催中のAI・人工知能 EXPO【秋】に出展しています。図面・積算や現場業務へのAI活用をご紹介します。</strong></a> — <em>renue ニュース</em>
 - **2026-11-11 01:58** · <a href="https://www.anthropic.com/news/roadshow-launch" target="_blank"><strong>Anthropic launches roadshow for proposed initial public offering</strong></a> — <em>Anthropic News</em>
 - **2026-11-10 16:00** · <a href="https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits" target="_blank"><strong>Running AV Reasoning Models Within Onboard Compute and Latency Limits</strong></a> — <em>NVIDIA Technical Blog</em>
   - Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide
@@ -278,4 +279,3 @@
 - **2026-08-14 22:43** · <a href="https://www.anthropic.com/news/claude-text-watermark" target="_blank"><strong>Aug 14, 2026 Announcements How Claude窶冱 text watermark works</strong></a> — <em>Anthropic News</em>
 - **2026-08-12 16:13** · <a href="https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories" target="_blank"><strong>How to Choose Full-Stack Observability for NVIDIA AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...
-- **2026-08-11 23:05** · <a href="https://mistral.ai/news/regional-inference-open-models-new-compute" target="_blank"><strong>In-region inference, open models, and new European infrastructure for sovereign AI.</strong></a> — <em>Mistral AI News</em>
