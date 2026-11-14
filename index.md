@@ -1,5 +1,10 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-14 02:29** · <a href="https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic" target="_blank"><strong>Cohere Expands Its Sovereign AI Platform with AISLE and cubic</strong></a> — <em>Cohere Blog</em>
+- **2026-11-13 18:57** · <a href="https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla" target="_blank"><strong>Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA</strong></a> — <em>NVIDIA Technical Blog</em>
+  - AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...
+- **2026-11-13 17:00** · <a href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm" target="_blank"><strong>When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations...
 - **2026-11-12 03:02** · <a href="https://renue.co.jp/posts/ai-expo-autumn-2026-makuhari" target="_blank"><strong>2026.11.11 AI・人工知能 EXPO【秋】に出展中|幕張メッセで11月13日まで開催 renueは11月11日〜13日、幕張メッセで開催中のAI・人工知能 EXPO【秋】に出展しています。図面・積算や現場業務へのAI活用をご紹介します。</strong></a> — <em>renue ニュース</em>
 - **2026-11-11 01:58** · <a href="https://www.anthropic.com/news/roadshow-launch" target="_blank"><strong>Anthropic launches roadshow for proposed initial public offering</strong></a> — <em>Anthropic News</em>
 - **2026-11-10 16:00** · <a href="https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits" target="_blank"><strong>Running AV Reasoning Models Within Onboard Compute and Latency Limits</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -275,7 +280,3 @@
   - Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data..
 - **2026-08-19 16:00** · <a href="https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator" target="_blank"><strong>Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI agents are only as effective as the context they receive. Even with capable models and well-documented NVIDIA libraries, agents can spend extra steps finding
-- **2026-08-17 22:43** · <a href="https://cohere.com/north/mini-code" target="_blank"><strong>North Mini Code New Agentic coding model</strong></a> — <em>Cohere Blog</em>
-- **2026-08-14 22:43** · <a href="https://www.anthropic.com/news/claude-text-watermark" target="_blank"><strong>Aug 14, 2026 Announcements How Claude窶冱 text watermark works</strong></a> — <em>Anthropic News</em>
-- **2026-08-12 16:13** · <a href="https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories" target="_blank"><strong>How to Choose Full-Stack Observability for NVIDIA AI Factories</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...
