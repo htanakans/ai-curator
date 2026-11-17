@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-16 16:00** · <a href="https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain" target="_blank"><strong>Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents.
+- **2026-11-16 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0" target="_blank"><strong>NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool..
+- **2026-11-16 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1" target="_blank"><strong>NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1</strong></a> — <em>NVIDIA Technical Blog</em>
+  - As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf...
 - **2026-11-14 02:29** · <a href="https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic" target="_blank"><strong>Cohere Expands Its Sovereign AI Platform with AISLE and cubic</strong></a> — <em>Cohere Blog</em>
 - **2026-11-13 18:57** · <a href="https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla" target="_blank"><strong>Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA</strong></a> — <em>NVIDIA Technical Blog</em>
   - AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...
@@ -274,9 +280,3 @@
 - **2026-08-20 16:00** · <a href="https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale" target="_blank"><strong>How Generative Recommenders Are Redefining RecSys at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
   - Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and..
 - **2026-08-19 22:43** · <a href="https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data" target="_blank"><strong>The Culture Funnel: You can’t align what isn’t in the data Cohere Labs analyzed data from modern LLM training pipelines and found that cultural diversity is frequently lost in post-training data mixes. Aug 19, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
-- **2026-08-19 22:22** · <a href="https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents" target="_blank"><strong>Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents</strong></a> — <em>NVIDIA Technical Blog</em>
-  - NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a...
-- **2026-08-19 17:50** · <a href="https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare" target="_blank"><strong>Building Federated Multimodal AI Workflows with NVIDIA FLARE</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data..
-- **2026-08-19 16:00** · <a href="https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator" target="_blank"><strong>Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI agents are only as effective as the context they receive. Even with capable models and well-documented NVIDIA libraries, agents can spend extra steps finding
