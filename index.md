@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-18 03:45** · <a href="https://cohere.com/blog/crunchbase-in-north" target="_blank"><strong>Crunchbase in North: Private market signals for growth-stage companies Connect Crunchbase to North and access market data on over seven million company profiles, funding and M&A history, competitors, and growth signals across your North workflows. Nov 17, 2026 2 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-11-16 16:00** · <a href="https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain" target="_blank"><strong>Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents.
 - **2026-11-16 16:00** · <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0" target="_blank"><strong>NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -279,4 +280,3 @@
 - **2026-08-20 22:48** · <a href="https://cohere.com/north-mini-code" target="_blank"><strong>North Mini Code New Agentic coding model</strong></a> — <em>Cohere Blog</em>
 - **2026-08-20 16:00** · <a href="https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale" target="_blank"><strong>How Generative Recommenders Are Redefining RecSys at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
   - Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and..
-- **2026-08-19 22:43** · <a href="https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data" target="_blank"><strong>The Culture Funnel: You can’t align what isn’t in the data Cohere Labs analyzed data from modern LLM training pipelines and found that cultural diversity is frequently lost in post-training data mixes. Aug 19, 2026 8 min read</strong></a> — <em>Cohere Blog</em>
