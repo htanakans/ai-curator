@@ -1,5 +1,8 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-19 03:30** · <a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering" target="_blank"><strong>Anthropic prices initial public offering</strong></a> — <em>Anthropic News</em>
+- **2026-11-18 17:00** · <a href="https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos" target="_blank"><strong>Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos</strong></a> — <em>NVIDIA Technical Blog</em>
+  - World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...
 - **2026-11-18 03:45** · <a href="https://cohere.com/blog/crunchbase-in-north" target="_blank"><strong>Crunchbase in North: Private market signals for growth-stage companies Connect Crunchbase to North and access market data on over seven million company profiles, funding and M&A history, competitors, and growth signals across your North workflows. Nov 17, 2026 2 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-11-16 16:00** · <a href="https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain" target="_blank"><strong>Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain</strong></a> — <em>NVIDIA Technical Blog</em>
   - Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents.
@@ -277,6 +280,3 @@
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-8" target="_blank"><strong>2026.04.27 株式会社renue、Claude Codeをブラウザから対話的に利用できる「コードだもん」を公開 AIコーディングを、ターミナルからブラウザへ</strong></a> — <em>renue ニュース</em>
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-7" target="_blank"><strong>2026.05.19 renue、コードだもんUSBを開発</strong></a> — <em>renue ニュース</em>
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-6" target="_blank"><strong>2026.04.20 renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発 AIを「使ってもらう」から「業務の中核で働かせる」へ。全社員のAIエージェント日常利用を前提に、社内情報へ自然言語でアクセスする基盤を自社開発。</strong></a> — <em>renue ニュース</em>
-- **2026-08-20 22:48** · <a href="https://cohere.com/north-mini-code" target="_blank"><strong>North Mini Code New Agentic coding model</strong></a> — <em>Cohere Blog</em>
-- **2026-08-20 16:00** · <a href="https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale" target="_blank"><strong>How Generative Recommenders Are Redefining RecSys at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and..
