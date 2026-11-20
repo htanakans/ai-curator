@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-19 20:28** · <a href="https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo" target="_blank"><strong>Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate
+- **2026-11-19 17:00** · <a href="https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition" target="_blank"><strong>Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition</strong></a> — <em>NVIDIA Technical Blog</em>
+  - In science and industry, analyzing sensor measurements in real time can enable AI to adjust processes, guide experiments, and search for better operating...
+- **2026-11-19 16:30** · <a href="https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents" target="_blank"><strong>Build Tool-Calling Parsers in Rust with AI Agents</strong></a> — <em>NVIDIA Technical Blog</em>
+  - A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns that output, received
 - **2026-11-19 03:30** · <a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering" target="_blank"><strong>Anthropic prices initial public offering</strong></a> — <em>Anthropic News</em>
 - **2026-11-18 17:00** · <a href="https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos" target="_blank"><strong>Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos</strong></a> — <em>NVIDIA Technical Blog</em>
   - World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...
@@ -277,6 +283,3 @@
 - **2026-08-21 13:00** · <a href="https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents" target="_blank"><strong>NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents</strong></a> — <em>NVIDIA Technical Blog</em>
   - A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives...
 - **2026-08-20 22:48** · <a href="https://renue.co.jp/services/callcenter-ai" target="_blank"><strong>サポトレAI</strong></a> — <em>renue ニュース</em>
-- **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-8" target="_blank"><strong>2026.04.27 株式会社renue、Claude Codeをブラウザから対話的に利用できる「コードだもん」を公開 AIコーディングを、ターミナルからブラウザへ</strong></a> — <em>renue ニュース</em>
-- **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-7" target="_blank"><strong>2026.05.19 renue、コードだもんUSBを開発</strong></a> — <em>renue ニュース</em>
-- **2026-08-20 22:48** · <a href="https://renue.co.jp/posts/article-6" target="_blank"><strong>2026.04.20 renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発 AIを「使ってもらう」から「業務の中核で働かせる」へ。全社員のAIエージェント日常利用を前提に、社内情報へ自然言語でアクセスする基盤を自社開発。</strong></a> — <em>renue ニュース</em>
