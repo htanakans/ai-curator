@@ -1,5 +1,6 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-21 03:15** · <a href="https://www.anthropic.com/news/ipo-close" target="_blank"><strong>Anthropic announces closing of initial public offering, including full exercise of underwriters窶� option to purchase additional shares, and closing of concurrent private placement</strong></a> — <em>Anthropic News</em>
 - **2026-11-19 20:28** · <a href="https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo" target="_blank"><strong>Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
   - Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate
 - **2026-11-19 17:00** · <a href="https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition" target="_blank"><strong>Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -282,4 +283,3 @@
   - As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important..
 - **2026-08-21 13:00** · <a href="https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents" target="_blank"><strong>NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents</strong></a> — <em>NVIDIA Technical Blog</em>
   - A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives...
-- **2026-08-20 22:48** · <a href="https://renue.co.jp/services/callcenter-ai" target="_blank"><strong>サポトレAI</strong></a> — <em>renue ニュース</em>
