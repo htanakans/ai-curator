@@ -1,5 +1,11 @@
 # AI / 生成AI クリッピング（最新200件）
 
+- **2026-11-24 18:44** · <a href="https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers" target="_blank"><strong>How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world
+- **2026-11-24 17:00** · <a href="https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core" target="_blank"><strong>Prepare Market Data for Forecasting with NVIDIA Megatron Core</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microsecond. Preparing this data for AI-based market...
+- **2026-11-24 14:00** · <a href="https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5" target="_blank"><strong>Q&amp;A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5</strong></a> — <em>NVIDIA Technical Blog</em>
+  - Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more...
 - **2026-11-24 06:05** · <a href="https://cohere.com/blog/ai-readiness-assessment" target="_blank"><strong>AI readiness assessment: Is your enterprise prepared? Nov 23, 2026 10 min read</strong></a> — <em>Cohere Blog</em>
 - **2026-11-21 03:15** · <a href="https://www.anthropic.com/news/ipo-close" target="_blank"><strong>Anthropic announces closing of initial public offering, including full exercise of underwriters窶� option to purchase additional shares, and closing of concurrent private placement</strong></a> — <em>Anthropic News</em>
 - **2026-11-19 20:28** · <a href="https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo" target="_blank"><strong>Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo</strong></a> — <em>NVIDIA Technical Blog</em>
@@ -276,9 +282,3 @@
   - Traditional cloud infrastructure was designed for predictable, general-purpose workloads and standard interfaces. Agentic AI factories connect diverse users,...
 - **2026-08-24 15:00** · <a href="https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin" target="_blank"><strong>How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin</strong></a> — <em>NVIDIA Technical Blog</em>
   - NVIDIA Groq 3 LPX is the interactive AI inference accelerator for the NVIDIA Vera Rubin platform. At the core of the platform is NVIDIA Vera Rubin NVL72, the...
-- **2026-08-21 16:21** · <a href="https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale" target="_blank"><strong>GPU-Accelerated Clustering for Financial Instruments at Scale</strong></a> — <em>NVIDIA Technical Blog</em>
-  - Use AdaptGrow, a GPU-accelerated matrix factorization algorithm, to turn rolling correlation and tail-dependence matrices into hard clusters, soft factor...
-- **2026-08-21 15:00** · <a href="https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps" target="_blank"><strong>Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS</strong></a> — <em>NVIDIA Technical Blog</em>
-  - AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available...
-- **2026-08-21 13:00** · <a href="https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack" target="_blank"><strong>Where Security Fits in an AI Agent Stack</strong></a> — <em>NVIDIA Technical Blog</em>
-  - As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important..
